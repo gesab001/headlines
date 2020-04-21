@@ -6,8 +6,8 @@
 <atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
 <description>World News</description>
 <language>en-us</language>
-<pubDate>Tue, 21 Apr 2020 10:36:34 -0400</pubDate>
-<lastBuildDate>Tue, 21 Apr 2020 10:36:34 -0400</lastBuildDate>
+<pubDate>Tue, 21 Apr 2020 15:29:43 -0400</pubDate>
+<lastBuildDate>Tue, 21 Apr 2020 15:29:43 -0400</lastBuildDate>
 <copyright>Dow Jones &amp; Company, Inc.</copyright>
 <generator>http://online.wsj.com/page/2_0006.html</generator>
 <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
@@ -17,12 +17,42 @@
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
 </image>
 <item>
-<title>Companies Warn of Dire Disruptions From Coronavirus</title>
-<link>https://www.wsj.com/articles/coronavirus-latest-news-04-21-2020-11587459301</link>
-<description><![CDATA[The economic toll of the coronavirus pandemic mounted as companies warned of severe disruptions and collapsing demand tipped oil prices into negative territory.]]></description>
+<title>U.S. Watches North Korea Amid Questions About Leader's Health</title>
+<link>https://www.wsj.com/articles/u-s-watches-closely-amid-questions-about-north-korean-leaders-health-11587492806</link>
+<description><![CDATA[The White House is closely monitoring developments regarding the status of North Korean dictator Kim Jong Un, amid speculation that the leader has undergone medical care.]]></description>
 <content:encoded/>
-<pubDate>Tue, 21 Apr 2020 10:34:00 -0400</pubDate>
-<guid isPermaLink="false">SB11673302688168164370504586337010889310374</guid>
+<pubDate>Tue, 21 Apr 2020 14:13:00 -0400</pubDate>
+<guid isPermaLink="false">SB11673302688168164370504586337790777708316</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Asia News</wsj:articletype>
+</item>
+<item>
+<title>'The French Are Very Bad at Picking Asparagus.' Virus Imperils European Farming.</title>
+<link>https://www.wsj.com/articles/the-eu-and-its-farmers-depend-on-open-borders-coronavirus-upends-that-11587489550</link>
+<description><![CDATA[Covid-19 is raising questions about the viability of an economic system built on borderless migration and a single marketplace that matches labor supply with demand. Nowhere is that more apparent than in the sudden reordering of the bloc’s agricultural industry.]]></description>
+<content:encoded/>
+<pubDate>Tue, 21 Apr 2020 13:19:00 -0400</pubDate>
+<guid isPermaLink="false">SB11673302688168164370504586335531461884862</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Europe News</wsj:articletype>
+</item>
+<item>
+<title>Britain's Ancient Parliament Goes Virtual to Cope With Coronavirus</title>
+<link>https://www.wsj.com/articles/britains-ancient-parliament-goes-virtual-to-cope-with-coronavirus-11587479254</link>
+<description><![CDATA[Britain’s House of Commons, one of the world’s oldest elected assemblies, reopened its doors offering a taste of ancient democracy repurposed for the coronavirus age.]]></description>
+<content:encoded/>
+<pubDate>Tue, 21 Apr 2020 12:47:00 -0400</pubDate>
+<guid isPermaLink="false">SB11673302688168164370504586337463808254644</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>World News</wsj:articletype>
+</item>
+<item>
+<title>Israeli Unity Government Faces First Test: to Annex or Not to Annex</title>
+<link>https://www.wsj.com/articles/israeli-unity-government-faces-first-test-to-annex-or-not-to-annex-11587483794</link>
+<description><![CDATA[One issue looms large for Prime Minister Benjamin Netanyahu and opposition leader Benny Gantz’s shaky political union in Israel: forging ahead on pledges to begin annexing parts of the West Bank.]]></description>
+<content:encoded/>
+<pubDate>Tue, 21 Apr 2020 11:43:00 -0400</pubDate>
+<guid isPermaLink="false">SB11673302688168164370504586337590265224886</guid>
 <category domain="AccessClassName">PAID</category>
 <wsj:articletype>World News</wsj:articletype>
 </item>
@@ -55,26 +85,6 @@
 <guid isPermaLink="false">SB11673302688168164370504586336070947022678</guid>
 <category domain="AccessClassName">PAID</category>
 <wsj:articletype>China News</wsj:articletype>
-</item>
-<item>
-<title>The Critical Variable in Keeping Coronavirus in Check</title>
-<link>https://www.wsj.com/articles/the-critical-variable-in-keeping-coronavirus-in-check-11587411610</link>
-<description><![CDATA[Governments across Europe and in the U.S. say they have driven down a key coronavirus variable to levels that suggest lockdowns are containing the spread of the deadly virus.]]></description>
-<content:encoded/>
-<pubDate>Mon, 20 Apr 2020 16:19:00 -0400</pubDate>
-<guid isPermaLink="false">SB11673302688168164370504586335822400980108</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>World News</wsj:articletype>
-</item>
-<item>
-<title>Iran Begins Soft Reopening After Coronavirus Shutdowns</title>
-<link>https://www.wsj.com/articles/iran-begins-soft-reopening-after-coronavirus-shutdowns-11587408116</link>
-<description><![CDATA[Iran’s government allowed local bazaars and shopping malls to reopen on Monday, a potential milestone for a country that was one of the first outside of China to be hit by the new coronavirus.]]></description>
-<content:encoded/>
-<pubDate>Mon, 20 Apr 2020 15:25:00 -0400</pubDate>
-<guid isPermaLink="false">SB11673302688168164370504586335821445477188</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>Middle East News</wsj:articletype>
 </item>
 </channel>
 </rss>
