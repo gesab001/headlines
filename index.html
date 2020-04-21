@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <body>
-<form action="../cgi-bin/addnews.py" method="post">
+<!--<form action="../cgi-bin/addnews.py" method="post">
 <input type="text" name="keyword" placeholder="keyword"/>
 
 <input type="text" name="title" placeholder="title"/>
@@ -17,11 +17,11 @@
 <input type="text" name="keyword" placeholder="keyword"/>
 <input type="submit" value="delete"/>
 <br>
-</form>
+</form>-->
 <select id="selection" name="news" onchange="loadNews(this.value)"></select>
 
-<p>test</p>
-<!--<p id="dateUpdate"></p>-->
+<!--<p>test</p>-->
+<p id="dateUpdate"></p>
 <div id="demo"></div>
 
 <script>
@@ -84,9 +84,11 @@ function loadNews(news){
 
 
 function displayFeeds(xml) {
-	document.getElementById("demo").innerHTML = "its working again";
+
     var xmlDoc = xml.responseXML;
     var titles = xmlDoc.getElementsByTagName("title");
+	var lastBuildUpdate = xmlDoc.getElementsByTagName("lastBuildDate");
+	document.getElementById("dateUpdate").innerHTML = "last updated: " + lastBuildUpdate[0].childNodes[0].nodeValue;
     var text ="";
 	var title = "";
     for (var x=0; x<titles.length;x++){
