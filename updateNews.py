@@ -17,3 +17,5 @@ for news in rss:
 
 command = "./gitupdater.sh"
 subprocess.call(command, shell=True)
+command = "python3 updateDate.py"
+subprocess.call(command, shell=True)
