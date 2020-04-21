@@ -10,215 +10,231 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/science/unusual-chemical-composition-found-inside-alien-comet</guid>
-      <link>https://www.foxnews.com/science/unusual-chemical-composition-found-inside-alien-comet</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/tech/ups-droneup-test-drone-delivery-of-medical-supplies</guid>
+      <link>https://www.foxnews.com/tech/ups-droneup-test-drone-delivery-of-medical-supplies</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/12/hubble-comet-grab.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/hubble-comet-grab.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/DroneUp-Tom-Walker-CIT-Tracy-Tynan-2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/DroneUp-Tom-Walker-CIT-Tracy-Tynan-2.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/hubble-comet-grab.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">940488d4-2731-527c-b998-05a70f23ad90</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/science</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/science</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Unusual chemical composition found inside ‘alien comet’</title>
-      <description>Astronomers studying a rare interstellar comet hope to learn about its origins by learning more about its chemical composition.</description>
-                   <pubDate>Tue, 21 Apr 2020 08:26:09 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/today-on-fox-news-april-21-2020</guid>
-      <link>https://www.foxnews.com/media/today-on-fox-news-april-21-2020</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/04/fox-news-channel-logo.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/fox-news-channel-logo.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/fox-news-channel-logo.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">54a15acb-f4e4-5cf0-943d-69a457f3a7a9</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/media</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Today on Fox News: April 21, 2020</title>
-      <description />
-                   <pubDate>Tue, 21 Apr 2020 08:19:11 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/amid-coronavirus-pandemic-trump-says-he-will-sign-executive-order-temporarily-suspending-immigration-into-us</guid>
-      <link>https://www.foxnews.com/us/amid-coronavirus-pandemic-trump-says-he-will-sign-executive-order-temporarily-suspending-immigration-into-us</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/TrumpPodium042120.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/TrumpPodium042120.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/TrumpPodium042120.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">7bb9d1af-9341-5052-8828-1d24aed973ce</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/columns/fox-news-first</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Amid coronavirus pandemic, Trump says he will sign executive order temporarily suspending immigration into US</title>
-      <description />
-                   <pubDate>Tue, 21 Apr 2020 08:10:10 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/tech/coronavirus-how-to-grocery-shop-safely-online-and-in-person</guid>
-      <link>https://www.foxnews.com/tech/coronavirus-how-to-grocery-shop-safely-online-and-in-person</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Grocery-Store-1.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Grocery-Store-1.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Grocery-Store-1.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">22503b2e-14a1-5d38-8f80-8d99ecce8154</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/technologies/smartphones</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/computers</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/DroneUp-Tom-Walker-CIT-Tracy-Tynan-2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">59ef5626-45d0-5cac-a5a5-2718caf0ba27</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/virginia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/orthopedics/technology</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/technologies/drones</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/tech</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Coronavirus: How to grocery shop safely, online and in-person</title>
-      <description>A woman in North Carolina was infected with coronavirus, despite self-isolating for three weeks before she became sick. What happened? She says a woman who also tested positive dropped off groceries on her doorstep.</description>
-                  <dc:creator>Kim Komando</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 08:00:26 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">The Kim Komando Show</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Kim Komando</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/tom-brady-told-leave-florida-park-closed-covid-19-report</guid>
-      <link>https://www.foxnews.com/sports/tom-brady-told-leave-florida-park-closed-covid-19-report</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20112141611091.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20112141611091.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20112141611091.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">561fd0f7-09d8-56ed-8d6c-17be32612798</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/tom-brady</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/tampa-bay-buccaneers</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-england-patriots</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/florida</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Tom Brady told to leave Florida park closed by coronavirus: report</title>
-      <description>Future NFL Hall of Famer and now Tampa Bay Buccaneers quarterback Tom Brady was asked to leave a park in the city that had been closed to limit the spread of COVID-19, according to Mayor Jane Castor on Monday.</description>
-                  <dc:creator>David Aaro</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 07:24:34 GMT</pubDate>
+      <title>UPS and DroneUp team up to test drone delivery of medical supplies</title>
+      <description>UPS, DroneUp, Workhorse Group and the Virginia Center for Innovative Technology partnered to successfully simulate drone delivery of coronavirus medical supplies.</description>
+                  <dc:creator>Rebecca Kesten</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 14:14:34 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Rebecca Kesten</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/the-president-as-insurgent-why-trump-is-pushing-protests-in-democratic-states</guid>
-      <link>https://www.foxnews.com/media/the-president-as-insurgent-why-trump-is-pushing-protests-in-democratic-states</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/health/massachusetts-man-coronavirus-recovery-lung-injuries</guid>
+      <link>https://www.foxnews.com/health/massachusetts-man-coronavirus-recovery-lung-injuries</link>
                   <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c1ee8c8-7d34-48e4-904c-7b45aa17069b/2e857ffd-4fc0-4e5a-a99a-9b37ee1fb160/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/iStock-1046447804.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/iStock-1046447804.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">5dbabecb-ee46-5633-8ea6-8729f4914034</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/columns/media-buzz</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>The president as insurgent: Why Trump is pushing protests in Democratic states</title>
-      <description>It’s beginning to feel like a culture war, like a Tea Party-style backlash against big government.</description>
-                  <dc:creator>Howard Kurtz</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 07:08:45 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Howard Kurtz</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/teen-arrested-after-allegedly-hopping-fence-entering-closed-disneys-california-adventure-park</guid>
-      <link>https://www.foxnews.com/us/teen-arrested-after-allegedly-hopping-fence-entering-closed-disneys-california-adventure-park</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20078855550180.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20078855550180.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20078855550180.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">628a17a9-87ad-59d1-b03c-0dc7667f7054</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/iStock-1046447804.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">cbf59677-6828-5f81-901b-758775fccae9</category>
                   <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>California man allegedly hops fence, enters closed Disney's Adventure park</title>
-      <description>An 18-year-old man will face trespassing charges after he allegedly broke into Disney’s California Adventure Park on Sunday night, which was closed due to the coronavirus, reports said.</description>
-                  <dc:creator>Jack Durschlag</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 07:02:03 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Jack Durschlag</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/health/hospital-captured-delivers-bodies-pennsylvania-medical-examiner-open-pickup-truck</guid>
-      <link>https://www.foxnews.com/health/hospital-captured-delivers-bodies-pennsylvania-medical-examiner-open-pickup-truck</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20108721171240.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20108721171240.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20108721171240.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">9dc140f9-87f2-5b83-afbe-cadc4ff49a8f</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/pennsylvania</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/health</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Coronavirus: Hospital accused of delivering bodies to Pennsylvania medical examiner by pickup truck</title>
-      <description>A Pennsylvania hospital was seen using the open bed of a pickup truck to transport bodies in broad daylight Sunday afternoon amid the coronavirus pandemic, according to a report on Monday.</description>
-                  <dc:creator>David Aaro</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 06:31:33 GMT</pubDate>
+      <title>Massachusetts 'miracle man' overcomes coronavirus despite severe lung injuries</title>
+      <description>A Massachusetts man has recovered from the coronavirus despite severe, pre-existing lung injuries. Healthcare workers now call him a “miracle man.”</description>
+                  <dc:creator>Kayla Rivas</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 14:12:55 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Kayla Rivas</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/congress-300b-package-for-small-businesses-may-only-last-days-report</guid>
-      <link>https://www.foxnews.com/politics/congress-300b-package-for-small-businesses-may-only-last-days-report</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/bloombergs-2020-tab-1-billion-in-less-than-4-months</guid>
+      <link>https://www.foxnews.com/politics/bloombergs-2020-tab-1-billion-in-less-than-4-months</link>
                   <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4c98420-870c-4dfa-8ffb-a55b8ebb6060/0418d12c-cb3d-488f-9c01-f90540aca909/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfcda2f5-5572-4f07-9991-fa6d57d9f263/7f9bf4df-82e1-4146-8c17-026579676e67/1280x720/match/image.jpg" medium="image" isDefault="true" />
         <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
       </media:group>
       <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">e04a70a9-3529-58e8-bca1-c9fd61941ad9</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/politics</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/metadata/dc.identifier">16f052ba-5228-5813-8623-1b6185ba1ec6</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/presidential-primaries</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/fundraising</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/michael-bloomberg</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Congress’ $300B package for small businesses may only last days: report</title>
-      <description>Bank officials have reportedly warned that the $450 billion package to replenish the earlier small business emergency fund will likely have a burn rate of $50 billion per day and run out of money in just a few days.</description>
-                  <dc:creator>Edmund DeMarche</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 05:58:27 GMT</pubDate>
+      <title>Bloomberg’s 2020 tab: $1 billion in less than 4 months</title>
+      <description>Former New York City Mayor Mike Bloomberg ended up shelling out more than $1 billion of his own money on his brief and unsuccessful bid for the Democratic presidential nomination.</description>
+                  <dc:creator>Paul Steinhauser</dc:creator>
+            <dc:creator>Kelly Phares</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 14:11:59 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Paul Steinhauser</category>
+            <category domain="foxnews.com/metadata/dc.creator">Kelly Phares</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/health/chile-debut-immunity-passports-those-recovered-from-coronavirus-report</guid>
-      <link>https://www.foxnews.com/health/chile-debut-immunity-passports-those-recovered-from-coronavirus-report</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/99-year-old-georgia-woman-beats-coronavirus-after-17-day-battle</guid>
+      <link>https://www.foxnews.com/us/99-year-old-georgia-woman-beats-coronavirus-after-17-day-battle</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20111700703357.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20111700703357.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/99yr-old.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/99yr-old.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20111700703357.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">13479e8c-8724-543d-b904-a90eb7a32b7f</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/99yr-old.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6a62726d-a066-5e07-8c57-4b97687cdc8e</category>
                   <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/food-drink/recipes/cuisines/south-american</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/georgia</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>99-year-old Georgia woman beats coronavirus after 17-day battle</title>
+      <description>A Georgia hospital is celebrating a 99-year-old woman who won a 17-day battle with the coronavirus — and thanking her for being an inspiration.</description>
+                  <dc:creator>Robert Gearty</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 14:05:36 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Robert Gearty</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/college-freshman-selling-thank-you-lawn-signs-to-help-feed-frontline-workers-during-covid-19</guid>
+      <link>https://www.foxnews.com/media/college-freshman-selling-thank-you-lawn-signs-to-help-feed-frontline-workers-during-covid-19</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/LIAM.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/LIAM.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/LIAM.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2cad8a60-d773-5a6a-913d-abb9ef2acd00</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/fox-friends</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/america-together</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/charity</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-jersey</category>
+            <category domain="foxnews.com/taxonomy">fox-news/food-drink/food</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/education/college</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/education</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>College freshman selling 'thank you' lawn signs to help feed front-line workers during COVID-19</title>
+      <description>Georgetown University freshman Liam Marshall was going for a run and noticed that one of his neighbors had hung a large banner thanking local first responders for their efforts in the battle against coronavirus. </description>
+                  <dc:creator>Julia Musto</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 14:01:20 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Julia Musto</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/travel/pacific-princess-california-disembark-last-passengers</guid>
+      <link>https://www.foxnews.com/travel/pacific-princess-california-disembark-last-passengers</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/GettyImages-1220004691.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/GettyImages-1220004691.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/GettyImages-1220004691.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">fae98346-9564-5a78-9b88-9041d452994b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/lifestyle</category>
+            <category domain="foxnews.com/taxonomy">fox-news/travel</category>
+            <category domain="foxnews.com/taxonomy">fox-news/travel/general/cruises</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/travel</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Pacific Princess cruise ship docks in California to disembark last passengers</title>
+      <description>The cruise ship has been at sea since January 5.</description>
+                  <dc:creator>Janine Puhak</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 13:46:07 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Janine Puhak</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/schumer-says-we-have-a-deal-on-interim-coronavirus-package-for-small-business</guid>
+      <link>https://www.foxnews.com/politics/schumer-says-we-have-a-deal-on-interim-coronavirus-package-for-small-business</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d34b489f-84d1-493b-9981-9d8490dc34b7/24e6a2d5-68b7-4f79-846c-57355789f7cb/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2a335123-ff16-55fb-8f56-c4269b012f5a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Schumer says 'we have a deal' on interim coronavirus relief package for small businesses</title>
+      <description>Senate Minority Leader Chuck Schumer said Tuesday that Congress has reached an agreement with the White House on “every major issue” of a nearly $500 billion emergency interim coronavirus relief package for small businesses, hospitals and testing programs across the country amid the COVID-19 pandemic. </description>
+                  <dc:creator>Brooke Singman</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 13:42:09 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brooke Singman</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/health/coronavirus-face-mask-glasses-fogging-prevention-tips</guid>
+      <link>https://www.foxnews.com/health/coronavirus-face-mask-glasses-fogging-prevention-tips</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/iStock-1216022885.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/iStock-1216022885.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/iStock-1216022885.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">733a361c-57a6-5432-902e-5aa3e1e72f5a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/health</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Chile to debut world's first 'immunity passports' for coronavirus: report</title>
-      <description>Chile announced plans to issue "immunity passports" for recovered coronavirus patients later this week that would make residents exempt from quarantines and other restrictions, according to a report on Monday.</description>
-                  <dc:creator>David Aaro</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 05:04:41 GMT</pubDate>
+      <title>Coronavirus face mask causing glasses to fog? Here’s how to prevent misty lenses</title>
+      <description>How to prevent your glasses from fogging while wearing a face mask.</description>
+                  <dc:creator>Madeline Farber</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 13:42:07 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Madeline Farber</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/science/fda-authorizes-first-at-home-coronavirus-test</guid>
+      <link>https://www.foxnews.com/science/fda-authorizes-first-at-home-coronavirus-test</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c93fbb4-19b7-453e-836c-ccf54d84a8aa/4caca2f6-380c-47e7-a055-5ec638c5d2df/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">990c7a07-dfd5-5ff3-a4e9-8c7cd4e13b37</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/science</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>FDA authorizes first at-home coronavirus test</title>
+      <description>The FDA has authorized the first diagnostic test with a home collection option for COVID-19, the disease caused by coronavirus.</description>
+                  <dc:creator>James Rogers</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 13:41:44 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">James Rogers</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/auto/hyundais-remote-smart-park-recalled-software-glitch</guid>
+      <link>https://www.foxnews.com/auto/hyundais-remote-smart-park-recalled-software-glitch</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/smart.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/smart.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/smart.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">89b1ad7c-e5d4-56c8-92c5-677da6d64cbc</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/auto/make/hyundai</category>
+            <category domain="foxnews.com/taxonomy">fox-news/auto/attributes/safety</category>
+            <category domain="foxnews.com/taxonomy">fox-news/auto/attributes/innovations</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/auto</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Hyundai's remote "smart park" feature recalled for software glitch</title>
+      <description>Hyundai’s “Smaht Pahk” is going back to school.</description>
+                  <dc:creator>Gary Gastelu</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 13:37:11 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Gary Gastelu</category>
                             </item>
       </channel>
 </rss>
