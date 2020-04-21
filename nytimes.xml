@@ -7,20 +7,20 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 21 Apr 2020 20:22:02 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Apr 2020 20:22:02 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2020 22:17:00 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2020 22:17:00 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>Coronavirus Live Updates: Congress Reaches Deal With White House on Aid Package</title>
+      <title>Coronavirus Live Updates: Senate Passes $484 Billion Aid Package</title>
       <link>https://www.nytimes.com/2020/04/21/us/coronavirus-live-news-updates.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/us/coronavirus-live-news-updates.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/21/us/coronavirus-live-news-updates.html" rel="standout"></atom:link>
-      <description>Oil prices cratered. Mayors in Georgia pushed back on the governor’s decision to reopen the state.</description>
-      <pubDate>Tue, 21 Apr 2020 20:10:03 +0000</pubDate>
+      <description>Oil prices cratered. Mayors in Georgia pushed back on the governor’s decision to reopen the state. President Trump is expected to announce a pause in issuing green cards.</description>
+      <pubDate>Tue, 21 Apr 2020 21:30:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v320.png" width="151"></media:content>
       <media:credit>The New York Times</media:credit>
@@ -66,7 +66,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/21/us/coronavirus-teachers-unions-school-home.html" rel="standout"></atom:link>
       <description>Educators say they want to teach from home during the pandemic, but are fighting to limit work hours and counter demands that they consider unreasonable.</description>
       <dc:creator>Dana Goldstein and Eliza Shapiro</dc:creator>
-      <pubDate>Tue, 21 Apr 2020 19:27:58 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 21:28:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
@@ -84,13 +84,149 @@
       <media:description>Becky Atherton Dukes, an art teacher in Tulsa, Okla., seen here in 2018. She is now juggling care for her two children and responsibilities for her remote classroom.</media:description>
     </item>
     <item>
+      <title>Coronavirus Threatens Press Freedom Around the World, Report Says</title>
+      <link>https://www.nytimes.com/2020/04/21/world/americas/coronavirus-press-freedom-journalism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/world/americas/coronavirus-press-freedom-journalism.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/21/world/americas/coronavirus-press-freedom-journalism.html" rel="standout"></atom:link>
+      <description>The United States, which ranked 45th out of 180 countries and territories, and Brazil were becoming models of hostility toward the news media, according to the World Press Freedom Index.</description>
+      <dc:creator>Jenny Gross</dc:creator>
+      <pubDate>Tue, 21 Apr 2020 21:58:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reporters Without Borders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/multimedia/21xp-virus-press-freedom-promo/21xp-virus-press-freedom-promo-moth.png" width="151"></media:content>
+      <media:credit>The New York Times, via Reporters Without Borders</media:credit>
+    </item>
+    <item>
+      <title>‘I’m Just Living a Nightmare’: Oil Industry Braces for Devastation</title>
+      <link>https://www.nytimes.com/2020/04/21/business/energy-environment/coronavirus-oil-prices-collapse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/business/energy-environment/coronavirus-oil-prices-collapse.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/21/business/energy-environment/coronavirus-oil-prices-collapse.html" rel="standout"></atom:link>
+      <description>Across the United States, companies are laying off workers, shutting down wells and preparing for a prolonged slump as oil prices tumble.</description>
+      <dc:creator>Clifford Krauss</dc:creator>
+      <pubDate>Tue, 21 Apr 2020 22:08:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strategic Petroleum Reserve (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Permian Basin (North America)</category>
+    </item>
+    <item>
+      <title>The Quiet Hand of Conservative Groups in the Anti-Lockdown Protests</title>
+      <link>https://www.nytimes.com/2020/04/21/us/politics/coronavirus-protests-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/us/politics/coronavirus-protests-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/21/us/politics/coronavirus-protests-trump.html" rel="standout"></atom:link>
+      <description>Groups in a loose coalition have tapped their networks to drive up turnout at recent rallies in state capitals and financed lawsuits, polling and research to combat the stay-at-home orders.</description>
+      <dc:creator>Kenneth P. Vogel, Jim Rutenberg and Lisa Lerer</dc:creator>
+      <pubDate>Tue, 21 Apr 2020 22:06:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tea Party Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">FreedomWorks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tea Party Patriots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Stephen (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whitmer, Gretchen</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/us/politics/21protests-politics/21protests-politics-moth.jpg" width="151"></media:content>
+      <media:credit>Ruth Fremson/The New York Times</media:credit>
+      <media:description>People protested at the Washington State Capitol in Olympia on Sunday. Organizers see the events as unifying social and fiscal conservatives as well as civil libertarians.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus Infections May Not Be Uncommon, Tests Suggest</title>
+      <link>https://www.nytimes.com/2020/04/21/health/coronavirus-antibodies-california.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/health/coronavirus-antibodies-california.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/21/health/coronavirus-antibodies-california.html" rel="standout"></atom:link>
+      <description>Two preliminary efforts to survey citizens for antibodies to the virus have produced controversial results.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Tue, 21 Apr 2020 20:51:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antibodies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stanford University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Southern California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ioannidis, John P A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Clara County (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles County (Calif.)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/science/21VIRUS-ANTIBODIES1/21VIRUS-ANTIBODIES1-moth.jpg" width="151"></media:content>
+      <media:credit>John G Mabanglo/EPA, via Shutterstock</media:credit>
+      <media:description>A health care worker takes a blood sample for an antibody test in Bolinas, Calif., on Monday. Elsewhere in the state, testing in two countries suggested that 2 percent to 4 percent of residents may have been infected. </media:description>
+    </item>
+    <item>
+      <title>What’s Next for Restaurants Shut Out of Paycheck Protection Program</title>
+      <link>https://www.nytimes.com/2020/04/21/dining/restaurants-bailout-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/dining/restaurants-bailout-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/21/dining/restaurants-bailout-coronavirus.html" rel="standout"></atom:link>
+      <description>Owners of many small, independent restaurants were passed over by a federal loan program. Now they fear that a new round may not solve their problems.</description>
+      <dc:creator>Pete Wells</dc:creator>
+      <pubDate>Tue, 21 Apr 2020 20:43:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Keller, Thomas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jordan, Edouardo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ricker, Andy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/dining/21virus-restaurants1/merlin_171793797_8b319ff5-69ca-4fb2-ad72-6bb21dc6ddf0-moth.jpg" width="151"></media:content>
+      <media:credit>Emon Hassan for The New York Times</media:credit>
+      <media:description>Renato Poliafito, who owns a small Brooklyn bakery and cafe, says he was denied a federal small-business loan because the fund had run dry.</media:description>
+    </item>
+    <item>
+      <title>Dan Scavino Promoted as Meadows Shuffles White House Communications Team</title>
+      <link>https://www.nytimes.com/2020/04/21/us/politics/dan-scavino-promotion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/us/politics/dan-scavino-promotion.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/21/us/politics/dan-scavino-promotion.html" rel="standout"></atom:link>
+      <description>Mr. Scavino, who is said to be the only White House aide with access to the president’s personal Twitter account, will now be deputy chief of staff for communications.</description>
+      <dc:creator>Maggie Haberman</dc:creator>
+      <pubDate>Tue, 21 Apr 2020 20:09:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scavino, Dan Jr (1976- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McEnany, Kayleigh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farah, Alyssa</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/us/politics/21dc-scavino/21dc-scavino-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>Dan Scavino, one of the original aides in President Trump’s 2016 campaign, has been the White House director of social media.</media:description>
+    </item>
+    <item>
       <title>Israelis Find Little to Love in Their New Government, Except No More Elections</title>
       <link>https://www.nytimes.com/2020/04/21/world/middleeast/israel-unity-government.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/world/middleeast/israel-unity-government.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/21/world/middleeast/israel-unity-government.html" rel="standout"></atom:link>
       <description>Right-wingers felt betrayed by Netanyahu’s surrender of half the government. Gantz voters felt betrayed by almost everything else in a power-sharing deal.</description>
       <dc:creator>David M. Halbfinger and Adam Rasgon</dc:creator>
-      <pubDate>Tue, 21 Apr 2020 18:50:48 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 20:29:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
@@ -149,9 +285,9 @@
       <link>https://www.nytimes.com/2020/04/21/us/politics/russian-interference-senate-intelligence-report.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/us/politics/russian-interference-senate-intelligence-report.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/21/us/politics/russian-interference-senate-intelligence-report.html" rel="standout"></atom:link>
-      <description>A new Senate report undercuts claims by President Trump and his allies that Obama-era officials sought to undermine his candidacy by investigating Russia’s 2016 election meddling.</description>
+      <description>A new Senate report undercuts claims by President Trump and his allies that Obama-era officials sought to undermine him while investigating Russia’s 2016 election meddling.</description>
       <dc:creator>Nicholas Fandos and Julian E. Barnes</dc:creator>
-      <pubDate>Tue, 21 Apr 2020 17:10:31 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 22:04:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -170,7 +306,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/us/politics/21dc-intel/21dc-intel-moth.jpg" width="151"></media:content>
       <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>Senator Richard M. Burr, Republican of North Carolina and the chairman of the Intelligence Committee, noted that Russia had continued efforts to interfere in American politics.</media:description>
+      <media:description>Senator Richard M. Burr, the Intelligence Committee chairman, noted that Russia had continued efforts to interfere in American politics.</media:description>
     </item>
     <item>
       <title>As Coronavirus Spreads, Poison Hotlines See Rise in Accidents With Cleaning Products</title>
@@ -194,7 +330,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/21/health/fda-in-home-test-coronavirus.html" rel="standout"></atom:link>
       <description>The test, sold by LabCorp, would first be made available to health care and other front-line workers, the company said.</description>
       <dc:creator>Katie Thomas and Natasha Singer</dc:creator>
-      <pubDate>Tue, 21 Apr 2020 19:54:56 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 22:02:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
@@ -351,7 +487,7 @@
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/business/live-stock-market-trading-coronavirus.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/21/business/live-stock-market-trading-coronavirus.html" rel="standout"></atom:link>
       <description>The latest on stock market and business news during the coronavirus outbreak.</description>
-      <pubDate>Tue, 21 Apr 2020 20:06:47 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 21:36:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
@@ -359,7 +495,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/business/21virus-markets-briefing-netflixsub/21virus-markets-briefing-netflixsub-moth.jpg" width="151"></media:content>
       <media:credit>Hunter Kerhart for The New York Times</media:credit>
-      <media:description>Netflix, based in Los Angeles, said 15.7 million new customers signed up in the first three months of the year. </media:description>
+      <media:description>Netflix said 15.7 million new customers signed up in the first three months of the year. </media:description>
     </item>
     <item>
       <title>Pastor Faces Assault Charge After Dispute With Protester Over Social Distancing</title>
@@ -386,7 +522,7 @@
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/world/coronavirus-cases-global.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/21/world/coronavirus-cases-global.html" rel="standout"></atom:link>
       <description>A new report warns that the number of people facing acute hunger could double. In southern Italy, the pandemic is choking an already fragile economy.</description>
-      <pubDate>Tue, 21 Apr 2020 20:11:02 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 21:49:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cairo (Egypt)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
@@ -422,7 +558,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/20/us/politics/trump-immigration.html" rel="standout"></atom:link>
       <description>The president portrayed the measure, his most wide-ranging attempt yet to seal off the country from the world, as a bid to save Americans’ jobs amid the coronavirus pandemic.</description>
       <dc:creator>Katie Rogers, Michael D. Shear and Zolan Kanno-Youngs</dc:creator>
-      <pubDate>Tue, 21 Apr 2020 09:49:21 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 20:42:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
@@ -598,47 +734,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/20/multimedia/20xp-virus-obama/20xp-virus-obama-moth.jpg" width="151"></media:content>
       <media:credit>Global Citizen, via Reuters</media:credit>
       <media:description>The former first lady Michelle Obama during the “One World: Together at Home” event on Saturday. She started her virtual story time this week.</media:description>
-    </item>
-    <item>
-      <title>Supreme Court Rules Against Landowners in Montana Superfund Fight</title>
-      <link>https://www.nytimes.com/2020/04/20/us/supreme-court-montana-superfund.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/20/us/supreme-court-montana-superfund.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/20/us/supreme-court-montana-superfund.html" rel="standout"></atom:link>
-      <description>Landowners may not sue the Atlantic Richfield Company to force it to do more than a federal cleanup plan requires unless the Environmental Protection Agency consents, the court ruled.</description>
-      <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Tue, 21 Apr 2020 09:57:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Superfund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Atlantic Richfield Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, John G Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alito, Samuel A Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Butte (Mont)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/20/us/politics/20dc-scotus-waste/20dc-scotus-waste-moth.jpg" width="151"></media:content>
-      <media:credit>Walter Hinick/The Montana Standard, via Associated Press</media:credit>
-      <media:description>In 1983, the area near Butte, Mont., was designated a Superfund site.</media:description>
-    </item>
-    <item>
-      <title>Excluded From Bailouts, Mortgage Servicers Face Cash Crunch</title>
-      <link>https://www.nytimes.com/2020/04/20/us/politics/coronavirus-housing-mortgages.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/20/us/politics/coronavirus-housing-mortgages.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/20/us/politics/coronavirus-housing-mortgages.html" rel="standout"></atom:link>
-      <description>Lawmakers and lobbyists warn that missed house payments could leave servicers insolvent but federal officials are not sold on the need for a rescue.</description>
-      <dc:creator>Alan Rappeport, Matthew Goldstein and Jeanna Smialek</dc:creator>
-      <pubDate>Mon, 20 Apr 2020 21:49:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreclosures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/20/business/20DC-VIRUS-MORTGAGE/merlin_168777156_68d96285-58bf-480a-9316-d30341623fef-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>Representative Maxine Waters, the Democratic chairwoman of the House Financial Services Committee, is seeking to aid mortgage servicers.</media:description>
     </item>
   </channel>
 </rss>

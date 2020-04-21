@@ -10,224 +10,234 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/maryland-gov-hogan-barbers-hair-serve-some-essential-workers-coronavirus</guid>
-      <link>https://www.foxnews.com/us/maryland-gov-hogan-barbers-hair-serve-some-essential-workers-coronavirus</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/artists-prints-raise-million-nyc-hospital-coronavirus</guid>
+      <link>https://www.foxnews.com/us/artists-prints-raise-million-nyc-hospital-coronavirus</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/02/AP19030655653125.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP19030655653125.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/NYC-Prints-for-Elmhurst-Credit-Massimo_Vitali.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/NYC-Prints-for-Elmhurst-Credit-Massimo_Vitali.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP19030655653125.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">b007b28a-22c4-582a-a988-4c56c7abeb73</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/maryland</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/NYC-Prints-for-Elmhurst-Credit-Massimo_Vitali.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">93620485-6726-5446-8e2e-49877ff83a87</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/america-together</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Maryland Gov. Hogan lets barbers, hair salons serve some essential workers amid coronavirus</title>
-      <description>Maryland Gov. Larry Hogan is allowing barbershops and hair salons to reopen by appointment only to serve some essential workers – like military personnel and first responders – amid the coronavirus crisis.</description>
-                  <dc:creator>Michael Ruiz</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 20:09:38 GMT</pubDate>
+      <title>Artists selling rare prints raise over $1.3M for NYC hospital fighting coronavirus</title>
+      <description>An artist fundraiser for a New York City hospital at the epicenter of the coronavirus pandemic has raised $1,380,000.</description>
+                  <dc:creator>Frank Miles</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 22:07:52 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Michael Ruiz</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Frank Miles</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/coronavirus-questions-answered-working-learning-at-home</guid>
-      <link>https://www.foxnews.com/media/coronavirus-questions-answered-working-learning-at-home</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/cuomo-new-york-no-longer-needs-usns-comfort-coronavirus-crisis</guid>
+      <link>https://www.foxnews.com/politics/cuomo-new-york-no-longer-needs-usns-comfort-coronavirus-crisis</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/griffin-.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/griffin-.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Cuomo.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Cuomo.png" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/griffin-.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">5e864db5-27fe-518f-9508-3b03a4147410</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Coronavirus questions answered: How can families deal with stress of working and learning from home?</title>
-      <description>Dr. Jessica Griffin, the executive director of UMASS Medical School's Child Trauma Training Center, joined "Outnumbered Overtime" host Harris Faulkner Tuesday for a virtual town hall answering questions about how families can deal with the stress of working and learning from home during the coronavirus pandemic.</description>
-                  <dc:creator>Talia Kaplan</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 20:05:08 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Talia Kaplan</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/barr-doj-may-take-legal-action-against-governors-if-coronavirus-restrictions-too-strict</guid>
-      <link>https://www.foxnews.com/politics/barr-doj-may-take-legal-action-against-governors-if-coronavirus-restrictions-too-strict</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/10/Barr102519.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Barr102519.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Barr102519.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">c2d7dd8e-e48a-5709-bc15-492b5c444b73</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Cuomo.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">42a71123-bcdf-52e7-9db5-5aaa0b7caa1b</category>
                   <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/william-barr</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/military/navy</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/andrew-cuomo</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Barr: DOJ may take legal action against governors if coronavirus restrictions too strict</title>
-      <description>During a Tuesday interview on "The Hugh Hewitt Show," Attorney General Bill Barr said the Department of Justice (DOJ) may have to push back against governors who exceed their authority with regard to novel coronavirus (COVID-19) restrictions. </description>
-                  <dc:creator>Nick Givas</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 20:04:48 GMT</pubDate>
+      <title>Cuomo says NY no longer needs USNS Comfort in coronavirus crisis</title>
+      <description>New York Gov. Andrew Cuomo, after his meeting with President Trump to discuss the coronavirus crisis, said on MSNBC’s "Deadline: White House" that he told the president New York no longer needs the USNS Comfort, the Navy hospital ship ceremoniously deployed to New York City to fight the pandemic.</description>
+                  <dc:creator>Morgan Phillips</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 22:06:48 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Nick Givas</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/travel/design-firm-proposes-airline-seating-coronavirus-age</guid>
-      <link>https://www.foxnews.com/travel/design-firm-proposes-airline-seating-coronavirus-age</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/wisconsin-gop-legislature-gov-evers-stay-at-home-order</guid>
+      <link>https://www.foxnews.com/politics/wisconsin-gop-legislature-gov-evers-stay-at-home-order</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/JanusAvioInteriors.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/JanusAvioInteriors.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Tony-Evers.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Tony-Evers.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/JanusAvioInteriors.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">17421fcf-aa4c-5ad1-88a0-61da6189a91f</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/travel/general/airlines</category>
-            <category domain="foxnews.com/taxonomy">fox-news/travel</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Tony-Evers.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6c7a233f-e9f6-59b0-bd20-9dfdd558855a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/wisconsin</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/travel</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Design firm proposes new airline seating arrangements in response to coronavirus pandemic</title>
-      <description>Aviointeriors, a company that was once mocked for its “standing” plane seats, shared both designs to social media this week.</description>
-                  <dc:creator>Michael Bartiromo</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 19:57:28 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Michael Bartiromo</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/lifestyle/dog-steals-fake-teeth-viral-video</guid>
-      <link>https://www.foxnews.com/lifestyle/dog-steals-fake-teeth-viral-video</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/fake-teeth.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/fake-teeth.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/fake-teeth.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">19bdd20f-298b-54f1-b3dd-e0a81c89e0f0</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/lifestyle/pets</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/lifestyle</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Dog steals fake teeth from owner, runs around house with gigantic smile in viral video</title>
-      <description>It's sure to put a smile on your face.</description>
-                  <dc:creator>Michael Hollan</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 19:55:16 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Michael Hollan</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/opinion/coronavirus-executive-orders-governors-cal-thomas</guid>
-      <link>https://www.foxnews.com/opinion/coronavirus-executive-orders-governors-cal-thomas</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a08f2155-a0dc-4775-9cd6-00b0aa0bd973/214875dd-eca0-4c1f-b95e-1a0dc2e85aa7/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">b3d9ee69-f0f3-587d-a99b-9cacb1fef2e3</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/judiciary/state-and-local</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/white-house</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/opinion</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Cal Thomas: Amid coronavirus, arbitrary executive orders by some governors naturally cause problems</title>
-      <description>Is it any wonder more people are taking to the streets?</description>
-                  <dc:creator>Cal Thomas</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 19:53:14 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Tribune Media Services</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Cal Thomas</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/americans-opinion-of-china-nosedive-amid-coronavirus-pandemic</guid>
-      <link>https://www.foxnews.com/politics/americans-opinion-of-china-nosedive-amid-coronavirus-pandemic</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a92102ba-2f61-4b1f-b93c-db2fb39e2a55/863bb98f-aa8f-40f8-9481-34287405aaa0/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">f30ad36d-7376-59bc-b131-9e3b108969e9</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/polls</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Americans' opinion of China nosedives amid coronavirus pandemic, poll finds</title>
-      <description>Two-thirds of Americans say they have an unfavorable view of China, according to a national poll by the Pew Research Center.</description>
-                  <dc:creator>Paul Steinhauser</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 19:50:54 GMT</pubDate>
+      <title>Wisconsin's GOP-led legislature sues to block Gov. Evers' stay-at-home order</title>
+      <description>Republican state lawmakers in Wisconsin are suing to block Democratic Gov. Tony Evers from enforcing a stay-at-home order through May.</description>
+                  <dc:creator>Louis Casiano</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 22:02:00 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Paul Steinhauser</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Louis Casiano</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/msnbc-guest-cloobeck-las-vegas-goodman</guid>
-      <link>https://www.foxnews.com/media/msnbc-guest-cloobeck-las-vegas-goodman</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/katy-tur-las-vegas-survival-fittest-coronavirus</guid>
+      <link>https://www.foxnews.com/media/katy-tur-las-vegas-survival-fittest-coronavirus</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Stephen-Cloobeck-Carolyn-Goodman-Reuters.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Stephen-Cloobeck-Carolyn-Goodman-Reuters.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Carolyn-Goodman-Katy-Tur-REUTERS-Getty.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Carolyn-Goodman-Katy-Tur-REUTERS-Getty.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Stephen-Cloobeck-Carolyn-Goodman-Reuters.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">1779a3ee-00fd-50fc-9b2f-013d897d54a0</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/regulation/business</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Carolyn-Goodman-Katy-Tur-REUTERS-Getty.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0269912f-90d8-59c6-bbe3-8458975bf020</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/nevada</category>
             <category domain="foxnews.com/taxonomy">fox-news/us/las-vegas</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/nevada</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/economy</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>MSNBC guest explodes at Las Vegas mayor's 'bulls--t' criticism of economic shutdown</title>
-      <description>MSNBC anchor Stephanie Ruhle seemed stunned on Tuesday when one of her guests went off on Las Vegas Mayor Carolyn Goodman's response to the coronavirus shutdown.</description>
+      <title>MSNBC anchor Katy Tur tells Las Vegas mayor she's calling for 'modern-day survival of the fittest'</title>
+      <description>MSNBC anchor Katy Tur pressed Las Vegas Mayor Carolyn Goodman Tuesday over her criticism of Nevada's coronavirus-induced shutdown, at one point suggesting that Goodman was promoting a Darwinian "survival of the fittest" scenario in her city.</description>
                   <dc:creator>Sam Dorman</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 19:44:23 GMT</pubDate>
+                         <pubDate>Tue, 21 Apr 2020 22:01:35 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Sam Dorman</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/health/what-states-require-coronavirus-face-masks-in-public</guid>
-      <link>https://www.foxnews.com/health/what-states-require-coronavirus-face-masks-in-public</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/pennsylvania-gov-wolf-some-parts-may-reopen-early-may-amid-coronavirus</guid>
+      <link>https://www.foxnews.com/us/pennsylvania-gov-wolf-some-parts-may-reopen-early-may-amid-coronavirus</link>
                   <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab782d7c-7c36-4ffa-8a1d-b1c352cee82a/a02462f6-525c-4a89-a7e2-deb3c698bf93/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20112665604733.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20112665604733.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">62567013-6869-5404-9db3-ea560586d41e</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/health</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>What states require coronavirus face masks in public?</title>
-      <description>Where does your state stand?  </description>
-                  <dc:creator>Madeline Farber</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 19:30:38 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Madeline Farber</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/gang-member-released-over-coronavirus-fears-returns-to-federal-lockup-for-not-practicing-social-distancing</guid>
-      <link>https://www.foxnews.com/us/gang-member-released-over-coronavirus-fears-returns-to-federal-lockup-for-not-practicing-social-distancing</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Covid-Gang-Member-1.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Covid-Gang-Member-1.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Covid-Gang-Member-1.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">64bfe9fc-672a-587f-a064-7095a90de1c4</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/drugs</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20112665604733.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">a5480c76-1f35-5d94-9d54-191106197c25</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/pennsylvania</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/philadelphia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Long Island gang member released over coronavirus fears returns to federal lockup for ignoring social distancing restrictions</title>
-      <description>A Long Island gang member was back behind bars for not practicing social distancing after winning a coronavirus “compassionate release.”</description>
-                  <dc:creator>Robert Gearty</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 19:24:00 GMT</pubDate>
+      <title>Pennsylvania Gov. Wolf says some parts of state may reopen in early May amid coronavirus: 'Not one size that fits all'</title>
+      <description>Pennsylvania Gov. Tom Wolf said he is weighing reopening parts of the state in early May that were minimally affected by the coronavirus.</description>
+                  <dc:creator>Vandana Rambaran</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 21:56:47 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Robert Gearty</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Vandana Rambaran</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/china-ramps-up-tensions-hong-kong-new-statements</guid>
+      <link>https://www.foxnews.com/world/china-ramps-up-tensions-hong-kong-new-statements</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20109359463094-1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20109359463094-1.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20109359463094-1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">98ac398e-a672-5184-9e0d-09558b03e9b6</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/hong-kong</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>China ramps up tensions with Hong Kong in new statements</title>
+      <description>China ratcheted up tensions with Hong Kong on Tuesday by voicing its support for the arrests of pro-democracy dissidents over the weekend.</description>
+                  <dc:creator>Bradford Betz</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 21:53:45 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Bradford Betz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/kudlow-china-held-accountable-coronavirus-effects-us</guid>
+      <link>https://www.foxnews.com/media/kudlow-china-held-accountable-coronavirus-effects-us</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/04a5c284-image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/04a5c284-image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/04a5c284-image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">7b18ef35-45b1-5482-ad49-c3208043e3c2</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/economy</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/bill-hemmer-reports</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/cabinet</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/congress</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Kudlow: China 'must be held accountable' for effects of coronavirus pandemic in US</title>
+      <description>White House chief economic adviser Larry Kudlow told "Bill Hemmer Reports" Tuesday that the Chinese government "must be held accountable" for the medical and economic damage coronavirus has wrought upon the U.S.</description>
+                  <dc:creator>Charles Creitz</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 21:43:30 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Charles Creitz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/rob-gronkowski-5-things-to-know-about-the-great-nfl-tight-end</guid>
+      <link>https://www.foxnews.com/sports/rob-gronkowski-5-things-to-know-about-the-great-nfl-tight-end</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/new-england-patriots-v-buffalo-bill-93b23de6e31c8510VgnVCM100000d7c1a8c0____.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/new-england-patriots-v-buffalo-bill-93b23de6e31c8510VgnVCM100000d7c1a8c0____.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/new-england-patriots-v-buffalo-bill-93b23de6e31c8510VgnVCM100000d7c1a8c0____.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">265bda81-58d3-512d-b18d-060b37dfab00</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/rob-gronkowski</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-england-patriots</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/tampa-bay-buccaneers</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Rob Gronkowski: 5 things to know about the great NFL tight end</title>
+      <description>Rob Gronkowski is back in the NFL.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 21:36:15 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/pro-football-hall-of-famer-jackie-slater-on-son-matthew</guid>
+      <link>https://www.foxnews.com/sports/pro-football-hall-of-famer-jackie-slater-on-son-matthew</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Jackie-Slater-Getty-7.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Jackie-Slater-Getty-7.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Jackie-Slater-Getty-7.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8c5b103f-5f26-55d9-b1f0-1fa372b84c8b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-england-patriots</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/los-angeles-rams</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Pro Football Hall of Famer Jackie Slater on son Matthew: 'I couldn't be more proud'</title>
+      <description>When it comes to speaking about his son, Hall of Famer Jackie Slater is humbled.</description>
+                  <dc:creator>Daniel Canova</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 21:34:13 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/coronavirus-testing-takes-forefront-in-meeting-between-trump-and-cuomo</guid>
+      <link>https://www.foxnews.com/politics/coronavirus-testing-takes-forefront-in-meeting-between-trump-and-cuomo</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d17e20eb-1601-4733-bb96-da17f7b6b9fd/b8e7c530-0a70-4f43-b7d7-8d456e1aeb97/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e04f123f-6330-564d-81cf-8bca8002ac4f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/andrew-cuomo</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/white-house</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Coronavirus testing takes forefront in meeting between Trump and Cuomo</title>
+      <description>President Trump and New York Gov. Andrew Cuomo met Tuesday at the White House to discuss to continue coordinating the response to the coronavirus pandemic in the state hardest hit by the contagion.</description>
+                  <dc:creator>Andrew O'Reilly</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 21:30:32 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Andrew O'Reilly</category>
                             </item>
       </channel>
 </rss>
