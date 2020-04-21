@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<body>
+<p id="dateUpdate"></p>
+<p id="demo"></p>
+
+</body>
+
+<script>
+
+
+var xhttp = new XMLHttpRequest();
+var news;
+loadSelectionTitles();
+
+
+function loadSelectionTitles(){
+   xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+	     
+	   displayFeeds(this);
+    }else{
+	document.getElementById("demo").innerHTML = "its  not working";
+	}
+ };
+ xhttp.open("GET", "fox.xml", true);
+ xhttp.send();
+}
+
+function displayFeeds(xml) {
+	 var xmlDoc =  xml.responseXML;
+     var titles = xmlDoc.getElementsByTagName("title");
+     var text = "";
+	 for (var x=0; x<titles.length; x++){
+     text += titles[x].childNodes[0].nodeValue;}	 
+     document.getElementById("demo").innerHTML = text; 		 
+    //updateDate();
+}
+</script>
+
+
+</html>

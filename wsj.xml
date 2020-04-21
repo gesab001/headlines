@@ -6,8 +6,8 @@
 <atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
 <description>World News</description>
 <language>en-us</language>
-<pubDate>Mon, 20 Apr 2020 20:12:59 -0400</pubDate>
-<lastBuildDate>Mon, 20 Apr 2020 20:12:59 -0400</lastBuildDate>
+<pubDate>Tue, 21 Apr 2020 03:43:01 -0400</pubDate>
+<lastBuildDate>Tue, 21 Apr 2020 03:43:01 -0400</lastBuildDate>
 <copyright>Dow Jones &amp; Company, Inc.</copyright>
 <generator>http://online.wsj.com/page/2_0006.html</generator>
 <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
@@ -47,6 +47,16 @@
 <wsj:articletype>Middle East News</wsj:articletype>
 </item>
 <item>
+<title>The Critical Variable in Keeping Coronavirus in Check</title>
+<link>https://www.wsj.com/articles/the-critical-variable-in-keeping-coronavirus-in-check-11587411610</link>
+<description><![CDATA[Governments across Europe and in the U.S. say they have driven down a key coronavirus variable to levels that suggest lockdowns are containing the spread of the deadly virus.]]></description>
+<content:encoded/>
+<pubDate>Mon, 20 Apr 2020 16:19:00 -0400</pubDate>
+<guid isPermaLink="false">SB11673302688168164370504586335822400980108</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>World News</wsj:articletype>
+</item>
+<item>
 <title>Stores Start to Reopen in Germany</title>
 <link>https://www.wsj.com/articles/stores-start-to-reopen-in-germanyafter-coronavirus-lockdown-11587410801</link>
 <description><![CDATA[Shoppers flocked back to stores on Monday as Chancellor Angela Merkel warned that exiting lockdowns too fast could jeopardize the country’s progress in curtailing the coronavirus pandemic.]]></description>
@@ -65,16 +75,6 @@
 <guid isPermaLink="false">SB11673302688168164370504586335353816422100</guid>
 <category domain="AccessClassName">PAID</category>
 <wsj:articletype>China News</wsj:articletype>
-</item>
-<item>
-<title>Muslim Communities Sustain Ramadan Traditions, at a Distance</title>
-<link>https://www.wsj.com/articles/muslim-communities-and-imams-sustain-ramadan-traditions-at-a-distance-11587380400</link>
-<description><![CDATA[Muslims are planning virtual gatherings as most countries remain under lockdown and social distancing precludes communal meals.]]></description>
-<content:encoded/>
-<pubDate>Mon, 20 Apr 2020 07:00:00 -0400</pubDate>
-<guid isPermaLink="false">SB11214701909716903832704586327082323425232</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>World News</wsj:articletype>
 </item>
 </channel>
 </rss>

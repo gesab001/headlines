@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 21 Apr 2020 05:28:47 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Apr 2020 05:28:47 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2020 07:51:28 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2020 07:51:28 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -91,12 +91,41 @@
       <media:description>Gov. Larry Hogan of Maryland said a lack of testing was the “No. 1 problem” facing his state.</media:description>
     </item>
     <item>
+      <title>The Sound of One Shrimp Snapping</title>
+      <link>https://www.nytimes.com/2020/04/21/science/climate-change-sound-animals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/science/climate-change-sound-animals.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/21/science/climate-change-sound-animals.html" rel="standout"></atom:link>
+      <description>How climate change is altering nature’s sonic landscape.</description>
+      <dc:creator>Emily Anthes</dc:creator>
+      <pubDate>Tue, 21 Apr 2020 06:30:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reproduction (Biological)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frogs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spring (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whales and Whaling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Krause, Bernie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nagelkerken, Ivan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/science/00SCI-CLIMATESOUNDS-02/00SCI-CLIMATESOUNDS-02-moth.jpg" width="151"></media:content>
+      <media:credit>Matt McCann</media:credit>
+    </item>
+    <item>
       <title>U.S. Oil Prices Plunge Into Negative Territory: Live Updates</title>
       <link>https://www.nytimes.com/2020/04/21/business/stock-market-today-coronavirus.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/business/stock-market-today-coronavirus.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/21/business/stock-market-today-coronavirus.html" rel="standout"></atom:link>
       <description>The latest on stock market and business news during the coronavirus outbreak.</description>
-      <pubDate>Tue, 21 Apr 2020 04:43:49 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 07:33:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
@@ -112,7 +141,7 @@
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/world/coronavirus-news.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/21/world/coronavirus-news.html" rel="standout"></atom:link>
       <description>Deaths in Istanbul suggest the true toll in Turkey may be higher than the government has claimed. And President Trump said he planned to close the United States to people trying to immigrate.</description>
-      <pubDate>Tue, 21 Apr 2020 05:09:07 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 07:01:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cairo (Egypt)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
@@ -406,7 +435,7 @@
       <description>South Carolina eases some lockdown restrictions, and Georgia and Tennessee will follow suit. Cases at an Ohio prison surge, and oil prices plummet.</description>
       <pubDate>Tue, 21 Apr 2020 04:10:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v317.png" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v318.png" width="151"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>

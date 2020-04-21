@@ -87,8 +87,8 @@ function displayFeeds(xml) {
 
     var xmlDoc = xml.responseXML;
     var titles = xmlDoc.getElementsByTagName("title");
-	var lastBuildUpdate = xmlDoc.getElementsByTagName("lastBuildDate");
-	document.getElementById("dateUpdate").innerHTML = "last updated: " + lastBuildUpdate[0].childNodes[0].nodeValue;
+	/*var lastBuildUpdate = xmlDoc.getElementsByTagName("lastBuildDate");
+	document.getElementById("dateUpdate").innerHTML = "last updated: " + lastBuildUpdate[0].childNodes[0].nodeValue;*/
     var text ="";
 	var title = "";
     for (var x=0; x<titles.length;x++){
