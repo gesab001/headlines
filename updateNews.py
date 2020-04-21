@@ -15,10 +15,10 @@ for news in rss:
    except Exception as ex:
     print(ex)
 
-command = "sudo git add ."
+command = "git add ."
 subprocess.call(command, shell=True)
-command = "sudo git commit -m updated xml files"
+command = "git commit -m updated xml files"
 subprocess.call(command, shell=True)
-command = "sudo git push --all"
+command = "git push --all"
 subprocess.call(command, shell=True)
    
