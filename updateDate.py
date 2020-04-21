@@ -12,7 +12,7 @@ now = datetime.now()
 # dd/mm/YY H:M:S
 #time_string = now.strftime("%H:%M:%S")
 #print("date and time =", dt_string)	
-date_string = now.strftime("%A %B %d, %Y %r")
+date_string = now.strftime("%A, %B %d %Y %r")
 print(date_string)
 #date=str(date_string)
 #day, month, year = date.split(' ')     
@@ -26,4 +26,5 @@ print(date_string)
 
 command = "echo " + str(date_string) + " NZ" + " >lastNewsUpdate.txt"
 subprocess.call(command, shell=True)
+
 
