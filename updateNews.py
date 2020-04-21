@@ -15,7 +15,7 @@ for news in rss:
    except Exception as ex:
     print(ex)
 
-command = "./gitupdater.sh"
-subprocess.call(command, shell=True)
 command = "python3 updateDate.py"
+subprocess.call(command, shell=True)
+command = "./gitupdater.sh"
 subprocess.call(command, shell=True)
