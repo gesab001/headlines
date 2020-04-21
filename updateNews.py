@@ -8,10 +8,17 @@ for news in rss:
    url= rss[news]
    print(url)
    try:
-    command = "curl '" + url + "' -o ../html/headlines.onecloudapps.net/" + news + ".xml"
+    command = "curl '" + url + "' -o " + news + ".xml"
     subprocess.call(command, shell=True)
+   
     print(news+".xml saved successfully" )
    except Exception as ex:
     print(ex)
-   
+
+command = "sudo git add ."
+subprocess.call(command, shell=True)
+command = "sudo git commit -m updated xml files"
+subprocess.call(command, shell=True)
+command = "sudo git push --all"
+subprocess.call(command, shell=True)
    
