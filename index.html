@@ -20,6 +20,7 @@
 </form>
 <select id="selection" name="news" onchange="loadNews(this.value)"></select>
 
+<p>test</p>
 <!--<p id="dateUpdate"></p>-->
 <div id="demo"></div>
 
@@ -27,17 +28,18 @@
 
 var xhttp = new XMLHttpRequest();
 var news;
-//changeNews(news);
 loadSelectionTitles();
 
 
 function loadSelectionTitles(){
-
- xhttp.onreadystatechange = function() {
+   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
        var myArr = JSON.parse(this.responseText);
        loadSelection(myArr);
-    }
+	  
+    }else{
+	document.getElementById("demo").innerHTML = "its  not working";
+	}
  };
  xhttp.open("GET", "newstitles.json", true);
  xhttp.send();
@@ -48,6 +50,7 @@ function loadSelection(myArrTitles){
 
  xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
+	
        var myArr = JSON.parse(this.responseText);
        for (var x in myArr){
 		  var title = myArrTitles[x];
@@ -65,22 +68,13 @@ function loadSelection(myArrTitles){
  xhttp.open("GET", "news.json", true);
  xhttp.send();
 }
-/*
-function changeNews(news){
- news = news;
- xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-       loadNews(news);
-    }
- };
- xhttp.open("GET", news+".xml", true);
- xhttp.send();
-}
-*/
+
+
 function loadNews(news){
 
  xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
+
     displayFeeds(this);
     }
  };
@@ -88,7 +82,9 @@ function loadNews(news){
  xhttp.send();
 }
 
+
 function displayFeeds(xml) {
+	document.getElementById("demo").innerHTML = "its working again";
     var xmlDoc = xml.responseXML;
     var titles = xmlDoc.getElementsByTagName("title");
     var text ="";
@@ -100,22 +96,6 @@ function displayFeeds(xml) {
     document.getElementById("demo").innerHTML = text;
     //updateDate();
 }
-
-function updateDate(){
-  var news = document.getElementById("selection").value + ".xml";
-  xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-           var text = this.responseText;
-           document.getElementById("dateUpdate").innerHTML = text;
-    }
-    else{
-         document.getElementById("dateUpdate").innerHTML = "error";
-    }
-  };
-  xhttp.open("GET", "updateDate.php?news="+news, true);
-  xhttp.send();
-}
-
 
 </script>
 
