@@ -10,6 +10,28 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/maryland-gov-hogan-barbers-hair-serve-some-essential-workers-coronavirus</guid>
+      <link>https://www.foxnews.com/us/maryland-gov-hogan-barbers-hair-serve-some-essential-workers-coronavirus</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/02/AP19030655653125.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP19030655653125.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP19030655653125.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">b007b28a-22c4-582a-a988-4c56c7abeb73</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/maryland</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Maryland Gov. Hogan lets barbers, hair salons serve some essential workers amid coronavirus</title>
+      <description>Maryland Gov. Larry Hogan is allowing barbershops and hair salons to reopen by appointment only to serve some essential workers – like military personnel and first responders – amid the coronavirus crisis.</description>
+                  <dc:creator>Michael Ruiz</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 20:09:38 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Michael Ruiz</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/media/coronavirus-questions-answered-working-learning-at-home</guid>
       <link>https://www.foxnews.com/media/coronavirus-questions-answered-working-learning-at-home</link>
                   <media:group>
@@ -206,35 +228,6 @@
                          <pubDate>Tue, 21 Apr 2020 19:24:00 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Robert Gearty</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/bill-bennett-arne-duncan-parents-teachers-coronavirus</guid>
-      <link>https://www.foxnews.com/media/bill-bennett-arne-duncan-parents-teachers-coronavirus</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Bill-Bennett-Arne-Duncan-FOX.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Bill-Bennett-Arne-Duncan-FOX.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Bill-Bennett-Arne-Duncan-FOX.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">1dfd190e-7162-59af-8bce-be76d5038bb1</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/outnumbered-overtime</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/education</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/kids</category>
-            <category domain="foxnews.com/taxonomy">fox-news/science</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/anthony-fauci</category>
-            <category domain="foxnews.com/taxonomy">fox-news/food-drink/food</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/education/parents</category>
-            <category domain="foxnews.com/taxonomy">fox-news/science/natural-science/math</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Ex-education secretaries say parents, teachers must support each other through coronavirus crisis</title>
-      <description>Families, students, and teachers must work together to overcome the "calamitous" effect of the coronavirus pandemic on children's education, former Education Secretaries Bill Bennett and Arne Duncan said Tuesday.</description>
-                  <dc:creator>Julia Musto</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 19:17:09 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Julia Musto</category>
                             </item>
       </channel>
 </rss>
