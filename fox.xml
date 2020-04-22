@@ -10,220 +10,232 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/kayleigh-mcenany-pritzker-trump-coronavirus-protest-support</guid>
-      <link>https://www.foxnews.com/media/kayleigh-mcenany-pritzker-trump-coronavirus-protest-support</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/mcconnell-republicans-coronavirus-sending-money-to-states</guid>
+      <link>https://www.foxnews.com/media/mcconnell-republicans-coronavirus-sending-money-to-states</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/kayleigh-.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/kayleigh-.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/02/McConnell-SOTU-2019-AP.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/McConnell-SOTU-2019-AP.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/kayleigh-.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">adff8d5e-d78f-5395-956c-ad1921f32fcc</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/McConnell-SOTU-2019-AP.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">b9b8b358-e14e-51fd-abb5-d25ae0985980</category>
                   <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/outnumbered-overtime</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/white-house</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/bill-hemmer-reports</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/mitch-mcconnell</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Kayleigh McEnany hits Illinois gov over 'ridiculous' criticism of Trump comments on protests</title>
-      <description>White House press secretary Kayleigh McEnany responded Wednesday to Illinois Gov. J.B. Pritzker’s criticism of President Trump’s support for ongoing protests against stay-at-home orders across the country, stressing that Trump “believes in the First Amendment.”</description>
-                  <dc:creator>Talia Kaplan</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 19:42:35 GMT</pubDate>
+      <title>McConnell says Senate 'not interested' in sending money to states trying to 'take advantage' of coronavirus</title>
+      <description>Senate Majority Leader Mitch McConnell, R-Ky., told "Bill Hemmer Reports" Wednesday that he has no plans of passing legislation to provide additional federal funding to state and local governments who he said are trying to "take advantage" the coronavirus crisis to get help with their ballooning deficits.</description>
+                  <dc:creator>Yael Halon</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 21:30:00 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Talia Kaplan</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Yael Halon</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/tj-ducklo-biden-campaign-press-secretary-tj-ducklo</guid>
-      <link>https://www.foxnews.com/politics/tj-ducklo-biden-campaign-press-secretary-tj-ducklo</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/dem-rep-overseeing-coronavirus-funds-federal-law-stock-sales</guid>
+      <link>https://www.foxnews.com/politics/dem-rep-overseeing-coronavirus-funds-federal-law-stock-sales</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Ducklo-Joe-Biden-Bus.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Ducklo-Joe-Biden-Bus.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/12/Shalala-black.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Shalala-black.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Ducklo-Joe-Biden-Bus.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">50f0cfad-dc06-55a1-9731-a0ff08f45196</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/politics/the-operators</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Shalala-black.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ce1468de-4838-52aa-b3b2-215e0862c3d5</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/house-of-representatives/democrats</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Meet the Press Secretary: Top Biden aide faces dual 2020 battles, says campaign 'has given me purpose'</title>
-      <description>He’s the guy who coined “Joementum” – the cheesy, but also suitable, catch phrase that summed up Joe Biden’s political revival a little over a month ago. As it turned out, TJ Ducklo’s assessment of Biden’s momentum was real. Or at least, it became real. Following the former veep’s Super Tuesday romp, rival after rival dropped out. The endorsements piled up. The party steadily closed ranks until, eventually, even Bernie Sanders was compelled to step back.</description>
-                  <dc:creator>Brooke Singman</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 19:40:34 GMT</pubDate>
+      <title>Dem overseeing $2T in coronavirus funds accused of violating federal law requiring disclosure of stock sales</title>
+      <description>Republicans are calling on Rep. Donna Shalala, D-Fla., to step down as the lone House Democrat on the committee overseeing $2 trillion in coronavirus funds, after allegations emerged in her local newspaper that she violated federal law by not reporting more than a half-dozen of her own stock sales.</description>
+                  <dc:creator>Gregg Re</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 21:21:12 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Brooke Singman</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Gregg Re</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/health/company-coronavirus-antibodies-push-new-therapeutics</guid>
-      <link>https://www.foxnews.com/health/company-coronavirus-antibodies-push-new-therapeutics</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/food-stamp-enrollments-up-40-percent-since-march-usda</guid>
+      <link>https://www.foxnews.com/politics/food-stamp-enrollments-up-40-percent-since-march-usda</link>
                   <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/977f8bbc-294c-4cef-a16a-12be00a9a265/9ff04097-cf54-4eba-bd25-70eea5ff16d2/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/10/iStock-Agriculture.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/iStock-Agriculture.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/iStock-Agriculture.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">af733567-e6d1-5f71-829e-f7269a7242b9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/white-house</category>
+            <category domain="foxnews.com/taxonomy">fox-news/food-drink/food</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Food-stamp enrollments up 40 percent since March, USDA announces</title>
+      <description>Enrollment in the Supplemental Nutrition Assistance Program (SNAP) has increased 40 percent in the past month, the U.S. Department of Agriculture (USDA) announced Wednesday.</description>
+                  <dc:creator>Morgan Phillips</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 21:19:57 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/whats-in-the-phase-3-5-coronavirus-stimulus-package</guid>
+      <link>https://www.foxnews.com/politics/whats-in-the-phase-3-5-coronavirus-stimulus-package</link>
+                  <media:group>
+        <media:content url="https://media2.foxnews.com/BrightCove/694940094001/2020/01/14/694940094001_6122361529001_6122376889001-vs.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/694940094001_6122361529001_6122376889001-vs.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/694940094001_6122361529001_6122376889001-vs.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">5af60179-8ea8-5959-9798-a6c9ea80cb20</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>What's in the 'Phase 3.5' coronavirus stimulus package, and will there be another one?</title>
+      <description>The $484 billion coronavirus "Phase 3.5" relief bill passed by the Senate on Tuesday, if passed by the House of Representatives and signed into law by President Trump as expected, would boost several sectors of the economy. Among other initiatives, the package would replenish the small business rescue program known as the Paycheck Protection Program (PPP), provide hospitals with another $75 billion and implement a nationwide virus testing program to facilitate reopening the economy.</description>
+                  <dc:creator>Gregg Re</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 21:17:30 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Gregg Re</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/health/coronavirus-fear-anxiety-contagious-nyc-psychiatrist</guid>
+      <link>https://www.foxnews.com/health/coronavirus-fear-anxiety-contagious-nyc-psychiatrist</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b3234b6-7e64-46e1-9f4b-62e219555c19/9d8892fc-af6d-45b7-aea7-93632dbeaee6/1280x720/match/image.jpg" medium="image" isDefault="true" />
         <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
       </media:group>
       <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">f1fff70f-fa8b-556d-bb32-faa82e92337f</category>
+            <category domain="foxnews.com/metadata/dc.identifier">2b04f52a-1656-5dac-a03c-6b81b18c32ff</category>
                   <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/mental-health</category>
+            <category domain="foxnews.com/taxonomy">fox-news/news-events/fox-news-investigates</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/health</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Company focuses on finding coronavirus antibodies in push for new therapeutics</title>
-      <description>One expert said COVID-19 has put a spotlight on how challenging it is to develop new therapies quickly.</description>
-                  <dc:creator>Kayla Rivas</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 19:36:28 GMT</pubDate>
+      <title>Coronavirus fear and anxiety can be as contagious as the illness, NYC psychiatrist says</title>
+      <description>Nowhere has the stress from the coronavirus pandemic been felt more than on the nation’s healthcare workers and first responders who are trying to save lives.  With more than half a million cases and 42,000 deaths, mental health experts worry about the toll it’s taking on those serving on the frontline.  “Fear and Anxiety can be worse than the virus,” Yusim told Fox News.  “With every patient, you have to get them through this trauma and then we have to find a silver lining.</description>
+                  <dc:creator>Cyd Upson</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 21:16:26 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Kayla Rivas</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Cyd Upson</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/world/chinese-city-ramps-up-coronavirus-restrictions-in-countrys-biggest-known-outbreak-since-pandemic-began</guid>
-      <link>https://www.foxnews.com/world/chinese-city-ramps-up-coronavirus-restrictions-in-countrys-biggest-known-outbreak-since-pandemic-began</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/majority-florida-residents-dont-want-social-distancing-rules-relaxed</guid>
+      <link>https://www.foxnews.com/politics/majority-florida-residents-dont-want-social-distancing-rules-relaxed</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20108416638910.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20108416638910.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3392ec0-f0bb-426f-88f6-10982d1a8997/b761549c-c0f5-4270-a27d-94b10848c9b2/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20108416638910.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">924dcb9c-50c5-5270-b4ae-b7708df38966</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/world</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Chinese city ramps up coronavirus restrictions in country's biggest known outbreak since pandemic</title>
-      <description>China has imposed strict measures on a northeastern city of 10 million people, including banning non-residents and vehicles registered elsewhere, after a wave of coronavirus infections.</description>
-                  <dc:creator>Louis Casiano</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 19:34:55 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Louis Casiano</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/westworld-renewed-season-4</guid>
-      <link>https://www.foxnews.com/entertainment/westworld-renewed-season-4</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/hbo-westworld-promo.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/hbo-westworld-promo.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/hbo-westworld-promo.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">281a80aa-d7be-5826-8cee-13ac003cac12</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>‘Westworld’ is renewed for Season 4 at HBO</title>
-      <description>“Westworld” has been renewed for a fourth season at HBO ahead of the conclusion of Season 3.</description>
-                  <dc:creator>Joe Otterson</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 19:28:22 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Variety</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Joe Otterson</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/julianne-hough-husband-brooks-laich-quarantine-alone</guid>
-      <link>https://www.foxnews.com/entertainment/julianne-hough-husband-brooks-laich-quarantine-alone</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/12/julianne-husband-getty.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/julianne-husband-getty.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/julianne-husband-getty.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">2907e3ad-477f-5226-a8b0-39bb6a0d2152</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/couples</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Julianne Hough's husband Brooks Laich reveals why he's in quarantine alone</title>
-      <description>Julianne Hough and her husband Brooks Laich aren't quarantining together during the coronavirus pandemic.</description>
-                  <dc:creator>Jessica Napoli</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 19:26:22 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Jessica Napoli</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/stiglitz-economist-trump-mcconnell-great-depression</guid>
-      <link>https://www.foxnews.com/media/stiglitz-economist-trump-mcconnell-great-depression</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Stiglitz-Mcconnell-Trump-Getty-AP-AP.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Stiglitz-Mcconnell-Trump-Getty-AP-AP.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Stiglitz-Mcconnell-Trump-Getty-AP-AP.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">b97cded3-a348-5c69-b62a-848c16a2849d</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/economy</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1e579e5c-16d9-5c7f-a2eb-08a9c6f95b47</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/polls</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/ron-desantis</category>
             <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/mitch-mcconnell</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/campaigning/trump-2020-campaign</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Nobel-winning economist says US 'will have a Great Depression' if Trump, McConnell hold power after election</title>
-      <description>A Nobel-prize winning economist, often touted among progressives, predicted that if the U.S. left the coronavirus response in Republican leaders' hands, the country would end up in another Great Depression.</description>
-                  <dc:creator>Sam Dorman</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 19:23:09 GMT</pubDate>
+      <title>Majority of Florida residents don’t want social distancing rules relaxed next week: poll</title>
+      <description>The vast majority of Floridians don’t want the state’s social distancing rules – enacted to prevent the spread of the coronavirus pandemic – to be loosened at the end of April, according to a new poll.</description>
+                  <dc:creator>Paul Steinhauser</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 21:13:00 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Sam Dorman</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Paul Steinhauser</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/science/driver-stranded-as-boulders-rain-from-mountainside-like-meteors-video-reveals</guid>
-      <link>https://www.foxnews.com/science/driver-stranded-as-boulders-rain-from-mountainside-like-meteors-video-reveals</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/tech/bill-melinda-gates-nab-oceanfront-home-san-diego-43-million</guid>
+      <link>https://www.foxnews.com/tech/bill-melinda-gates-nab-oceanfront-home-san-diego-43-million</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/boulders-swns.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/boulders-swns.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/bill-and-melinda-gates-AP.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/bill-and-melinda-gates-AP.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/boulders-swns.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">b2cfc635-aeb6-5dd4-be29-c35aba8bfe9c</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/science</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/india</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/bill-and-melinda-gates-AP.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">63839124-e8b9-52c1-9c0d-4297e7f2e937</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/tech/companies/microsoft</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/science</category>
+                        <category domain="foxnews.com/section-path">fnc/tech</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Driver stranded as boulders rain from mountainside like meteors, video reveals</title>
-      <description>It wasn't a meteor shower, but it sure looked like one.</description>
+      <title>Bill and Melinda Gates nab oceanfront home near San Diego for $43 million</title>
+      <description>Microsoft co-founder Bill Gates and his wife Melinda Gates have purchased a massive oceanfront home near San Diego for $43 million.</description>
                   <dc:creator>Christopher Carbone</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 19:20:35 GMT</pubDate>
+                         <pubDate>Wed, 22 Apr 2020 21:10:52 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Christopher Carbone</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/saints-cancel-all-offseason-training-players-told-to-show-up-in-best-shape-of-your-life-report</guid>
-      <link>https://www.foxnews.com/sports/saints-cancel-all-offseason-training-players-told-to-show-up-in-best-shape-of-your-life-report</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/trump-administration-border-wall-website-interactive-map</guid>
+      <link>https://www.foxnews.com/politics/trump-administration-border-wall-website-interactive-map</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/102815-nfl-Sean-Payton-pi-mp.vresiz-1ba2b74b987f0510VgnVCM100000d7c1a8c0____.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/102815-nfl-Sean-Payton-pi-mp.vresiz-1ba2b74b987f0510VgnVCM100000d7c1a8c0____.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a90e4146-4a7d-41f2-8d7c-978c40ed759c/d5b9fade-450f-4124-b041-190afd0f38b2/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/102815-nfl-Sean-Payton-pi-mp.vresiz-1ba2b74b987f0510VgnVCM100000d7c1a8c0____.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">4d5f1091-03e2-5663-b0a6-3e52ee101544</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-orleans-saints</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">bd4ba9e7-b652-5525-8734-ddfaf4495567</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/topic/border-wall</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Saints cancel all offseason training, players told to show up in 'best shape of your life': report</title>
-      <description>The New Orleans Saints is the first NFL team to cancel offseason programs this spring in the wake of the coronavirus pandemic, according to reports Wednesday. </description>
-                  <dc:creator>Paulina Dedaj</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 19:12:54 GMT</pubDate>
+      <title>Trump administration launches border wall website with interactive construction map</title>
+      <description>The Trump administration on Wednesday launched an interactive map of the ever-expanding wall at the southern border -- as the administration looks to show the progress it has made on President Trump’s signature 2016 campaign promise.</description>
+                  <dc:creator>Adam Shaw</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 21:07:54 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Paulina Dedaj</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Adam Shaw</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/travel/ruby-princess-doctor-surprised-coronavirus-disembark</guid>
-      <link>https://www.foxnews.com/travel/ruby-princess-doctor-surprised-coronavirus-disembark</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/happy-days-marion-ross-quarantine-routine</guid>
+      <link>https://www.foxnews.com/entertainment/happy-days-marion-ross-quarantine-routine</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Ruby-Princess.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Ruby-Princess.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://media2.foxnews.com/BrightCove/694940094001/2018/04/25/694940094001_5776401624001_5776394618001-vs.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/694940094001_5776401624001_5776394618001-vs.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Ruby-Princess.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">2f1542b7-fda1-565a-8d22-c25b7e48eeaf</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/travel/general/cruises</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/694940094001_5776401624001_5776394618001-vs.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">f5a375a6-933c-590f-890c-3713b5fbb72e</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/quarantine-routine</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/features/exclusive</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/then-and-now</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/sitcom</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/comedy</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/classics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/illness</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/travel</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Ruby Princess cruise ship doctor 'surprised' that guests were allowed to leave ship without test results</title>
-      <description>The investigation into a cruise ship at the center of a coronavirus outbreak continues.</description>
-                  <dc:creator>Michael Hollan</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 19:12:38 GMT</pubDate>
+      <title>‘Happy Days’ star Marion Ross shares how quarantine has changed her daily routine</title>
+      <description>One of America’s most beloved TV moms is receiving plenty of support during these tough times.</description>
+                  <dc:creator>Stephanie Nolasco</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 21:06:19 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Michael Hollan</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Stephanie Nolasco</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/pat-tillman-remembered-16-years-after-his-death-with-untraditional-race-during-coronavirus</guid>
+      <link>https://www.foxnews.com/us/pat-tillman-remembered-16-years-after-his-death-with-untraditional-race-during-coronavirus</link>
+                  <media:group>
+        <media:content url="https://video.foxnews.com/thumbnails/090210/640/360/ff_tillman_FNC_090210_07-35.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/ff_tillman_FNC_090210_07-35.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/ff_tillman_FNC_090210_07-35.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c39866f0-0928-53b4-914c-dcfdb607ee8c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/proud-american</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/military/army</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Pat Tillman remembered 16 years after his death with untraditional race during coronavirus</title>
+      <description>Amid the coronavirus pandemic, athletes continuing the annual tradition of participating in Pat’s Run, a fundraiser and celebration of the life of Pat Tillman, who died 16 years ago Wednesday, had to get creative.</description>
+                  <dc:creator>Frank Miles</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 21:03:43 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Frank Miles</category>
                             </item>
       </channel>
 </rss>
