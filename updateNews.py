@@ -8,7 +8,7 @@ for news in rss:
    url= rss[news]
    print(url)
    try:
-    command = "curl '" + url + "' -o " + news + ".xml"
+    command = "curl -L '" + url + "' -o " + news + ".xml"
     subprocess.call(command, shell=True)
    
     print(news+".xml saved successfully" )
