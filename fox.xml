@@ -10,224 +10,242 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/peter-navarro-china-four-kills-coronavirus-pandemic</guid>
-      <link>https://www.foxnews.com/media/peter-navarro-china-four-kills-coronavirus-pandemic</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/calif-governor-implies-local-communities-not-allowed-to-lift-stay-at-home-orders-yet</guid>
+      <link>https://www.foxnews.com/politics/calif-governor-implies-local-communities-not-allowed-to-lift-stay-at-home-orders-yet</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/a81b4591-image-6.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/a81b4591-image-6.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/778a9f2c-2187-4363-b797-04b3ed5a6a9b/d25077f8-5955-433d-9da4-4ce111f633b2/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/a81b4591-image-6.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">6d75d215-4070-5d55-8f28-4ba0061d85ea</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/hannity</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Peter Navarro accuses China of committing 'four kills' with response to coronavirus pandemic</title>
-      <description>White House Office of Trade and Manufacturing Policy director Peter Navarro joined "Hannity" Tuesday night and laid out China's mishandling of the coronavirus pandemic, a process he said Beijing might call "the four kills."</description>
-                  <dc:creator>Yael Halon</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 02:47:39 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Yael Halon</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/trump-ask-harvard-to-return-coronavirus-relief-money</guid>
-      <link>https://www.foxnews.com/politics/trump-ask-harvard-to-return-coronavirus-relief-money</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Trump-Harvard-AP-iStock.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Trump-Harvard-AP-iStock.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Trump-Harvard-AP-iStock.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">8ab8070c-8694-5195-a161-4940c1033770</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/politics</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">18737d15-45be-51a1-9880-355fbd5b88fa</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/gavin-newsom</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Trump says he'll ask Harvard to return coronavirus relief money</title>
-      <description>President Trump accused Harvard University of "taking" money from the federal government as part of the Paycheck Protection Program intended to benefit small businesses and said he will be asking that they pay it back. </description>
-                  <dc:creator>Vandana Rambaran</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 02:36:03 GMT</pubDate>
+      <title>Newsom implies communities not allowed to lift stay-at-home orders yet</title>
+      <description>California Gov. Gavin Newsom Tuesday implied local leaders in the state won’t be allowed to lift coronavirus stay-at-home orders yet as certain communities have expressed interest in easing restrictions and some protesters took to the streets last weekend demanding the reopening of the economy, according to reports. </description>
+                  <dc:creator>Brie Stimson</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 05:33:07 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Vandana Rambaran</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/demi-lovato-seeking-mental-health-help-coronavirus-pandemic</guid>
-      <link>https://www.foxnews.com/entertainment/demi-lovato-seeking-mental-health-help-coronavirus-pandemic</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/squad-member-ayanna-pressley-says-trump-coronavirus-response-akin-to-war-crimes</guid>
+      <link>https://www.foxnews.com/politics/squad-member-ayanna-pressley-says-trump-coronavirus-response-akin-to-war-crimes</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/03/Demi-Lovato-Getty.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Demi-Lovato-Getty.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/pressley.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/pressley.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Demi-Lovato-Getty.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">7b321348-bcbb-56e7-ac00-d42d3e276ac2</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/demi-lovato</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/pressley.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e4155d2c-f234-542e-9013-1ff26e236443</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/house-of-representatives</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/massachusetts</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/house-of-representatives/democrats</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Demi Lovato on seeking mental health help amid pandemic: 'Asking for help is not a sign of weakness'</title>
-      <description>Demi Lovato is encouraging fans to reach out for help when they need it amid the coronavirus pandemic. </description>
-                  <dc:creator>Nate Day</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 02:32:24 GMT</pubDate>
+      <title>'Squad' member Ayanna Pressley says Trump coronavirus response ‘akin to war crimes’</title>
+      <description>Rep. Ayanna Pressley, D-Mass., Monday compared President Trump’s response to the coronavirus to “war crimes.”</description>
+                  <dc:creator>Brie Stimson</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 05:12:59 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/health/coronavirus-could-have-deadlier-second-wave-later-this-year-cdc-director-warns</guid>
-      <link>https://www.foxnews.com/health/coronavirus-could-have-deadlier-second-wave-later-this-year-cdc-director-warns</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/health/ohio-man-dies-from-coronavirus-after-online-posts-calling-it-bulls-and-political-ploy</guid>
+      <link>https://www.foxnews.com/health/ohio-man-dies-from-coronavirus-after-online-posts-calling-it-bulls-and-political-ploy</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20108836488730.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20108836488730.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20111728500234.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20111728500234.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20108836488730.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">e770dc36-2e81-53aa-9f01-45066d742fca</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20111728500234.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ee833d41-3073-54be-bad0-1b07e6f55391</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/ohio</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/foodborne-illness</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/companies/facebook</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/health</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Coronavirus could have a deadlier second wave later this year, CDC director warns</title>
-      <description>The head of the Centers for Disease Control and Prevention (CDC) is warning that a second wave of coronavirus could coincide with the start of flu season, proving to be even more devastating than the enduring COVID-19 pandemic.</description>
-                  <dc:creator>Vandana Rambaran</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 02:20:58 GMT</pubDate>
+      <title>Ohio man dies from coronavirus after online posts calling it 'Bulls---' and 'Political Ploy'</title>
+      <description>An Ohio father of two children died from the coronavirus last week after previously claiming the outbreak was "Bulls---" and a "Political Ploy," according to reports.</description>
+                  <dc:creator>David Aaro</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 04:47:53 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Vandana Rambaran</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/lifestyle/lululemon-coronavirus-tshirt-art-director</guid>
-      <link>https://www.foxnews.com/lifestyle/lululemon-coronavirus-tshirt-art-director</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/mark-cuban-texas-not-yet-ready-reopen</guid>
+      <link>https://www.foxnews.com/media/mark-cuban-texas-not-yet-ready-reopen</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Lululemon.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Lululemon.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/256980e7-image-7.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/256980e7-image-7.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Lululemon.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">dae7bbba-06ef-575c-9fb6-3abefd3ac5e8</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/lifestyle</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Lululemon apologizes after art director promotes 'bat fried rice' T-shirt during coronavirus</title>
-      <description>Fitness apparel brand Lululemon is apologizing, according to a report, for a senior staffer online promoting a T-shirt design for “bat fried rice” during the coronavirus pandemic.</description>
-                  <dc:creator>Frank Miles</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 02:18:45 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Frank Miles</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/kate-hudson-goldie-hawn-rani-people-beautiful-issue</guid>
-      <link>https://www.foxnews.com/entertainment/kate-hudson-goldie-hawn-rani-people-beautiful-issue</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/08/goldie-hawn-kate-hudson-.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/goldie-hawn-kate-hudson-.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/goldie-hawn-kate-hudson-.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">06db660e-d42c-5263-8983-341a7c434666</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/kate-hudson</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Goldie Hawn, Kate Hudson and baby Rani cover People magazine's 'Beautiful' issue</title>
-      <description>Hudson appeared on the cover of the same issue in 2008.</description>
-                  <dc:creator>Nate Day</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 02:16:30 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/biden-bashes-trump-immigration-pause-coronavirus</guid>
-      <link>https://www.foxnews.com/politics/biden-bashes-trump-immigration-pause-coronavirus</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Trump-Biden_AP-Getty.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Trump-Biden_AP-Getty.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Trump-Biden_AP-Getty.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">2846dc26-b4d2-5f93-b6c4-b111d77acbcb</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/immigration</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Biden bashes Trump's immigration pause over coronavirus as 'irrational'</title>
-      <description>Joe Biden blasted President Trump on Tuesday over his promise to suspend immigration into the United States for 60 days in an effort to make sure Americans laid off due to the coronavirus pandemic are able to secure jobs once the economy recovers. </description>
-                  <dc:creator>Louis Casiano</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 02:14:41 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Louis Casiano</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/meghan-markle-prince-harry-texts-dad-revealed-court-docs</guid>
-      <link>https://www.foxnews.com/entertainment/meghan-markle-prince-harry-texts-dad-revealed-court-docs</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/01/thomas-markle-meghan-markle-prince-harry.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/thomas-markle-meghan-markle-prince-harry.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/thomas-markle-meghan-markle-prince-harry.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">b4b48cc6-1415-57d1-bdf8-0cf71368281c</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news/meghan-markle</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/prince-harry</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/in-court</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Texts from Meghan Markle, Prince Harry to her dad Thomas Markle revealed in court docs</title>
-      <description>As part of her legal case, new court documents show the communication between Meghan Markle and Prince Harry, and her father, Thomas Markle, in the days ahead of their royal wedding. </description>
-                  <dc:creator>Julius Young</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 02:13:24 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Julius Young</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/missouri-suing-china-direct-responsibility-for-coronavirus</guid>
-      <link>https://www.foxnews.com/media/missouri-suing-china-direct-responsibility-for-coronavirus</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/image-5-3.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image-5-3.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image-5-3.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">dfacce5e-59c5-5409-b9a4-e166c2e10d11</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/256980e7-image-7.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">29cfaf15-52b8-5880-ada1-a499db1b866c</category>
                   <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/ingraham-angle</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/texas</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/greg-abbott</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nba/dallas-mavericks</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/tucker-carlson-tonight</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Missouri AG says he's suing China over coronavirus because 'responsibility lies directly at their feet'</title>
-      <description>Missouri Attorney General Eric Schmitt joined "Tucker Carlson Tonight" Tuesday after his state became the first to file a lawsuit against China, accusing the Beijing government of being liable for the severity of the coronavirus pandemic and seeking damages to compensate for "the enormous loss of life, human suffering, and economic turmoil" resulting from the outbreak.</description>
-                  <dc:creator>Yael Halon</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 02:04:34 GMT</pubDate>
+      <title>Mark Cuban warns Texas is 'not yet' ready to fully reopen for business</title>
+      <description>Entrepreneur and Dallas Mavericks owner Mark Cuban told "The Ingraham Angle" Tuesday that his adopted home state is "not yet" ready to fully get back to business despite optimistic pronouncements from Gov. Greg Abbott.</description>
+                  <dc:creator>Samuel Chamberlain</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 04:21:22 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Yael Halon</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Samuel Chamberlain</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/scripps-national-spelling-bee-canceled-coronavirus</guid>
-      <link>https://www.foxnews.com/us/scripps-national-spelling-bee-canceled-coronavirus</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/rand-paul-speaks-out-against-500b-rescue-package-no-amount-of-bailout-dollars-will-stimulate-economy</guid>
+      <link>https://www.foxnews.com/politics/rand-paul-speaks-out-against-500b-rescue-package-no-amount-of-bailout-dollars-will-stimulate-economy</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/05/AP19151151910662.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP19151151910662.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8c5d4a2-5715-46da-ae58-a1bb0d2fd3b9/7e1b748a-4496-4abe-8fed-8bf8ef4161b8/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP19151151910662.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">63d648a9-8984-543a-bc75-8a487ea4ff6e</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">82a45fac-aaf7-5698-ae29-92cdfd0aca08</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/elections/senate</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/rand-paul</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Rand Paul speaks out against $500B rescue package,  ‘no amount  of bailout dollars’ will stimulate economy</title>
+      <description>Sen. Rand Paul, R-Ky., spoke out in opposition against the $484 billion small business package that was passed in the Senate Tuesday and warned, “no amount of bailout dollars will stimulate an economy that is being strangled by quarantine.”</description>
+                  <dc:creator>Edmund DeMarche</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 04:01:59 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/this-day-in-history-april-22</guid>
+      <link>https://www.foxnews.com/us/this-day-in-history-april-22</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/ElianAP042220.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/ElianAP042220.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/ElianAP042220.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9a5324c0-2780-5faf-837c-6c7c9520eac3</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/this-day-in-history</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Coronavirus forces cancellation of Scripps National Spelling Bee for first time in decades</title>
-      <description>The Scripps National Spelling Bee was canceled on Tuesday for the first time in since World War II, in light of the novel coronavirus (COVID-19) outbreak. </description>
-                  <dc:creator>Nick Givas</dc:creator>
-                         <pubDate>Wed, 22 Apr 2020 01:57:44 GMT</pubDate>
+      <title>This Day in History: April 22</title>
+      <description>Congress authorizes the use of the phrase “In God We Trust” on U.S. coins; televised sessions of the Senate Army-McCarthy hearings begin.</description>
+                   <pubDate>Wed, 22 Apr 2020 04:00:03 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Nick Givas</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/california-woman-convicted-in-husbands-hammer-death-gets-virus-related-temporary-release-reports</guid>
+      <link>https://www.foxnews.com/us/california-woman-convicted-in-husbands-hammer-death-gets-virus-related-temporary-release-reports</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/08/gavel.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/gavel.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/gavel.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">77886185-89cc-5d98-a98c-b2f80014c30c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime/homicide</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>California woman convicted in husband’s hammer death gets virus-related temporary release: reports</title>
+      <description>A California woman convicted of beating her husband with a hammer, strangling him and then dumping his body just before Valentines Day in 2000 has been granted a temporary release from prison because of the coronavirus outbreak, according to reports.</description>
+                  <dc:creator>Dom Calicchio</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 03:49:49 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/mark-levin-mnuchin-fdr-adherent-coronavirus-stimulus</guid>
+      <link>https://www.foxnews.com/media/mark-levin-mnuchin-fdr-adherent-coronavirus-stimulus</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/12/Levin121319.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Levin121319.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Levin121319.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d635d864-1cbb-5b2f-822c-37455e933510</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/executive/cabinet</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/economy</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/life-liberty-levin</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/nancy-pelosi</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/chuck-schumer</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/democrats</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/republicans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/congress</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Mark Levin slams 'FDR adherent' Mnuchin, both parties for forcing through 'Maduro economic plan'</title>
+      <description>Mark Levin lit into Treasury Secretary Steve Mnuchin and leaders of both parties in Congress Tuesday after the Senate approved $484 billion in aid to help small businesses and other establishments deal with the effects of the coronavirus pandemic, which Levin said could potentially explode inflation and create "Weimar Republic"-level financial distress on future generations.</description>
+                  <dc:creator>Charles Creitz</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 03:16:54 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Charles Creitz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/tech/coronavirus-3d-printed-nasal-swabs</guid>
+      <link>https://www.foxnews.com/tech/coronavirus-3d-printed-nasal-swabs</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01dc6778-3ecd-430e-b4cf-16518625e38a/1d4d1b36-38a0-4095-8ba8-049cb9323c8f/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">db56b293-2998-5b70-9fef-15dee4185fc4</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/technologies/3d</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/technologies/printers</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/tech</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>In the battle against coronavirus, 3D-printed nasal swabs enter the health care arsenal</title>
+      <description>As America attempts to contain the coronavirus outbreak, 3D-printed nasal swabs are being touted to boost health care workers’ testing arsenal.</description>
+                  <dc:creator>James Rogers</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 03:13:38 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">James Rogers</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/val-kilmer-tom-cruise-party-boys-top-gun</guid>
+      <link>https://www.foxnews.com/entertainment/val-kilmer-tom-cruise-party-boys-top-gun</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/val-kilmer-portrait-ap-660.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/val-kilmer-portrait-ap-660.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/val-kilmer-portrait-ap-660.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6c23d860-af2a-5003-bc07-26e42aae1f01</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/movies</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/books</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/then-and-now</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Val Kilmer reveals why Tom Cruise didn't hang with the ‘party boys’ cast during the filming of ‘Top Gun'</title>
+      <description>Val Kilmer revealed some epic insight into the cast dynamic on the set of the 1986 action blockbuster “Top Gun.”</description>
+                  <dc:creator>Julius Young</dc:creator>
+                         <pubDate>Wed, 22 Apr 2020 03:13:34 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Julius Young</category>
                             </item>
       </channel>
 </rss>
