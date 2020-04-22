@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 22 Apr 2020 21:39:52 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Apr 2020 21:39:52 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2020 23:22:55 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2020 23:22:55 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -19,8 +19,8 @@
       <link>https://www.nytimes.com/2020/04/22/us/coronavirus-live-coverage.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/coronavirus-live-coverage.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/22/us/coronavirus-live-coverage.html" rel="standout"></atom:link>
-      <description>The first known U.S. death from the illness came in early February in California. An order by Trump will impose a 60-day halt in issuing green cards. Some stability returned to the energy market.</description>
-      <pubDate>Wed, 22 Apr 2020 21:35:40 +0000</pubDate>
+      <description>The first known U.S. death from the illness came in early February in California. Trump signed an executive order imposing a 60-day halt in issuing green cards.</description>
+      <pubDate>Wed, 22 Apr 2020 23:17:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v325.png" width="151"></media:content>
       <media:credit>The New York Times</media:credit>
@@ -32,7 +32,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/22/us/coronavirus-first-united-states-death.html" rel="standout"></atom:link>
       <description>The earliest U.S. deaths publicly attributed to the virus had been on Feb. 26, when two people died in the Seattle area. Santa Clara County said an autopsy showed a Feb. 6 death was also related.</description>
       <dc:creator>Thomas Fuller and Mike Baker</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 12:51:18 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2020 21:53:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Clara County (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -82,6 +82,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/22virus-firstcase1/00virus-firstcase01-moth.jpg" width="151"></media:content>
       <media:credit>Miles Fortune for The New York Times</media:credit>
       <media:description>A man suspected of bringing the coronavirus from China to the United States landed at Seattle-Tacoma International Airport, shown here in February.</media:description>
+    </item>
+    <item>
+      <title>Two Cats Are First U.S. Pets to Test Positive for Coronavirus</title>
+      <link>https://www.nytimes.com/2020/04/22/health/cats-pets-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/health/cats-pets-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/health/cats-pets-coronavirus.html" rel="standout"></atom:link>
+      <description>The animals appear to have mild symptoms and likely caught the virus from their owners. And there’s no evidence pets can pass it to humans.</description>
+      <dc:creator>James Gorman</dc:creator>
+      <pubDate>Wed, 22 Apr 2020 22:14:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tigers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterinary Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/science/22VIRUS-PETCATS1/22VIRUS-PETCATS1-moth.jpg" width="151"></media:content>
+      <media:credit>Mohamed Hossam/EPA, via Shutterstock</media:credit>
+      <media:description>Two pet cats in New York State tested positive for the virus but showed only mild symptoms and are expected to be fine.</media:description>
     </item>
     <item>
       <title>Carole Brookins, a Rare Woman on 1970s Wall Street, Dies at 76</title>
@@ -196,7 +216,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/22/obituaries/bennie-g-adkins-dead-coronavirus.html" rel="standout"></atom:link>
       <description>He was awarded the Medal of Honor in 2014 for bravery in battle and aided veterans in his later years. He died of the new coronavirus.</description>
       <dc:creator>Richard Goldstein</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 17:23:07 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2020 22:04:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medal of Honor (US)</category>
@@ -449,12 +469,12 @@
       <media:description>Gov. Jay Inslee of Washington at a coronavirus briefing in Olympia this month. He said in an interview that he was confident Joseph R. Biden Jr. was “willing to aim faster and higher” on climate policy. </media:description>
     </item>
     <item>
-      <title>Stocks Rise as Oil Prices Rebound: Live Market Updates</title>
+      <title>Airlines and Automakers Consider How to Reopen: Live Updates</title>
       <link>https://www.nytimes.com/2020/04/22/business/stock-market-tracker-live-coronavirus.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/business/stock-market-tracker-live-coronavirus.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/22/business/stock-market-tracker-live-coronavirus.html" rel="standout"></atom:link>
       <description>The latest on stock market and business news during the coronavirus outbreak.</description>
-      <pubDate>Wed, 22 Apr 2020 20:57:30 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2020 22:37:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
@@ -464,12 +484,12 @@
       <media:description>The chief executive of Delta, Ed Bastian, told financial analysts on Wednesday his company was prepared to “make whatever changes to the business model that will be necessary.”</media:description>
     </item>
     <item>
-      <title>Coronavirus World News: Crisis Fuels Economic Chaos, Hunger and Strongmen</title>
+      <title>Coronavirus World News: Economic Chaos Fuels Hunger and Strongmen</title>
       <link>https://www.nytimes.com/2020/04/22/world/coronavirus-cases-world.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/world/coronavirus-cases-world.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/22/world/coronavirus-cases-world.html" rel="standout"></atom:link>
-      <description>The E.U. accused Poland and Hungary of  undermining democracy — and gave them billions in aid. Iran may be executing prisoners who feared infection.</description>
-      <pubDate>Wed, 22 Apr 2020 20:47:32 +0000</pubDate>
+      <description>The E.U. accused Poland and Hungary of undermining democracy — and gave them billions in aid. Iran may be executing prisoners who feared infection.</description>
+      <pubDate>Wed, 22 Apr 2020 23:20:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/world/22virus-int-briefing-oil3/21oil-impact5-moth.jpg" width="151"></media:content>
       <media:credit>Essam Al-Sudani/Reuters</media:credit>
@@ -533,7 +553,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/21/books/banned-books-lgbtq.html" rel="standout"></atom:link>
       <description>Eight of the 10 titles identified in the American Library Association’s annual ranking of the most frequently banned or protested books featured L.G.B.T.Q. subject matter.</description>
       <dc:creator>Christine Hauser</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 16:12:00 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2020 21:40:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Libraries and Librarians</category>
@@ -541,162 +561,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/books/21xp-books/21xp-books-moth.jpg" width="151"></media:content>
       <media:credit>Eric Liebowitz/HBO, via Associated Press</media:credit>
       <media:description>The HBO host John Oliver with a copy of “A Day in the Life of Marlon Bundo,” which imagines a gay romance involving Vice President Mike Pence’s rabbit.</media:description>
-    </item>
-    <item>
-      <title>Trump Blocks Green Cards During Coronavirus</title>
-      <link>https://www.nytimes.com/2020/04/21/us/politics/coronavirus-trump-immigration-ban.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/us/politics/coronavirus-trump-immigration-ban.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/21/us/politics/coronavirus-trump-immigration-ban.html" rel="standout"></atom:link>
-      <description>After pledging on Twitter to end immigration during the pandemic, President Trump moved to block new green cards but stopped short of ending all work visas.</description>
-      <dc:creator>Michael D. Shear, Zolan Kanno-Youngs and Caitlin Dickerson</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 01:14:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Green Cards (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/us/politics/21dc-virus-immig1/21dc-virus-immig1-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Jose Luis Gonzalez/Reuters</media:credit>
-      <media:description>People waiting to reschedule their immigration hearings on Tuesday in Ciudad Juárez on an international bridge between the United States and Mexico.</media:description>
-    </item>
-    <item>
-      <title>The Census Needs to Count Women. The Pandemic Makes That Harder.</title>
-      <link>https://www.nytimes.com/2020/04/21/us/census-women-covid-pandemic.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/us/census-women-covid-pandemic.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/21/us/census-women-covid-pandemic.html" rel="standout"></atom:link>
-      <description>After noticing a gender gap in intention to participate, the Census Bureau kicked off a campaign this year to encourage more women to take part.</description>
-      <dc:creator>Emma Goldberg</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 17:50:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Census</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Census Bureau</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garcia Trejo, Yazmin</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/us/21ihw-census/21ihw-census-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Brian Snyder/Reuters</media:credit>
-    </item>
-    <item>
-      <title>‘I Am Beyond Disturbed’: Internal Dissent as States Reopen Despite Virus</title>
-      <link>https://www.nytimes.com/2020/04/21/us/coronavirus-georgia-south-carolina.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/us/coronavirus-georgia-south-carolina.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/21/us/coronavirus-georgia-south-carolina.html" rel="standout"></atom:link>
-      <description>Several mayors and employers have asked residents to ignore the Georgia governor’s declaration that some businesses can resume operation while the coronavirus lingers.</description>
-      <dc:creator>Rick Rojas and Richard Fausset</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 12:51:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kemp, Brian P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/us/21virus-reopening01/21virus-reopening01-moth.jpg" width="151"></media:content>
-      <media:credit>Robert Willett/The News &amp; Observer, via Associated Press</media:credit>
-      <media:description>Protesters on Tuesday called on Gov. Roy Cooper of North Carolina to follow other Southern states by reopening. </media:description>
-    </item>
-    <item>
-      <title>Trump’s 60-Day Ban of Green Cards Leaves Families Reeling</title>
-      <link>https://www.nytimes.com/2020/04/21/us/trump-immigration-ban-covid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/us/trump-immigration-ban-covid.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/21/us/trump-immigration-ban-covid.html" rel="standout"></atom:link>
-      <description>President Trump’s move to suspend some green cards could make it harder for many immigrants to reunite with loved ones or work in the United States.</description>
-      <dc:creator>Caitlin Dickerson and Miriam Jordan</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 02:48:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Green Cards (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/us/21Virus-Immigreax/21Virus-Immigreax-moth-v2.jpg" width="151"></media:content>
-      <media:description>Twinkle Anand Pullat, right, and Sushita Surendran, seen here in a family photo. They work in Olive Branch, Miss., where they have bought a home and had a son, Vivaan.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Takes Over Political Advertising</title>
-      <link>https://www.nytimes.com/2020/04/21/us/politics/coronavirus-takes-over-political-advertising.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/us/politics/coronavirus-takes-over-political-advertising.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/21/us/politics/coronavirus-takes-over-political-advertising.html" rel="standout"></atom:link>
-      <description>Political campaigns were reluctant to focus too heavily on the coronavirus outbreak. What changed?</description>
-      <dc:creator>Nick Corasaniti</dc:creator>
-      <pubDate>Tue, 21 Apr 2020 23:04:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-    </item>
-    <item>
-      <title>Trump and Cuomo Put Aside Disputes During White House Meeting</title>
-      <link>https://www.nytimes.com/2020/04/21/us/politics/trump-andrew-cuomo-meeting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/us/politics/trump-andrew-cuomo-meeting.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/21/us/politics/trump-andrew-cuomo-meeting.html" rel="standout"></atom:link>
-      <description>After alternating praise and quarrels for weeks, President Trump and Gov. Andrew M. Cuomo of New York had what the governor called “a good conversation” over testing and aid to states and localities.</description>
-      <dc:creator>Peter Baker and Jesse McKinley</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 00:47:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cuomo, Andrew M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Devices</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/us/politics/21dc-virus-trump-cuomo3/21dc-virus-trump-cuomo3-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump on Tuesday during the daily coronavirus briefing at the White House.</media:description>
-    </item>
-    <item>
-      <title>New U.S. Treatment Guidelines for Covid-19 Don’t See Much Progress</title>
-      <link>https://www.nytimes.com/2020/04/21/health/nih-covid-19-treatment.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/health/nih-covid-19-treatment.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/21/health/nih-covid-19-treatment.html" rel="standout"></atom:link>
-      <description>A panel of experts said there was insufficient evidence about many drugs that have been considered as possible remedies for coronavirus patients, including some President Trump has advocated.</description>
-      <dc:creator>Denise Grady</dc:creator>
-      <pubDate>Tue, 21 Apr 2020 23:16:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hydroxychloroquine (Drug)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chloroquine (Drug)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Azithromycin (Drug)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institute of Allergy and Infectious Diseases</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Veterans Affairs Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/science/21VIRUS-TREATMENT/21VIRUS-TREATMENT-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Ben Margot/Associated Press</media:credit>
-      <media:description>The panel specifically advised against the malaria drug hydroxychloroquine, which was associated with an increased risk of death.</media:description>
-    </item>
-    <item>
-      <title>House Readies Historic Changes to Allow Remote Voting During Pandemic</title>
-      <link>https://www.nytimes.com/2020/04/21/us/politics/coronavirus-house-remote-voting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/us/politics/coronavirus-house-remote-voting.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/21/us/politics/coronavirus-house-remote-voting.html" rel="standout"></atom:link>
-      <description>Democratic leaders plan to temporarily dispatch with two centuries of precedent as the coronavirus upends American life and government.</description>
-      <dc:creator>Nicholas Fandos</dc:creator>
-      <pubDate>Tue, 21 Apr 2020 23:47:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Videophones and Videoconferencing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/us/politics/21dc-virus-remotecong2/merlin_171790395_326a5cbd-4d19-4bae-93e3-314fc68a4f60-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>An empty hallway leading to the House chamber in the Capitol on Tuesday.</media:description>
     </item>
   </channel>
 </rss>
