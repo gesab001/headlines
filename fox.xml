@@ -10,6 +10,27 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/trump-launches-new-defense-of-protesters-demanding-states-reopen-their-economies</guid>
+      <link>https://www.foxnews.com/politics/trump-launches-new-defense-of-protesters-demanding-states-reopen-their-economies</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20109775299892.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20109775299892.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20109775299892.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">a56a9478-e331-596c-b496-e3c150ddd018</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Trump launches new defense of protesters demanding states reopen their economies</title>
+      <description>President Trump defended protesters who have turned up at state capitols and outside governors mansions to demand the reopening of businesses to jumpstart a fractured economy crippled by businesses closures and massive layoffs. </description>
+                  <dc:creator>Louis Casiano</dc:creator>
+                         <pubDate>Tue, 21 Apr 2020 23:51:04 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Louis Casiano</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/world/trudeau-ban-on-assault-style-weapons-shooting-death-toll-rises</guid>
       <link>https://www.foxnews.com/world/trudeau-ban-on-assault-style-weapons-shooting-death-toll-rises</link>
                   <media:group>
@@ -214,28 +235,6 @@
                          <pubDate>Tue, 21 Apr 2020 23:11:20 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/maren-morris-responds-critic-botox-use</guid>
-      <link>https://www.foxnews.com/entertainment/maren-morris-responds-critic-botox-use</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/11/Maren-Morris.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Maren-Morris.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Maren-Morris.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">2e9cb8f9-f4ee-50db-b1d5-edc2da624be0</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/maren-morris</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Maren Morris hits back at Instagram critic who told the country singer to 'stop with the Botox'</title>
-      <description>Maren Morris has bigger things to worry about than getting Botox right now.</description>
-                  <dc:creator>Jessica Napoli</dc:creator>
-                         <pubDate>Tue, 21 Apr 2020 23:08:07 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Jessica Napoli</category>
                             </item>
       </channel>
 </rss>
