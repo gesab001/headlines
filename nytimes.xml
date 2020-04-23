@@ -7,40 +7,68 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 22 Apr 2020 23:22:55 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Apr 2020 23:22:55 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2020 00:30:27 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2020 00:30:27 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>Live Coronavirus Updates</title>
-      <link>https://www.nytimes.com/2020/04/22/us/coronavirus-live-coverage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/coronavirus-live-coverage.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/22/us/coronavirus-live-coverage.html" rel="standout"></atom:link>
-      <description>The first known U.S. death from the illness came in early February in California. Trump signed an executive order imposing a 60-day halt in issuing green cards.</description>
-      <pubDate>Wed, 22 Apr 2020 23:17:00 +0000</pubDate>
+      <title>Santa Clara County: First Known U.S. Coronavirus Death Occurred on Feb. 6</title>
+      <link>https://www.nytimes.com/2020/04/22/us/santa-clara-county-coronavirus-death.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/santa-clara-county-coronavirus-death.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/santa-clara-county-coronavirus-death.html" rel="standout"></atom:link>
+      <description>The startling discovery that the virus was responsible for a Feb. 6 death in California raises questions about where else it might have been spreading undetected.</description>
+      <dc:creator>Thomas Fuller, Mike Baker, Shawn Hubler and Sheri Fink</dc:creator>
+      <pubDate>Wed, 22 Apr 2020 23:57:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v325.png" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Clara County (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/22VIRUS-EARLYFEB/22VIRUS-EARLYFEB-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <media:description>The coronavirus was circulating in the Bay Area of California as early as January, even before the federal government began restricting travel from China on Feb. 2.</media:description>
     </item>
     <item>
-      <title>Santa Clara County Coronavirus Death Is First Known in U.S.</title>
-      <link>https://www.nytimes.com/2020/04/22/us/coronavirus-first-united-states-death.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/coronavirus-first-united-states-death.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/22/us/coronavirus-first-united-states-death.html" rel="standout"></atom:link>
-      <description>The earliest U.S. deaths publicly attributed to the virus had been on Feb. 26, when two people died in the Seattle area. Santa Clara County said an autopsy showed a Feb. 6 death was also related.</description>
-      <dc:creator>Thomas Fuller and Mike Baker</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 21:53:32 +0000</pubDate>
+      <title>Harvard Won&#39;t Take Coronavirus Relief Money After Trump&#39;s Criticism</title>
+      <link>https://www.nytimes.com/2020/04/22/us/harvard-trump-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/harvard-trump-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/harvard-trump-coronavirus.html" rel="standout"></atom:link>
+      <description>The university said it did not request $8.6 million in federal aid and would not apply for it.</description>
+      <dc:creator>Anemona Hartocollis</dc:creator>
+      <pubDate>Wed, 22 Apr 2020 22:48:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endowments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Clara County (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/22virus-firstdeath1/22virus-firstdeath1-moth.jpg" width="151"></media:content>
-      <media:credit>Scott Strazzante/San Francisco Chronicle, via Associated Press</media:credit>
-      <media:description>The earliest publicly known coronavirus death in the United States came in the Bay Area in early February, health officials said Tuesday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeVos, Elizabeth (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cruz, Ted</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/22virus-harvard/22virus-harvard-moth.jpg" width="151"></media:content>
+      <media:credit>Tristan Spinski for The New York Times</media:credit>
+      <media:description>Harvard University’s campus last month. Harvard said in a statement that it faced “significant financial challenges” because of the pandemic and the resulting economic crisis.</media:description>
+    </item>
+    <item>
+      <title>Tight-Knit Company Towns Reel as Coronavirus Rolls Through</title>
+      <link>https://www.nytimes.com/2020/04/22/us/politics/coronavirus-workplaces-midwest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/politics/coronavirus-workplaces-midwest.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/politics/coronavirus-workplaces-midwest.html" rel="standout"></atom:link>
+      <description>Cases are leveling off in some coastal cities, but outbreaks are mounting in processing plants and factories in Midwestern towns.</description>
+      <dc:creator>Dionne Searcey</dc:creator>
+      <pubDate>Wed, 22 Apr 2020 22:49:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pork</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iowa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meat Packers and Butchers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tyson Foods Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/22virus-workplace2/merlin_171584307_6453e311-6c9e-4b31-9f54-bfbc38cb22f0-moth.jpg" width="151"></media:content>
+      <media:credit>Joseph Cress/Iowa City Press-Citizen, via Associated Press</media:credit>
+      <media:description>The Tyson Foods pork processing plant in Columbus Junction, Iowa, has had a cluster of coronavirus cases.</media:description>
     </item>
     <item>
       <title>Coronavirus Is Making School Harder for Immigrant Students</title>
@@ -63,25 +91,85 @@
       <media:description>A closed school in Kentfield, Calif., this month.</media:description>
     </item>
     <item>
-      <title>Solving the Mysteries of Coronavirus With Genetic Fingerprints</title>
-      <link>https://www.nytimes.com/2020/04/22/us/coronavirus-sequencing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/coronavirus-sequencing.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/22/us/coronavirus-sequencing.html" rel="standout"></atom:link>
-      <description>Scientists traced the virus brought to the Seattle area in January. They were astonished to learn that the same branch of the virus traveled on through at least a dozen states and to other parts of the world.</description>
-      <dc:creator>Mike Baker and Sheri Fink</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 12:50:47 +0000</pubDate>
+      <title>Tornado Kills One in Southern Oklahoma</title>
+      <link>https://www.nytimes.com/2020/04/22/us/tornado-kills-one-in-southern-oklahoma.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/tornado-kills-one-in-southern-oklahoma.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/tornado-kills-one-in-southern-oklahoma.html" rel="standout"></atom:link>
+      <description>Two factories in Marshall County were damaged as storms moved through the state.</description>
+      <dc:creator>Michael Levenson</dc:creator>
+      <pubDate>Wed, 22 Apr 2020 23:48:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma</category>
+    </item>
+    <item>
+      <title>The Fear of Coronavirus and Flu Colliding in the Fall</title>
+      <link>https://www.nytimes.com/2020/04/22/health/coronavirus-flu-second-wave.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/health/coronavirus-flu-second-wave.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/health/coronavirus-flu-second-wave.html" rel="standout"></atom:link>
+      <description>Even as the president plays down that possibility, the C.D.C. chief and other experts warn of a dual challenge.</description>
+      <dc:creator>Denise Grady</dc:creator>
+      <pubDate>Thu, 23 Apr 2020 00:17:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Washington</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hutchinson, Fred, Cancer Research Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/22virus-firstcase1/00virus-firstcase01-moth.jpg" width="151"></media:content>
-      <media:credit>Miles Fortune for The New York Times</media:credit>
-      <media:description>A man suspected of bringing the coronavirus from China to the United States landed at Seattle-Tacoma International Airport, shown here in February.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Redfield, Robert R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/science/22VIRUS-CDC/22VIRUS-CDC-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Brandon/Associated Press</media:credit>
+      <media:description>Dr. Robert Redfield, the C.D.C. director, spoke at a coronavirus briefing at the White House last week.</media:description>
+    </item>
+    <item>
+      <title>Company Questions Deal by ‘Shark Tank’ Star to Sell N95 Masks to Florida</title>
+      <link>https://www.nytimes.com/2020/04/22/us/daymond-john-n95-masks-florida-3m.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/daymond-john-n95-masks-florida-3m.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/daymond-john-n95-masks-florida-3m.html" rel="standout"></atom:link>
+      <description>The company that makes the masks, 3M, said Daymond John’s firm The Shark Group was not an authorized distributor and appeared to have been selling them at an inflated price.</description>
+      <dc:creator>Michael Levenson</dc:creator>
+      <pubDate>Wed, 22 Apr 2020 22:35:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">John, Daymond</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Shark Tank (TV Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/21/business/21xp-virus-sharkgroup/21xp-virus-sharkgroup-moth.jpg" width="151"></media:content>
+      <media:credit>Krista Schlueter for The New York Times</media:credit>
+      <media:description>A company that makes N95 masks said that Daymond John’s firm, The Shark Group, was not an authorized distributor and appeared to have been trying to sell the masks at a significantly inflated price.</media:description>
+    </item>
+    <item>
+      <title>Q&amp;A With a Trump Economic Adviser</title>
+      <link>https://www.nytimes.com/2020/04/22/us/politics/stephen-moore-coronavirus-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/politics/stephen-moore-coronavirus-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/politics/stephen-moore-coronavirus-economy.html" rel="standout"></atom:link>
+      <description>We spoke to Stephen Moore, a member of President Trump’s economic task force, about the risks of reopening, what he’s advising the president and his predictions of a coming “economic civil war.”</description>
+      <dc:creator>Lisa Lerer</dc:creator>
+      <pubDate>Wed, 22 Apr 2020 23:19:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Stephen (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/22onpolitics-pm/22onpolitics-pm-moth-v8.jpg" width="151"></media:content>
+      <media:credit>Tom Williams/CQ Roll Call</media:credit>
+      <media:description>Stephen Moore.</media:description>
+    </item>
+    <item>
+      <title>DeVos Excludes ‘Dreamers’ From Coronavirus College Relief</title>
+      <link>https://www.nytimes.com/2020/04/22/us/politics/coronavirus-funds-colleges-dreamers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/politics/coronavirus-funds-colleges-dreamers.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/politics/coronavirus-funds-colleges-dreamers.html" rel="standout"></atom:link>
+      <description>The education secretary told colleges that congressional relief for students dislocated by campus closures cannot go to undocumented immigrants, even those under federal protection.</description>
+      <dc:creator>Erica L. Green</dc:creator>
+      <pubDate>Wed, 22 Apr 2020 21:40:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Financial Aid (Education)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deferred Action for Childhood Arrivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeVos, Elizabeth (1958- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/politics/22dc-virus-daca/22dc-virus-daca-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Education Secretary Betsy DeVos speaking at the White House last month. Ms. DeVos’s agency received more than $6 billion in emergency relief to give to students.</media:description>
     </item>
     <item>
       <title>Two Cats Are First U.S. Pets to Test Positive for Coronavirus</title>
@@ -142,6 +230,29 @@
       <media:description>Viral challenges on TikTok, Facebook, Instagram and Twitter are helping social media users bat away the tedium of isolating at home.</media:description>
     </item>
     <item>
+      <title>House Democrats Retreat on Remote Voting as Republicans Clamor to Reopen</title>
+      <link>https://www.nytimes.com/2020/04/22/us/politics/house-remote-voting-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/politics/house-remote-voting-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/politics/house-remote-voting-coronavirus.html" rel="standout"></atom:link>
+      <description>Speaker Nancy Pelosi scrapped a planned vote to change House rules to allow remote voting for the first time in Congress’s history, amid Republican opposition.</description>
+      <dc:creator>Catie Edmondson and Emily Cochrane</dc:creator>
+      <pubDate>Wed, 22 Apr 2020 22:47:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Kevin (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/politics/22dc-virus-cong/22dc-virus-cong-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker/The New York Times</media:credit>
+      <media:description>Speaker Nancy Pelosi, working with Representative Kevin McCarthy, the Republican leader, will have a bipartisan group of lawmakers consider remote voting proposals and plans to reopen the House.</media:description>
+    </item>
+    <item>
       <title>U.S. Sailors’ New Reality: Confinement on Land and at Sea</title>
       <link>https://www.nytimes.com/2020/04/22/magazine/navy-coronavirus-ronald-reagan.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/magazine/navy-coronavirus-ronald-reagan.html</guid>
@@ -165,7 +276,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/22/arts/matt-damon-ireland-coronavirus.html" rel="standout"></atom:link>
       <description>But don’t you dare ask what it’s like living under lockdown with Matt O’Damon.</description>
       <dc:creator>Heather Murphy</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 20:07:42 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2020 00:05:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Damon, Matt</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
@@ -280,6 +391,54 @@
       <media:description>The intelligence community should be pushing American values with the countries it does business with, Richard Grenell, the acting director of national intelligence, said in an interview this week.</media:description>
     </item>
     <item>
+      <title>Social Distancing for Coronavirus Has a History</title>
+      <link>https://www.nytimes.com/2020/04/22/us/politics/social-distancing-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/politics/social-distancing-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/politics/social-distancing-coronavirus.html" rel="standout"></atom:link>
+      <description>The idea has been around for centuries. But it took a high school science fair, George W. Bush, history lessons and some determined researchers to overcome skepticism and make it federal policy.</description>
+      <dc:creator>Eric Lipton and Jennifer Steinhauer</dc:creator>
+      <pubDate>Wed, 22 Apr 2020 21:43:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza Epidemic (1918-19)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sandia National Laboratories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Veterans Affairs Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Louis (Mo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/23/us/politics/23dc-virus-distancing-1/00dc-virus-distance1-moth.jpg" width="151"></media:content>
+      <media:credit>Elizabeth Bick for The New York Times</media:credit>
+      <media:description>The concept of social distancing during a pandemic has been around since the Middle Ages. But it took a battle to make it an official policy response in the United States.</media:description>
+    </item>
+    <item>
+      <title>As Leaders Urge Face Masks, Their Behavior Muffles the Message</title>
+      <link>https://www.nytimes.com/2020/04/22/us/politics/coronavirus-masks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/politics/coronavirus-masks.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/politics/coronavirus-masks.html" rel="standout"></atom:link>
+      <description>The medical guidelines are clear, but it’s not always an easy choice for image-conscious politicians.</description>
+      <dc:creator>Annie Karni and Maggie Astor</dc:creator>
+      <pubDate>Wed, 22 Apr 2020 15:14:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pence, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Polis, Jared S (1975- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/politics/22facemasks-01-copy/22facemasks-01-copy-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Michael Ciaglo/Getty Images</media:credit>
+      <media:description>Gov. Jared Polis of Colorado spoke with a maskless Mike Pence after the vice president’s arrival at Peterson Air Force Base in Colorado Springs on Saturday.</media:description>
+    </item>
+    <item>
       <title>The Virus Won’t Revive F.D.R.’s Arts Jobs Program. Here’s Why.</title>
       <link>https://www.nytimes.com/2020/04/22/arts/new-deal-arts-coronavirus.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/arts/new-deal-arts-coronavirus.html</guid>
@@ -376,6 +535,17 @@
       <pubDate>Wed, 22 Apr 2020 10:36:30 +0000</pubDate>
     </item>
     <item>
+      <title>Live Coronavirus Updates</title>
+      <link>https://www.nytimes.com/2020/04/22/us/coronavirus-live-coverage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/coronavirus-live-coverage.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/coronavirus-live-coverage.html" rel="standout"></atom:link>
+      <description>The first known U.S. death from the illness came in early February in California. Trump signed an executive order imposing a 60-day halt in issuing green cards.</description>
+      <pubDate>Thu, 23 Apr 2020 00:09:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v325.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
       <title>7 Travel Stories to Help You Celebrate the 50th Anniversary of Earth Day</title>
       <link>https://www.nytimes.com/2020/04/22/travel/earth-day-online.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/travel/earth-day-online.html</guid>
@@ -417,6 +587,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warren, Elizabeth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Porter, Katie (1974- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/15/us/politics/00womenswork-topalt/00womenswork-topalt-moth.jpg" width="151"></media:content>
+      <media:credit>via Saba Lurie</media:credit>
+      <media:description>Saba Lurie’s daughters watched a children’s yoga video on YouTube while she worked at home in Los Angeles last month.</media:description>
     </item>
     <item>
       <title>Chinese Agents Helped Spread Messages That Sowed Virus Panic in U.S., Officials Say</title>
@@ -469,12 +642,50 @@
       <media:description>Gov. Jay Inslee of Washington at a coronavirus briefing in Olympia this month. He said in an interview that he was confident Joseph R. Biden Jr. was “willing to aim faster and higher” on climate policy. </media:description>
     </item>
     <item>
+      <title>Covid-19 Arrived in Seattle. Where It Went From There Stunned the Scientists.</title>
+      <link>https://www.nytimes.com/2020/04/22/us/coronavirus-sequencing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/coronavirus-sequencing.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/coronavirus-sequencing.html" rel="standout"></atom:link>
+      <description>Scientists traced the virus brought to the Seattle area in January. They were astonished to learn that the same branch of the virus traveled on through at least a dozen states and to other parts of the world.</description>
+      <dc:creator>Mike Baker and Sheri Fink</dc:creator>
+      <pubDate>Thu, 23 Apr 2020 00:15:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Washington</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hutchinson, Fred, Cancer Research Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/22virus-firstcase1/00virus-firstcase01-moth.jpg" width="151"></media:content>
+      <media:credit>Miles Fortune for The New York Times</media:credit>
+      <media:description>A man suspected of bringing the coronavirus from China to the United States landed at Seattle-Tacoma International Airport, shown here in February.</media:description>
+    </item>
+    <item>
+      <title>Santa Clara County Coronavirus Death Is First Known in U.S.</title>
+      <link>https://www.nytimes.com/2020/04/22/us/coronavirus-first-united-states-death.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/coronavirus-first-united-states-death.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/coronavirus-first-united-states-death.html" rel="standout"></atom:link>
+      <description>The earliest U.S. deaths publicly attributed to the virus had been on Feb. 26, when two people died in the Seattle area. Santa Clara County said an autopsy showed a Feb. 6 death was also related.</description>
+      <dc:creator>Thomas Fuller and Mike Baker</dc:creator>
+      <pubDate>Wed, 22 Apr 2020 21:53:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Clara County (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/22virus-firstdeath1/22virus-firstdeath1-moth.jpg" width="151"></media:content>
+      <media:credit>Scott Strazzante/San Francisco Chronicle, via Associated Press</media:credit>
+      <media:description>The earliest publicly known coronavirus death in the United States came in the Bay Area in early February, health officials said Tuesday.</media:description>
+    </item>
+    <item>
       <title>Airlines and Automakers Consider How to Reopen: Live Updates</title>
       <link>https://www.nytimes.com/2020/04/22/business/stock-market-tracker-live-coronavirus.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/business/stock-market-tracker-live-coronavirus.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/22/business/stock-market-tracker-live-coronavirus.html" rel="standout"></atom:link>
       <description>The latest on stock market and business news during the coronavirus outbreak.</description>
-      <pubDate>Wed, 22 Apr 2020 22:37:18 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2020 00:18:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
@@ -489,7 +700,7 @@
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/world/coronavirus-cases-world.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/22/world/coronavirus-cases-world.html" rel="standout"></atom:link>
       <description>The E.U. accused Poland and Hungary of undermining democracy — and gave them billions in aid. Iran may be executing prisoners who feared infection.</description>
-      <pubDate>Wed, 22 Apr 2020 23:20:32 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2020 00:16:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/world/22virus-int-briefing-oil3/21oil-impact5-moth.jpg" width="151"></media:content>
       <media:credit>Essam Al-Sudani/Reuters</media:credit>
@@ -515,52 +726,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/us/21virus-harvard1/21virus-harvard1-moth.jpg" width="151"></media:content>
       <media:credit>Tristan Spinski for The New York Times</media:credit>
       <media:description>Although coronavirus stimulus funds were allocated to colleges, critics were upset to see any federal money flow to Harvard, whose endowment was $40.9 billion in June. </media:description>
-    </item>
-    <item>
-      <title>Virginia Savage McAlester, ‘Queen of Dallas Preservation,’ Dies at 76</title>
-      <link>https://www.nytimes.com/2020/04/21/arts/virginia-savage-mcalester-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/arts/virginia-savage-mcalester-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/21/arts/virginia-savage-mcalester-dead.html" rel="standout"></atom:link>
-      <description>Her book “A Field Guide to American Houses,” published in 1984 and revised in 2013, made her a household name among preservationists and architecture buffs.</description>
-      <dc:creator>Penelope Green</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 21:02:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McAlester, Virginia Savage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dallas (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">A Field Guide to American Houses: The Definitive Guide to Identifying and Understanding America&#39;s Domestic Architecture (Book)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/20/obituaries/20McAlester1/20McAlester1-moth.jpg" width="151"></media:content>
-      <media:credit>Laure Joliet for The New York Times</media:credit>
-      <media:description>Virginia Savage McAlester, an architectural historian and preservationist, in her Dallas sitting room in 2013. “There was tremendous backbone to her,” said one architecture critic.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Briefing: What Happened Today</title>
-      <link>https://www.nytimes.com/2020/04/21/us/coronavirus-today.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/us/coronavirus-today.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/21/us/coronavirus-today.html" rel="standout"></atom:link>
-      <description>As some states ease restrictions, they are meeting resistance from mayors, health experts and business leaders who say it’s too soon.</description>
-      <dc:creator>Patrick J. Lyons</dc:creator>
-      <pubDate>Tue, 21 Apr 2020 23:44:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v325.png" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>These Are the Most Challenged Books, According to the A.L.A.</title>
-      <link>https://www.nytimes.com/2020/04/21/books/banned-books-lgbtq.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/21/books/banned-books-lgbtq.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/21/books/banned-books-lgbtq.html" rel="standout"></atom:link>
-      <description>Eight of the 10 titles identified in the American Library Association’s annual ranking of the most frequently banned or protested books featured L.G.B.T.Q. subject matter.</description>
-      <dc:creator>Christine Hauser</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 21:40:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libraries and Librarians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Library Assn</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/books/21xp-books/21xp-books-moth.jpg" width="151"></media:content>
-      <media:credit>Eric Liebowitz/HBO, via Associated Press</media:credit>
-      <media:description>The HBO host John Oliver with a copy of “A Day in the Life of Marlon Bundo,” which imagines a gay romance involving Vice President Mike Pence’s rabbit.</media:description>
     </item>
   </channel>
 </rss>

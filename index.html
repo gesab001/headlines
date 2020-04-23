@@ -86,15 +86,16 @@ function loadNews(news){
 function displayFeeds(xml) {
 
     var xmlDoc = xml.responseXML;
-    var titles = xmlDoc.getElementsByTagName("title");
-	/*var lastBuildUpdate = xmlDoc.getElementsByTagName("lastBuildDate");
-	document.getElementById("dateUpdate").innerHTML = "last updated: " + lastBuildUpdate[0].childNodes[0].nodeValue;*/
-    var text ="";
-	var title = "";
-    for (var x=0; x<titles.length;x++){
-		 if (titles[x].childNodes[0].nodeValue!=title)
-           text += "<p>"+titles[x].childNodes[0].nodeValue+"</p>";
-    }     
+    var items = xmlDoc.getElementsByTagName("item");
+    var text = "";
+    for (var x = 0; x<items.length;x++){
+    var item = items[x];
+    var title = item.getElementsByTagName("title");
+    var description = item.getElementsByTagName("description");
+    text += "<h2>"+title[0].childNodes[0].nodeValue+"</h2>";
+    text += "<p>"+description[0].childNodes[0].nodeValue+"</p>";
+    }
+
     document.getElementById("demo").innerHTML = text;
     updateDate();
 }
