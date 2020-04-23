@@ -86,17 +86,27 @@ function loadNews(news){
 function displayFeeds(xml) {
 
     var xmlDoc = xml.responseXML;
-    var items = xmlDoc.getElementsByTagName("item");
-    var text = "";
-    for (var x = 0; x<items.length;x++){
-    var item = items[x];
-    var title = item.getElementsByTagName("title");
-    var description = item.getElementsByTagName("description");
-    text += "<h2>"+title[0].childNodes[0].nodeValue+"</h2>";
-    text += "<p>"+description[0].childNodes[0].nodeValue+"</p>";
-    }
+	if(news="pa"){
+	  var text = "";	  
+	  var entries = xmlDoc.getElementsByTagName("entry"); 
+	  var entry = entries[0]; 
+	  var title = entry.getElementsByTagName("title")[0].childNodes[0].nodeValue;
+	  var link = entry.getElementsByTagName("link")[0].getAttribute("href");
+	  text += "<a href='"+link+"'>"+title+"</a>";
+	  document.getElementById("demo").innerHTML = text;
+	}else{
+		var items = xmlDoc.getElementsByTagName("item");
+		var text = "";
+		for (var x = 0; x<items.length;x++){
+		var item = items[x];
+		var title = item.getElementsByTagName("title");
+		var description = item.getElementsByTagName("description");
+		text += "<h2>"+title[0].childNodes[0].nodeValue+"</h2>";
+		text += "<p>"+description[0].childNodes[0].nodeValue+"</p>";
+		}
 
-    document.getElementById("demo").innerHTML = text;
+		document.getElementById("demo").innerHTML = text;
+	}
     updateDate();
 }
 

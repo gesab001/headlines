@@ -10,6 +10,26 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/virus-vertigo-spins-the-news-pushing-out-almost-everything-else</guid>
+      <link>https://www.foxnews.com/media/virus-vertigo-spins-the-news-pushing-out-almost-everything-else</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/977f8bbc-294c-4cef-a16a-12be00a9a265/9ff04097-cf54-4eba-bd25-70eea5ff16d2/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">88432d48-df50-5c7c-b99c-e28a03e9348f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/columns/media-buzz</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Virus vertigo spins the news, pushing out almost everything else</title>
+      <description>These days we all spend most of our time talking, writing, thinking and worrying about the coronavirus</description>
+                  <dc:creator>Howard Kurtz</dc:creator>
+                         <pubDate>Thu, 23 Apr 2020 07:02:50 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Howard Kurtz</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/health/houston-pop-up-hospital-costing-17m-may-be-dismantled-over-lack-of-use-reports-say</guid>
       <link>https://www.foxnews.com/health/houston-pop-up-hospital-costing-17m-may-be-dismantled-over-lack-of-use-reports-say</link>
                   <media:group>
@@ -218,30 +238,5 @@
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/tornadoes-rip-through-texas-oklahoma-killing-at-least-3</guid>
-      <link>https://www.foxnews.com/us/tornadoes-rip-through-texas-oklahoma-killing-at-least-3</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/tornado-National-Weather-Service.png" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/tornado-National-Weather-Service.png" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/tornado-National-Weather-Service.png" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">1e08bf84-ed27-592c-aaf6-99b978122bb1</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/disasters/tornado</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/oklahoma</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/texas</category>
-            <category domain="foxnews.com/taxonomy">fox-news/science/planet-earth/natural-disasters</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/disasters</category>
-            <category domain="foxnews.com/taxonomy">fox-news/weather</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Tornadoes rip through Texas, Oklahoma, killing at least 4</title>
-      <description>Tornados tore through Texas and Oklahoma on Wednesday, killing at least three people and causing extensive structural damage.</description>
-                  <dc:creator>David Aaro</dc:creator>
-                         <pubDate>Thu, 23 Apr 2020 03:49:16 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
-                            </item>
       </channel>
 </rss>

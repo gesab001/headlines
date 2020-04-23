@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 23 Apr 2020 06:26:12 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Apr 2020 06:26:12 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2020 07:16:57 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2020 07:16:57 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -106,19 +106,19 @@
       <media:description>Commuters in Tokyo, on Wednesday.</media:description>
     </item>
     <item>
-      <title>Coronavirus World News: U.S. Blames China for Fake Warnings of a Lockdown</title>
+      <title>Coronavirus World News: Pandemic Quiets the World’s Mass Protests</title>
       <link>https://www.nytimes.com/2020/04/23/world/coronavirus-news.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/23/world/coronavirus-news.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/23/world/coronavirus-news.html" rel="standout"></atom:link>
-      <description>American intelligence officers told The New York Times that Chinese operatives helped push messages — on social media and via text messages — that falsely warned of a lockdown in the United States.</description>
-      <pubDate>Thu, 23 Apr 2020 05:45:13 +0000</pubDate>
+      <description>A Chinese citizen journalist who disappeared in February said he had been released after a forcible quarantine.</description>
+      <pubDate>Thu, 23 Apr 2020 06:46:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/23/world/23virus-int-briefing-1sub/23virus-int-brieding-1sub-moth.jpg" width="151"></media:content>
-      <media:credit>Gilles Sabrié for The New York Times</media:credit>
-      <media:description>A large video screen showing the news, featuring a segment with health workers in hazmat suits, in Beijing last month.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/world/23virus-int-briefing-protests/00virus-protests-1-moth.jpg" width="151"></media:content>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <media:description>The Tsim Sha Tsui area of Hong Kong was the site of several protests in 2019.</media:description>
     </item>
     <item>
       <title>Executive Order Halting New Green Cards Includes Exceptions</title>
@@ -774,27 +774,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/politics/22inslee/22inslee-moth.jpg" width="151"></media:content>
       <media:credit>Ted S. Warren/Associated Press</media:credit>
       <media:description>Gov. Jay Inslee of Washington at a coronavirus briefing in Olympia this month. He said in an interview that he was confident Joseph R. Biden Jr. was “willing to aim faster and higher” on climate policy. </media:description>
-    </item>
-    <item>
-      <title>Covid-19 Arrived in Seattle. Where It Went From There Stunned the Scientists.</title>
-      <link>https://www.nytimes.com/2020/04/22/us/coronavirus-sequencing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/coronavirus-sequencing.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/22/us/coronavirus-sequencing.html" rel="standout"></atom:link>
-      <description>Scientists traced the virus brought to the Seattle area in January. They were astonished to learn that the same branch of the virus traveled on through at least a dozen states and to other parts of the world.</description>
-      <dc:creator>Mike Baker and Sheri Fink</dc:creator>
-      <pubDate>Thu, 23 Apr 2020 00:15:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Washington</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hutchinson, Fred, Cancer Research Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/22virus-firstcase1/00virus-firstcase01-moth.jpg" width="151"></media:content>
-      <media:credit>Miles Fortune for The New York Times</media:credit>
-      <media:description>A man suspected of bringing the coronavirus from China to the United States landed at Seattle-Tacoma International Airport, shown here in February.</media:description>
     </item>
   </channel>
 </rss>
