@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 23 Apr 2020 00:30:27 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Apr 2020 00:30:27 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2020 01:49:12 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2020 01:49:12 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/22/us/santa-clara-county-coronavirus-death.html" rel="standout"></atom:link>
       <description>The startling discovery that the virus was responsible for a Feb. 6 death in California raises questions about where else it might have been spreading undetected.</description>
       <dc:creator>Thomas Fuller, Mike Baker, Shawn Hubler and Sheri Fink</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 23:57:51 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2020 00:45:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Clara County (Calif)</category>
@@ -31,7 +31,7 @@
       <media:description>The coronavirus was circulating in the Bay Area of California as early as January, even before the federal government began restricting travel from China on Feb. 2.</media:description>
     </item>
     <item>
-      <title>Harvard Won&#39;t Take Coronavirus Relief Money After Trump&#39;s Criticism</title>
+      <title>Harvard Won&#39;t Take Coronavirus Stimulus Money After Trump&#39;s Criticism</title>
       <link>https://www.nytimes.com/2020/04/22/us/harvard-trump-coronavirus.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/harvard-trump-coronavirus.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/22/us/harvard-trump-coronavirus.html" rel="standout"></atom:link>
@@ -91,21 +91,42 @@
       <media:description>A closed school in Kentfield, Calif., this month.</media:description>
     </item>
     <item>
+      <title>Brothers Who Hoarded 17,700 Hand Sanitizer Bottles Avoid Fine After Donating Supplies</title>
+      <link>https://www.nytimes.com/2020/04/22/us/hand-sanitizer-matt-colvin-noah-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/hand-sanitizer-matt-colvin-noah-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/hand-sanitizer-matt-colvin-noah-coronavirus.html" rel="standout"></atom:link>
+      <description>Matt and Noah Colvin reached a settlement this week with the Tennessee attorney general in the widely publicized price-gouging case.</description>
+      <dc:creator>Neil Vigdor</dc:creator>
+      <pubDate>Thu, 23 Apr 2020 00:00:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cleansers, Detergents and Soaps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colvin, Matt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colvin, Noah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feldheim, Baruch (1976- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Price Gouging</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/21/multimedia/21xp-hoarders1/21xp-hoarders1-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Strickland for The New York Times</media:credit>
+      <media:description>Matt Colvin, an Amazon seller, in a rental truck stocked with boxes of hand sanitizer in Hixson, Tenn., last month.</media:description>
+    </item>
+    <item>
       <title>Tornado Kills One in Southern Oklahoma</title>
-      <link>https://www.nytimes.com/2020/04/22/us/tornado-kills-one-in-southern-oklahoma.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/tornado-kills-one-in-southern-oklahoma.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/22/us/tornado-kills-one-in-southern-oklahoma.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2020/04/22/us/tornado-oklahoma-texas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/tornado-oklahoma-texas.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/tornado-oklahoma-texas.html" rel="standout"></atom:link>
       <description>Two factories in Marshall County were damaged as storms moved through the state.</description>
       <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 23:48:54 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2020 00:48:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma</category>
     </item>
     <item>
       <title>The Fear of Coronavirus and Flu Colliding in the Fall</title>
-      <link>https://www.nytimes.com/2020/04/22/health/coronavirus-flu-second-wave.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/health/coronavirus-flu-second-wave.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/22/health/coronavirus-flu-second-wave.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2020/04/22/health/coronavirus-flu-season-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/health/coronavirus-flu-season-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/health/coronavirus-flu-season-deaths.html" rel="standout"></atom:link>
       <description>Even as the president plays down that possibility, the C.D.C. chief and other experts warn of a dual challenge.</description>
       <dc:creator>Denise Grady</dc:creator>
       <pubDate>Thu, 23 Apr 2020 00:17:51 +0000</pubDate>
@@ -134,6 +155,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/21/business/21xp-virus-sharkgroup/21xp-virus-sharkgroup-moth.jpg" width="151"></media:content>
       <media:credit>Krista Schlueter for The New York Times</media:credit>
       <media:description>A company that makes N95 masks said that Daymond John’s firm, The Shark Group, was not an authorized distributor and appeared to have been trying to sell the masks at a significantly inflated price.</media:description>
+    </item>
+    <item>
+      <title>The Cold Calculations America’s Leaders Will Have to Make Before Reopening</title>
+      <link>https://www.nytimes.com/2020/04/22/us/politics/coronavirus-reopening-governors-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/politics/coronavirus-reopening-governors-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/politics/coronavirus-reopening-governors-trump.html" rel="standout"></atom:link>
+      <description>With no vaccine or cure, the president, governors, mayors and county executives will have to decide how many deaths would be acceptable to restore a shattered economy.</description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Wed, 22 Apr 2020 22:53:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emanuel, Ezekiel J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emanuel, Rahm</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murphy, Philip D (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whitmer, Gretchen</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/20/us/politics/20dc-trump-governors1/20dc-trump-governors1-moth.jpg" width="151"></media:content>
+      <media:credit>John Moore/Getty Images</media:credit>
+      <media:description>A health worker transferring coronavirus patients to a hospital in the Bronx this month. </media:description>
     </item>
     <item>
       <title>Q&amp;A With a Trump Economic Adviser</title>
@@ -540,7 +583,7 @@
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/coronavirus-live-coverage.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/22/us/coronavirus-live-coverage.html" rel="standout"></atom:link>
       <description>The first known U.S. death from the illness came in early February in California. Trump signed an executive order imposing a 60-day halt in issuing green cards.</description>
-      <pubDate>Thu, 23 Apr 2020 00:09:30 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2020 01:38:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v325.png" width="151"></media:content>
       <media:credit>The New York Times</media:credit>
@@ -663,13 +706,13 @@
       <media:description>A man suspected of bringing the coronavirus from China to the United States landed at Seattle-Tacoma International Airport, shown here in February.</media:description>
     </item>
     <item>
-      <title>Santa Clara County Coronavirus Death Is First Known in U.S.</title>
+      <title>Coronavirus Death in California Came Weeks Before First Known U.S. Death</title>
       <link>https://www.nytimes.com/2020/04/22/us/coronavirus-first-united-states-death.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/coronavirus-first-united-states-death.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/22/us/coronavirus-first-united-states-death.html" rel="standout"></atom:link>
       <description>The earliest U.S. deaths publicly attributed to the virus had been on Feb. 26, when two people died in the Seattle area. Santa Clara County said an autopsy showed a Feb. 6 death was also related.</description>
       <dc:creator>Thomas Fuller and Mike Baker</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 21:53:32 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2020 21:53:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Clara County (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -685,7 +728,7 @@
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/business/stock-market-tracker-live-coronavirus.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/22/business/stock-market-tracker-live-coronavirus.html" rel="standout"></atom:link>
       <description>The latest on stock market and business news during the coronavirus outbreak.</description>
-      <pubDate>Thu, 23 Apr 2020 00:18:31 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2020 01:23:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
@@ -700,7 +743,7 @@
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/world/coronavirus-cases-world.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/22/world/coronavirus-cases-world.html" rel="standout"></atom:link>
       <description>The E.U. accused Poland and Hungary of undermining democracy — and gave them billions in aid. Iran may be executing prisoners who feared infection.</description>
-      <pubDate>Thu, 23 Apr 2020 00:16:57 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2020 00:48:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/world/22virus-int-briefing-oil3/21oil-impact5-moth.jpg" width="151"></media:content>
       <media:credit>Essam Al-Sudani/Reuters</media:credit>
