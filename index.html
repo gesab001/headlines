@@ -38,7 +38,7 @@ function loadSelectionTitles(){
        loadSelection(myArr);
 	  
     }else{
-	document.getElementById("demo").innerHTML = "its  not working";
+	//document.getElementById("demo").innerHTML = "its  not working";
 	}
  };
  xhttp.open("GET", "newstitles.json", true);
@@ -95,7 +95,7 @@ function loadYoutubeLinks(xml){
 	  var title = entry.getElementsByTagName("title")[0].childNodes[0].nodeValue;
 	  var link = entry.getElementsByTagName("link")[0].getAttribute("href");
 
-	  text += "<a href='"+link+"'>"+title+"</a><br><br>";
+	  text += "<a href='"+link+"'>"+title+"</a>";
   }
   document.getElementById("demo").innerHTML = text;
 
@@ -111,7 +111,7 @@ function displayFeeds(xml) {
     var title = item.getElementsByTagName("title");
 	var link = item.getElementsByTagName("link");
     var description = item.getElementsByTagName("description");
-    text += "<a href='"+link[0].childNodes[0].nodeValue+"'>"+title[0].childNodes[0].nodeValue+"</a>";
+    text += "<h3><a href='"+link[0].childNodes[0].nodeValue+"'>"+title[0].childNodes[0].nodeValue+"</a></h3>";
     text += "<p>"+description[0].childNodes[0].nodeValue+"</p>";
     }
 
