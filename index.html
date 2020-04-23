@@ -73,14 +73,14 @@ function loadSelection(myArrTitles){
 function loadNews(news){
 
  xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {    	   var news = document.getElementById("selection").value;
-    if (news=="pa"){
-	  	loadYoutubeLinks(this);
-	}else{
-	
-     displayFeeds(this);
+    if (this.readyState == 4 && this.status == 200) {
+	  var news = document.getElementById("selection").value;
+      if (news=="pa"){
+	   	loadYoutubeLinks(this);
+	  }else{
+       displayFeeds(this);
+      }
 	}
-    }
  };
  xhttp.open("GET", news+".xml", true);
  xhttp.send();
