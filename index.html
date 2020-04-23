@@ -74,12 +74,12 @@ function loadNews(news){
 
  xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-	  var news = document.getElementById("selection").value;
-      if (news=="pa"){
-	   	loadYoutubeLinks(this);
-	  }else{
+	  //var news = document.getElementById("selection").value;
+      //if (news=="pa"){
+	   	//loadYoutubeLinks(this);
+	  //}else{
        displayFeeds(this);
-      }
+      //}
 	}
  };
  xhttp.open("GET", news+".xml", true);
@@ -95,7 +95,7 @@ function loadYoutubeLinks(xml){
 	  var title = entry.getElementsByTagName("title")[0].childNodes[0].nodeValue;
 	  var link = entry.getElementsByTagName("link")[0].getAttribute("href");
 
-	  text += "<a href='"+link+"'>"+title+"</a>";
+	  text += "<a href='"+link+"'>"+title+"</a><br><br>";
   }
   document.getElementById("demo").innerHTML = text;
 
@@ -105,18 +105,22 @@ function displayFeeds(xml) {
 
     var xmlDoc = xml.responseXML;
     var items = xmlDoc.getElementsByTagName("item");
-    var text = "";
-    for (var x = 0; x<items.length;x++){
-    var item = items[x];
-    var title = item.getElementsByTagName("title");
-	var link = item.getElementsByTagName("link");
-    var description = item.getElementsByTagName("description");
-    text += "<h3><a href='"+link[0].childNodes[0].nodeValue+"'>"+title[0].childNodes[0].nodeValue+"</a></h3>";
-    text += "<p>"+description[0].childNodes[0].nodeValue+"</p>";
-    }
+	if (items.length<1){
+       loadYoutubeLinks(xml);
+	}else{
+		var text = "";
+		for (var x = 0; x<items.length;x++){
+		var item = items[x];
+		var title = item.getElementsByTagName("title");
+		var link = item.getElementsByTagName("link");
+		var description = item.getElementsByTagName("description");
+		text += "<h3><a href='"+link[0].childNodes[0].nodeValue+"'>"+title[0].childNodes[0].nodeValue+"</a></h3>";
+		text += "<p>"+description[0].childNodes[0].nodeValue+"</p>";
+		}
 
-    document.getElementById("demo").innerHTML = text;
-    updateDate();
+		document.getElementById("demo").innerHTML = text;
+		updateDate();
+	}
 }
 
 function updateDate(){
