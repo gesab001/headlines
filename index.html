@@ -73,15 +73,33 @@ function loadSelection(myArrTitles){
 function loadNews(news){
 
  xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-
-    displayFeeds(this);
+    if (this.readyState == 4 && this.status == 200) {    	   var news = document.getElementById("selection").value;
+    if (news=="pa"){
+	  	loadYoutubeLinks(this);
+	}else{
+	
+     displayFeeds(this);
+	}
     }
  };
  xhttp.open("GET", news+".xml", true);
  xhttp.send();
 }
 
+function loadYoutubeLinks(xml){
+  var text = "";
+  var xmlDoc = xml.responseXML;
+  var entries = xmlDoc.getElementsByTagName("entry");
+  for (var x=0; x<entries.length;x++){  
+	  var entry = entries[x]; 
+	  var title = entry.getElementsByTagName("title")[0].childNodes[0].nodeValue;
+	  var link = entry.getElementsByTagName("link")[0].getAttribute("href");
+
+	  text += "<a href='"+link+"'>"+title+"</a><br><br>";
+  }
+  document.getElementById("demo").innerHTML = text;
+
+}
 
 function displayFeeds(xml) {
 
