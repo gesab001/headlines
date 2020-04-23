@@ -109,8 +109,9 @@ function displayFeeds(xml) {
     for (var x = 0; x<items.length;x++){
     var item = items[x];
     var title = item.getElementsByTagName("title");
+	var link = item.getElementsByTagName("link");
     var description = item.getElementsByTagName("description");
-    text += "<h2>"+title[0].childNodes[0].nodeValue+"</h2>";
+    text += "<a href='"+link[0].childNodes[0].nodeValue+"'>"+title[0].childNodes[0].nodeValue+"</a>";
     text += "<p>"+description[0].childNodes[0].nodeValue+"</p>";
     }
 

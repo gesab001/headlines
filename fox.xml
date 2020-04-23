@@ -10,6 +10,49 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/health/fauci-convinced-us-will-be-dealing-with-coronavirus-in-fall</guid>
+      <link>https://www.foxnews.com/health/fauci-convinced-us-will-be-dealing-with-coronavirus-in-fall</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ef14a20-3e89-4ffe-93ac-45328adcb963/45b52718-478d-4bc4-acc1-d3de3c2fe12e/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d0f1cf4a-f128-55e8-90cc-62809dbabe95</category>
+                  <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/health</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Fauci convinced US will be dealing with coronavirus in fall</title>
+      <description>Dr. Anthony Fauci, the country’s top disease expert, said Wednesday that he is convinced that the U.S. will still be dealing with the coronavirus in the fall.</description>
+                  <dc:creator>Edmund DeMarche</dc:creator>
+                         <pubDate>Thu, 23 Apr 2020 07:52:50 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/dennis-rodman-says-hes-praying-for-ailing-kim-jong-un-i-hope-its-just-a-rumor</guid>
+      <link>https://www.foxnews.com/sports/dennis-rodman-says-hes-praying-for-ailing-kim-jong-un-i-hope-its-just-a-rumor</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/rodman-trump-praise.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/rodman-trump-praise.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/rodman-trump-praise.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6fc9626f-99ba-5c66-9c96-e0d13f8a1699</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/north-korea</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nba</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/kim-jong-un</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nba/chicago-bulls</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nba/detroit-pistons</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Dennis Rodman says he’s praying for ailing Kim Jong Un: ‘I hope it’s just a rumor’</title>
+      <description>Reports that North Korean leader Kim Jong Un may have suffered a health setback after recent surgery have former NBA star Dennis Rodman worried, according to a report.</description>
+                  <dc:creator>Dom Calicchio</dc:creator>
+                         <pubDate>Thu, 23 Apr 2020 07:43:00 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/media/virus-vertigo-spins-the-news-pushing-out-almost-everything-else</guid>
       <link>https://www.foxnews.com/media/virus-vertigo-spins-the-news-pushing-out-almost-everything-else</link>
                   <media:group>
@@ -198,45 +241,5 @@
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
                             </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/california-gov-newsom-wont-share-details-on-1b-mask-deal-with-china</guid>
-      <link>https://www.foxnews.com/politics/california-gov-newsom-wont-share-details-on-1b-mask-deal-with-china</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20113809706778.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20113809706778.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20113809706778.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">d2479daf-e022-5e05-bdd2-ae419bdd8877</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/gavin-newsom</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Newsom won’t share details on $1B mask deal with China</title>
-      <description>California Gov. Gavin Newsom is facing pushback as state lawmakers have begun demanding details of his nearly $1 billion deal to receive 200 million masks per month from a Chinese manufacturer.</description>
-                   <pubDate>Thu, 23 Apr 2020 04:18:04 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/this-day-in-history-april-23</guid>
-      <link>https://www.foxnews.com/us/this-day-in-history-april-23</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/YouTube-Logo-Getty-Images.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/YouTube-Logo-Getty-Images.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/YouTube-Logo-Getty-Images.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">52558dd9-8ef3-5d04-979c-dab6d7f86bcb</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/this-day-in-history</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>This Day in History: April 23</title>
-      <description>William Shakespeare dies; YouTube uploads its first clip.</description>
-                   <pubDate>Thu, 23 Apr 2020 04:00:06 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
       </channel>
 </rss>
