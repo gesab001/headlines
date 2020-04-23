@@ -7,20 +7,20 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 23 Apr 2020 14:03:51 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Apr 2020 14:03:51 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2020 14:49:01 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2020 14:49:01 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>Coronavirus News: Live Updates</title>
-      <link>https://www.nytimes.com/2020/04/23/us/coronavirus-updates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/23/us/coronavirus-updates.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/23/us/coronavirus-updates.html" rel="standout"></atom:link>
-      <description>Mitch McConnell, the Republican Senate leader, said states should consider declaring bankruptcy. The discovery of an early death rewrote the timeline of the U.S. outbreak.</description>
-      <pubDate>Thu, 23 Apr 2020 14:01:50 +0000</pubDate>
+      <title>Coronavirus Live News Updates</title>
+      <link>https://www.nytimes.com/2020/04/23/us/coronavirus-live-news-coverage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/23/us/coronavirus-live-news-coverage.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/23/us/coronavirus-live-news-coverage.html" rel="standout"></atom:link>
+      <description>Senator Mitch McConnell said states should consider declaring bankruptcy. The discovery of an early death rewrote the timeline of the U.S. outbreak.</description>
+      <pubDate>Thu, 23 Apr 2020 14:20:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v329.png" width="151"></media:content>
       <media:credit>The New York Times</media:credit>
@@ -74,6 +74,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/14/us/22virus-abortion-copy/14virus-us-briefing-abortion-moth.jpg" width="151"></media:content>
       <media:credit>Mandel Ngan/Agence France-Presse — Getty Images</media:credit>
       <media:description>Texas authorities had said that elective procedures, including abortion, should be delayed to preserve personal protective equipment for medical workers.</media:description>
+    </item>
+    <item>
+      <title>Hollywood Beacons in the Night</title>
+      <link>https://www.nytimes.com/2020/04/23/business/coronavirus-los-angeles-movie-theaters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/23/business/coronavirus-los-angeles-movie-theaters.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/23/business/coronavirus-los-angeles-movie-theaters.html" rel="standout"></atom:link>
+      <description>The great movie palaces of Los Angeles have withstood much upheaval over the decades. Now closed because of the coronavirus, they await their fate in silence.</description>
+      <dc:creator>Brooks Barnes and Kate Warren</dc:creator>
+      <pubDate>Thu, 23 Apr 2020 13:09:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sunset Boulevard (Los Angeles, Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/07/business/00Virus-OldMarquees-1/00Virus-OldMarquees-1-moth.jpg" width="151"></media:content>
+      <media:credit>Kate Warren for The New York Times</media:credit>
+      <media:description>The historic Alex Theatre.</media:description>
     </item>
     <item>
       <title>Coronavirus, Tornadoes, N.F.L. Draft: Your Thursday Briefing</title>
@@ -213,10 +229,10 @@
       <media:description>A van parked along Interstate 70 in Missouri as part of an event calling for tenant relief. “People are going to be homeless,” one of the passengers, Jenay Manley, said later.</media:description>
     </item>
     <item>
-      <title>More Than 4 Million Filed Unemployment Claims Last Week: Live Updates</title>
-      <link>https://www.nytimes.com/2020/04/23/business/stock-market-today-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/23/business/stock-market-today-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/23/business/stock-market-today-coronavirus.html" rel="standout"></atom:link>
+      <title>Live Stock Market News and Trading Tracker</title>
+      <link>https://www.nytimes.com/2020/04/23/business/stock-market-coronavirus-live.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/23/business/stock-market-coronavirus-live.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/23/business/stock-market-coronavirus-live.html" rel="standout"></atom:link>
       <description>The latest on stock market and business news during the coronavirus outbreak.</description>
       <pubDate>Thu, 23 Apr 2020 13:38:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
@@ -233,7 +249,7 @@
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/23/world/coronavirus-news.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/23/world/coronavirus-news.html" rel="standout"></atom:link>
       <description>The pandemic is shaking assumptions about American exceptionalism. Pakistani clerics override lockdown orders as Ramadan nears.</description>
-      <pubDate>Thu, 23 Apr 2020 13:38:28 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2020 14:48:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
@@ -348,14 +364,16 @@
       <atom:link href="https://www.nytimes.com/2020/04/22/us/tornado-oklahoma-texas.html" rel="standout"></atom:link>
       <description>Homes were destroyed, two factories were damaged and thousands were left without power.</description>
       <dc:creator>Michael Levenson, Neil Vigdor and Christine Hauser</dc:creator>
-      <pubDate>Thu, 23 Apr 2020 11:58:29 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2020 14:42:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marshall County (Okla.)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marshall County (Okla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/multimedia/22xp-tornado/22xp-tornado-moth.jpg" width="151"></media:content>
       <media:credit>Mikey Gribble</media:credit>
-      <media:description>One of a series of tornadoes that passed through Oklahoma, Louisiana and Texas on Wednesday. One person was killed in Marshall County, Okla.</media:description>
+      <media:description>One of a series of tornadoes that passed through Oklahoma, Louisiana and Texas on Wednesday. </media:description>
     </item>
     <item>
       <title>Santa Clara County: First Known U.S. Coronavirus Death Occurred on Feb. 6</title>
@@ -401,15 +419,14 @@
       <description>The university said it did not request $8.6 million in federal aid and would not apply for it.</description>
       <dc:creator>Anemona Hartocollis</dc:creator>
       <pubDate>Thu, 23 Apr 2020 12:48:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endowments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeVos, Elizabeth (1958- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cruz, Ted</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endowments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/22virus-harvard/22virus-harvard-moth.jpg" width="151"></media:content>
       <media:credit>Tristan Spinski for The New York Times</media:credit>
       <media:description>Harvard University’s campus last month. Harvard said in a statement that it faced “significant financial challenges” because of the pandemic and the resulting economic crisis.</media:description>
@@ -432,13 +449,13 @@
       <media:description>A company that makes N95 masks said that Daymond John’s firm, The Shark Group, was not an authorized distributor and appeared to have been trying to sell the masks at a significantly inflated price.</media:description>
     </item>
     <item>
-      <title>The Cold Calculations America’s Leaders Will Have to Make Before Reopening</title>
+      <title>The Cold Calculations Governors Will Have to Make Before Reopening</title>
       <link>https://www.nytimes.com/2020/04/22/us/politics/coronavirus-reopening-governors-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/politics/coronavirus-reopening-governors-trump.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/22/us/politics/coronavirus-reopening-governors-trump.html" rel="standout"></atom:link>
       <description>With no vaccine or cure, the president, governors, mayors and county executives will have to decide how many deaths would be acceptable to restore a shattered economy.</description>
       <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Wed, 22 Apr 2020 22:53:53 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2020 14:27:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
@@ -455,19 +472,19 @@
     </item>
     <item>
       <title>Tight-Knit Company Towns Reel as Coronavirus Rolls Through</title>
-      <link>https://www.nytimes.com/2020/04/22/us/politics/coronavirus-workplaces-midwest.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/politics/coronavirus-workplaces-midwest.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/22/us/politics/coronavirus-workplaces-midwest.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2020/04/22/us/coronavirus-workplaces-midwest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/22/us/coronavirus-workplaces-midwest.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/22/us/coronavirus-workplaces-midwest.html" rel="standout"></atom:link>
       <description>Cases are leveling off in some coastal cities, but outbreaks are mounting in processing plants and factories in Midwestern towns.</description>
       <dc:creator>Dionne Searcey</dc:creator>
       <pubDate>Wed, 22 Apr 2020 22:49:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pork</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iowa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Meat Packers and Butchers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tyson Foods Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Columbus Junction (Iowa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/us/22virus-workplace2/merlin_171584307_6453e311-6c9e-4b31-9f54-bfbc38cb22f0-moth.jpg" width="151"></media:content>
       <media:credit>Joseph Cress/Iowa City Press-Citizen, via Associated Press</media:credit>
       <media:description>The Tyson Foods pork processing plant in Columbus Junction, Iowa, has had a cluster of coronavirus cases.</media:description>
@@ -523,7 +540,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterinary Medicine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/science/22VIRUS-PETCATS1/22VIRUS-PETCATS1-moth.jpg" width="151"></media:content>
       <media:credit>Mohamed Hossam/EPA, via Shutterstock</media:credit>
       <media:description>Two pet cats in New York State tested positive for the virus but showed only mild symptoms and are expected to be fine.</media:description>
@@ -560,7 +579,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
       <category domain="">Challenges</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/multimedia/22xp-virus-challenges/22xp-virus-challenges-moth.jpg" width="151"></media:content>
       <media:credit>Photo Illustration by The New York Times</media:credit>

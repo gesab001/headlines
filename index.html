@@ -20,7 +20,7 @@
 </form>-->
 <select id="selection" name="news" onchange="loadNews(this.value)"></select>
 
-<!--<p>test</p>-->
+<p id="test">test</p>
 <p id="dateUpdate"></p>
 <div id="demo"></div>
 
@@ -71,7 +71,6 @@ function loadSelection(myArrTitles){
 
 
 function loadNews(news){
-
  xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
 	  //var news = document.getElementById("selection").value;
@@ -102,25 +101,54 @@ function loadYoutubeLinks(xml){
 }
 
 function displayFeeds(xml) {
+ var xmlDoc = xml.responseXML;
+ //document.getElementById("test").innerHTML = xmlDoc;
 
-    var xmlDoc = xml.responseXML;
     var items = xmlDoc.getElementsByTagName("item");
 	if (items.length<1){
        loadYoutubeLinks(xml);
 	}else{
 		var text = "";
-		for (var x = 0; x<items.length;x++){
-		var item = items[x];
-		var title = item.getElementsByTagName("title");
-		var link = item.getElementsByTagName("link");
-		var description = item.getElementsByTagName("description");
-		text += "<h3><a href='"+link[0].childNodes[0].nodeValue+"'>"+title[0].childNodes[0].nodeValue+"</a></h3>";
-		text += "<p>"+description[0].childNodes[0].nodeValue+"</p>";
+		var xmlDoc = xml.responseXML;
+		var items = xmlDoc.getElementsByTagName('item');
+		for(var x=0; x<items.length;x++){
+		  try{
+			var item = items[x];
+			var title = item.getElementsByTagName('title')[0].childNodes[0];
+			var description = item.getElementsByTagName('description')[0].childNodes[0];
+			link = item.getElementsByTagName('link')[0].childNodes[0];
+			text += "<h3><a href='"+link.nodeValue+"'>"+title.nodeValue +"</a></h3>"+ description.nodeValue;
+		  }catch{}
 		}
-
-		document.getElementById("demo").innerHTML = text;
-		updateDate();
+		document.getElementById("demo").innerHTML =
+		text; 
 	}
+	updateDate();
+}
+
+
+function myFunction(xml) {
+  var xmlDoc = xml.responseXML;
+ //document.getElementById("test").innerHTML = xmlDoc;
+
+    var items = xmlDoc.getElementsByTagName("item");
+	if (items.length<1){
+       loadYoutubeLinks(xml);
+	}else{
+		var text = "";
+		var xmlDoc = xml.responseXML;
+		var items = xmlDoc.getElementsByTagName('item');
+		for(var x=0; x<items.length;x++){
+			var item = items[0];
+			var title = item.getElementsByTagName('title')[0].childNodes[0];
+			var description = item.getElementsByTagName('description')[0].childNodes[0];
+			link = item.getElementsByTagName('link')[0].childNodes[0];
+			text += "<h3><a href='"+link.nodeValue+"'>"+title.nodeValue +"</a></h3>"+ description.nodeValue;
+		}
+		document.getElementById("demo").innerHTML =
+		text; 
+	}
+	updateDate();
 }
 
 function updateDate(){
