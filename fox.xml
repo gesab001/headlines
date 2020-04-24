@@ -10,220 +10,230 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/us-boosts-aid-greenland-over-military-tension-russia-china-in-arctic</guid>
-      <link>https://www.foxnews.com/politics/us-boosts-aid-greenland-over-military-tension-russia-china-in-arctic</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/billy-joel-sued-copyright-infringement</guid>
+      <link>https://www.foxnews.com/entertainment/billy-joel-sued-copyright-infringement</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/08/69d69871-AP19228341444951.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/69d69871-AP19228341444951.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/01/3f04c5ec-billy-joel-at-piano-ap.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/3f04c5ec-billy-joel-at-piano-ap.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/69d69871-AP19228341444951.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">ed3fc99a-0630-58b2-8ce3-1c00ac25b450</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/europe</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/3f04c5ec-billy-joel-at-piano-ap.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">4fc509aa-63e1-5575-9fc7-8ad17e78fb4a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/in-court</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/music</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Billy Joel sued for copyright infringement</title>
+      <description>Billy Joel has been slapped with a lawsuit for copyright infringement but it has nothing to do with the legend's music.</description>
+                  <dc:creator>Melissa Roberto</dc:creator>
+                         <pubDate>Fri, 24 Apr 2020 14:38:32 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Melissa Roberto</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/michigan-gov-whitmer-extends-stay-at-home-order-into-may</guid>
+      <link>https://www.foxnews.com/politics/michigan-gov-whitmer-extends-stay-at-home-order-into-may</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ade324ab-d991-4798-a857-e48fd46572f6/f343810d-857a-4e8f-81e1-afc1b4a4c12b/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">78345043-cb4e-5d62-b4bd-0121b70b998e</category>
+                  <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>US boosts aid to Greenland over military tension with Russia, China in Arctic</title>
-      <description>The U.S. will give a $12.1 million aid package to Greenland and open a consulate on the Arctic island, officials said Thursday. </description>
-                  <dc:creator>Morgan Phillips</dc:creator>
-                         <pubDate>Thu, 23 Apr 2020 21:25:18 GMT</pubDate>
+      <title>Michigan Gov. Whitmer extends modified stay-at-home order into May, as lawmakers intervene</title>
+      <description>Michigan Gov. Gretchen Whitmer on Friday extended the state’s stay-at-home order to May 15, while making some revisions to the policy -- even as the state’s legislature has scheduled a special session to launch a committee to review her actions in response to the coronavirus crisis.</description>
+                  <dc:creator>Adam Shaw</dc:creator>
+                         <pubDate>Fri, 24 Apr 2020 14:38:01 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Adam Shaw</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/andrew-mccarthy-coronavirus-companies-return-to-work</guid>
-      <link>https://www.foxnews.com/media/andrew-mccarthy-coronavirus-companies-return-to-work</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/science/coronavirus-pandemic-nasa-created-ventilator-aid-critically-ill-patients</guid>
+      <link>https://www.foxnews.com/science/coronavirus-pandemic-nasa-created-ventilator-aid-critically-ill-patients</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/3123d23a-image-5.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/3123d23a-image-5.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/PIA23716-1041.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/PIA23716-1041.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/3123d23a-image-5.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">107eaf1f-a557-5b2f-894f-cbed20436814</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/the-daily-briefing-dana-perino</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Andrew McCarthy says companies can likely make employees use contact tracing app before return to work</title>
-      <description>Former federal prosecutor Andrew McCarthy told "The Daily Briefing" Thursday that he is "suspicious" of potential legislation that would protect businesses from coronavirus-related liability as many states look to start reopening businesses shuttered in response to the pandemic.</description>
-                  <dc:creator>Yael Halon</dc:creator>
-                         <pubDate>Thu, 23 Apr 2020 21:23:43 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Yael Halon</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/houston-police-union-president-slams-judge-who-ordered-arrests-for-citizens-not-wearing-face-masks</guid>
-      <link>https://www.foxnews.com/media/houston-police-union-president-slams-judge-who-ordered-arrests-for-citizens-not-wearing-face-masks</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e551979f-178e-44da-87ec-52a1c351a979/8836af91-becd-46a2-b531-9c5f02a262ad/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">a9054282-95fc-55b0-ad08-0f09c9f1b79c</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Exclusive: Houston Police Officers' Union president slams judge who ordered arrests for citizens not wearing face masks</title>
-      <description>The president of a Houston police officers’ union is slamming a Texas judge who has ordered citizens to wear face masks or face a $1,000 fine or jail time as a response to the coronavirus outbreak.</description>
-                  <dc:creator>Christopher Howard</dc:creator>
-                         <pubDate>Thu, 23 Apr 2020 21:22:41 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Christopher Howard</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/science/northern-lights-scotland-beach-stunning-image</guid>
-      <link>https://www.foxnews.com/science/northern-lights-scotland-beach-stunning-image</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/lights-display-swns.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/lights-display-swns.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/lights-display-swns.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">faae02ee-f3cb-51d4-8c24-093e16b87396</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/science</category>
-            <category domain="foxnews.com/taxonomy">fox-news/science/planet-earth</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/PIA23716-1041.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d82ed447-7ad8-572a-9a28-fc7c65af32db</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science/air-and-space/nasa</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/innovation</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/america-together</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/science</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Northern Lights shown over Scotland beach in stunning image</title>
-      <description>A stunning image shows the Northern LIghts over a beach in Scotland.</description>
-                  <dc:creator>Christopher Carbone</dc:creator>
-                         <pubDate>Thu, 23 Apr 2020 21:21:24 GMT</pubDate>
+      <title>With coronavirus pandemic in mind, NASA created a ventilator in just over a month that could aid critically ill patients</title>
+      <description>Having sent men to the moon, exploring the depths of space with the Hubble Space Telescope and visiting Mars multiple times, NASA is no stranger to incredible achievements. As the planet deals with the ramifications of the coronavirus pandemic, the space agency designed a critical piece of medical equipment in short supply to aid critically ill COVID-19 patients: a ventilator.</description>
+                  <dc:creator>Chris Ciaccia</dc:creator>
+                         <pubDate>Fri, 24 Apr 2020 14:36:50 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Christopher Carbone</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Chris Ciaccia</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/rob-gronkowski-thanks-patriots-organization-after-trade</guid>
-      <link>https://www.foxnews.com/sports/rob-gronkowski-thanks-patriots-organization-after-trade</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/auto/fox-news-autos-cars-trucks</guid>
+      <link>https://www.foxnews.com/auto/fox-news-autos-cars-trucks</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/04/fc3f9f495aa19bab2b9f758ab6f19ee6w-c0xd-w640_h480_q80.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/fc3f9f495aa19bab2b9f758ab6f19ee6w-c0xd-w640_h480_q80.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/cruise.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/cruise.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/fc3f9f495aa19bab2b9f758ab6f19ee6w-c0xd-w640_h480_q80.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">7cbd82f5-2dd6-541f-843c-cc9dbe86c367</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/rob-gronkowski</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/tampa-bay-buccaneers</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-england-patriots</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/cruise.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2db550f5-99fa-57ed-80be-5b647db4816b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/auto/attributes/collector-cars</category>
+            <category domain="foxnews.com/taxonomy">fox-news/auto</category>
+            <category domain="foxnews.com/taxonomy">fox-news/auto/attributes/performance</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                        <category domain="foxnews.com/section-path">fnc/auto</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Rob Gronkowski thanks Patriots organization after trade: 'The memories are incredible'</title>
-      <description>Rob Gronkowski took the time to thank the New England Patriots organization days after he was traded to the Tampa Bay Buccaneers and reunited with his old teammate Tom Brady.</description>
-                  <dc:creator>Ryan Gaydos</dc:creator>
-                         <pubDate>Thu, 23 Apr 2020 21:19:39 GMT</pubDate>
+      <title>Fox News Autos wants to see YOUR cars and trucks</title>
+      <description>Virtual cruise nights for car enthusiasts.</description>
+                  <dc:creator>Gary Gastelu</dc:creator>
+                         <pubDate>Fri, 24 Apr 2020 14:36:02 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Gary Gastelu</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/science/silent-hypoxia-covid-19-patients-doctor-solution</guid>
-      <link>https://www.foxnews.com/science/silent-hypoxia-covid-19-patients-doctor-solution</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/kaley-cuoco-kick-karl-cook-out-house-coronavirus-quarantine</guid>
+      <link>https://www.foxnews.com/entertainment/kaley-cuoco-kick-karl-cook-out-house-coronavirus-quarantine</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20099715595030.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20099715595030.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/kaley-cuoco-karl-cook-reuters.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/kaley-cuoco-karl-cook-reuters.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20099715595030.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">fcce7559-c6ab-51bb-833e-c7e10683a887</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/kaley-cuoco-karl-cook-reuters.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">921a4ff3-b36a-5fc3-8938-3ca194c8813c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/kaley-cuoco</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Kaley Cuoco jokes she'll kick husband Karl Cook out of their new house after coronavirus quarantine</title>
+      <description>Kaley Cuoco joked that her husband, Karl Cook, will be kicked out of the house they just moved into once the coronavirus quarantine is over. </description>
+                  <dc:creator>Tyler McCarthy</dc:creator>
+                         <pubDate>Fri, 24 Apr 2020 14:33:50 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Tyler McCarthy</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/coronavirus-kills-5-month-old-infant-of-fdny-firefighter</guid>
+      <link>https://www.foxnews.com/us/coronavirus-kills-5-month-old-infant-of-fdny-firefighter</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/fdny-getty-images.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/fdny-getty-images.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/fdny-getty-images.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0517fd70-400a-5aab-810e-a2aeda4531de</category>
                   <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Coronavirus kills 5-month-old infant of FDNY firefighter</title>
+      <description>A grief-stricken probationary New York City firefighter has reported the death of his infant daughter to the coronavirus, according to reports.</description>
+                  <dc:creator>Robert Gearty</dc:creator>
+                         <pubDate>Fri, 24 Apr 2020 14:28:37 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Robert Gearty</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/ten-year-old-girl-makes-informative-videos-to-empower-other-kids-during-coronavirus-pandemic</guid>
+      <link>https://www.foxnews.com/media/ten-year-old-girl-makes-informative-videos-to-empower-other-kids-during-coronavirus-pandemic</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/sydney-thumb.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/sydney-thumb.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/sydney-thumb.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">629708cd-3f54-5719-80a8-7d2602034e2a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/america-together</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/washington</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>10-year-old girl makes informative videos to empower other kids during coronavirus pandemic</title>
+      <description>The mother-daughter duo has been using their spare time at home to educate and put kids at ease about the ongoing pandemic through an animated web series, “Kids Coping with COVID-19.”</description>
+                  <dc:creator>Teny Sahakian</dc:creator>
+                         <pubDate>Fri, 24 Apr 2020 14:28:26 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Teny Sahakian</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/long-island-mom-covid-19-survivor-opens-up-about-donating-blood-plasma</guid>
+      <link>https://www.foxnews.com/media/long-island-mom-covid-19-survivor-opens-up-about-donating-blood-plasma</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/0c562b89-image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/0c562b89-image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/0c562b89-image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">b1f1daf0-22a7-57d3-b36a-75f5b569ea5c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science/wild-nature/viruses</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
             <category domain="foxnews.com/taxonomy">fox-news/science</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/america-together</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/science</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>'Silent hypoxia' may be killing COVID-19 patients, but one doctor offers a possible solution</title>
-      <description>Doctors have observed a strange trend in more COVID-19 patients. People with blood oxygen saturation levels that are very low, but who aren't gasping for breath.</description>
-                  <dc:creator>Christopher Carbone</dc:creator>
-                         <pubDate>Thu, 23 Apr 2020 21:19:29 GMT</pubDate>
+      <title>Mom, COVID-19 survivor leads effort to donate plasma for sick patients: The 'epicenter of hope'</title>
+      <description>COVID-19 survivors are making a difference by donating plasma to critical patients and health workers, Long Island mother and Survivor Corps founder Diana Berrent said Friday.</description>
+                  <dc:creator>Julia Musto</dc:creator>
+                         <pubDate>Fri, 24 Apr 2020 14:23:11 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Christopher Carbone</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Julia Musto</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/travel/flight-attendant-eerie-photos-coronavirus-life</guid>
-      <link>https://www.foxnews.com/travel/flight-attendant-eerie-photos-coronavirus-life</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/judge-pirro-gavin-newsom-improper-plan-to-pay-illegal-immigrants-unemployment</guid>
+      <link>https://www.foxnews.com/media/judge-pirro-gavin-newsom-improper-plan-to-pay-illegal-immigrants-unemployment</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Mollychoma-Instagram-2.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Mollychoma-Instagram-2.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/pirro.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/pirro.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Mollychoma-Instagram-2.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">74bbd589-ba2a-5a55-9ddd-d04260dd4737</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/pirro.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">007803a8-8630-5c14-b1ea-834d4888b5ff</category>
                   <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/travel/general/airlines</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/fox-friends</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/travel</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Flight attendant shares eerie photos of life on planes during the coronavirus outbreak</title>
-      <description>A picture is worth a thousand words.</description>
-                  <dc:creator>Michael Hollan</dc:creator>
-                         <pubDate>Thu, 23 Apr 2020 21:15:43 GMT</pubDate>
+      <title>Judge Pirro: Newsom's 'unemployment benefits' for illegal immigrants not allowed under law</title>
+      <description>Judge Jeanine Pirro weighed in Friday on California Gov. Gavin Newsom’s effort to use taxpayer money to take care of illegal immigrants during the coronavirus pandemic.</description>
+                  <dc:creator>Joshua Nelson</dc:creator>
+                         <pubDate>Fri, 24 Apr 2020 14:21:16 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Michael Hollan</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Joshua Nelson</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/tech/us-navy-ships-authorized-to-destroy-iranian-threats-if-needed-how-would-they-do-it</guid>
-      <link>https://www.foxnews.com/tech/us-navy-ships-authorized-to-destroy-iranian-threats-if-needed-how-would-they-do-it</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/broncos-head-coach-vic-fangio-lost-internet-just-before-first-round-everything-went-out-in-my-house</guid>
+      <link>https://www.foxnews.com/sports/broncos-head-coach-vic-fangio-lost-internet-just-before-first-round-everything-went-out-in-my-house</link>
                   <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d79eb8ed-cb37-4ea3-97dd-4342f40c039a/3c2ee916-9b4e-4a54-a9f1-1d67559ffaf5/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Vic-Fangio-Getty-Images.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Vic-Fangio-Getty-Images.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">0a9b2c82-8b93-5405-9e00-e8fb83cf09b9</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/tech/topics/us-navy</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/armed-forces</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/tech</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>US Navy ships authorized to 'destroy' Iranian threats if needed: How would they do it?</title>
-      <description>Interceptor missiles, attack drones, deck-mounted guns, electronic warfare weapons and even lasers could quickly be called upon by U.S. Navy commanders to destroy Iranian forces in the Persian Gulf - should provocations, hostile actions or attacks require a lethal response.</description>
-                  <dc:creator>Kris Osborn</dc:creator>
-                         <pubDate>Thu, 23 Apr 2020 21:13:18 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Warrior Maven</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Kris Osborn</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/tom-brady-trolls-peyton-manning-colts</guid>
-      <link>https://www.foxnews.com/sports/tom-brady-trolls-peyton-manning-colts</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20112141611091.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20112141611091.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20112141611091.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">170d78ca-4190-592c-be62-8bf97da218d5</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/tom-brady</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/tiger-woods</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Vic-Fangio-Getty-Images.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">459b26c5-72d7-5eb1-bfbb-6d6b150024a8</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/denver-broncos</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl-draft</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Tom Brady trolls Peyton Manning: 'Never had much of a hard time beating the Colts'</title>
-      <description>Tom Brady took to Twitter to do a bit of trolling ahead of an upcoming charity golf match featuring Phil Mickelson and himself against Peyton Manning and Tiger Woods.</description>
-                  <dc:creator>Daniel Canova</dc:creator>
-                         <pubDate>Thu, 23 Apr 2020 21:11:54 GMT</pubDate>
+      <title>Broncos' head coach Vic Fangio lost Internet just before first round: 'Everything went out in my house'</title>
+      <description>The first ever virtual draft experience appeared to take off without a hitch Thursday night but behind the scenes, Denver Broncos’ head coach Vic Fangio said he experienced an internet outage just minutes before the first round began.</description>
+                  <dc:creator>Paulina Dedaj</dc:creator>
+                         <pubDate>Fri, 24 Apr 2020 14:17:39 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/world/how-china-has-ramped-up-aggression-in-south-china-sea-amid-coronavirus-pandemic</guid>
-      <link>https://www.foxnews.com/world/how-china-has-ramped-up-aggression-in-south-china-sea-amid-coronavirus-pandemic</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/South-China-Sea-iStock-2.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/South-China-Sea-iStock-2.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/South-China-Sea-iStock-2.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">32c0bb6f-5e1b-5022-b781-4e7c286eb2da</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/world</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>How China has ramped up aggression in South China Sea amid the coronavirus pandemic</title>
-      <description>As China was scrambling to contain the coronavirus outbreak that ravaged parts of the country before crossing international boundaries, it was asserting its presence in the South China Sea through a sustained campaign of aggression and harassment. </description>
-                  <dc:creator>Louis Casiano</dc:creator>
-                         <pubDate>Thu, 23 Apr 2020 21:04:50 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Louis Casiano</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Paulina Dedaj</category>
                             </item>
       </channel>
 </rss>
