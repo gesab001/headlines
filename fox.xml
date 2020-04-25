@@ -10,6 +10,29 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/tucker-carlson-rich-mchugh-joe-biden-allegations</guid>
+      <link>https://www.foxnews.com/media/tucker-carlson-rich-mchugh-joe-biden-allegations</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20103101139532.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20103101139532.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20103101139532.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">fea8d577-696b-543b-9bf2-1f47fc88fe00</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/tucker-carlson-tonight</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Journalist Rich McHugh lays out allegations against Biden: 'She said he attacked her'</title>
+      <description>Tucker Carlson spoke with journalist Rich McHugh Friday to get his insight into newly- resurfaced video from 1993 that could support sexual misconduct allegations against former Vice President Joe Biden, the presumptive Democratic presidential nominee.</description>
+                  <dc:creator>Victor Garcia</dc:creator>
+                         <pubDate>Sat, 25 Apr 2020 02:34:31 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Victor Garcia</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/packers-jordan-love-speaks-aaron-rodgers-after-draft</guid>
       <link>https://www.foxnews.com/sports/packers-jordan-love-speaks-aaron-rodgers-after-draft</link>
                   <media:group>
@@ -216,30 +239,6 @@
                          <pubDate>Sat, 25 Apr 2020 01:04:38 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Julius Young</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/new-orleans-artists-struggle-to-survive-as-coronavirus-causes-tourism-dip</guid>
-      <link>https://www.foxnews.com/us/new-orleans-artists-struggle-to-survive-as-coronavirus-causes-tourism-dip</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/NOLA-EMPTY-STREETS.JPEG.png" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/NOLA-EMPTY-STREETS.JPEG.png" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/NOLA-EMPTY-STREETS.JPEG.png" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">0d13c318-a1e1-5d67-a3e3-2a0462f7f26e</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/new-orleans</category>
-            <category domain="foxnews.com/taxonomy">fox-news/travel</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/louisiana</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/travel/general/fairs-festivals</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>New Orleans artists struggle to survive as coronavirus causes tourism dip</title>
-      <description>As the city of New Orleans reels from the deadly effects of COVID-19, the virus has put a stranglehold on the city’s tourism industry.</description>
-                  <dc:creator>Charles Watson</dc:creator>
-                         <pubDate>Sat, 25 Apr 2020 00:57:22 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Charles Watson</category>
                             </item>
       </channel>
 </rss>
