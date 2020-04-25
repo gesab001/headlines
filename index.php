@@ -4,7 +4,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <body>
-<!--<form action="../cgi-bin/addnews.py" method="post">
+<div id="admin">
+<form action="../cgi-bin/addnews.py" method="post">
 <input type="text" name="keyword" placeholder="keyword"/>
 
 <input type="text" name="title" placeholder="title"/>
@@ -17,7 +18,8 @@
 <input type="text" name="keyword" placeholder="keyword"/>
 <input type="submit" value="delete"/>
 <br>
-</form>-->
+</form>
+</div>
 <select id="selection" name="news" onchange="loadNews(this.value)"></select>
 
 <p id="test"></p>
@@ -26,6 +28,13 @@
 
 <script>
 
+var windowlocation = window.location.href;
+
+if (windowlocation.includes("192")){
+	document.getElementById("admin").style.display = "inline-block";
+}else{
+	document.getElementById("admin").style.display = "none";
+}
 var xhttp = new XMLHttpRequest();
 var news;
 loadSelectionTitles();

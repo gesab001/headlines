@@ -10,6 +10,32 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/ron-estes-congress-should-help-american-workers-not-bail-out-states</guid>
+      <link>https://www.foxnews.com/opinion/ron-estes-congress-should-help-american-workers-not-bail-out-states</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fff57b34-55e9-47bc-b8e5-94cb5cb7137b/17cfefee-bd4a-4054-a7d7-d37c44a45744/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">68cb38ba-bbb4-524e-9f47-feee15e69307</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/economy</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local/governors</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/congress</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Rep. Ron Estes: Coronavirus pandemic doesn’t justify additional federal aid to bail out states</title>
+      <description>The federal government should not replace lost state revenue. Sending the same taxpayer dollar to Washington first just to send it back to the state to fill a hole in the state budget isn’t logical.</description>
+                  <dc:creator>Ron Estes</dc:creator>
+                         <pubDate>Sat, 25 Apr 2020 11:00:51 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ron Estes</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/eagles-turn-heads-with-jalen-hurts-selection-gm-says-quarterback-was-best-on-board</guid>
       <link>https://www.foxnews.com/sports/eagles-turn-heads-with-jalen-hurts-selection-gm-says-quarterback-was-best-on-board</link>
                   <media:group>
@@ -221,30 +247,6 @@
                          <pubDate>Sat, 25 Apr 2020 09:00:11 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">New York Post</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Hannah Sparks</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/best-action-movies-hulu-stream</guid>
-      <link>https://www.foxnews.com/entertainment/best-action-movies-hulu-stream</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/03/BruceWillis2.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/BruceWillis2.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/BruceWillis2.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">1ce51e6b-af33-5640-9f00-a9f6fb710005</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/streaming</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/movies</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/brad-pitt</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/bruce-willis</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>The best action movies to stream on Hulu</title>
-      <description>Are you in the mood for an action-packed movie? </description>
-                  <dc:creator>Mariah Haas</dc:creator>
-                         <pubDate>Sat, 25 Apr 2020 09:00:05 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Mariah Haas</category>
                             </item>
       </channel>
 </rss>
