@@ -6,8 +6,8 @@
 <atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
 <description>World News</description>
 <language>en-us</language>
-<pubDate>Sat, 25 Apr 2020 06:51:53 -0400</pubDate>
-<lastBuildDate>Sat, 25 Apr 2020 06:51:53 -0400</lastBuildDate>
+<pubDate>Sat, 25 Apr 2020 08:37:34 -0400</pubDate>
+<lastBuildDate>Sat, 25 Apr 2020 08:37:34 -0400</lastBuildDate>
 <copyright>Dow Jones &amp; Company, Inc.</copyright>
 <generator>http://online.wsj.com/page/2_0006.html</generator>
 <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
@@ -17,9 +17,19 @@
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
 </image>
 <item>
+<title>In Belarus, Everyday Life Is Much the Same as Coronavirus Spreads</title>
+<link>https://www.wsj.com/articles/in-belarus-everyday-life-is-much-the-same-as-coronavirus-spreads-11587812401</link>
+<description><![CDATA[President Alexander Lukashenko has little truck with those who say the virus is a public health risk, joining other outliers such as Brazil’s President Jair Bolsonaro in shunning lockdown measures]]></description>
+<content:encoded/>
+<pubDate>Sat, 25 Apr 2020 07:00:00 -0400</pubDate>
+<guid isPermaLink="false">SB10758285876894483683604586341352087286370</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>World News</wsj:articletype>
+</item>
+<item>
 <title>ICUs on Rails: How France Coped With a Surge of Coronavirus Patients</title>
 <link>https://www.wsj.com/articles/icus-on-rails-how-france-coped-with-a-surge-of-coronavirus-patients-11587807002</link>
-<description><![CDATA[French authorities transported patients over hundreds of miles from hot spots to areas less affected by the outbreak, in a model that could be used elsewhere if a second wave of infections arrives]]></description>
+<description><![CDATA[French authorities transported patients over hundreds of miles from hot spots to areas less affected by the outbreak, in a model that could be used elsewhere if a second wave of infections arrives.]]></description>
 <content:encoded/>
 <pubDate>Sat, 25 Apr 2020 05:30:00 -0400</pubDate>
 <guid isPermaLink="false">SB10758285876894483683604586341241142393036</guid>
@@ -65,26 +75,6 @@
 <guid isPermaLink="false">SB10758285876894483683604586343760938821464</guid>
 <category domain="AccessClassName">PAID</category>
 <wsj:articletype>U.K. News</wsj:articletype>
-</item>
-<item>
-<title>Pandemic Deepens Catholic Church's Financial Crunch</title>
-<link>https://www.wsj.com/articles/pandemic-deepens-catholic-churchs-financial-crunch-from-vatican-to-parishes-11587736691</link>
-<description><![CDATA[The pandemic has hurt the Catholic Church’s finances, threatening its charitable activities and leading bishops and parish priests to slash expenses and seek funds elsewhere.]]></description>
-<content:encoded/>
-<pubDate>Fri, 24 Apr 2020 10:08:00 -0400</pubDate>
-<guid isPermaLink="false">SB11673302688168164370504586337323459126778</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>World News</wsj:articletype>
-</item>
-<item>
-<title>Forgotten Pandemic Offers Contrast to Today's Coronavirus Lockdowns</title>
-<link>https://www.wsj.com/articles/forgotten-pandemic-offers-contrast-to-todays-coronavirus-lockdowns-11587720625</link>
-<description><![CDATA[Warnings of a potential second wave of coronavirus cases reflect the experience of a relatively recent outbreak—the Hong Kong flu of the late 1960s.]]></description>
-<content:encoded/>
-<pubDate>Fri, 24 Apr 2020 05:30:00 -0400</pubDate>
-<guid isPermaLink="false">SB11673302688168164370504586337952238284770</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>World News</wsj:articletype>
 </item>
 </channel>
 </rss>

@@ -7,78 +7,24 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 25 Apr 2020 11:05:53 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Apr 2020 11:05:53 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2020 13:51:16 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2020 13:51:16 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>Trump&#39;s Disinfectant Remarks Prompt Warnings</title>
-      <link>https://www.nytimes.com/2020/04/24/us/coronavirus-us-usa-updates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/coronavirus-us-usa-updates.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/coronavirus-us-usa-updates.html" rel="standout"></atom:link>
-      <description>Several states take tentative steps to reopen businesses. The Navy recommended reinstating the captain of an aircraft carrier who had sought help as the virus spread on his ship.</description>
-      <pubDate>Sat, 25 Apr 2020 04:16:25 +0000</pubDate>
+      <title>Coronavirus Live News and Updates</title>
+      <link>https://www.nytimes.com/2020/04/25/us/coronavirus-news.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/coronavirus-news.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/25/us/coronavirus-news.html" rel="standout"></atom:link>
+      <description>As of Friday, the U.S. death toll was more than 45,000 and the global total was creeping toward 200,000, even as nations and American cities tentatively reopen.</description>
+      <pubDate>Sat, 25 Apr 2020 13:45:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v336.png" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Coronavirus in New Mexico: How One of the Poorest States Averted a Steep Death Toll</title>
-      <link>https://www.nytimes.com/2020/04/24/us/coronavirus-new-mexico.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/coronavirus-new-mexico.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/coronavirus-new-mexico.html" rel="standout"></atom:link>
-      <description>New Mexico showed how a state can fight the coronavirus with aggressive social distancing, free testing and scientific expertise. But contagion threats are building.</description>
-      <dc:creator>Simon Romero</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 04:31:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grisham, Michelle Lujan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/23/us/23VIRUS-NM-lg/merlin_171626796_2519acd9-5171-48d5-98a7-361f4e51e086-moth.jpg" width="151"></media:content>
-      <media:credit>Eddie Moore/The Albuquerque Journal, via Associated Press</media:credit>
-      <media:description>New Mexico’s governor, Michelle Lujan Grisham, moved quickly to guarantee free coronavirus testing for people in the state, including those not showing symptoms.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Has Freed Inmates From Jail, Angering Some Victims</title>
-      <link>https://www.nytimes.com/2020/04/24/us/coronavirus-jail-inmates-released.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/coronavirus-jail-inmates-released.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/coronavirus-jail-inmates-released.html" rel="standout"></atom:link>
-      <description>More people are being released as outbreaks spread behind bars. But there is a growing conflict over who should be let out.</description>
-      <dc:creator>John Eligon</dc:creator>
-      <pubDate>Fri, 24 Apr 2020 20:43:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hit-and-Run Drivers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Criminal Justice</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Louis (Mo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gardner, Kimberly M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schmitt, Eric</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cromwell, Anthony</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hudson, Meagen</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/23/us/00VIRUS-RELEASED-MSI/00VIRUS-RELEASED-MSI-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Whitney Curtis for The New York Times</media:credit>
-      <media:description>Jails are setting free thousands of inmates to slow the coronavirus’s spread behind bars. Anthony Cromwell Jr. was released from the Medium Security Institution in St. Louis.</media:description>
-    </item>
-    <item>
-      <title>ICE Detention Centers Approved in California Farm Town</title>
-      <link>https://www.nytimes.com/2020/04/24/us/immigration-detention-mcfarland.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/immigration-detention-mcfarland.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/immigration-detention-mcfarland.html" rel="standout"></atom:link>
-      <description>Two privately run state prisons in the town of McFarland, many of whose residents are undocumented field workers, will be converted to hold immigrants.</description>
-      <dc:creator>Miriam Jordan</dc:creator>
-      <pubDate>Fri, 24 Apr 2020 14:57:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GEO Group Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Labor (Agriculture)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/world/24immig-mcfarland-1/24immig-mcfarland-1-moth.jpg" width="151"></media:content>
-      <media:credit>Jenna Schoenefeld for The New York Times</media:credit>
-      <media:description>One of the two privately run state prisons in McFarland, Calif., that will become federal immigration detention centers.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/us/25virus-us-briefing-trumpdisinfectant/merlin_171898623_8ef2a871-a9b1-4b41-8e2d-a5ac11e60d72-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker/The New York Times</media:credit>
+      <media:description>President Donald Trump said Friday that his comments about treating the coronavirus with disinfectants had been sarcastic.</media:description>
     </item>
     <item>
       <title>Reopening Has Begun. No One Is Sure What Happens Next.</title>
@@ -99,6 +45,42 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/business/26virus-restart/00virus-restart2-moth.jpg" width="151"></media:content>
       <media:credit>Scott McIntyre for The New York Times</media:credit>
       <media:description>The Broadwalk Restaurant in Hollywood Beach, Fla. Restaurants generally have tight profit margins even in the best of times. </media:description>
+    </item>
+    <item>
+      <title>‘My World Is Shattering’: Foreign Students Stranded by Coronavirus</title>
+      <link>https://www.nytimes.com/2020/04/25/us/coronavirus-international-foreign-students-universities.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/coronavirus-international-foreign-students-universities.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/25/us/coronavirus-international-foreign-students-universities.html" rel="standout"></atom:link>
+      <description>When the pandemic shuttered colleges, many international students had no idea where to live or whether they would ever be able to return to class.</description>
+      <dc:creator>Caitlin Dickerson</dc:creator>
+      <pubDate>Sat, 25 Apr 2020 12:50:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Students (in US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dormitories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Study and Teaching</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/23/us/00virus-foreignstudents/merlin_170115345_e3876a32-049e-453b-a9ae-6577f5a0f234-moth.jpg" width="151"></media:content>
+      <media:credit>Sasha Rudensky for The New York Times</media:credit>
+      <media:description>The empty Yale University campus last month. </media:description>
+    </item>
+    <item>
+      <title>ICE Detention Centers Approved in California Farm Town</title>
+      <link>https://www.nytimes.com/2020/04/24/us/immigration-detention-mcfarland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/immigration-detention-mcfarland.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/24/us/immigration-detention-mcfarland.html" rel="standout"></atom:link>
+      <description>Two privately run state prisons in the town of McFarland, many of whose residents are undocumented field workers, will be converted to hold immigrants.</description>
+      <dc:creator>Miriam Jordan</dc:creator>
+      <pubDate>Fri, 24 Apr 2020 14:57:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GEO Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Labor (Agriculture)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/world/24immig-mcfarland-1/24immig-mcfarland-1-moth.jpg" width="151"></media:content>
+      <media:credit>Jenna Schoenefeld for The New York Times</media:credit>
+      <media:description>One of the two privately run state prisons in McFarland, Calif., that will become federal immigration detention centers.</media:description>
     </item>
     <item>
       <title>Making Marines Without Making Them Sick</title>
@@ -122,8 +104,8 @@
       <link>https://www.nytimes.com/2020/04/25/world/coronavirus-news.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/world/coronavirus-news.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/25/world/coronavirus-news.html" rel="standout"></atom:link>
-      <description>The global death toll is nearing 200,000. Britain’s government is under pressure to be more open about a secretive group that is shaping its handling of the pandemic.</description>
-      <pubDate>Sat, 25 Apr 2020 11:01:47 +0000</pubDate>
+      <description>The global death toll is nearing 200,000. Britain’s government faces pressure to be more open about the secretive group guiding its response to the pandemic.</description>
+      <pubDate>Sat, 25 Apr 2020 13:36:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/world/25virus-int-briefing-indiarural/merlin_171627339_5f5f9759-8735-4213-9a1f-365e551dc2d6-moth.jpg" width="151"></media:content>
       <media:credit>Rebecca Conway for The New York Times</media:credit>
@@ -454,116 +436,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/us/politics/24dnc/24dnc-moth.jpg" width="151"></media:content>
       <media:credit>Brooks Kraft/Corbis, via Getty Images</media:credit>
       <media:description>Mary Beth Cahill managed John Kerry’s presidential campaign in 2004. She will now serve as chief executive of the Democratic National Committee.</media:description>
-    </item>
-    <item>
-      <title>Opposed to Bailouts, but in This Case Willing to Take One</title>
-      <link>https://www.nytimes.com/2020/04/24/us/politics/coronavirus-bailouts-conservative-liberal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/politics/coronavirus-bailouts-conservative-liberal.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/politics/coronavirus-bailouts-conservative-liberal.html" rel="standout"></atom:link>
-      <description>Some conservative nonprofit groups are seeking financial help to weather the coronavirus crisis. Some liberal organizations are putting aside different qualms to make the same request.</description>
-      <dc:creator>Kenneth P. Vogel and Lisa Lerer</dc:creator>
-      <pubDate>Fri, 24 Apr 2020 21:44:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Civil Liberties Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cato Institute</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Congressional Progressive Caucus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democracy Alliance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">FreedomWorks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Media Matters for America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Small Business Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Romero, Anthony D</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/us/politics/24dc-virus-groups-1-copy/24dc-virus-groups-1-copy-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Pete Marovich for The New York Times</media:credit>
-      <media:description>A rally last year sponsored by FreedomWorks. One arm of the conservative organization is seeking aid from the coronavirus relief legislation despite its opposition to bailouts.</media:description>
-    </item>
-    <item>
-      <title>Trump’s Suggestion That Disinfectants Could Be Used to Treat Coronavirus Prompts Aggressive Pushback</title>
-      <link>https://www.nytimes.com/2020/04/24/us/politics/trump-inject-disinfectant-bleach-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/politics/trump-inject-disinfectant-bleach-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/politics/trump-inject-disinfectant-bleach-coronavirus.html" rel="standout"></atom:link>
-      <description>Responding to the criticism from public health officials around the country, the president said he was playing a trick on reporters.</description>
-      <dc:creator>Katie Rogers, Christine Hauser, Alan Yuhas and Maggie Haberman</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 04:51:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cleansers, Detergents and Soaps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poisoning and Poisons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/us/24xp-disinfectants/24xp-disinfectants-moth.jpg" width="151"></media:content>
-      <media:credit>Jeffrey Greenberg/Universal Images Group, via Getty Images</media:credit>
-      <media:description>Reckitt Benckiser, the British company that makes Lysol and Dettol, warned customers on Friday against using disinfectants as treatments.</media:description>
-    </item>
-    <item>
-      <title>Missouri and Kansas Mayors Debated When to End Coronavirus Restrictions</title>
-      <link>https://www.nytimes.com/2020/04/24/us/coronavirus-midwest-mayors-reopening.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/coronavirus-midwest-mayors-reopening.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/coronavirus-midwest-mayors-reopening.html" rel="standout"></atom:link>
-      <description>A sometimes tense conference call among Missouri and Kansas leaders provided a rare look at how discussions about lifting coronavirus restrictions are unfolding nationwide.</description>
-      <dc:creator>John Eligon</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 03:49:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas City (Kan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas City (Mo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/23/us/00VIRUS-cc-empty/merlin_171433902_3d59332d-b39b-4bac-bba7-0fa771a90e08-moth.jpg" width="151"></media:content>
-      <media:credit>Charlie Riedel/Associated Press</media:credit>
-      <media:description>Pedestrians in a deserted Kansas City, Mo., downtown on what would normally have been a busy April workday morning.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Testing in California: What to Know</title>
-      <link>https://www.nytimes.com/2020/04/24/us/coronavirus-covid-get-antibody-testing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/coronavirus-covid-get-antibody-testing.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/coronavirus-covid-get-antibody-testing.html" rel="standout"></atom:link>
-      <description>Friday: Testing capacity is still a major hurdle to reopening, but California is getting closer. Also: PG&amp;E’s chief executive said he’ll retire.</description>
-      <dc:creator>Jill Cowan</dc:creator>
-      <pubDate>Fri, 24 Apr 2020 18:30:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/us/24testingcatoday/merlin_171621576_b7e153c8-0f46-41e1-8f49-906ec840e05b-moth.jpg" width="151"></media:content>
-      <media:credit>John G Mabanglo/EPA, via Shutterstock</media:credit>
-      <media:description>A worker checking in a driver at a drive-through testing site at Cal State University East Bay in Hayward.</media:description>
-    </item>
-    <item>
-      <title>I Used to Make Fun of Silicon Valley Preppers. Then I Became One.</title>
-      <link>https://www.nytimes.com/2020/04/24/technology/coronavirus-preppers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/technology/coronavirus-preppers.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/technology/coronavirus-preppers.html" rel="standout"></atom:link>
-      <description>In tech circles, gearing up for the apocalypse was a cliché. Now it’s a credential.</description>
-      <dc:creator>Nellie Bowles</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 01:34:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="">Prepping</category>
-      <category domain="">Preppers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rationing and Allocation of Resources</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doomsday</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">The Prepared (Blog)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramey, John (Entrepreneur)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stokes, Jon (Entrepreneur)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/business/00virus-preppers/00virus-preppers-moth.jpg" width="151"></media:content>
-      <media:credit>Bobby Doherty for The New York Times</media:credit>
-      <media:description>Why is disaster prep so appealing to techies? Perhaps there is something about getting everything you have overnight that predisposes you to imagine losing it just as quickly.</media:description>
     </item>
   </channel>
 </rss>
