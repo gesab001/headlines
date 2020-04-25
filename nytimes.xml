@@ -7,20 +7,20 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 25 Apr 2020 19:40:01 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Apr 2020 19:40:01 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2020 21:07:57 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2020 21:07:57 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>Coronavirus Live Updates: U.S. Braces for Grim Milestone</title>
+      <title>Coronavirus Live Updates: Some States Move to Reopen</title>
       <link>https://www.nytimes.com/2020/04/25/us/coronavirus-news.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/coronavirus-news.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/25/us/coronavirus-news.html" rel="standout"></atom:link>
       <description>U.S. scientists join the World Health Organization in calling for better antibody tests. International students and Americans alike face the dilemma of being stranded away from home.</description>
-      <pubDate>Sat, 25 Apr 2020 19:15:32 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2020 21:01:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/us/25virus-us-briefing-open/25virus-us-briefing-open-moth.jpg" width="151"></media:content>
       <media:credit>Joseph Rushmore for The New York Times</media:credit>
@@ -83,13 +83,72 @@
       <media:description>One of the two privately run state prisons in McFarland, Calif., that will become federal immigration detention centers.</media:description>
     </item>
     <item>
+      <title>Boeing Terminates $4.2 Billion Deal to Buy Stake in Embraer Unit</title>
+      <link>https://www.nytimes.com/2020/04/25/business/boeing-embraer-acquisition-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/business/boeing-embraer-acquisition-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/25/business/boeing-embraer-acquisition-coronavirus.html" rel="standout"></atom:link>
+      <description>The U.S. aviation giant, struggling with the 737 Max crisis and canceled orders, no longer wants Embraer’s commercial jet business.</description>
+      <dc:creator>Vindu Goel</dc:creator>
+      <pubDate>Sat, 25 Apr 2020 20:29:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boeing 737 Max Groundings and Safety Concerns (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Embraer - Empresa Brasileira de Aeronautica SA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/us/25boeing/merlin_170887791_bb28a9d1-56e5-4558-ab49-31a331f91dbe-moth.jpg" width="151"></media:content>
+      <media:credit>Ruth Fremson/The New York Times</media:credit>
+      <media:description>Boeing said it was walking away from a deal to buy a controlling stake in Embraer’s commercial jet business.</media:description>
+    </item>
+    <item>
+      <title>Amid the Coronavirus Crisis, Heart and Stroke Patients Go Missing</title>
+      <link>https://www.nytimes.com/2020/04/25/health/coronavirus-heart-stroke.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/health/coronavirus-heart-stroke.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/25/health/coronavirus-heart-stroke.html" rel="standout"></atom:link>
+      <description>Emergency physicians are seeing declines in the number of patients arriving with cardiac problems. Some say they were afraid to go to the hospital.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Sat, 25 Apr 2020 20:15:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fear (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jaipur (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austria</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/science/00VIRUS-EMERGENCIES1/00VIRUS-EMERGENCIES1-moth.jpg" width="151"></media:content>
+      <media:credit>Etienne Laurent/EPA, via Shutterstock</media:credit>
+      <media:description>Nurses tended to a patient admitted to the emergency room for high blood pressure at the Sharp Grossmont Hospital in La Mesa, Calif., on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Who Belongs In America?</title>
+      <link>https://www.nytimes.com/2020/04/25/us/coronavirus-immigration-china-book-yang.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/coronavirus-immigration-china-book-yang.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/25/us/coronavirus-immigration-china-book-yang.html" rel="standout"></atom:link>
+      <description>For many, the recent harassment of Asian-Americans has been a stunning reminder that your face can still mark you as foreign.</description>
+      <dc:creator>Jia Lynn Yang</dc:creator>
+      <pubDate>Sat, 25 Apr 2020 14:30:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yang, Jia Lynn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asian-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
       <title>Coronavirus in Massachusetts: In Chelsea, Leaders Struggle to Separate the Sick From the Well</title>
       <link>https://www.nytimes.com/2020/04/25/us/coronavirus-chelsea-massachusetts.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/coronavirus-chelsea-massachusetts.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/25/us/coronavirus-chelsea-massachusetts.html" rel="standout"></atom:link>
       <description>Chelsea, Mass., has an infection rate higher than any other community in the state. With families in cramped housing, it is difficult to contain the spread.</description>
       <dc:creator>Ellen Barry</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 18:16:30 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2020 19:41:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
@@ -191,11 +250,11 @@
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/world/coronavirus-news.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/25/world/coronavirus-news.html" rel="standout"></atom:link>
       <description>This Ramadan is unfolding like no other. Airlines in the U.S. and Europe are getting more bailout money. Belarus, led by a virus-denying autocrat, has imposed no lockdowns.</description>
-      <pubDate>Sat, 25 Apr 2020 18:46:21 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2020 20:24:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/world/25virus-int-briefing-WHOtests/25virus-int-briefing-WHOtests-moth.jpg" width="151"></media:content>
-      <media:credit>Alessandro Grassani for The New York Times</media:credit>
-      <media:description>The municipality of Cisliano, outside Milan, conducted tests to help determine how many people had developed antibodies against the coronavirus.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/us/25virus-int-briefing-airport/25virus-int-briefing-airport-moth.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>Newark Liberty International Airport last week. The State Department is warning that commercial flights to the United States from overseas may end in the coming days and urging Americans abroad to grab any opportunity to board them.</media:description>
     </item>
     <item>
       <title>Health Officials Responding to Coronavirus Lacked Proper Gear and Training, Investigation Finds</title>
@@ -255,14 +314,18 @@
       <description>“The first and most important thing is to turn off the faucet of new immigrant labor — mission accomplished,’’ Mr. Miller told conservatives allies, according to an audio recording.</description>
       <dc:creator>Michael D. Shear and Maggie Haberman</dc:creator>
       <pubDate>Sat, 25 Apr 2020 00:14:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Stephen (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deferred Action for Childhood Arrivals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Stephen (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Green Cards (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/us/politics/24dc-virus-miller/24dc-virus-miller-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Kevin Dietsch</media:credit>
       <media:description>Stephen Miller, a senior adviser to President Trump, said that the executive order, while temporary, would have long-lasting effects.</media:description>
@@ -389,55 +452,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/23/obituaries/23Saunders/23Saunders-moth.jpg" width="151"></media:content>
       <media:credit>via Kenneth Saunders Jr.</media:credit>
       <media:description>Kenneth Saunders III served on boards and associations in suburban Atlanta, part of his dedication to improving life for his neighbors.</media:description>
-    </item>
-    <item>
-      <title>Joe Biden Steps Up Warnings of Possible Trump Disruption of 2020 Election</title>
-      <link>https://www.nytimes.com/2020/04/24/us/politics/joseph-biden-trump-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/politics/joseph-biden-trump-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/politics/joseph-biden-trump-election.html" rel="standout"></atom:link>
-      <description>Joseph R. Biden Jr. has increasingly speculated that President Trump may try to delay or disrupt the election in some way, sending a warning signal that attempts to frame the president as desperate.</description>
-      <dc:creator>Katie Glueck</dc:creator>
-      <pubDate>Fri, 24 Apr 2020 21:52:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/us/politics/24biden-election1/24biden-election1-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>Early polls have showed President Trump is vulnerable in several key battleground states, which could imperil his re-election.</media:description>
-    </item>
-    <item>
-      <title>Nursing Homes in Some States Told to Take Patients Infected With Coronavirus</title>
-      <link>https://www.nytimes.com/2020/04/24/us/nursing-homes-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/nursing-homes-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/nursing-homes-coronavirus.html" rel="standout"></atom:link>
-      <description>California, New Jersey and New York have made nursing homes accept Covid-19 patients from hospitals. Residents and workers fear the policy is risking lives.</description>
-      <dc:creator>Kim Barker and Amy Julia Harris</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 00:45:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nursing Homes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement Communities and Assisted Living</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cuomo, Andrew M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zucker, Howard A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Massachusetts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/multimedia/00virus-nursinghomes-04/00virus-nursinghomes-04-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Grant Hindsley for The New York Times</media:credit>
-      <media:description>Nursing homes have been particularly vulnerable to the pandemic. The Life Care Center of Kirkland, in Washington State, was linked to dozens of coronavirus deaths.</media:description>
     </item>
   </channel>
 </rss>
