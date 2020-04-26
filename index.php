@@ -94,6 +94,17 @@ function loadNews(news){
  xhttp.send();
 }
 
+function getYoutubeID(link){
+ var split = link.split("=");
+ var id = split[1];
+ return id;
+}
+
+function getEmbedURL(youtubeid){
+  url = "https://www.youtube.com/embed/"+youtubeid;
+return url;
+}
+
 function loadYoutubeLinks(xml){
   var text = "";
   var xmlDoc = xml.responseXML;
@@ -102,8 +113,10 @@ function loadYoutubeLinks(xml){
 	  var entry = entries[x]; 
 	  var title = entry.getElementsByTagName("title")[0].childNodes[0].nodeValue;
 	  var link = entry.getElementsByTagName("link")[0].getAttribute("href");
-
-	  text += "<a href='"+link+"'>"+title+"</a><br><br>";
+          var youtubeid = getYoutubeID(link);
+          var embedurl = getEmbedURL(youtubeid);
+          var urladdress = "./pl-youtube.html?embedurl="+embedurl;         
+  text += "<a href='"+urladdress+"'>"+title+"</a><br><br>";
   }
   document.getElementById("demo").innerHTML = text;
 
