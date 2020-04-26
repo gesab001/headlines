@@ -7,24 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 26 Apr 2020 01:55:13 +0000</lastBuildDate>
-    <pubDate>Sun, 26 Apr 2020 01:55:13 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2020 20:14:12 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Apr 2020 20:14:12 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>Coronavirus Live Updates: Some States Move to Reopen</title>
-      <link>https://www.nytimes.com/2020/04/25/us/coronavirus-news.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/coronavirus-news.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/25/us/coronavirus-news.html" rel="standout"></atom:link>
-      <description>The nation nears a sobering 50,000 deaths from the virus. U.S. scientists join the World Health Organization in calling for better antibody tests.</description>
-      <pubDate>Sun, 26 Apr 2020 01:47:21 +0000</pubDate>
+      <title>Live Coronavirus News and Updates</title>
+      <link>https://www.nytimes.com/2020/04/26/us/coronavirus-updates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/coronavirus-updates.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/26/us/coronavirus-updates.html" rel="standout"></atom:link>
+      <description>Much faster and more widespread testing will be vital as states begin reopening their economies and allowing people to return to work and public spaces.</description>
+      <pubDate>Sun, 26 Apr 2020 20:13:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/us/25virus-us-briefing-open/25virus-us-briefing-open-moth.jpg" width="151"></media:content>
-      <media:credit>Joseph Rushmore for The New York Times</media:credit>
-      <media:description>A beauty salon reopening on Friday in Broken Arrow, Okla.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/us/26virus-us-brefing-testing/merlin_171766710_017d5f5e-71dc-4c09-89f6-e190ed32cdf4-moth.jpg" width="151"></media:content>
+      <media:credit>Erika P. Rodriguez for The New York Times</media:credit>
+      <media:description>A testing site in San Juan, P.R., on Monday.</media:description>
     </item>
     <item>
       <title>Reopening Has Begun. No One Is Sure What Happens Next.</title>
@@ -34,14 +39,16 @@
       <description>The heated debate over when to restart the economy has obscured an issue that could prove just as thorny: How to do it.</description>
       <dc:creator>Ben Casselman</dc:creator>
       <pubDate>Sun, 26 Apr 2020 01:13:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/business/26virus-restart/00virus-restart2-moth.jpg" width="151"></media:content>
       <media:credit>Scott McIntyre for The New York Times</media:credit>
       <media:description>The Broadwalk Restaurant in Hollywood Beach, Fla. Restaurants generally have tight profit margins even in the best of times. </media:description>
@@ -83,13 +90,106 @@
       <media:description>One of the two privately run state prisons in McFarland, Calif., that will become federal immigration detention centers.</media:description>
     </item>
     <item>
+      <title>Needing At-Home Workers, Call Centers Turn to People With Disabilities</title>
+      <link>https://www.nytimes.com/2020/04/26/business/call-centers-disabilities-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/business/call-centers-disabilities-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/26/business/call-centers-disabilities-coronavirus.html" rel="standout"></atom:link>
+      <description>Companies caught short by the pandemic are hiring from a pool that was already prepared to handle a surge in phone traffic away from offices.</description>
+      <dc:creator>Jaclyn Peiser</dc:creator>
+      <pubDate>Sun, 26 Apr 2020 19:43:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telecommuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Outsourcing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Americans With Disabilities Act</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Telecommuting Institute</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/business/26virus-callcenter1a/26virus-callcenter1a-moth.jpg" width="151"></media:content>
+      <media:credit>Bob Miller for The New York Times</media:credit>
+      <media:description>Only a handful of employees continue working from their cubicles during the coronavirus pandemic at the ASK Telemarketing call center. Most of the rest are working from home.</media:description>
+    </item>
+    <item>
+      <title>32 Days on a Ventilator: One Covid Patient’s Fight to Breathe Again</title>
+      <link>https://www.nytimes.com/2020/04/26/health/coronavirus-patient-ventilator.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/health/coronavirus-patient-ventilator.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/26/health/coronavirus-patient-ventilator.html" rel="standout"></atom:link>
+      <description>Jim Bello, 49 and healthy, fell gravely ill, highlighting agonizing mysteries of the coronavirus. Doctors’ relentless effort to save him was a roller-coaster of devastating and triumphant twists.</description>
+      <dc:creator>Pam Belluck</dc:creator>
+      <pubDate>Sun, 26 Apr 2020 20:09:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ventilators (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Devices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lungs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oxygen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Respiratory Distress Syndrome</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Massachusetts General Hospital</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/20/science/00VIRUS-ICU-jim2/00VIRUS-ICU-jim2-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Kayana Szymczak for The New York Times</media:credit>
+      <media:description>The Bello family, from left: Hadley, Riley, Kim, Taylor and Jim.</media:description>
+    </item>
+    <item>
+      <title>Safe Dining? Hard to Imagine, but Many Restaurants Are Trying</title>
+      <link>https://www.nytimes.com/2020/04/26/dining/restaurants-open-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/dining/restaurants-open-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/26/dining/restaurants-open-coronavirus.html" rel="standout"></atom:link>
+      <description>Though widespread reopenings may be a long way off, chefs and health officials have begun studying how a post-pandemic restaurant might look.</description>
+      <dc:creator>Kim Severson</dc:creator>
+      <pubDate>Sun, 26 Apr 2020 14:59:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hygiene and Cleanliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chang, David (Chef)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/dining/26virus-restaurants1/merlin_171876174_5bb5be1b-b0bf-4afa-8553-3d00a49790da-moth.jpg" width="151"></media:content>
+      <media:credit>Kevin D. Liles for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Trump Turns Shared American Experiences Into Us vs. Them</title>
+      <link>https://www.nytimes.com/2020/04/26/us/politics/white-house-correspondents-dinner-bipartisan-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/politics/white-house-correspondents-dinner-bipartisan-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/26/us/politics/white-house-correspondents-dinner-bipartisan-trump.html" rel="standout"></atom:link>
+      <description>Nostalgia for a time when Democratic leaders could embrace Republican leaders in a moment of crisis — and when a bipartisan group would gather for an annual roasting in Washington.</description>
+      <dc:creator>Mark Leibovich</dc:creator>
+      <pubDate>Sun, 26 Apr 2020 09:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Christie, Christopher J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Daschle, Tom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">White House Correspondents Assn</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/us/politics/25nostalgia1/25nostalgia1-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>President Trump shows little interest in the tradition of national strife placing a pause upon the usual smallness of politics.</media:description>
+    </item>
+    <item>
+      <title>UK, Italy, Prisons: Coronavirus Live World News Tracker</title>
+      <link>https://www.nytimes.com/2020/04/26/world/coronavirus-news.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/world/coronavirus-news.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/26/world/coronavirus-news.html" rel="standout"></atom:link>
+      <description>Boris Johnson is back at Downing St. and will return to work Monday after recovering. Children in Spain play outside for the first time in weeks. Wuhan says it has no more hospitalized Covid-19 patients.</description>
+      <pubDate>Sun, 26 Apr 2020 20:11:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/world/26virus-int-prison-brazil/merlin_171709716_4389f301-c314-46cc-bfda-841d363ea302-moth.jpg" width="151"></media:content>
+      <media:credit>Mauro Pimentel/Agence France-Presse — Getty Images</media:credit>
+      <media:description>An injured inmate with military police officers during a prison rebellion this month in Rio de Janeiro.</media:description>
+    </item>
+    <item>
       <title>Chicago Bans Horse-Drawn Carriages Starting in 2021</title>
       <link>https://www.nytimes.com/2020/04/25/us/horse-drawn-carriage-chicago.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/horse-drawn-carriage-chicago.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/25/us/horse-drawn-carriage-chicago.html" rel="standout"></atom:link>
       <description>After the City Council’s vote on Friday, operators will be unable to renew their licenses and the city will stop issuing new ones.</description>
       <dc:creator>Mariel Padilla</dc:creator>
-      <pubDate>Sun, 26 Apr 2020 00:13:17 +0000</pubDate>
+      <pubDate>Sun, 26 Apr 2020 13:04:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Carriages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
@@ -110,15 +210,34 @@
       <atom:link href="https://www.nytimes.com/2020/04/25/nyregion/richard-hake-dead.html" rel="standout"></atom:link>
       <description>Mr. Hake produced and created live radio feature segments that focused on breaking news, culture and artistic sound portraits.</description>
       <dc:creator>Derrick Bryson Taylor</dc:creator>
-      <pubDate>Sun, 26 Apr 2020 00:25:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Richard Hake</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Public Radio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WNYC</category>
+      <pubDate>Sun, 26 Apr 2020 14:34:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hake, Richard (1969-2020)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WNYC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Public Radio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Public Radio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+    </item>
+    <item>
+      <title>F.T.C. Warns 10 Companies About Virus-Related Health and Business Claims</title>
+      <link>https://www.nytimes.com/2020/04/25/us/ftc-mlm-coronavirus-claims.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/ftc-mlm-coronavirus-claims.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/25/us/ftc-mlm-coronavirus-claims.html" rel="standout"></atom:link>
+      <description>In warning letters sent on Friday, the agency cracked down for the first time on claims about earnings opportunities amid the pandemic.</description>
+      <dc:creator>Johnny Diaz</dc:creator>
+      <pubDate>Sun, 26 Apr 2020 00:30:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="">warning letters</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/business/25xp-virus-letters-pix1/25xp-virus-letters-pix1-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Brandon/Associated Press</media:credit>
+      <media:description>The letters from the Federal Trade Commission targeted multilevel marketers for making health and business claims related to the coronavirus.</media:description>
     </item>
     <item>
       <title>Boeing Terminates $4.2 Billion Deal to Buy Stake in Embraer Unit</title>
@@ -127,7 +246,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/25/business/boeing-embraer-acquisition-coronavirus.html" rel="standout"></atom:link>
       <description>The U.S. aviation giant, struggling with the 737 Max crisis and canceled orders, no longer wants Embraer’s commercial jet business.</description>
       <dc:creator>Vindu Goel</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 20:29:25 +0000</pubDate>
+      <pubDate>Sun, 26 Apr 2020 14:51:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Boeing 737 Max Groundings and Safety Concerns (2019)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
@@ -163,6 +282,77 @@
       <media:description>Nurses tended to a patient admitted to the emergency room for high blood pressure at the Sharp Grossmont Hospital in La Mesa, Calif., on Wednesday.</media:description>
     </item>
     <item>
+      <title>Americans Abroad Ask Whether to Stay, and Risk Infection, or Fly Home, and Risk Infection</title>
+      <link>https://www.nytimes.com/2020/04/25/us/politics/coronavirus-americans-abroad.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/politics/coronavirus-americans-abroad.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/25/us/politics/coronavirus-americans-abroad.html" rel="standout"></atom:link>
+      <description>As virus cases increase, Americans overseas wonder if it is better to take a commercial flight back to the United States — even if it means interacting with people who could infect them.</description>
+      <dc:creator>Lara Jakes</dc:creator>
+      <pubDate>Sun, 26 Apr 2020 03:01:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Americans Abroad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guatemala</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/us/politics/25dc-virus-stranded2/25dc-virus-stranded2-moth.jpg" width="151"></media:content>
+      <media:credit>Roosevelt Cassio/Reuters</media:credit>
+      <media:description>A mostly empty airport in Sao Paulo this month. There are now fewer than a dozen flights to the United States from Brazil each week. </media:description>
+    </item>
+    <item>
+      <title>Testing Remains Scarce as Governors Weigh Reopening States</title>
+      <link>https://www.nytimes.com/2020/04/25/us/politics/virus-testing-shortages-states-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/politics/virus-testing-shortages-states-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/25/us/politics/virus-testing-shortages-states-trump.html" rel="standout"></atom:link>
+      <description>In both red and blue states, governors, health departments and hospitals are finding innovative ways to cope, but still lack what experts say they need to track and contain outbreaks.</description>
+      <dc:creator>Sheryl Gay Stolberg, Farah Stockman and Sharon LaFraniere</dc:creator>
+      <pubDate>Sat, 25 Apr 2020 23:25:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albany (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Columbus (Ohio)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Phoebe Putney Memorial Hospital (Albany, Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/us/politics/26dc-virus-testing1/25dc-virus-testing1-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Misha Friedman/Getty Images</media:credit>
+      <media:description>Hospital staff with flu-like symptoms were tested for the coronavirus last month at St. Barnabas Hospital in the Bronx. States around the country continue to be hampered by a shortage of testing capacity.</media:description>
+    </item>
+    <item>
+      <title>Prescriptions Surged as Trump Praised Drugs in Coronavirus Fight</title>
+      <link>https://www.nytimes.com/2020/04/25/us/coronavirus-trump-chloroquine-hydroxychloroquine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/coronavirus-trump-chloroquine-hydroxychloroquine.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/25/us/coronavirus-trump-chloroquine-hydroxychloroquine.html" rel="standout"></atom:link>
+      <description>Prescriptions for two antimalarial drugs jumped by 46 times the average when the president promoted them on TV. There’s no proof they work against Covid-19.</description>
+      <dc:creator>Ellen Gabler and Michael H. Keller</dc:creator>
+      <pubDate>Sat, 25 Apr 2020 18:35:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hydroxychloroquine (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chloroquine (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Azithromycin (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autoimmune Diseases</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lupus Erythematosus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rheumatoid Arthritis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institute of Allergy and Infectious Diseases</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/multimedia/00virus-prescribe-2/00virus-prescribe-2-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump at a briefing on March 19 in which he spoke of two medications with “very, very promising results.”</media:description>
+    </item>
+    <item>
       <title>Who Belongs In America?</title>
       <link>https://www.nytimes.com/2020/04/25/us/coronavirus-immigration-china-book-yang.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/coronavirus-immigration-china-book-yang.html</guid>
@@ -188,216 +378,27 @@
       <dc:creator>Ellen Barry</dc:creator>
       <pubDate>Sat, 25 Apr 2020 19:41:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Massachusetts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fear (Emotion)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chelsea, Mass.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chelsea (Mass)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/us/26virus-chelsea02/merlin_171686601_7440f465-6d38-4502-ad64-5b6e9d75ad4c-moth.jpg" width="151"></media:content>
       <media:credit>Michael Dwyer/Associated Press</media:credit>
       <media:description>Residents lined up at a food distribution site outside City Hall in Chelsea.</media:description>
     </item>
     <item>
-      <title>A Candidate in Isolation: Inside Joe Biden’s Cloistered Campaign</title>
-      <link>https://www.nytimes.com/2020/04/25/us/politics/joe-biden-coronavirus-quarantine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/politics/joe-biden-coronavirus-quarantine.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/25/us/politics/joe-biden-coronavirus-quarantine.html" rel="standout"></atom:link>
-      <description>Walled off from voters in a distinctive kind of lockdown, Mr. Biden has developed a routine, of sorts, as he seeks the presidency from his basement.</description>
-      <dc:creator>Alexander Burns, Shane Goldmacher and Katie Glueck</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 16:17:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <title>Coronavirus Live Updates: Some States Move to Reopen</title>
+      <link>https://www.nytimes.com/2020/04/25/us/coronavirus-news.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/coronavirus-news.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/25/us/coronavirus-news.html" rel="standout"></atom:link>
+      <description>States move to reopen as the U.S. nears a sobering 50,000 deaths from the virus. U.S. scientists join the World Health Organization in calling for better antibody tests.</description>
+      <pubDate>Sun, 26 Apr 2020 12:08:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Jill Tracy Jacobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dillon, Jennifer O&#39;Malley</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murthy, Vivek H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Summers, Lawrence H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delaware</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/us/politics/26biden-quarantine-p1/25biden-quarantine-moth.jpg" width="151"></media:content>
-      <media:credit>Calla Kessler/The New York Times</media:credit>
-      <media:description>Former Vice President Joseph R. Biden Jr. has used a television-quality video uplink from his refurbished rec room for interviews and online campaign events.</media:description>
-    </item>
-    <item>
-      <title>Nervous Republicans See Trump Sinking, and Taking Senate With Him</title>
-      <link>https://www.nytimes.com/2020/04/25/us/politics/trump-election-briefings.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/politics/trump-election-briefings.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/25/us/politics/trump-election-briefings.html" rel="standout"></atom:link>
-      <description>The election is still six months away, but a rash of ominous new polls and the president’s erratic briefings have the G.O.P. worried about a Democratic takeover.</description>
-      <dc:creator>Jonathan Martin and Maggie Haberman</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 21:55:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican National Committee</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/us/politics/00trump-reelect/merlin_171873021_3bbb19f1-6572-4cde-ad35-e508f5f24ca4-moth.jpg" width="151"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>Many Republicans believe President Trump’s daily news briefings are inflicting grave damage on his political standing.</media:description>
-    </item>
-    <item>
-      <title>The Paramedics Couldn’t Find Lysol. They Turned to Their Congressman.</title>
-      <link>https://www.nytimes.com/2020/04/25/us/politics/coronavirus-lawmakers-constituents.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/politics/coronavirus-lawmakers-constituents.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/25/us/politics/coronavirus-lawmakers-constituents.html" rel="standout"></atom:link>
-      <description>“They don’t know who else to come to.” Members of Congress have overhauled their offices to answer increasingly desperate calls from constituents in search of a lifeline and unsure of who can help.</description>
-      <dc:creator>Catie Edmondson</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 09:00:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, Rodney Lee (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hayes, Jahana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim, Andy (1982- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/us/politics/26dc-virus-cong-help1/00dc-virus-cong-help1-moth.jpg" width="151"></media:content>
-      <media:credit>Bryan Anselm for The New York Times</media:credit>
-      <media:description>&amp;ldquo;The last couple of weeks have fundamentally redefined what my job is, what it means to be a representative,&amp;rdquo; said Representative Andy Kim, a Democrat from a New Jersey district hit hard by the coronavirus.</media:description>
-    </item>
-    <item>
-      <title>Making Marines Without Making Them Sick</title>
-      <link>https://www.nytimes.com/2020/04/25/magazine/marines-training-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/magazine/marines-training-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/25/magazine/marines-training-coronavirus.html" rel="standout"></atom:link>
-      <description>After a brief pause, Parris Island is once again taking Marine recruits, with some modifications to the grueling 13-week boot camp.</description>
-      <dc:creator>Geoff Ziezulewicz</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 09:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Marine Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marine Corps Recruit Depot Parris Island (SC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/magazine/25atwar-parris-island-02/merlin_151542096_ec571531-d9f0-4d83-a1e5-0182f1a565f9-moth.jpg" width="151"></media:content>
-      <media:credit>Lynsey Addario for The New York Times</media:credit>
-      <media:description>Recruits at Parris Island last year.</media:description>
-    </item>
-    <item>
-      <title>World Coronavirus Tracker: Live Coverage</title>
-      <link>https://www.nytimes.com/2020/04/25/world/coronavirus-news.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/world/coronavirus-news.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/25/world/coronavirus-news.html" rel="standout"></atom:link>
-      <description>Belarus, led by a virus-denying autocrat, has imposed no lockdowns. Brazil’s leader, who has played down the virus, faces an uncertain future.</description>
-      <pubDate>Sun, 26 Apr 2020 01:24:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/us/25virus-int-briefing-airport/25virus-int-briefing-airport-moth.jpg" width="151"></media:content>
-      <media:credit>Hiroko Masuike/The New York Times</media:credit>
-      <media:description>Newark Liberty International Airport last week. The State Department is warning that commercial flights to the United States from overseas may end in the coming days and urging Americans abroad to grab any opportunity to board them.</media:description>
-    </item>
-    <item>
-      <title>Health Officials Responding to Coronavirus Lacked Proper Gear and Training, Investigation Finds</title>
-      <link>https://www.nytimes.com/2020/04/24/us/politics/coronavirus-federal-response.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/politics/coronavirus-federal-response.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/politics/coronavirus-federal-response.html" rel="standout"></atom:link>
-      <description>Lawyers at the Department of Health and Human Services reported that protocols “temporarily broke down” when employees were working with people in quarantine.</description>
-      <dc:creator>Emily Cochrane</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 02:32:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whistle-Blowers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Administration for Children and Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">March Air Reserve Base (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riverside County (Calif)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/us/politics/24dc-virus-whistleblower/24dc-virus-whistleblower-moth.jpg" width="151"></media:content>
-      <media:credit>Mike Blake/Reuters</media:credit>
-      <media:description>A report found that proper procedures to protect health officials “temporarily broke down” amid a chaotic situation in January at March Air Reserve Base in California.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Looms as Businesses Reopen in Some States </title>
-      <link>https://www.nytimes.com/2020/04/24/us/coronavirus-georgia-oklahoma-alaska-reopen.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/coronavirus-georgia-oklahoma-alaska-reopen.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/coronavirus-georgia-oklahoma-alaska-reopen.html" rel="standout"></atom:link>
-      <description>Some states have taken tentative steps toward reopening businesses shuttered by the coronavirus. In Georgia, it meant a few residents were out getting haircuts and their tongues pierced.</description>
-      <dc:creator>Rick Rojas and Richard Fausset</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 14:40:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kemp, Brian P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Barbers and Barbering</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beauty Salons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/us/24virus-openstates01/24virus-openstates01-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Joseph Rushmore for The New York Times</media:credit>
-      <media:description>A barber cutting a customer’s hair in Broken Arrow, Okla., on Friday, the first day some nonessential businesses in the state could reopen.</media:description>
-    </item>
-    <item>
-      <title>Trump’s Temporary Halt to Immigration is Part of Broader Plan, Stephen Miller Says</title>
-      <link>https://www.nytimes.com/2020/04/24/us/politics/coronavirus-trump-immigration-stephen-miller.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/politics/coronavirus-trump-immigration-stephen-miller.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/politics/coronavirus-trump-immigration-stephen-miller.html" rel="standout"></atom:link>
-      <description>“The first and most important thing is to turn off the faucet of new immigrant labor — mission accomplished,’’ Mr. Miller told conservatives allies, according to an audio recording.</description>
-      <dc:creator>Michael D. Shear and Maggie Haberman</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 00:14:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Stephen (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deferred Action for Childhood Arrivals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Green Cards (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/us/politics/24dc-virus-miller/24dc-virus-miller-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Kevin Dietsch</media:credit>
-      <media:description>Stephen Miller, a senior adviser to President Trump, said that the executive order, while temporary, would have long-lasting effects.</media:description>
-    </item>
-    <item>
-      <title>California Lifts Ban on Plastic Bags Amid Virus Concerns</title>
-      <link>https://www.nytimes.com/2020/04/24/us/california-plastic-bag-ban-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/california-plastic-bag-ban-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/california-plastic-bag-ban-coronavirus.html" rel="standout"></atom:link>
-      <description>For the next 60 days, supermarkets in the state can hand out single-use bags without charging. Some are skeptical that suspending the ban will protect anyone’s health.</description>
-      <dc:creator>Heather Murphy</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 01:16:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plastic Bags</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2015/02/24/us/24xp-virus-bagban-image/24xp-virus-bagban-image-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Rich Pedroncelli/Associated Press</media:credit>
-      <media:description>Single-use plastic bags have been banned in California since 2016.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Briefing: What Happened Today</title>
-      <link>https://www.nytimes.com/2020/04/24/us/coronavirus-today.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/coronavirus-today.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/coronavirus-today.html" rel="standout"></atom:link>
-      <description>Don’t ingest bleach.</description>
-      <dc:creator>Jonathan Wolfe and Lara Takenaga</dc:creator>
-      <pubDate>Fri, 24 Apr 2020 23:08:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v338.png" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/us/25virus-us-Azar/25virus-us-Azar-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>White House officials are discussing replacing Alex M. Azar II, the health and human services secretary, center, as the administration faces criticism for its coronavirus response.</media:description>
     </item>
   </channel>
 </rss>
