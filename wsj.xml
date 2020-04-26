@@ -6,8 +6,8 @@
 <atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
 <description>World News</description>
 <language>en-us</language>
-<pubDate>Sun, 26 Apr 2020 18:53:08 -0400</pubDate>
-<lastBuildDate>Sun, 26 Apr 2020 18:53:08 -0400</lastBuildDate>
+<pubDate>Sun, 26 Apr 2020 19:27:25 -0400</pubDate>
+<lastBuildDate>Sun, 26 Apr 2020 19:27:25 -0400</lastBuildDate>
 <copyright>Dow Jones &amp; Company, Inc.</copyright>
 <generator>http://online.wsj.com/page/2_0006.html</generator>
 <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
@@ -47,16 +47,6 @@
 <wsj:articletype>World News</wsj:articletype>
 </item>
 <item>
-<title>As Italy Looks to Ease Its Lockdown, Doubts Persist About Its Readiness</title>
-<link>https://www.wsj.com/articles/italy-worries-coronavirus-infections-could-pick-up-again-as-guidelines-relax-11587910066</link>
-<description><![CDATA[Even countries seen as pandemic-fighting models like Singapore and Hong Kong have seen new infections rise this month, showing the scale of the challenge for most European countries and the U.S. as they seek to reopen.]]></description>
-<content:encoded/>
-<pubDate>Sun, 26 Apr 2020 10:07:00 -0400</pubDate>
-<guid isPermaLink="false">SB10758285876894483683604586343361798182954</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>World News</wsj:articletype>
-</item>
-<item>
 <title>China Seeks to Ease Medical Goods Shipment Delays With New Rule</title>
 <link>https://www.wsj.com/articles/china-seeks-to-ease-medical-goods-shipment-delays-with-new-rule-11587910039</link>
 <description><![CDATA[China offered a new route for producers of medical goods to obtain export approval, a move that could help ease recent shipment delays of critical medical equipment to fight the coronavirus pandemic to the U.S. and other countries.]]></description>
@@ -65,6 +55,16 @@
 <guid isPermaLink="false">SB11419749939775504906304586347483777278622</guid>
 <category domain="AccessClassName">PAID</category>
 <wsj:articletype>China News</wsj:articletype>
+</item>
+<item>
+<title>As Italy Looks to Ease Its Lockdown, Doubts Persist About Its Readiness</title>
+<link>https://www.wsj.com/articles/italy-worries-coronavirus-infections-could-pick-up-again-as-guidelines-relax-11587910066</link>
+<description><![CDATA[Even countries seen as pandemic-fighting models like Singapore and Hong Kong have seen new infections rise this month, showing the scale of the challenge for most European countries and the U.S. as they seek to reopen.]]></description>
+<content:encoded/>
+<pubDate>Sun, 26 Apr 2020 10:07:00 -0400</pubDate>
+<guid isPermaLink="false">SB10758285876894483683604586343361798182954</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>World News</wsj:articletype>
 </item>
 <item>
 <title>Boris Johnson Set to Return to Work After Recovery From Covid-19</title>
