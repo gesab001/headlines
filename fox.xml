@@ -10,227 +10,221 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/el-paso-walmart-shooting-victim-died-9-months-deadly-attack</guid>
-      <link>https://www.foxnews.com/us/el-paso-walmart-shooting-victim-died-9-months-deadly-attack</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/wake-forest-fires-coach-danny-manning-after-losing-stretch</guid>
+      <link>https://www.foxnews.com/sports/wake-forest-fires-coach-danny-manning-after-losing-stretch</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/eb138d00-AP20117798981888.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/eb138d00-AP20117798981888.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Danny-Manning.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Danny-Manning.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/eb138d00-AP20117798981888.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">e01cd0bf-7f45-57b9-96c3-4744f13e905f</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/texas</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/mass-murder</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Danny-Manning.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1823ec4b-4d42-55e1-845b-122fcf4ee611</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-bk</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/wake-forest-demon-deacons</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>El  Paso mass shooting victim dies almost 9 months after attack</title>
-      <description>A girl's soccer coach hospitalized since being shot multiple times during last year's mass shooting at a Texas Walmart, has died on Saturday.</description>
-                  <dc:creator>David Aaro</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 04:10:17 GMT</pubDate>
+      <title>Wake Forest fires coach Danny Manning after losing stretch</title>
+      <description>Danny Manning never built a winner at Wake Forest. Now the school is looking for a new coach and direction.</description>
+                   <pubDate>Mon, 27 Apr 2020 09:03:50 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/food-drink/4-recipes-perfect-for-date-night</guid>
+      <link>https://www.foxnews.com/food-drink/4-recipes-perfect-for-date-night</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Strip-Steak-with-Smashed-Potatoes-and-Pink-Peppercorn-Compound-Butter-1-of-1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Strip-Steak-with-Smashed-Potatoes-and-Pink-Peppercorn-Compound-Butter-1-of-1.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Strip-Steak-with-Smashed-Potatoes-and-Pink-Peppercorn-Compound-Butter-1-of-1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9191cae0-dc55-558d-9a6d-9930e880d0ad</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/food-drink/recipes</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/food-drink</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>4 recipes perfect for date night</title>
+      <description>Put on your fancy date shoes and get to cooking.</description>
+                  <dc:creator>Alexandra Deabler</dc:creator>
+                         <pubDate>Mon, 27 Apr 2020 09:00:53 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Alexandra Deabler</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/this-day-in-history-april-27</guid>
-      <link>https://www.foxnews.com/us/this-day-in-history-april-27</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/science/nearly-9-in-10-covid-19-patients-who-are-put-on-a-ventilator-die-new-york-hospital-data-suggests</guid>
+      <link>https://www.foxnews.com/science/nearly-9-in-10-covid-19-patients-who-are-put-on-a-ventilator-die-new-york-hospital-data-suggests</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/TelegraphGetty.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/TelegraphGetty.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/9c8df27a-vent.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/9c8df27a-vent.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/TelegraphGetty.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">8d3e9680-efa9-58bb-962a-8f54249c90dc</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/this-day-in-history</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/9c8df27a-vent.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c6328493-ff37-55ea-b85c-e10340c44dd5</category>
+                  <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/science</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>This Day in History: April 27</title>
-      <description>Samuel Morse, the inventor of the telegraph, is born; Edward R. Murrow dies</description>
-                   <pubDate>Mon, 27 Apr 2020 04:00:08 GMT</pubDate>
+      <title>Nearly 9 in 10 COVID-19 patients who are put on a ventilator die, New York hospital data suggests</title>
+      <description>Around 88 percent of patients with COVID-19 who were put on a ventilator in a New York hospital system died, according to a new study.</description>
+                  <dc:creator>Yasemin Saplakoglu</dc:creator>
+                         <pubDate>Mon, 27 Apr 2020 09:00:31 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">LiveScience</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Yasemin Saplakoglu</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/biden-sex-assault-allegations-save-democrats-2020-liz-peek</guid>
+      <link>https://www.foxnews.com/opinion/biden-sex-assault-allegations-save-democrats-2020-liz-peek</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f59802e4-376e-49e8-b280-d676953d6abc/f56197e7-a291-46d5-8415-2d0615150f99/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c7ce5b05-ec73-5b60-9d88-48bb4a6846a9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/judiciary/confirmation-of-judge-kavanaugh</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Liz Peek: Biden assault allegations turn race on its head – here's why</title>
+      <description>Tara Reade, a former aide for then-Sen. Joe Biden, has accused the presumed Democrat candidate of sexual assault.</description>
+                  <dc:creator>Liz Peek</dc:creator>
+                         <pubDate>Mon, 27 Apr 2020 09:00:10 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Liz Peek</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/gonzagas-ayayi-declares-for-nba-draft-wont-hire-agent</guid>
+      <link>https://www.foxnews.com/sports/gonzagas-ayayi-declares-for-nba-draft-wont-hire-agent</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Joel-Ayayi2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Joel-Ayayi2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Joel-Ayayi2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">82a3d719-b5df-54c6-bb1c-685aee450a31</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nba-draft</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nba</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/gonzaga-bulldogs</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-bk</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Gonzaga's Ayayi declares for NBA draft, won't hire agent</title>
+      <description>Gonzaga sophomore Joel Ayayi declared for the NBA draft on Saturday but will not hire an agent.</description>
+                   <pubDate>Mon, 27 Apr 2020 08:59:43 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/duck-dynasty-star-willie-robertsons-estate-targeted-with-gunfire-family-says</guid>
-      <link>https://www.foxnews.com/entertainment/duck-dynasty-star-willie-robertsons-estate-targeted-with-gunfire-family-says</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/goff-creates-cap-room-for-rams-to-sign-floyd-robinson</guid>
+      <link>https://www.foxnews.com/sports/goff-creates-cap-room-for-rams-to-sign-floyd-robinson</link>
                   <media:group>
-        <media:content url="https://media2.foxnews.com/BrightCove/694940094001/2018/12/09/694940094001_5977240934001_5977241137001-vs.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/694940094001_5977240934001_5977241137001-vs.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Jared-Goff5.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Jared-Goff5.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/694940094001_5977240934001_5977241137001-vs.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">459cf56b-be57-587e-8f0a-ed55f0157678</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/duck-dynasty</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>'Duck Dynasty' star Willie Robertson's estate targeted with gunfire, family says</title>
-      <description>The Louisiana estate of the “Duck Dynasty” family was the target of a drive-by shooting of eight to 10 shots Friday afternoon, according to a report.</description>
-                  <dc:creator>Frank Miles</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 03:51:31 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Frank Miles</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/jared-kushner-securing-us-supply-chain-coronavirus</guid>
-      <link>https://www.foxnews.com/media/jared-kushner-securing-us-supply-chain-coronavirus</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe4dc9f6-b4f3-4635-967c-7a9ed7154368/d65e13c1-7fac-450d-b84e-7435c61cb3f6/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">5ae11f82-a625-5016-babf-17c01be3e288</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/the-next-revolution</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Jared Kushner on securing US supply chain amid coronavirus: We can never rely on foreign supplies again</title>
-      <description>The coronavirus pandemic brought to light the critical importance of securing U.S. supply chains to eliminate the long-time reliance on foreign governments, White House senior advisor Jared Kushner said during a rare appearance on "The Next Revolution" Sunday.</description>
-                  <dc:creator>Yael Halon</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 03:47:03 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Yael Halon</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/health/los-angeles-county-says-those-in-lower-income-communities-more-vulnerable-to-coronavirus</guid>
-      <link>https://www.foxnews.com/health/los-angeles-county-says-those-in-lower-income-communities-more-vulnerable-to-coronavirus</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52ce0783-e07b-4020-9860-531c4beb19f7/70bb987c-72d9-49b5-9e2a-6ea4bfea7198/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">28328ae4-4843-5561-9268-ccc5982299bd</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/health</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Los Angeles County says those in lower-income communities more vulnerable to coronavirus</title>
-      <description>Health officials in Los Angeles County said those living in lower-income areas in the city are three times more likely to die of COVID-19 than those who live in richer areas, a report said Sunday.</description>
-                  <dc:creator>Edmund DeMarche</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 03:37:57 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/world/kim-yo-jong-kim-jong-un-potential-successor-north-korea</guid>
-      <link>https://www.foxnews.com/world/kim-yo-jong-kim-jong-un-potential-successor-north-korea</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Kim-Yo-Jong.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Kim-Yo-Jong.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Kim-Yo-Jong.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">baa0a80a-8e13-582b-9c4a-b1df9ac60b35</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/north-korea</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/kim-jong-un</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/asia</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/world</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Who is Kim Yo Jong, Kim Jong Un's potential successor in North Korea?</title>
-      <description>Amid speculation about North Korean leader Kim Jong Un's health, focus has shifted to his elusive sister who may be next in line to assume the head of the Kim dynasty.</description>
-                  <dc:creator>Vandana Rambaran</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 02:28:32 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Vandana Rambaran</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/operation-stolen-promise-ice-homeland-security-initiative-coronavirus-fraud</guid>
-      <link>https://www.foxnews.com/us/operation-stolen-promise-ice-homeland-security-initiative-coronavirus-fraud</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/HSI2.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/HSI2.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/HSI2.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">6575341b-1521-5791-ad33-2ee94b38c8ec</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/outbreaks</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/disaster-response</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Operation Stolen Promise: What to know about the ICE-Homeland Security initiative to stop coronavirus fraud</title>
-      <description>As criminals increasingly seek ways to take advantage of the United States’ dwindling health resources and falling economy amid the coronavirus pandemic, multiple law enforcement agencies have pooled their resources to curtail this trend.</description>
-                  <dc:creator>Bradford Betz</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 02:17:01 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Bradford Betz</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/pompeo-us-participant-iran-nuclear-deal-argument</guid>
-      <link>https://www.foxnews.com/politics/pompeo-us-participant-iran-nuclear-deal-argument</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d35319a0-e1ba-4d5b-9976-8936f9fd6370/f510a352-6855-40dd-a8d5-d21c5d663be6/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">95e3598f-2a6f-5aca-9e73-e27a42ff64f4</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy/secretary-of-state</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/iran</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/middle-east</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy/state-department</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Pompeo preparing argument that US still 'participant' in Iran nuclear deal, in effort to restore UN sanctions</title>
-      <description>A U.S. official confirms that Secretary of State Mike Pompeo is preparing a legal argument claiming the country is still a participant in the 2015 nuclear agreement with Iran, currently suffering the outbreak acutely atop an economy already broken by sanctions.</description>
-                  <dc:creator>Frank Miles</dc:creator>
-            <dc:creator>Rich Edson</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 02:12:30 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Frank Miles</category>
-            <category domain="foxnews.com/metadata/dc.creator">Rich Edson</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/coronavirus-big-government-era-pergram</guid>
-      <link>https://www.foxnews.com/politics/coronavirus-big-government-era-pergram</link>
-                  <media:group>
-        <media:content url="https://media2.foxnews.com/BrightCove/694940094001/2020/01/21/694940094001_6125368058001_6125371462001-vs.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/694940094001_6125368058001_6125371462001-vs.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/694940094001_6125368058001_6125371462001-vs.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">aa2d1e98-2897-550a-b35e-8eab4560d5f6</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/disaster-response</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/outbreaks</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/house-of-representatives/budget</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/senate/budget</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/senate/bills</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/house-of-representatives/legislation</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Reporter's Notebook: Coronavirus and the era of big government</title>
-      <description>There may be races to reopen sectors of the economy to stem the federal spending explosion, but whether anyone likes it or not, the era of big government is here, and both sides contributed.</description>
-                  <dc:creator>Chad Pergram</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 02:03:58 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Chad Pergram</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/espn-apologizes-for-tee-higgins-nfl-draft-graphic-detailing-mothers-drug-addiction</guid>
-      <link>https://www.foxnews.com/sports/espn-apologizes-for-tee-higgins-nfl-draft-graphic-detailing-mothers-drug-addiction</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/01/AP19008150954261.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP19008150954261.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP19008150954261.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">268f5053-bf8d-5e9b-8361-37b09245c709</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/tee-higgins</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl-draft</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/cincinnati-bengals</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/ohio</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Jared-Goff5.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">f6e6920a-341f-596d-b116-84675d94cbfc</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/los-angeles-rams</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/jared-goff</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>ESPN apologizes for Tee Higgins NFL Draft graphic detailing mother's drug addiction</title>
-      <description>ESPN is apologizing for an on-screen graphic displayed while covering former Clemson wide receiver Tee Higgins, who was drafted No. 33 overall by the Cincinnati Bengals in the 2020 NFL Draft.</description>
-                  <dc:creator>Daniel Canova</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 01:39:04 GMT</pubDate>
+      <title>Goff creates cap room for Rams to sign Floyd, Robinson</title>
+      <description>The Los Angeles Rams announced the signings of linebacker Leonard Floyd and defensive tackle A'Shawn Robinson on Friday after quarterback Jared Goff restructured his contract to create salary-cap room.</description>
+                   <pubDate>Mon, 27 Apr 2020 08:55:33 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/today-on-fox-news-april-27-2020</guid>
+      <link>https://www.foxnews.com/media/today-on-fox-news-april-27-2020</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/04/fox-news-channel-logo.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/fox-news-channel-logo.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/fox-news-channel-logo.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">42f4b661-ed0f-5c38-b7ec-aa8b87b3f547</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Today on Fox News: April 27, 2020</title>
+      <description />
+                   <pubDate>Mon, 27 Apr 2020 08:32:15 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/jared-kushner-on-coronavirus-were-trying-to-make-sure-were-never-relying-on-foreign-supplies-again</guid>
+      <link>https://www.foxnews.com/us/jared-kushner-on-coronavirus-were-trying-to-make-sure-were-never-relying-on-foreign-supplies-again</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/JaredKushnerAP042720.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/JaredKushnerAP042720.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/JaredKushnerAP042720.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">00e7b71b-6660-5959-823d-cd52e9eb5fd6</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/columns/fox-news-first</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Jared Kushner on coronavirus: We're trying to make sure we're never relying on foreign supplies again</title>
+      <description />
+                   <pubDate>Mon, 27 Apr 2020 08:25:09 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/california-city-official-resigns-throwing-cat-allegedly-drinking-beer-during-zoom-meeting</guid>
+      <link>https://www.foxnews.com/us/california-city-official-resigns-throwing-cat-allegedly-drinking-beer-during-zoom-meeting</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Cat-iStock.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Cat-iStock.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Cat-iStock.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d8759911-b32b-5c6c-9228-b7185553076f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>California city official resigns after allegedly throwing cat during Zoom meeting</title>
+      <description>A planning commissioner in California has resigned after video surfaced of him appearing to throw his cat and allegedly drinking a beer during a Zoom meeting, according to a report on Saturday.</description>
+                  <dc:creator>David Aaro</dc:creator>
+                         <pubDate>Mon, 27 Apr 2020 07:47:38 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/de-blasios-wife-chirlane-mccray-appointed-head-of-coronavirus-racial-inequality-task-force-report</guid>
+      <link>https://www.foxnews.com/us/de-blasios-wife-chirlane-mccray-appointed-head-of-coronavirus-racial-inequality-task-force-report</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/chirlane-cropped-322am.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/chirlane-cropped-322am.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/chirlane-cropped-322am.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">33a161fe-45ba-5c40-ab54-dcce087712b1</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/bill-de-blasio</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>De Blasio appoints wife to head coronavirus racial inequality task force: report</title>
+      <description>Mayor de Blasio isn’t letting the controversy surrounding his wife’s embattled billion-dollar mental-health initiative stop him from appointing her to head a new coronavirus recovery task force.</description>
+                  <dc:creator>Carl Campanile</dc:creator>
+            <dc:creator>Kevin Sheehan</dc:creator>
+            <dc:creator>Aaron Feis</dc:creator>
+                         <pubDate>Mon, 27 Apr 2020 07:41:17 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Carl Campanile</category>
+            <category domain="foxnews.com/metadata/dc.creator">Kevin Sheehan</category>
+            <category domain="foxnews.com/metadata/dc.creator">Aaron Feis</category>
                             </item>
       </channel>
 </rss>

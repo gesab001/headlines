@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 27 Apr 2020 04:26:08 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Apr 2020 04:26:08 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2020 09:07:20 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2020 09:07:20 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/26/us/coronavirus-reopen-states-.html" rel="standout"></atom:link>
       <description>In Colorado, Georgia, Oklahoma, Michigan and elsewhere, they face the same question: how and when to restart parts of their economies.</description>
       <dc:creator>Shaila Dewan and Vanessa Swales</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 04:25:33 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 04:46:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
@@ -97,6 +97,56 @@
       <media:description>A cross placed by the mother of Ahmaud Arbery at the site where he was killed in Glynn County, Ga., in February.</media:description>
     </item>
     <item>
+      <title>Start-Ups Pursue ‘Free Money’ With Relief Funds, Prompting Backlash</title>
+      <link>https://www.nytimes.com/2020/04/27/technology/startups-sba-loans-backlash.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/technology/startups-sba-loans-backlash.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/technology/startups-sba-loans-backlash.html" rel="standout"></atom:link>
+      <description>Some young companies have turned to the government loans not for day-to-day survival but simply to buy useful time.</description>
+      <dc:creator>Erin Griffith and David McCabe</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 09:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Venture Capital Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Small Business Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">silicon valley bank</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/business/00virus-sbastartups1/00virus-sbaloans1-moth.jpg" width="151"></media:content>
+      <media:credit>Gabby Jones for The New York Times</media:credit>
+      <media:description>Funding for the government’s small business loan program quickly ran out, even as hundreds of hard-hit restaurants, hair salons and shops missed out on the relief.</media:description>
+    </item>
+    <item>
+      <title>Stock Markets Rise as Investors Eye Reopenings: Live Updates</title>
+      <link>https://www.nytimes.com/2020/04/27/business/stock-market-today-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/business/stock-market-today-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/business/stock-market-today-coronavirus.html" rel="standout"></atom:link>
+      <description>The latest on stock market and business news during the coronavirus outbreak.</description>
+      <pubDate>Mon, 27 Apr 2020 08:17:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/world/27markets-briefing-1/27markets-briefing-1-moth.jpg" width="151"></media:content>
+      <media:credit>Eugene Hoshiko/Associated Press</media:credit>
+      <media:description>Commuters in Tokyo on Monday.</media:description>
+    </item>
+    <item>
+      <title>World Coronavirus News: Live Coverage</title>
+      <link>https://www.nytimes.com/2020/04/27/world/coronavirus-news.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/world/coronavirus-news.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/world/coronavirus-news.html" rel="standout"></atom:link>
+      <description>Limited testing means the actual toll is higher. In New Zealand, restrictions will begin to loosen on Tuesday. Mosques will reopen in Iran.</description>
+      <pubDate>Mon, 27 Apr 2020 08:33:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/world/27virus-int-briefing-1sub/27virus-int-briefing-1sub-moth.jpg" width="151"></media:content>
+      <media:credit>Stephen Speranza for The New York Times</media:credit>
+      <media:description>A funeral home in the New York City borough of Queens this month.</media:description>
+    </item>
+    <item>
       <title>This Florida Student Was Accepted at All 8 Ivy League Schools</title>
       <link>https://www.nytimes.com/2020/04/26/us/craig-mcfarland-ivy-league-accepted.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/craig-mcfarland-ivy-league-accepted.html</guid>
@@ -148,7 +198,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/science/26virus-antibodies1/26virus-antibodies1-moth.jpg" width="151"></media:content>
       <media:credit>Lucas Jackson/Reuters</media:credit>
-      <media:description>A health care worker labels a blood sample for coronavirus antibody testing at Mount Sinai Hospital in Manhattan.</media:description>
+      <media:description>A health care worker labels a blood sample for coronavirus antibody testing at Mount Sinai Hospital in New York.</media:description>
     </item>
     <item>
       <title>Needing At-Home Workers, Call Centers Turn to People With Disabilities</title>
@@ -191,6 +241,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/20/science/00VIRUS-ICU-jim2/00VIRUS-ICU-jim2-moth-v2.jpg" width="151"></media:content>
       <media:credit>Kayana Szymczak for The New York Times</media:credit>
       <media:description>The Bello family, from left: Hadley, Riley, Kim, Taylor and Jim.</media:description>
+    </item>
+    <item>
+      <title>Live Coronavirus News and Updates</title>
+      <link>https://www.nytimes.com/2020/04/26/us/coronavirus-updates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/coronavirus-updates.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/26/us/coronavirus-updates.html" rel="standout"></atom:link>
+      <description>Nevada is one especially thorny example because of its dependence on tourism. But everywhere, faster and more widespread testing will be vital.</description>
+      <pubDate>Mon, 27 Apr 2020 04:14:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/us/26virus-us-briefing-beach/merlin_171937506_e40e8085-8f15-483e-b7a7-3bcd48ba0047-moth.jpg" width="151"></media:content>
+      <media:credit>Michael Heiman/Getty Images</media:credit>
+      <media:description>Summerlike weather brought crowds to the shore on Saturday in Newport Beach, Calif.</media:description>
     </item>
     <item>
       <title>Safe Dining? Hard to Imagine, but Many Restaurants Are Trying</title>
@@ -333,95 +400,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/business/25xp-virus-letters-pix1/25xp-virus-letters-pix1-moth.jpg" width="151"></media:content>
       <media:credit>Alex Brandon/Associated Press</media:credit>
       <media:description>The letters from the Federal Trade Commission targeted multilevel marketers for making health and business claims related to the coronavirus.</media:description>
-    </item>
-    <item>
-      <title>Boeing Terminates $4.2 Billion Deal to Buy Stake in Embraer Unit</title>
-      <link>https://www.nytimes.com/2020/04/25/business/boeing-embraer-acquisition-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/business/boeing-embraer-acquisition-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/25/business/boeing-embraer-acquisition-coronavirus.html" rel="standout"></atom:link>
-      <description>The U.S. aviation giant, struggling with the 737 Max crisis and canceled orders, no longer wants Embraer’s commercial jet business.</description>
-      <dc:creator>Vindu Goel</dc:creator>
-      <pubDate>Sun, 26 Apr 2020 14:51:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boeing 737 Max Groundings and Safety Concerns (2019)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Embraer - Empresa Brasileira de Aeronautica SA</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/us/25boeing-print/merlin_170887791_bb28a9d1-56e5-4558-ab49-31a331f91dbe-moth.jpg" width="151"></media:content>
-      <media:credit>Ruth Fremson/The New York Times</media:credit>
-      <media:description>Boeing said it was walking away from a deal to buy a controlling stake in Embraer&amp;rsquo;s commercial jet business.</media:description>
-    </item>
-    <item>
-      <title>Amid the Coronavirus Crisis, Heart and Stroke Patients Go Missing</title>
-      <link>https://www.nytimes.com/2020/04/25/health/coronavirus-heart-stroke.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/health/coronavirus-heart-stroke.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/25/health/coronavirus-heart-stroke.html" rel="standout"></atom:link>
-      <description>Emergency physicians are seeing declines in the number of patients arriving with cardiac problems. Some say they were afraid to go to the hospital.</description>
-      <dc:creator>Gina Kolata</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 20:15:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fear (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jaipur (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austria</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/science/00VIRUS-EMERGENCIES1/00VIRUS-EMERGENCIES1-moth.jpg" width="151"></media:content>
-      <media:credit>Etienne Laurent/EPA, via Shutterstock</media:credit>
-      <media:description>Nurses tended to a patient admitted to the emergency room for high blood pressure at the Sharp Grossmont Hospital in La Mesa, Calif., on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Americans Abroad Ask Whether to Stay, and Risk Infection, or Fly Home, and Risk Infection</title>
-      <link>https://www.nytimes.com/2020/04/25/us/politics/coronavirus-americans-abroad.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/politics/coronavirus-americans-abroad.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/25/us/politics/coronavirus-americans-abroad.html" rel="standout"></atom:link>
-      <description>As virus cases increase, Americans overseas wonder if it is better to take a commercial flight back to the United States — even if it means interacting with people who could infect them.</description>
-      <dc:creator>Lara Jakes</dc:creator>
-      <pubDate>Sun, 26 Apr 2020 03:01:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Americans Abroad</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guatemala</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/us/politics/25dc-virus-stranded2/25dc-virus-stranded2-moth.jpg" width="151"></media:content>
-      <media:credit>Roosevelt Cassio/Reuters</media:credit>
-      <media:description>A mostly empty airport in Sao Paulo this month. There are now fewer than a dozen flights to the United States from Brazil each week. </media:description>
-    </item>
-    <item>
-      <title>Testing Remains Scarce as Governors Weigh Reopening States</title>
-      <link>https://www.nytimes.com/2020/04/25/us/politics/virus-testing-shortages-states-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/politics/virus-testing-shortages-states-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/25/us/politics/virus-testing-shortages-states-trump.html" rel="standout"></atom:link>
-      <description>In both red and blue states, governors, health departments and hospitals are finding innovative ways to cope, but still lack what experts say they need to track and contain outbreaks.</description>
-      <dc:creator>Sheryl Gay Stolberg, Farah Stockman and Sharon LaFraniere</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 02:50:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albany (Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Columbus (Ohio)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Phoebe Putney Memorial Hospital (Albany, Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/us/politics/26dc-virus-testing1/25dc-virus-testing1-sub-moth.jpg" width="151"></media:content>
-      <media:credit>Misha Friedman/Getty Images</media:credit>
-      <media:description>Hospital staff with flu-like symptoms were tested for the coronavirus last month at St. Barnabas Hospital in the Bronx. States around the country continue to be hampered by a shortage of testing capacity.</media:description>
     </item>
   </channel>
 </rss>

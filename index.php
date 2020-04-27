@@ -4,8 +4,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <body>
-<div id="admin">
-<form action="../cgi-bin/addnews.py" method="post">
+<div id="admin"> 
+<form action="addnewscgi.py" method="post">
 <input type="text" name="keyword" placeholder="keyword"/>
 
 <input type="text" name="title" placeholder="title"/>
@@ -13,6 +13,7 @@
 <input type="text" name="url" placeholder="xml address"/>
 
 <input type="submit" value="add"/>
+</form>
 <br>
 <form action="../cgi-bin/deletenews.py" method="post">
 <input type="text" name="keyword" placeholder="keyword"/>
