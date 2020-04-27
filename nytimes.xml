@@ -3,118 +3,46 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/us.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 26 Apr 2020 23:47:31 +0000</lastBuildDate>
-    <pubDate>Sun, 26 Apr 2020 23:47:31 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2020 03:48:45 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2020 03:48:45 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>Live Coronavirus News and Updates</title>
-      <link>https://www.nytimes.com/2020/04/26/us/coronavirus-updates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/coronavirus-updates.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/26/us/coronavirus-updates.html" rel="standout"></atom:link>
-      <description>Nevada is one especially thorny example because of its dependence on tourism. But everywhere, faster and more widespread testing will be vital.</description>
-      <pubDate>Sun, 26 Apr 2020 23:17:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/us/26virus-us-briefing-beach/merlin_171937506_e40e8085-8f15-483e-b7a7-3bcd48ba0047-moth.jpg" width="151"></media:content>
-      <media:credit>Michael Heiman/Getty Images</media:credit>
-      <media:description>Summerlike weather brought crowds to the shore on Saturday in Newport Beach, Calif.</media:description>
-    </item>
-    <item>
-      <title>Reopening Has Begun. No One Is Sure What Happens Next.</title>
-      <link>https://www.nytimes.com/2020/04/25/business/economy/coronavirus-economy-reopening.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/business/economy/coronavirus-economy-reopening.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/25/business/economy/coronavirus-economy-reopening.html" rel="standout"></atom:link>
-      <description>The heated debate over when to restart the economy has obscured an issue that could prove just as thorny: How to do it.</description>
-      <dc:creator>Ben Casselman</dc:creator>
-      <pubDate>Sun, 26 Apr 2020 01:13:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <title>Governors, Facing Pressures on All Sides, Weigh Reopening Their States</title>
+      <link>https://www.nytimes.com/2020/04/26/us/coronavirus-reopen-states-.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/coronavirus-reopen-states-.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/26/us/coronavirus-reopen-states-.html" rel="standout"></atom:link>
+      <description>In Colorado, Georgia, Oklahoma, Michigan and elsewhere, they face the same question: how and when to restart parts of their economies.</description>
+      <dc:creator>Shaila Dewan and Vanessa Swales</dc:creator>
+      <pubDate>Sun, 26 Apr 2020 23:42:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/business/26virus-restart/00virus-restart2-moth.jpg" width="151"></media:content>
-      <media:credit>Scott McIntyre for The New York Times</media:credit>
-      <media:description>The Broadwalk Restaurant in Hollywood Beach, Fla. Restaurants generally have tight profit margins even in the best of times. </media:description>
-    </item>
-    <item>
-      <title>‘My World Is Shattering’: Foreign Students Stranded by Coronavirus</title>
-      <link>https://www.nytimes.com/2020/04/25/us/coronavirus-international-foreign-students-universities.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/coronavirus-international-foreign-students-universities.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/25/us/coronavirus-international-foreign-students-universities.html" rel="standout"></atom:link>
-      <description>When the pandemic shuttered colleges, many international students had no idea where to live or whether they would ever be able to return to class.</description>
-      <dc:creator>Caitlin Dickerson</dc:creator>
-      <pubDate>Sat, 25 Apr 2020 14:39:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Students (in US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dormitories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/23/us/00virus-foreignstudents/merlin_170115345_e3876a32-049e-453b-a9ae-6577f5a0f234-moth.jpg" width="151"></media:content>
-      <media:credit>Sasha Rudensky for The New York Times</media:credit>
-      <media:description>The empty Yale University campus last month. </media:description>
-    </item>
-    <item>
-      <title>ICE Detention Centers Approved in California Farm Town</title>
-      <link>https://www.nytimes.com/2020/04/24/us/immigration-detention-mcfarland.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/us/immigration-detention-mcfarland.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/24/us/immigration-detention-mcfarland.html" rel="standout"></atom:link>
-      <description>Two privately run state prisons in the town of McFarland, many of whose residents are undocumented field workers, will be converted to hold immigrants.</description>
-      <dc:creator>Miriam Jordan</dc:creator>
-      <pubDate>Fri, 24 Apr 2020 14:57:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GEO Group Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Labor (Agriculture)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/world/24immig-mcfarland-1/24immig-mcfarland-1-moth.jpg" width="151"></media:content>
-      <media:credit>Jenna Schoenefeld for The New York Times</media:credit>
-      <media:description>One of the two privately run state prisons in McFarland, Calif., that will become federal immigration detention centers.</media:description>
-    </item>
-    <item>
-      <title>Two Weapons, a Chase, a Killing and No Charges</title>
-      <link>https://www.nytimes.com/2020/04/26/us/ahmed-arbery-shooting-georgia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/ahmed-arbery-shooting-georgia.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/26/us/ahmed-arbery-shooting-georgia.html" rel="standout"></atom:link>
-      <description>A 25-year-old man running through a Georgia neighborhood ended up dead. A prosecutor argued that the pursuers should not be arrested.</description>
-      <dc:creator>Richard Fausset</dc:creator>
-      <pubDate>Sun, 26 Apr 2020 22:43:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Racial Profiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brunswick (Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arbery, Ahmaud</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/us/00georgia-shooting2/00georgia-shooting2-moth.jpg" width="151"></media:content>
-      <media:credit>Richard Fausset/The New York Times</media:credit>
-      <media:description>A cross placed by the mother of Ahmaud Arbery at the site where he was killed in Glynn County, Ga., in February.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abrams, Stacey Y</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hogan, Lawrence J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kemp, Brian P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Polis, Jared S (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/us/26VIRUS-GOVERNORS-1/26VIRUS-GOVERNORS-1-moth.jpg" width="151"></media:content>
+      <media:credit>Joseph Rushmore for The New York Times</media:credit>
+      <media:description>Patrons getting their nails done at a beauty salon in Broken Arrow, Okla., on Friday. It was the first day the salon had been open since non-essential businesses were ordered to close last month.</media:description>
     </item>
     <item>
       <title>How Las Vegas Became Ground Zero for the American Jobs Crisis</title>
       <link>https://www.nytimes.com/2020/04/26/us/Coronavirus-unemployment-Las-Vegas.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/Coronavirus-unemployment-Las-Vegas.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/26/us/Coronavirus-unemployment-Las-Vegas.html" rel="standout"></atom:link>
-      <description>As the U.S. economy shut down, few places in America were hit harder and faster than Las Vegas.</description>
+      <description>As the U.S. economy has shut down, the burden is falling hardest on those least prepared to handle it.</description>
       <dc:creator>Sabrina Tavernise</dc:creator>
-      <pubDate>Sun, 26 Apr 2020 21:44:58 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 03:09:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Casinos</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
@@ -126,9 +54,47 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment Insurance</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/us/00virus-nevada01/00virus-nevada01-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/us/26virus-nevada-hp-promo/26virus-nevada-hp-promo-moth.jpg" width="151"></media:content>
       <media:credit>Bridget Bennett for The New York Times</media:credit>
       <media:description>Valicia and Jovaun Anderson with their daughter Nylah at their home in Las Vegas.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus Volunteer Emergency Responders Face a Dilemma: Save Lives or Stay Safe</title>
+      <link>https://www.nytimes.com/2020/04/26/us/coronavirus-volunteer-emergency-responders.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/coronavirus-volunteer-emergency-responders.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/26/us/coronavirus-volunteer-emergency-responders.html" rel="standout"></atom:link>
+      <description>The coronavirus has overwhelmed scores of volunteer emergency response units, many of which are the sole responders across America.</description>
+      <dc:creator>Dan Levin</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 02:55:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volunteers and Community Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ambulances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montgomery County (Md)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iowa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Teaneck (NJ)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/us/00VIRUS-ambulances-dysart/merlin_171494289_3a066b64-fa73-4552-98ba-35d1c47bdebc-moth.jpg" width="151"></media:content>
+      <media:credit>KC McGinnis for The New York Times</media:credit>
+      <media:description>Jules Scadden, right, director of E.M.S. for Dysart Ambulance Service, this month in Dysart, Iowa. “Your risks are so high in the back of the ambulance,” she said.</media:description>
+    </item>
+    <item>
+      <title>Two Weapons, a Chase, a Killing and No Charges</title>
+      <link>https://www.nytimes.com/2020/04/26/us/ahmed-arbery-shooting-georgia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/ahmed-arbery-shooting-georgia.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/26/us/ahmed-arbery-shooting-georgia.html" rel="standout"></atom:link>
+      <description>A 25-year-old man running through a Georgia neighborhood ended up dead. A prosecutor argued that the pursuers should not be arrested.</description>
+      <dc:creator>Richard Fausset</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 03:24:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Racial Profiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brunswick (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arbery, Ahmaud</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/us/00georgia-shooting2/00georgia-shooting2-moth.jpg" width="151"></media:content>
+      <media:credit>Richard Fausset/The New York Times</media:credit>
+      <media:description>A cross placed by the mother of Ahmaud Arbery at the site where he was killed in Glynn County, Ga., in February.</media:description>
     </item>
     <item>
       <title>This Florida Student Was Accepted at All 8 Ivy League Schools</title>
@@ -164,7 +130,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/26/health/can-antibody-tests-help-end-the-coronavirus-pandemic.html" rel="standout"></atom:link>
       <description>The tests are not reliable enough to guide policy on lockdowns and reopenings, experts said. But they can help model the spread of the virus.</description>
       <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Sun, 26 Apr 2020 23:08:29 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 00:21:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
@@ -191,7 +157,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/26/business/call-centers-disabilities-coronavirus.html" rel="standout"></atom:link>
       <description>Companies caught short by the pandemic are hiring from a pool that was already prepared to handle a surge in phone traffic away from offices.</description>
       <dc:creator>Jaclyn Peiser</dc:creator>
-      <pubDate>Sun, 26 Apr 2020 21:03:31 +0000</pubDate>
+      <pubDate>Sun, 26 Apr 2020 21:03:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Telecommuting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
@@ -288,12 +254,12 @@
       <link>https://www.nytimes.com/2020/04/26/world/coronavirus-news.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/world/coronavirus-news.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/26/world/coronavirus-news.html" rel="standout"></atom:link>
-      <description>Boris Johnson is back at Downing Street and will return to work Monday after recovering. Children in Spain play outside for the first time in weeks. Wuhan says it has no more hospitalized Covid-19 patients.</description>
-      <pubDate>Sun, 26 Apr 2020 23:34:39 +0000</pubDate>
+      <description>Boris Johnson is back at Downing Street and will return to work Monday after recovering. Cuba is sending doctors around the world.</description>
+      <pubDate>Mon, 27 Apr 2020 02:39:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/world/26virus-int-prison-brazil/merlin_171709716_4389f301-c314-46cc-bfda-841d363ea302-moth.jpg" width="151"></media:content>
-      <media:credit>Mauro Pimentel/Agence France-Presse — Getty Images</media:credit>
-      <media:description>An injured inmate with military police officers during a prison rebellion this month in Rio de Janeiro.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/08/world/08virus-nat-briefing-NYC/merlin_171361818_542399e4-8cad-4d9d-8723-2e433a4b16e3-moth.jpg" width="151"></media:content>
+      <media:credit>Demetrius Freeman for The New York Times</media:credit>
+      <media:description>A refrigerated trailer serving as a temporary morgue in Brooklyn on Tuesday.</media:description>
     </item>
     <item>
       <title>Chicago Bans Horse-Drawn Carriages Starting in 2021</title>
@@ -323,7 +289,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/25/us/coronavirus-alaska-fairbanks-restaurants-reopen.html" rel="standout"></atom:link>
       <description>The Alaskan city 200 miles from the Arctic Circle was one of the first in the country to reopen restaurants after a long coronavirus shutdown.</description>
       <dc:creator>Gary Black and Kirk Johnson</dc:creator>
-      <pubDate>Sun, 26 Apr 2020 02:24:04 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 03:00:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
@@ -339,7 +305,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/25/nyregion/richard-hake-dead.html" rel="standout"></atom:link>
       <description>Mr. Hake produced and created live radio feature segments that focused on breaking news, culture and artistic sound portraits.</description>
       <dc:creator>Derrick Bryson Taylor</dc:creator>
-      <pubDate>Sun, 26 Apr 2020 14:34:10 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 03:07:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hake, Richard (1969-2020)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
@@ -409,6 +375,53 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/science/00VIRUS-EMERGENCIES1/00VIRUS-EMERGENCIES1-moth.jpg" width="151"></media:content>
       <media:credit>Etienne Laurent/EPA, via Shutterstock</media:credit>
       <media:description>Nurses tended to a patient admitted to the emergency room for high blood pressure at the Sharp Grossmont Hospital in La Mesa, Calif., on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Americans Abroad Ask Whether to Stay, and Risk Infection, or Fly Home, and Risk Infection</title>
+      <link>https://www.nytimes.com/2020/04/25/us/politics/coronavirus-americans-abroad.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/politics/coronavirus-americans-abroad.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/25/us/politics/coronavirus-americans-abroad.html" rel="standout"></atom:link>
+      <description>As virus cases increase, Americans overseas wonder if it is better to take a commercial flight back to the United States — even if it means interacting with people who could infect them.</description>
+      <dc:creator>Lara Jakes</dc:creator>
+      <pubDate>Sun, 26 Apr 2020 03:01:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Americans Abroad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guatemala</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/us/politics/25dc-virus-stranded2/25dc-virus-stranded2-moth.jpg" width="151"></media:content>
+      <media:credit>Roosevelt Cassio/Reuters</media:credit>
+      <media:description>A mostly empty airport in Sao Paulo this month. There are now fewer than a dozen flights to the United States from Brazil each week. </media:description>
+    </item>
+    <item>
+      <title>Testing Remains Scarce as Governors Weigh Reopening States</title>
+      <link>https://www.nytimes.com/2020/04/25/us/politics/virus-testing-shortages-states-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/25/us/politics/virus-testing-shortages-states-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/25/us/politics/virus-testing-shortages-states-trump.html" rel="standout"></atom:link>
+      <description>In both red and blue states, governors, health departments and hospitals are finding innovative ways to cope, but still lack what experts say they need to track and contain outbreaks.</description>
+      <dc:creator>Sheryl Gay Stolberg, Farah Stockman and Sharon LaFraniere</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 02:50:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albany (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Columbus (Ohio)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Phoebe Putney Memorial Hospital (Albany, Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/us/politics/26dc-virus-testing1/25dc-virus-testing1-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Misha Friedman/Getty Images</media:credit>
+      <media:description>Hospital staff with flu-like symptoms were tested for the coronavirus last month at St. Barnabas Hospital in the Bronx. States around the country continue to be hampered by a shortage of testing capacity.</media:description>
     </item>
   </channel>
 </rss>
