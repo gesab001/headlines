@@ -10,6 +10,26 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/duck-dynasty-star-willie-robertsons-estate-targeted-with-gunfire-family-says</guid>
+      <link>https://www.foxnews.com/entertainment/duck-dynasty-star-willie-robertsons-estate-targeted-with-gunfire-family-says</link>
+                  <media:group>
+        <media:content url="https://media2.foxnews.com/BrightCove/694940094001/2018/12/09/694940094001_5977240934001_5977241137001-vs.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/694940094001_5977240934001_5977241137001-vs.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/694940094001_5977240934001_5977241137001-vs.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">459cf56b-be57-587e-8f0a-ed55f0157678</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/duck-dynasty</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>'Duck Dynasty' star Willie Robertson's estate targeted with gunfire, family says</title>
+      <description>The Louisiana estate of the “Duck Dynasty” family was the target of a drive-by shooting of eight to 10 shots Friday afternoon, according to a report.</description>
+                  <dc:creator>Frank Miles</dc:creator>
+                         <pubDate>Mon, 27 Apr 2020 03:51:31 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Frank Miles</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/media/jared-kushner-securing-us-supply-chain-coronavirus</guid>
       <link>https://www.foxnews.com/media/jared-kushner-securing-us-supply-chain-coronavirus</link>
                   <media:group>
@@ -218,27 +238,6 @@
                          <pubDate>Mon, 27 Apr 2020 01:28:22 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Vandana Rambaran</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/cameron-diaz-possible-return-acting</guid>
-      <link>https://www.foxnews.com/entertainment/cameron-diaz-possible-return-acting</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Cameron-Diaz-woman.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Cameron-Diaz-woman.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Cameron-Diaz-woman.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">fababfb8-9206-58cd-badf-aea9eec14292</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/movies</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Cameron Diaz teases possible return to acting</title>
-      <description>Cameron Diaz may return the big screen someday after all.</description>
-                  <dc:creator>Nate Day</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 01:16:54 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
                             </item>
       </channel>
 </rss>
