@@ -10,6 +10,28 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/jared-kushner-securing-us-supply-chain-coronavirus</guid>
+      <link>https://www.foxnews.com/media/jared-kushner-securing-us-supply-chain-coronavirus</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe4dc9f6-b4f3-4635-967c-7a9ed7154368/d65e13c1-7fac-450d-b84e-7435c61cb3f6/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">5ae11f82-a625-5016-babf-17c01be3e288</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/the-next-revolution</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Jared Kushner on securing US supply chain amid coronavirus: We can never rely on foreign supplies again</title>
+      <description>The coronavirus pandemic brought to light the critical importance of securing U.S. supply chains to eliminate the long-time reliance on foreign governments, White House senior advisor Jared Kushner said during a rare appearance on "The Next Revolution" Sunday.</description>
+                  <dc:creator>Yael Halon</dc:creator>
+                         <pubDate>Mon, 27 Apr 2020 03:47:03 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Yael Halon</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/health/los-angeles-county-says-those-in-lower-income-communities-more-vulnerable-to-coronavirus</guid>
       <link>https://www.foxnews.com/health/los-angeles-county-says-those-in-lower-income-communities-more-vulnerable-to-coronavirus</link>
                   <media:group>
@@ -217,30 +239,6 @@
                          <pubDate>Mon, 27 Apr 2020 01:16:54 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/packers-coach-matt-lafleur-says-aaron-rodgers-will-be-great-mentor-for-jordan-love</guid>
-      <link>https://www.foxnews.com/sports/packers-coach-matt-lafleur-says-aaron-rodgers-will-be-great-mentor-for-jordan-love</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/08/NFL-Aaron-Rodgers4.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/NFL-Aaron-Rodgers4.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/NFL-Aaron-Rodgers4.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">4cda066d-f2d4-5d98-901c-fad24c281b64</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/green-bay-packers</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl-draft</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/wisconsin</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/aaron-rodgers</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Packers coach Matt LaFleur says Aaron Rodgers will be 'great mentor' for Jordan Love</title>
-      <description>The Green Bay Packers chose to move up in the first round of the 2020 NFL Draft to take former Utah State quarterback Jordan Love even though the likely future Hall of Famer Aaron Rodgers is still the starter.</description>
-                  <dc:creator>Daniel Canova</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 01:08:54 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
                             </item>
       </channel>
 </rss>
