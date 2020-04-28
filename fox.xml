@@ -10,6 +10,29 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/jenna-jameson-coronavirus-quarantine-keto-diet-disastrous</guid>
+      <link>https://www.foxnews.com/entertainment/jenna-jameson-coronavirus-quarantine-keto-diet-disastrous</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Jenna-Jameson.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Jenna-Jameson.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Jenna-Jameson.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9611f1e6-a419-51db-9ebc-391f553de907</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/jenna-jameson</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/diet-fitness</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Jenna Jameson says coronavirus shutdown 'has been disastrous' to her 'keto lifestyle'</title>
+      <description>The coronavirus quarantine has been hard on Jenna Jameson's diet.</description>
+                  <dc:creator>Nate Day</dc:creator>
+                         <pubDate>Tue, 28 Apr 2020 01:26:38 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/nba-may-8-limited-workouts-target</guid>
       <link>https://www.foxnews.com/sports/nba-may-8-limited-workouts-target</link>
                   <media:group>
@@ -218,28 +241,5 @@
                         <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/tom-cruise-ballistic-sharing-rooms-outsiders-rob-lowe</guid>
-      <link>https://www.foxnews.com/entertainment/tom-cruise-ballistic-sharing-rooms-outsiders-rob-lowe</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Rob-Lowe-Tome-Cruise-Reuters.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Rob-Lowe-Tome-Cruise-Reuters.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Rob-Lowe-Tome-Cruise-Reuters.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">08ee44fb-f01e-59b2-a4b9-8aab2c46331a</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/rob-lowe</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Tom Cruise went ‘ballistic’ over sharing rooms while making ‘The Outsiders,’ Rob Lowe claims</title>
-      <description>Tom Cruise apparently wasn't exactly in a sharing mood when he started filming “The Outsiders.”</description>
-                  <dc:creator>Julius Young</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 23:49:55 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Julius Young</category>
-                            </item>
       </channel>
 </rss>
