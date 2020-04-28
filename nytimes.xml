@@ -7,13 +7,47 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 27 Apr 2020 21:05:13 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Apr 2020 21:05:13 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2020 00:49:13 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2020 00:49:13 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>U.S. Governors Move Ahead With Reopening, Despite Health Worries</title>
+      <link>https://www.nytimes.com/2020/04/27/us/coronavirus-governors-states-reopening.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/us/coronavirus-governors-states-reopening.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/us/coronavirus-governors-states-reopening.html" rel="standout"></atom:link>
+      <description>Several states, including Texas and Florida, have stay-at-home orders expiring this week. “That executive order has done its job to slow the growth of Covid-19,” Gov. Greg Abbott of Texas said.</description>
+      <dc:creator>Jack Healy, Manny Fernandez and Peter Baker</dc:creator>
+      <pubDate>Tue, 28 Apr 2020 00:15:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/us/27virus-reopening1/27virus-reopening1-moth.jpg" width="151"></media:content>
+      <media:credit>Jessica Mcgowan/Getty Images</media:credit>
+      <media:description>Ron Flexon at a Waffle House counter in Brookhaven, Ga., on Monday, when restaurants in the state began resuming dine-in service.</media:description>
+    </item>
+    <item>
+      <title>Detroit Students Have a Constitutional Right to Literacy, Court Rules</title>
+      <link>https://www.nytimes.com/2020/04/27/us/detroit-literacy-lawsuit-schools.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/us/detroit-literacy-lawsuit-schools.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/us/detroit-literacy-lawsuit-schools.html" rel="standout"></atom:link>
+      <description>A major ruling in a lawsuit involving the Detroit public schools comes at a time when school shutdowns are expected to affect poor children most adversely.</description>
+      <dc:creator>Dana Goldstein</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 21:25:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illiteracy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Detroit (Mich)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/us/28literacy-02/28literacy-02-moth.jpg" width="151"></media:content>
+      <media:credit>Carlos Osorio/Associated Press</media:credit>
+      <media:description>Nikolai Vitti, the Detroit schools superintendent, spoke about an initiative to give public school students tablet computers during the coronavirus pandemic.</media:description>
+    </item>
     <item>
       <title>Houston’s ‘Horrifying’ Double Crisis: Oil Crash and Virus Shutdown</title>
       <link>https://www.nytimes.com/2020/04/27/us/coronavirus-houston-texas-oil.html</link>
@@ -21,7 +55,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/27/us/coronavirus-houston-texas-oil.html" rel="standout"></atom:link>
       <description>Houston has been reeling from oil-market chaos on top of a coronavirus shutdown. Job losses could reach 300,000.</description>
       <dc:creator>Manny Fernandez and David Montgomery</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 20:19:17 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 21:59:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
@@ -32,7 +66,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/us/00virus-houston02/00virus-houston02-moth.jpg" width="151"></media:content>
       <media:credit>Mark Felix/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A line of cars stretched down the street as people waited to receive food at a distribution site in Houston this month.</media:description>
+      <media:description>People lined up in their cars to receive food at a distribution site in Houston this month.</media:description>
     </item>
     <item>
       <title>How Do You Sign ‘Don’t Drink Bleach’?</title>
@@ -41,7 +75,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/27/us/coronavirus-sign-language-interpreters.html" rel="standout"></atom:link>
       <description>Sign language interpreters are sharing lifesaving information and becoming part of a visible pantheon of essential workers.</description>
       <dc:creator>Shawn Hubler</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 14:33:46 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 22:23:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deafness</category>
@@ -57,46 +91,53 @@
       <media:description>Rorri Burton interpreting for Barbara Ferrer (not pictured), the director of the Los Angeles County Department of Public Health, in March.</media:description>
     </item>
     <item>
-      <title>A Major Trial for Voting Rights in Florida Is Happening on Video Chat</title>
-      <link>https://www.nytimes.com/2020/04/27/us/florida-felons-voting-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/us/florida-felons-voting-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/27/us/florida-felons-voting-trial.html" rel="standout"></atom:link>
-      <description>A closely watched trial will determine whether felons who have served their time should have to pay outstanding fines before regaining the right to vote.</description>
-      <dc:creator>Patricia Mazzei</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 20:24:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Registration and Requirements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ex-Convicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Civil Liberties Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hinkle, Robert L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tallahassee (Fla)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/us/27FLORIDA-FELON/27FLORIDA-FELON-moth.jpg" width="151"></media:content>
-      <media:credit>Scott McIntyre for The New York Times</media:credit>
-      <media:description>Registering to vote at the Miami-Dade County Elections office on Jan. 8, 2019, the day an amendment to restore voting right to felons took effect.</media:description>
+      <title>Does the Biden Bump Have More to Do With Trump?</title>
+      <link>https://www.nytimes.com/2020/04/27/us/politics/joe-biden-donald-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/us/politics/joe-biden-donald-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/us/politics/joe-biden-donald-trump.html" rel="standout"></atom:link>
+      <description>Polling in two states that many Democrats assumed were lost shows Joe Biden with a narrow lead over President Trump. But the race is moving toward Democrats for reasons that have very little to do with Mr. Biden.</description>
+      <dc:creator>Lisa Lerer</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 23:07:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
     </item>
     <item>
-      <title>How Las Vegas Became Ground Zero for the American Jobs Crisis</title>
-      <link>https://www.nytimes.com/2020/04/26/us/Coronavirus-unemployment-Las-Vegas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/Coronavirus-unemployment-Las-Vegas.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/26/us/Coronavirus-unemployment-Las-Vegas.html" rel="standout"></atom:link>
-      <description>As the U.S. economy has shut down, the burden is falling hardest on those least prepared to handle it.</description>
-      <dc:creator>Sabrina Tavernise</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 12:51:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Casinos</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment Insurance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <title>With Schools Shut by Coronavirus, Remote Learning Strains Parents</title>
+      <link>https://www.nytimes.com/2020/04/27/nyregion/coronavirus-homeschooling-parents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/nyregion/coronavirus-homeschooling-parents.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/nyregion/coronavirus-homeschooling-parents.html" rel="standout"></atom:link>
+      <description>For the adults in the house, trying to do their own jobs while helping children with class work has become one of the most trying aspects of the pandemic.</description>
+      <dc:creator>Elizabeth A. Harris</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 22:03:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/us/00virus-nevada04-promo/00virus-nevada04-promo-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Bridget Bennett for The New York Times</media:credit>
-      <media:description>Las Vegas, where the majority of the population works in the service industry, has been hit particularly hard by unemployment.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/25/nyregion/00nyvirus-parents1/00nyvirus-parents1-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Levin</media:credit>
+      <media:description>It has been challenging for Casey Schaeffer and Daniel Levin to manage the schooling of their children, Ramona and Linus.</media:description>
+    </item>
+    <item>
+      <title>Israelis and Palestinians Remember the Slain, Home Alone or Online En Masse</title>
+      <link>https://www.nytimes.com/2020/04/27/world/middleeast/israel-palestinian-memorial-day.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/world/middleeast/israel-palestinian-memorial-day.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/world/middleeast/israel-palestinian-memorial-day.html" rel="standout"></atom:link>
+      <description>With Israel’s cemeteries closed, Memorial Day mourning had to adapt to the coronavirus lockdown. An alternative ceremony bringing together Israelis and Palestinians attracted 170,000 people online.</description>
+      <dc:creator>David M. Halbfinger</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 21:48:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rivlin, Reuven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ramallah (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/world/27israel/27israel-moth.jpg" width="151"></media:content>
+      <media:credit>Menahem Kahana/Agence France-Presse — Getty Images</media:credit>
+      <media:description>An Israeli woman at home in the city of Ashkelon on Monday, Israel’s Memorial Day.</media:description>
     </item>
     <item>
       <title>Job or Health? Restarting the Economy Threatens to Worsen Economic Inequality</title>
@@ -105,7 +146,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/27/business/economy/coronavirus-economic-inequality.html" rel="standout"></atom:link>
       <description>The coronavirus recession has exacerbated the racial and income divides in America. Lifting restrictions too soon will make them worse and leave workers with a bleak choice.</description>
       <dc:creator>Jim Tankersley</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 21:02:38 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 21:58:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
@@ -126,6 +167,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/us/politics/26dc-virus-inequality1/26dc-virus-inequality1-moth.jpg" width="151"></media:content>
       <media:credit>Sean Rayford/Getty Images</media:credit>
       <media:description>Birl Hicks, a small-business owner, in front of his store, Area 57, in Columbia, S.C. The state has begun allowing some businesses to reopen.</media:description>
+    </item>
+    <item>
+      <title>Vallejo Official&#39;s Removal Is Sought After He Throws Cat During Zoom Meeting</title>
+      <link>https://www.nytimes.com/2020/04/27/us/cat-throw-zoom-meeting-chris-platzer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/us/cat-throw-zoom-meeting-chris-platzer.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/us/cat-throw-zoom-meeting-chris-platzer.html" rel="standout"></atom:link>
+      <description>“OK, first, I’d like to introduce my cat,” said a planning commissioner in Vallejo, Calif., lifting it close to the camera and then, with two hands, tossing it off screen.</description>
+      <dc:creator>Christopher Mele</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 23:33:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chris Platzer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Videophones and Videoconferencing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zoom Video Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telecommuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vallejo (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/multimedia/27xp-catthrow/27xp-catthrow-moth.jpg" width="151"></media:content>
+      <media:credit>City of Vallejo</media:credit>
+      <media:description>Chris Platzer, a planning commissioner in Vallejo, Calif., at lower left, threw his cat off screen during a videoconference last week.</media:description>
     </item>
     <item>
       <title>Georgia Can’t Copyright Its Entire State Code, the Supreme Court Rules</title>
@@ -154,7 +217,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/27/health/coronavirus-drug-sarilumab.html" rel="standout"></atom:link>
       <description>The drug, sarilumab, sold as Kevzara, didn’t show benefits to patients who were hospitalized but not on ventilators. The study will continue with critically ill patients.</description>
       <dc:creator>Gina Kolata</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 17:55:36 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 22:25:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
@@ -165,24 +228,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/science/27VIRUS-DRUG/27VIRUS-DRUG-moth.jpg" width="151"></media:content>
       <media:credit>Kristoffer Tripplaar/Alamy</media:credit>
       <media:description>Regeneron Pharmaceuticals, headquartered in Tarrytown, N.Y., manufactures the arthritis drug sarilumab.</media:description>
-    </item>
-    <item>
-      <title>Detroit Students Have a Constitutional Right to Literacy, Court Rules</title>
-      <link>https://www.nytimes.com/2020/04/27/us/detroit-literacy-lawsuit-schools.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/us/detroit-literacy-lawsuit-schools.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/27/us/detroit-literacy-lawsuit-schools.html" rel="standout"></atom:link>
-      <description>A major ruling in a lawsuit involving the Detroit public schools comes at a time when school shutdowns are expected to affect poor children most adversely.</description>
-      <dc:creator>Dana Goldstein</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 17:13:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illiteracy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Detroit (Mich)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/us/28literacy-02/28literacy-02-moth.jpg" width="151"></media:content>
-      <media:credit>Carlos Osorio/Associated Press</media:credit>
-      <media:description>Nikolai Vitti, the Detroit schools superintendent, spoke about an initiative to give public school students tablet computers during the coronavirus pandemic.</media:description>
     </item>
     <item>
       <title>Supreme Court Rules for Insurers in $12 Billion Obamacare Case</title>
@@ -210,7 +255,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/27/us/politics/democratic-primary-canceled-coronavirus.html" rel="standout"></atom:link>
       <description>The State Board of Elections scrapped the state’s June 23 Democratic nominating contest, citing the risk of spreading coronavirus, in a move opposed by supporters of Bernie Sanders.</description>
       <dc:creator>Stephanie Saul and Nick Corasaniti</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 20:37:18 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 20:37:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Board of Elections (NYS)</category>
@@ -224,13 +269,34 @@
       <media:description>People voted at the Brooklyn Museum in September 2018.</media:description>
     </item>
     <item>
+      <title>A Major Trial for Voting Rights in Florida Is Happening on Video Chat</title>
+      <link>https://www.nytimes.com/2020/04/27/us/florida-felons-voting-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/us/florida-felons-voting-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/us/florida-felons-voting-trial.html" rel="standout"></atom:link>
+      <description>A closely watched trial will determine whether felons who have served their time should have to pay outstanding fines before regaining the right to vote.</description>
+      <dc:creator>Patricia Mazzei</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 20:24:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ex-Convicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Civil Liberties Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hinkle, Robert L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tallahassee (Fla)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/us/27FLORIDA-FELON/27FLORIDA-FELON-moth.jpg" width="151"></media:content>
+      <media:credit>Scott McIntyre for The New York Times</media:credit>
+      <media:description>Registering to vote at the Miami-Dade County Elections office on Jan. 8, 2019, the day an amendment to restore voting right to felons took effect.</media:description>
+    </item>
+    <item>
       <title>Supreme Court Dismisses Challenge to N.Y.C. Gun Ordinance</title>
       <link>https://www.nytimes.com/2020/04/27/us/supreme-court-new-york-city-guns.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/us/supreme-court-new-york-city-guns.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/27/us/supreme-court-new-york-city-guns.html" rel="standout"></atom:link>
       <description>Instead of ruling in its first Second Amendment case in a decade, the court found it moot after the city repealed the challenged regulation.</description>
       <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 20:18:51 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 20:18:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Second Amendment (US Constitution)</category>
@@ -251,7 +317,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/27/business/coronavirus-sympathy-cards.html" rel="standout"></atom:link>
       <description>“It seems just about everyone knows someone who has died,” one card maker said, helping to explain why the cards are now hard to find at many stores.</description>
       <dc:creator>Michael Corkery and Sapna Maheshwari</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 19:30:10 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 21:59:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greeting Cards</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
@@ -266,13 +332,13 @@
       <atom:link href="https://www.nytimes.com/2020/04/27/us/el-paso-shooting-guillermo-memo-garcia.html" rel="standout"></atom:link>
       <description>A soccer coach whose extensive injuries kept him hospitalized died nearly nine months after the shooting, the deadliest anti-Latino attack in modern American history.</description>
       <dc:creator>Manny Fernandez and Sarah Mervosh</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 21:01:08 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 21:48:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">El Paso, Tex, Shooting (2019)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Paso (Tex)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/us/27elpaso1/27elpaso1-moth.jpg" width="151"></media:content>
       <media:credit>Tamir Kalifa for The New York Times</media:credit>
-      <media:description>A makeshift memorial for victims of the shooting in El Paso, Texas, in August.</media:description>
+      <media:description>A makeshift memorial for victims of the shooting in El Paso in August.</media:description>
     </item>
     <item>
       <title>CDC Adds New Symptoms to Coronavirus List</title>
@@ -281,7 +347,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/27/health/coronavirus-symptoms-cdc.html" rel="standout"></atom:link>
       <description>Chills, muscle pain, sore throat and headache are among the ailments now considered potential indicators of the disease.</description>
       <dc:creator>Pam Belluck</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 17:11:09 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 22:09:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fever</category>
@@ -295,6 +361,20 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/science/27VIRUS-SYMPTOMS/27VIRUS-SYMPTOMS-moth.jpg" width="151"></media:content>
       <media:credit>John Moore/Getty Images</media:credit>
       <media:description>A coronavirus patient in the intensive care unit of Stamford Hospital in Connecticut.</media:description>
+    </item>
+    <item>
+      <title>California Beaches: A (Photo) Study in Contrasts</title>
+      <link>https://www.nytimes.com/2020/04/27/us/california-beaches-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/us/california-beaches-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/us/california-beaches-coronavirus.html" rel="standout"></atom:link>
+      <description>Monday: The weekend’s heat wave may be a window into the future. Also: A talk with Marin County’s health officer, and the closure of the Noriega Hotel.</description>
+      <dc:creator>Jill Cowan</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 13:04:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/us/27huntingtoncatoday/merlin_171934137_983bebc3-094d-481d-a9c8-6c074c3d31da-moth.jpg" width="151"></media:content>
+      <media:credit>Apu Gomes/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Exhibit A: Huntington Beach on Saturday.</media:description>
     </item>
     <item>
       <title>Louisiana Police Officer Killed in Shooting Before 4-Hour Standoff</title>
@@ -331,6 +411,20 @@
       <media:description>Nancy Pelosi is the latest Democrat to support Joseph Biden, the party’s presumptive presidential nominee.</media:description>
     </item>
     <item>
+      <title>On Politics: Rattling Money Out of Congress’s Piggy Bank</title>
+      <link>https://www.nytimes.com/2020/04/27/us/politics/trump-coronavirus-aid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/us/politics/trump-coronavirus-aid.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/us/politics/trump-coronavirus-aid.html" rel="standout"></atom:link>
+      <description>States plead for coronavirus aid, and another partisan fight looms: This is your morning tip sheet.</description>
+      <dc:creator>Giovanni Russonello</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 10:59:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+    </item>
+    <item>
       <title>Coronavirus, Lockdown, Kim Jong-un: Your Monday Briefing</title>
       <link>https://www.nytimes.com/2020/04/27/briefing/coronavirus-lockdown-kim-jong-un.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/briefing/coronavirus-lockdown-kim-jong-un.html</guid>
@@ -346,10 +440,10 @@
       <link>https://www.nytimes.com/2020/04/27/us/coronavirus-live.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/us/coronavirus-live.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/27/us/coronavirus-live.html" rel="standout"></atom:link>
-      <description>The C.D.C. added six new Covid-19 symptoms. Oil prices plummeted. Some states gradually allowed some businesses to open, and on Friday, Texas will start reopening businesses in phases.</description>
-      <pubDate>Mon, 27 Apr 2020 21:02:13 +0000</pubDate>
+      <description>The U.S. death toll exceeded 50,000. Texas moved to reopen as other states gradually allowed some businesses to restart. The C.D.C. added six new Covid-19 symptoms.</description>
+      <pubDate>Tue, 28 Apr 2020 00:36:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v343.png" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v344.png" width="151"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -359,7 +453,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/27/technology/startups-sba-loans-backlash.html" rel="standout"></atom:link>
       <description>Some young companies have turned to the government loans not for day-to-day survival but simply to buy useful time.</description>
       <dc:creator>Erin Griffith and David McCabe</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 09:00:16 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 21:28:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
@@ -379,7 +473,7 @@
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/business/coronavirus-stock-market-tracker.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/27/business/coronavirus-stock-market-tracker.html" rel="standout"></atom:link>
       <description>The latest on stock market and business news during the coronavirus outbreak.</description>
-      <pubDate>Mon, 27 Apr 2020 20:32:05 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2020 00:27:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
@@ -393,100 +487,12 @@
       <link>https://www.nytimes.com/2020/04/27/world/coronavirus-world-pandemic.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/world/coronavirus-world-pandemic.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/27/world/coronavirus-world-pandemic.html" rel="standout"></atom:link>
-      <description>Even as the global death toll passed 200,000, countries are mapping out a return to public life.  Health care workers in Mexico, India and other countries are facing attacks.</description>
-      <pubDate>Mon, 27 Apr 2020 20:41:13 +0000</pubDate>
+      <description>Even as the global death toll passed 200,000, countries are mapping out a return to public life. Health care workers in Mexico, India and other countries are facing attacks.</description>
+      <pubDate>Mon, 27 Apr 2020 22:58:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/world/27virus-int-briefing-boris/27virus-int-briefing-boris-moth.jpg" width="151"></media:content>
       <media:credit>Neil Hall/EPA, via Shutterstock</media:credit>
       <media:description>Prime Minister Boris Johnson of Britain made his first public appearance since his hospitalization outside 10 Downing Street on Monday. </media:description>
-    </item>
-    <item>
-      <title>Governors, Facing Pressures on All Sides, Weigh Reopening Their States</title>
-      <link>https://www.nytimes.com/2020/04/26/us/coronavirus-reopen-states-.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/coronavirus-reopen-states-.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/26/us/coronavirus-reopen-states-.html" rel="standout"></atom:link>
-      <description>In Colorado, Georgia, Oklahoma, Michigan and elsewhere, they face the same question: how and when to restart parts of their economies.</description>
-      <dc:creator>Shaila Dewan and Vanessa Swales</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 04:46:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abrams, Stacey Y</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hogan, Lawrence J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kemp, Brian P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Polis, Jared S (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/us/26VIRUS-GOVERNORS-1/26VIRUS-GOVERNORS-1-moth.jpg" width="151"></media:content>
-      <media:credit>Joseph Rushmore for The New York Times</media:credit>
-      <media:description>Patrons getting their nails done at a beauty salon in Broken Arrow, Okla., on Friday. It was the first day the salon had been open since non-essential businesses were ordered to close last month.</media:description>
-    </item>
-    <item>
-      <title>Two Weapons, a Chase, a Killing and No Charges</title>
-      <link>https://www.nytimes.com/2020/04/26/us/ahmed-arbery-shooting-georgia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/ahmed-arbery-shooting-georgia.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/26/us/ahmed-arbery-shooting-georgia.html" rel="standout"></atom:link>
-      <description>A 25-year-old man running through a Georgia neighborhood ended up dead. A prosecutor argued that the pursuers should not be arrested.</description>
-      <dc:creator>Richard Fausset</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 03:24:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Racial Profiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brunswick (Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMichael, Gregory (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMichael, Travis (1986- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arbery, Ahmaud (1994-2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Self-Defense</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/us/00georgia-shooting2/00georgia-shooting2-moth.jpg" width="151"></media:content>
-      <media:credit>Richard Fausset/The New York Times</media:credit>
-      <media:description>A cross placed by the mother of Ahmaud Arbery at the site where he was killed in Glynn County, Ga., in February.</media:description>
-    </item>
-    <item>
-      <title>Trump’s Disinfectant Remark Raises a Question About the ‘Very Stable Genius’</title>
-      <link>https://www.nytimes.com/2020/04/26/us/politics/trump-disinfectant-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/politics/trump-disinfectant-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/26/us/politics/trump-disinfectant-coronavirus.html" rel="standout"></atom:link>
-      <description>The president has often said he is exceptionally smart. His recent suggestion about injecting disinfectants was not.</description>
-      <dc:creator>Matt Flegenheimer</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 14:03:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intelligence and Intelligence Tests (IQ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cleansers, Detergents and Soaps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/us/politics/26virus-disinfectant-memo/merlin_171872820_ac94b047-74a7-459d-98c5-df7778586e2a-moth.jpg" width="151"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>President Trump suggested on Thursday that an “injection inside” the body with a disinfectant like bleach could help fight the coronavirus.</media:description>
-    </item>
-    <item>
-      <title>This Florida Student Was Accepted at All 8 Ivy League Schools</title>
-      <link>https://www.nytimes.com/2020/04/26/us/craig-mcfarland-ivy-league-accepted.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/26/us/craig-mcfarland-ivy-league-accepted.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/26/us/craig-mcfarland-ivy-league-accepted.html" rel="standout"></atom:link>
-      <description>Craig McFarland, the valedictorian of his high school in Jacksonville, Fla., received acceptance letters from 17 colleges and universities in all.</description>
-      <dc:creator>Johnny Diaz</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 12:52:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ivy League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McFarland, Craig (Stanton College Preparatory School)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jacksonville (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yale University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brown University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Columbia University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cornell University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dartmouth College</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Duke University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Emory University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Florida State University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Georgia Institute of Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Princeton University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stanford University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Pennsylvania</category>
     </item>
   </channel>
 </rss>

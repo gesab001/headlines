@@ -10,228 +10,229 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/world/brazil-spike-coronavirus-cases-hospitals-overloaded</guid>
-      <link>https://www.foxnews.com/world/brazil-spike-coronavirus-cases-hospitals-overloaded</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/sean-hannity-demands-retraction-from-new-york-times-over-defamatory-coverage</guid>
+      <link>https://www.foxnews.com/media/sean-hannity-demands-retraction-from-new-york-times-over-defamatory-coverage</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20118557916823.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20118557916823.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/03/hannity.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/hannity.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20118557916823.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">8806b50a-77d2-59c2-99ad-b52ad3f85705</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/brazil</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/latin-america</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/jair-bolsonaro</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/hannity.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3fa1626e-c8b7-5af7-bac4-b19c0e413f93</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/shows/hannity</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/outbreaks</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Sean Hannity demands retraction from New York Times over ‘defamatory’ coverage</title>
+      <description>Attorneys for Fox News’ Sean Hannity have formally demanded The New York Times issue an apology and retract coverage of his remarks on the coronavirus outbreak on the cable news network.</description>
+                  <dc:creator>Joseph Wulfsohn</dc:creator>
+                         <pubDate>Tue, 28 Apr 2020 00:39:06 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Joseph Wulfsohn</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/baton-rouge-police-shooting-suspect-stood-over-dead-officers-body-kept-firing-investigators</guid>
+      <link>https://www.foxnews.com/us/baton-rouge-police-shooting-suspect-stood-over-dead-officers-body-kept-firing-investigators</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20117847114537.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20117847114537.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20117847114537.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">84dfb8eb-bf69-528d-ab52-1edd62e630b9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/louisiana</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/homicide</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Baton Rouge police shooting suspect stood over dead officer and kept firing, investigators say</title>
+      <description>Police in Baton Rouge, La., revealed grisly details Monday of a shooting standoff in which the suspected gunman ambushed two officers sent to interview him about a killing hours earlier, then allegedly stood over a dead officer’s body while continuing to shoot him at point-blank range.</description>
+                  <dc:creator>Vandana Rambaran</dc:creator>
+                         <pubDate>Tue, 28 Apr 2020 00:30:28 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Vandana Rambaran</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/venezuela-maduro-hires-chavez-cousin-drug-kingpin-oil-industry-roles</guid>
+      <link>https://www.foxnews.com/world/venezuela-maduro-hires-chavez-cousin-drug-kingpin-oil-industry-roles</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Maduro-Tareck-El-Aissami-1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Maduro-Tareck-El-Aissami-1.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Maduro-Tareck-El-Aissami-1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">42c7fc7a-f3f4-5f69-b13f-aee3ccf192de</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/topic/venezuelan-political-crisis</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/world</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Brazil sees spike in coronavirus cases, with some hospitals overloaded</title>
-      <description>Coronavirus cases in Brazil have skyrocketed in recent weeks, pushing many hospitals to the brink and prompting health experts to warn that the country is on its way to becoming the next global hotspot while cases plateau in other hard-hit countries.</description>
+      <title>Venezuela's Maduro hires Chavez cousin, drug kingpin for powerful oil industry roles</title>
+      <description>President Nicolás Maduro on Monday named a powerful ally sanctioned by the U.S. as a drug kingpin, along with a cousin of the late socialist leader Hugo Chávez, to revamp Venezuela’s oil industry amid massive gasoline shortages.</description>
+                  <dc:creator>Frank Miles</dc:creator>
+                         <pubDate>Tue, 28 Apr 2020 00:24:17 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Frank Miles</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/miami-under-coronavirus-stay-at-home-order-has-gone-7-weeks-without-a-murder-police-say</guid>
+      <link>https://www.foxnews.com/us/miami-under-coronavirus-stay-at-home-order-has-gone-7-weeks-without-a-murder-police-say</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20117707749079.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20117707749079.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20117707749079.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9722df8b-d9eb-59f3-a1de-cf52a47a8856</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/outbreaks</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/florida</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Miami, under coronavirus stay-at-home order, went 7 weeks without a murder, police say</title>
+      <description>For the first time in 63 years, the city of Miami – under coronavirus stay-at-home orders – has gone seven weeks without a murder, police said Saturday.  </description>
                   <dc:creator>Bradford Betz</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 21:01:11 GMT</pubDate>
+                         <pubDate>Tue, 28 Apr 2020 00:13:35 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Bradford Betz</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/ben-shapiro-americans-safe-states-reopen-coronavirus</guid>
-      <link>https://www.foxnews.com/media/ben-shapiro-americans-safe-states-reopen-coronavirus</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/brit-hume-coronavirus-impact-trump-2020</guid>
+      <link>https://www.foxnews.com/media/brit-hume-coronavirus-impact-trump-2020</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/ben-shapiro.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/ben-shapiro.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/7b33e2f9-image-15.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/7b33e2f9-image-15.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/ben-shapiro.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">6ff9ddc6-ae62-588c-8351-6dbf9b2d1b8b</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/7b33e2f9-image-15.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">47a4fbda-f9f4-5ee0-80e6-bd2944210dfe</category>
                   <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/ben-shapiro</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/the-ben-shapiro-show</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/special-report</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/health-care</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Shapiro: 'I trust normal Americans' to stay safe as states reopen 'more than our media and our politicians'</title>
-      <description>State and local leaders will need to trust their constituents to take the necessary safety precautions to help pull off a phased reopening of the United States economy, conservative commentator Ben Shapiro said Monday.</description>
+      <title>Brit Hume predicts 2020 race will depend on whether more voters think Trump or China 'lied and people died'</title>
+      <description>Fox News senior political analyst Brit Hume joined "Special Report" Monday to weigh in on the latest developments in the 2020 presidential race and predict how Trump's response to the coronavirus pandemic would impact the outcome.</description>
                   <dc:creator>Yael Halon</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 20:58:57 GMT</pubDate>
+                         <pubDate>Tue, 28 Apr 2020 00:08:54 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Yael Halon</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/food-drink/move-theater-popcorn-to-go-coronavirus</guid>
-      <link>https://www.foxnews.com/food-drink/move-theater-popcorn-to-go-coronavirus</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/arizona-police-officers-shot-suspect-barricade-home-fire</guid>
+      <link>https://www.foxnews.com/us/arizona-police-officers-shot-suspect-barricade-home-fire</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/movie-theater-popcorn.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/movie-theater-popcorn.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/01/Crime-Scene-iStock.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Crime-Scene-iStock.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/movie-theater-popcorn.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">aae95c73-e199-54ca-80de-b19fcbeff7e9</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/food-drink/food/snack-foods</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Crime-Scene-iStock.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">b331bee2-8f47-555c-b0e1-b4316ec14c29</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/arizona</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/fires</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/food-drink</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Movie theaters selling popcorn to go during coronavirus shutdowns</title>
-      <description>There’s nothing like watching a movie with the sound of munching popcorn in the background.</description>
-                  <dc:creator>Michael Hollan</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 20:52:14 GMT</pubDate>
+      <title>Arizona man allegedly shoots, wounds 3 officers, barricades self in home before setting it on fire</title>
+      <description>A suspect was arrested for allegedly shooting and wounding three police officers Monday before barricading himself in a home and then setting it on fire, authorities said.</description>
+                   <pubDate>Mon, 27 Apr 2020 23:59:00 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/tom-cruise-ballistic-sharing-rooms-outsiders-rob-lowe</guid>
+      <link>https://www.foxnews.com/entertainment/tom-cruise-ballistic-sharing-rooms-outsiders-rob-lowe</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Rob-Lowe-Tome-Cruise-Reuters.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Rob-Lowe-Tome-Cruise-Reuters.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Rob-Lowe-Tome-Cruise-Reuters.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">08ee44fb-f01e-59b2-a4b9-8aab2c46331a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/rob-lowe</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Tom Cruise went ‘ballistic’ over sharing rooms while making ‘The Outsiders,’ Rob Lowe claims</title>
+      <description>Tom Cruise apparently wasn't exactly in a sharing mood when he started filming “The Outsiders.”</description>
+                  <dc:creator>Julius Young</dc:creator>
+                         <pubDate>Mon, 27 Apr 2020 23:49:55 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Michael Hollan</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Julius Young</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/november-general-election-biden-tops-trump-poll</guid>
-      <link>https://www.foxnews.com/politics/november-general-election-biden-tops-trump-poll</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/trump-schools-open-for-a-short-period-of-time</guid>
+      <link>https://www.foxnews.com/politics/trump-schools-open-for-a-short-period-of-time</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/71e401eb-87a0-4c51-88df-347f8bc24f5e/8772cd5d-4cc3-43b4-8cfc-ac48fb43f489/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">5491f6a9-27be-587d-9f45-9d0a61d8b202</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/education</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Trump suggests schools should open for a 'short period of time' before academic year ends</title>
+      <description>President Trump in his Monday coronavirus press briefing said he thinks it would be a “good idea” if schools open up, even for a “short period of time” before the end of the academic year. </description>
+                  <dc:creator>Morgan Phillips</dc:creator>
+                         <pubDate>Mon, 27 Apr 2020 23:44:31 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/trump-denies-biden-claim-he-might-try-to-delay-2020-election</guid>
+      <link>https://www.foxnews.com/politics/trump-denies-biden-claim-he-might-try-to-delay-2020-election</link>
                   <media:group>
         <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37ff3fba-f40d-4ac7-8a43-1b1d54a3c76c/c29b955a-7619-493a-85b3-b23d2418adac/1280x720/match/image.jpg" medium="image" isDefault="true" />
         <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
       </media:group>
       <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">b92ae48b-bef6-5628-aab0-83d29d663838</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/polls</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/metadata/dc.identifier">ed201f7e-5d35-5160-9242-b57b4eed979e</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
             <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/campaigning/trump-2020-campaign</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>6 months out, Biden tops Trump in latest national poll</title>
-      <description>A new national survey is the latest to indicate Democratic challenger Joe Biden leading President Trump in the White House race.</description>
-                  <dc:creator>Paul Steinhauser</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 20:45:07 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Paul Steinhauser</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/hhs-launches-coronavirus-uninsured-program-portal</guid>
-      <link>https://www.foxnews.com/politics/hhs-launches-coronavirus-uninsured-program-portal</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/italy-hospital-1-AP.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/italy-hospital-1-AP.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/italy-hospital-1-AP.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">c7d906c5-5582-5afa-b959-7a51fd818c50</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/health-care</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Health and Human Services launches coronavirus uninsured program portal</title>
-      <description>The U.S. Department of Health and Human Services launched a portal on Monday where health care providers can be reimbursed for their care of uninsured COVID-19 patients. </description>
-                  <dc:creator>Morgan Phillips</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 20:37:19 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/dwayne-johnson-singing-moana-daughter-tia</guid>
-      <link>https://www.foxnews.com/entertainment/dwayne-johnson-singing-moana-daughter-tia</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/dwayne-johnson-45a.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/dwayne-johnson-45a.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/dwayne-johnson-45a.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">99bbdf39-18a9-52e7-97ca-00fb276c32e0</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/dwayne-the-rock-johnson</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/babies</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/movies</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Dwayne 'The Rock' Johnson's daughter still has no idea he was in 'Moana'</title>
-      <description>Dwayne 'The Rock' Johnson is in the running for the top dad prize during the coronavirus pandemic. </description>
-                  <dc:creator>Jessica Napoli</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 20:29:45 GMT</pubDate>
+      <title>Trump denies Biden claim he might try to delay 2020 election: ‘Why would I do that?'</title>
+      <description>President Trump denied on Monday an assertion by presumptive Democratic presidential nominee Joe Biden that he would try to delay November’s presidential election due to the coronavirus pandemic.</description>
+                  <dc:creator>Andrew O'Reilly</dc:creator>
+                         <pubDate>Mon, 27 Apr 2020 23:32:19 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Jessica Napoli</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Andrew O'Reilly</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/bret-baier-joe-biden-assault-claims-coverage</guid>
-      <link>https://www.foxnews.com/media/bret-baier-joe-biden-assault-claims-coverage</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/kim-jong-un-north-korea-cult-of-personality-explained</guid>
+      <link>https://www.foxnews.com/world/kim-jong-un-north-korea-cult-of-personality-explained</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/02/BRET-BAIER.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/BRET-BAIER.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/North-Korea-2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/North-Korea-2.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/BRET-BAIER.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">25a45cc5-1448-5b90-b987-d398fb030147</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/North-Korea-2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0af81e51-e364-5cdd-8d56-b205080f5f3e</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/north-korea</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/kim-jong-un</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Bret Baier on coverage of sexual assault claims against Biden, Kavanaugh: 'The disparity is pretty stark'</title>
-      <description>Fox News chief political anchor Bret Baier noted on Monday that there is a “disparity” in the coverage of sexual assault allegations against former Vice President Joe Biden and those made against Supreme Court Justice Brett Kavanaugh in 2018.</description>
-                  <dc:creator>Talia Kaplan</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 20:27:18 GMT</pubDate>
+      <title>Kim Jong Un and North Korea's cult of personality explained</title>
+      <description>As speculation grows over the whereabouts of North Korean leader Kim Jong Un, rumors continue to swirl over his health and who could lead the rogue nation should there be a transition of power. </description>
+                  <dc:creator>Louis Casiano</dc:creator>
+                         <pubDate>Mon, 27 Apr 2020 23:26:00 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Talia Kaplan</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/auto/tesla-feature-stops-red-green-lights</guid>
-      <link>https://www.foxnews.com/auto/tesla-feature-stops-red-green-lights</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/model.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/model.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/model.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">f2228e64-4695-5e55-926d-db83f9897ca7</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/auto/make/tesla</category>
-            <category domain="foxnews.com/taxonomy">fox-news/auto/attributes/safety</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/auto</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>New Tesla feature stops for red and green lights</title>
-      <description>Stop signs, too.</description>
-                   <pubDate>Mon, 27 Apr 2020 20:23:21 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/milwaukee-shooting-kills-5-inside-home-suspect-in-custody-police-say</guid>
-      <link>https://www.foxnews.com/us/milwaukee-shooting-kills-5-inside-home-suspect-in-custody-police-say</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Milwaukee-Shooting-WITI-2.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Milwaukee-Shooting-WITI-2.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Milwaukee-Shooting-WITI-2.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">ed8f1211-7c52-5dfa-973a-15286897532b</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/minnesota</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Milwaukee shooting kills 5 inside home; suspect in custody, police say</title>
-      <description>A suspect is in custody following a shooting that left five people dead inside a home in Milwaukee, cops said.</description>
-                  <dc:creator>Frank Miles</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 20:19:36 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Frank Miles</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/science/majority-workers-not-feel-safe-if-their-state-reopened-now</guid>
-      <link>https://www.foxnews.com/science/majority-workers-not-feel-safe-if-their-state-reopened-now</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/03/CoronaVirusTransit_4.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/CoronaVirusTransit_4.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/CoronaVirusTransit_4.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">b537c816-48df-5b62-b3e7-22f469e44cdd</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/science</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/science</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>80 percent of workers would not feel safe if their state reopened now, survey reveals</title>
-      <description>A new survey reveals widespread anxiety among American workers even as multiple states attempt to begin the slow process of restarting economic activity during the coronavirus pandemic.</description>
-                  <dc:creator>Christopher Carbone</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 20:14:16 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Christopher Carbone</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Louis Casiano</category>
                             </item>
       </channel>
 </rss>
