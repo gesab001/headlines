@@ -10,6 +10,28 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/nba-may-8-limited-workouts-target</guid>
+      <link>https://www.foxnews.com/sports/nba-may-8-limited-workouts-target</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/silver-recropped.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/silver-recropped.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/silver-recropped.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">56231025-ff24-51bd-afbe-ef543186307a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nba</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/disaster-response</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>NBA targets May 8 to allow limited workouts in select cities</title>
+      <description>The NBA has a plan in place to get its players back to their practice facilities amid the coronavirus pandemic.</description>
+                  <dc:creator>Daniel Canova</dc:creator>
+                         <pubDate>Tue, 28 Apr 2020 01:21:50 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/entertainment/jana-kramer-coronavirus-quarantine-homeschooling</guid>
       <link>https://www.foxnews.com/entertainment/jana-kramer-coronavirus-quarantine-homeschooling</link>
                   <media:group>
@@ -218,28 +240,6 @@
                          <pubDate>Mon, 27 Apr 2020 23:49:55 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Julius Young</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/trump-schools-open-for-a-short-period-of-time</guid>
-      <link>https://www.foxnews.com/politics/trump-schools-open-for-a-short-period-of-time</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/71e401eb-87a0-4c51-88df-347f8bc24f5e/8772cd5d-4cc3-43b4-8cfc-ac48fb43f489/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">5491f6a9-27be-587d-9f45-9d0a61d8b202</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/education</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Trump suggests schools should open for a 'short period of time' before academic year ends</title>
-      <description>President Trump in his Monday coronavirus press briefing said he thinks it would be a “good idea” if schools open up, even for a “short period of time” before the end of the academic year. </description>
-                  <dc:creator>Morgan Phillips</dc:creator>
-                         <pubDate>Mon, 27 Apr 2020 23:44:31 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
                             </item>
       </channel>
 </rss>
