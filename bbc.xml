@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 28 Apr 2020 01:13:11 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Coronavirus: Boris Johnson says this is moment of maximum risk]]></title>
+            <description><![CDATA[The PM returns as ministers pledge £60,000 for the families of NHS and care staff who die with Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-52439348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52439348</guid>
+            <pubDate>Mon, 27 Apr 2020 20:11:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump 'can't imagine why' US disinfectant calls spiked]]></title>
+            <description><![CDATA[The president says he takes no responsibility for a reported spike in calls to emergency hotlines.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-52450692</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-52450692</guid>
+            <pubDate>Tue, 28 Apr 2020 00:07:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: UK failed to stockpile crucial PPE]]></title>
+            <description><![CDATA[Failures in the preparation for the coronavirus pandemic are revealed by a BBC investigation.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-52440641</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-52440641</guid>
+            <pubDate>Mon, 27 Apr 2020 19:58:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: One big weekly shop back in fashion, says Tesco]]></title>
+            <description><![CDATA[Supermarket boss Dave Lewis says shopping trips are less frequent but basket sizes have doubled.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52441772</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52441772</guid>
+            <pubDate>Mon, 27 Apr 2020 23:02:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Argentina bans commercial flight sales until 1 September]]></title>
+            <description><![CDATA[Aviation industry groups warn that the move puts at risk more than 300,000 jobs in the country.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-52450654</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-52450654</guid>
+            <pubDate>Mon, 27 Apr 2020 23:56:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Furloughed workers offered online skills training]]></title>
+            <description><![CDATA[The government urges staff in lockdown to take online training for the post-virus economy.]]></description>
+            <link>https://www.bbc.co.uk/news/education-52447539</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-52447539</guid>
+            <pubDate>Tue, 28 Apr 2020 00:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'Thousands' of North Sea oil and gas jobs under threat]]></title>
+            <description><![CDATA[The UK's oil and gas industry says many firms will struggle to survive through the coronavirus crisis.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-52446555</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-52446555</guid>
+            <pubDate>Mon, 27 Apr 2020 23:34:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: More than 2,000 prisoners may have been infected, says PHE]]></title>
+            <description><![CDATA[The number of infected prisoners could be six times higher than confirmed cases, health officials say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-52449920</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52449920</guid>
+            <pubDate>Tue, 28 Apr 2020 00:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Hardship payment for dairy farmers considered]]></title>
+            <description><![CDATA[The virus outbreak has led to problems for the dairy industry, with warnings that cows could be slaughtered.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-52447520</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-52447520</guid>
+            <pubDate>Tue, 28 Apr 2020 00:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Councils vying for emergency virus cash]]></title>
+            <description><![CDATA[County councils say care funding must be a priority while district councils say services are at risk.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-52449982</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-52449982</guid>
+            <pubDate>Tue, 28 Apr 2020 00:09:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Virgin Media goes offline for thousands]]></title>
+            <description><![CDATA[The broadband outage began just after 17:00, coinciding with the government's daily coronavirus press briefing.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-52448607</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-52448607</guid>
+            <pubDate>Mon, 27 Apr 2020 20:27:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Bereaved frontline families entitled to £60,000]]></title>
+            <description><![CDATA[The payment will go to families of NHS and social care staff if their loved ones die from the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-52449204</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-52449204</guid>
+            <pubDate>Mon, 27 Apr 2020 19:40:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Hope in sight' as UK nears 'second phase of battle' ]]></title>
+            <description><![CDATA[Boris Johnson's strategy for how the UK will exit the lockdown dominates Tuesday's front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-52450126</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-52450126</guid>
+            <pubDate>Mon, 27 Apr 2020 22:06:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereal image of Cosmos flowers wins photo competition]]></title>
+            <description><![CDATA[A photo of Cosmos flowers wins the International Garden Photographer of the Year's Black & White photo project.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-52442403</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-52442403</guid>
+            <pubDate>Mon, 27 Apr 2020 23:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Families foster pets during outbreak]]></title>
+            <description><![CDATA[As animal shelters are forced to limit operations, many people have applied to temporarily rehome a pet.]]></description>
+            <link>https://www.bbc.co.uk/news/world-52442424</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-52442424</guid>
+            <pubDate>Mon, 27 Apr 2020 23:12:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What Trump voters think of his handling of crisis]]></title>
+            <description><![CDATA['Dumbfounded' or 'great job' - Americans who backed the president in 2016 rate his pandemic response.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-52417609</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-52417609</guid>
+            <pubDate>Mon, 27 Apr 2020 20:53:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Florida pastor continues in-person services]]></title>
+            <description><![CDATA[Pastor Rich Vera is among a minority in America who say it’s appropriate to gather to worship.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-52442423</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-52442423</guid>
+            <pubDate>Mon, 27 Apr 2020 23:11:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How the lockdown is affecting 5 Live callers]]></title>
+            <description><![CDATA[Three listeners tell Nicky Campbell about the impact of coronavirus on them and their families.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-52448627</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52448627</guid>
+            <pubDate>Mon, 27 Apr 2020 17:10:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'I ran the London Marathon on my treadmill']]></title>
+            <description><![CDATA[Complete with fake London landmarks and commentary from legendary voice of the marathon Steve Cram.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-52443075</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-52443075</guid>
+            <pubDate>Mon, 27 Apr 2020 11:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Uber driver evicted from home and left to die of coronavirus]]></title>
+            <description><![CDATA[Rajesh Jayaseelan found himself homeless and sick in London with Covid-19. His widow tells his story.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-52413431</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52413431</guid>
+            <pubDate>Mon, 27 Apr 2020 23:14:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus immunity: Can you catch it twice?]]></title>
+            <description><![CDATA[Immunity is the crucial question and understanding it will tell us how the pandemic will end.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52446965</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52446965</guid>
+            <pubDate>Mon, 27 Apr 2020 23:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TV in lockdown: How shows are coping without a studio audience]]></title>
+            <description><![CDATA[Some TV shows are struggling without a crowd - but others have arguably improved.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-52408570</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-52408570</guid>
+            <pubDate>Mon, 27 Apr 2020 23:43:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Why are people still flying into the UK? And other questions]]></title>
+            <description><![CDATA[Why is it still possible to fly into the UK during the coronavirus lockdown, and other questions answered by BBC experts.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
+            <pubDate>Mon, 27 Apr 2020 23:48:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus doctor's diary: 'We aren't diagnosing many cancers now']]></title>
+            <description><![CDATA[Planned surgery has been cancelled across the NHS - there may be some big changes when it resumes.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52446841</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52446841</guid>
+            <pubDate>Mon, 27 Apr 2020 23:46:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'I returned my suits and spent £100 on loungewear’]]></title>
+            <description><![CDATA[Demand for casual clothing is soaring during the lockdown, but is the UK at risk of dressing down too much?]]></description>
+            <link>https://www.bbc.co.uk/news/business-52388944</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52388944</guid>
+            <pubDate>Mon, 27 Apr 2020 23:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stressed firms look for better ways to source products]]></title>
+            <description><![CDATA[The way firms get their raw materials may change rapidly now Covid-19 has disrupted supply chains.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52423833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52423833</guid>
+            <pubDate>Mon, 27 Apr 2020 23:03:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Project Restart' - Premier League steps up plans as some players return to training grounds]]></title>
+            <description><![CDATA[Plans to resume the Premier League season will step up this week in what has been labelled "Project Restart".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/52439018</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/52439018</guid>
+            <pubDate>Mon, 27 Apr 2020 19:12:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England's Genge plans new players' union to 'shake up' scene]]></title>
+            <description><![CDATA[Leicester and England prop Ellis Genge says it is time to “shake up the rugby scene” after confirming he plans to set up a new union.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/52449455</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/52449455</guid>
+            <pubDate>Mon, 27 Apr 2020 20:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SPFL calls extraordinary general meeting as Rangers push for vote investigation]]></title>
+            <description><![CDATA[The Scottish Professional Football League has called an extraordinary meeting for 12 May after requisitions by Rangers, Hearts and Stranraer.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/52446994</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/52446994</guid>
+            <pubDate>Mon, 27 Apr 2020 18:16:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ECB should consider scrapping overseas players - Vaughan]]></title>
+            <description><![CDATA[The ECB should consider temporarily scrapping overseas players in the County Championship to cut costs, says ex-England captain Michael Vaughan.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/52449992</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/52449992</guid>
+            <pubDate>Mon, 27 Apr 2020 20:46:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gossip: Everton's Kean could move to Napoli]]></title>
+            <description><![CDATA[Everton striker Moise Kean could move to Napoli, Barcelona make Coutinho and Dembele available for swap deals, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/52450051</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/52450051</guid>
+            <pubDate>Mon, 27 Apr 2020 20:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Umar Akmal: Pakistan batsman banned for three years over corruption charges]]></title>
+            <description><![CDATA[Pakistan batsman Umar Akmal is banned from all cricket for three years for failing to report corrupt approaches.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/52444402</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/52444402</guid>
+            <pubDate>Mon, 27 Apr 2020 13:13:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1970 FA Cup final: The most brutal game in English football history]]></title>
+            <description><![CDATA[In the week of its 50th anniversary, BBC Sport looks back at the notoriously ferocious 1970 FA Cup final replay between Chelsea and Leeds.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/52416192</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/52416192</guid>
+            <pubDate>Mon, 27 Apr 2020 07:02:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How long does it take to recover?]]></title>
+            <description><![CDATA[Recovery from Covid-19 can be a lengthy process, depending on how seriously people get the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52301633</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52301633</guid>
+            <pubDate>Mon, 27 Apr 2020 08:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus UK map: How many confirmed cases are there in your area?]]></title>
+            <description><![CDATA[Key graphics explaining how coronavirus has spread in the UK and the government's response.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Mon, 27 Apr 2020 19:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are social distancing and self-isolation rules?]]></title>
+            <description><![CDATA[Everybody should be avoiding non-essential contact, and you should stay at home wherever possible.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51506729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
+            <pubDate>Mon, 27 Apr 2020 13:21:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Is the advice on face masks going to change?]]></title>
+            <description><![CDATA[There is growing discussion about the potential benefits of the general public wearing masks.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Thu, 23 Apr 2020 14:38:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How close is the UK to 100,000 tests a day?]]></title>
+            <description><![CDATA[What are the tests for coronavirus and how do they work?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51943612</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
+            <pubDate>Mon, 27 Apr 2020 11:17:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: A visual guide to the economic impact]]></title>
+            <description><![CDATA[Key maps and charts explain how the virus has impacted markets and businesses around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/business-51706225</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-51706225</guid>
+            <pubDate>Mon, 27 Apr 2020 06:52:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Why are international comparisons difficult?]]></title>
+            <description><![CDATA[Should you be comparing Covid-19 statistics between countries?]]></description>
+            <link>https://www.bbc.co.uk/news/52311014</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/52311014</guid>
+            <pubDate>Mon, 20 Apr 2020 23:12:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What it does to the body]]></title>
+            <description><![CDATA[What is it like to have the coronavirus, how will it affect you and how is it treated?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51214864</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51214864</guid>
+            <pubDate>Sat, 14 Mar 2020 01:02:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus vaccine: When will we have one?]]></title>
+            <description><![CDATA[We answer some of the big questions about vaccines and how long one for coronavirus could take.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51665497</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51665497</guid>
+            <pubDate>Thu, 23 Apr 2020 18:39:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus pandemic: Tracking the global outbreak]]></title>
+            <description><![CDATA[Key maps and charts explaining how the respiratory virus has spread around the world and how it is being dealt with.]]></description>
+            <link>https://www.bbc.co.uk/news/world-51235105</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
+            <pubDate>Mon, 27 Apr 2020 18:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: The world in lockdown in maps and charts]]></title>
+            <description><![CDATA[With more than a million coronavirus cases confirmed worldwide, an analysis of the world in lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/world-52103747</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-52103747</guid>
+            <pubDate>Mon, 06 Apr 2020 23:20:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What do all the terms mean?]]></title>
+            <description><![CDATA[Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak]]></description>
+            <link>https://www.bbc.co.uk/news/health-52182658</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52182658</guid>
+            <pubDate>Tue, 14 Apr 2020 17:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the coronavirus?]]></title>
+            <description><![CDATA[Everything you need to know about the coronavirus – explained in just one minute.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51883255</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51883255</guid>
+            <pubDate>Fri, 13 Mar 2020 22:04:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus death rate: What are the chances of dying?]]></title>
+            <description><![CDATA[The current best guess of a 1% death rate does not apply to everyone.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51674743</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51674743</guid>
+            <pubDate>Tue, 24 Mar 2020 13:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: When will the outbreak end and life get back to normal?]]></title>
+            <description><![CDATA[The huge challenge the world faces to find an exit strategy to end the lockdowns and return to normal.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51963486</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51963486</guid>
+            <pubDate>Mon, 23 Mar 2020 21:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'How I'm coping with self-isolation']]></title>
+            <description><![CDATA[With the impact that coronavirus is having on our daily lives, people are finding new ways to fill their free time.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-51960752</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-51960752</guid>
+            <pubDate>Sun, 22 Mar 2020 00:09:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'I'm begging you, please be careful']]></title>
+            <description><![CDATA[A woman being treated for coronavirus has made an appeal for people to stay home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-52024895</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52024895</guid>
+            <pubDate>Tue, 24 Mar 2020 16:12:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus update: Why does staying at home help?]]></title>
+            <description><![CDATA[After Boris Johnson brings in new measures, the BBC explains why staying in is a matter of life and death.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52008673</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52008673</guid>
+            <pubDate>Tue, 24 Mar 2020 05:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How to wash your hands - in 20 seconds]]></title>
+            <description><![CDATA[Dr Adele McCormick from the University of Westminster demonstrates how to wash your hands.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51754472</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51754472</guid>
+            <pubDate>Thu, 05 Mar 2020 11:52:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus information: What should I do?]]></title>
+            <description><![CDATA[Step-by-step, what to do to help prevent the spread of the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51711227</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51711227</guid>
+            <pubDate>Tue, 24 Mar 2020 18:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus symptoms: What are they and how do I protect myself?]]></title>
+            <description><![CDATA[Prime Minister Boris Johnson is among those to be treated in hospital for the symptoms of Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51048366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51048366</guid>
+            <pubDate>Tue, 14 Apr 2020 10:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Owen Harding: The teen who disappeared during lockdown]]></title>
+            <description><![CDATA[The story of the 16-year-old who went missing, and the community who tried to find him.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-52386283</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52386283</guid>
+            <pubDate>Fri, 24 Apr 2020 00:18:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TWA85: 'The world's longest and most spectacular hijacking']]></title>
+            <description><![CDATA[When passengers once held at gunpoint were asked to forgive their hijacker, how did they respond?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48069272</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48069272</guid>
+            <pubDate>Sat, 26 Oct 2019 22:20:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eliud Kipchoge: The humble home life in rural Kenya behind remarkable athletic success]]></title>
+            <description><![CDATA[Witnessing Eliud Kipchoge's humble home life in rural Kenya sheds light on some of the secrets behind his remarkable athletic success.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/52354320</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/52354320</guid>
+            <pubDate>Wed, 22 Apr 2020 07:29:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'I never thought I'd be so proud to sell bread and butter']]></title>
+            <description><![CDATA[Laura McLellan felt humbled when she and her team of checkout operators were told they were key workers.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-52399385</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-52399385</guid>
+            <pubDate>Thu, 23 Apr 2020 23:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Nobody told us about the coronavirus pandemic']]></title>
+            <description><![CDATA[Before setting sail around the world, Elena and Ryan told their families not to give them bad news.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-52332899</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52332899</guid>
+            <pubDate>Tue, 21 Apr 2020 16:17:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Protecting the 'one in a million' girl]]></title>
+            <description><![CDATA[Bex Price's family went into isolation early as coronavirus would almost certainly kill her.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-52325445</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-52325445</guid>
+            <pubDate>Mon, 20 Apr 2020 09:55:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Making face masks feels 'like the war effort']]></title>
+            <description><![CDATA[Thousands of people are producing cloth masks, despite UK authorities saying they are unnecessary.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-52328229</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52328229</guid>
+            <pubDate>Wed, 22 Apr 2020 11:57:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus journey: The 'last cruise ship on Earth' finally comes home]]></title>
+            <description><![CDATA[From political storms to presidential pleas, it has been quite a journey for the MSC Magnifica.]]></description>
+            <link>https://www.bbc.co.uk/news/world-52350262</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-52350262</guid>
+            <pubDate>Mon, 20 Apr 2020 04:42:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The tiny premature baby who fought off coronavirus]]></title>
+            <description><![CDATA[Peyton Maguire from Lanarkshire is one of the youngest Covid-19 patients in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-52369708</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-52369708</guid>
+            <pubDate>Tue, 21 Apr 2020 11:46:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Typhoid Mary left a trail of scandal and death]]></title>
+            <description><![CDATA[The chilling story of an Irish immigrant cook who brought typhoid to well-to-do families in New York.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-52291327</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-52291327</guid>
+            <pubDate>Sun, 19 Apr 2020 23:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Grandmas' top tips to get through lockdown]]></title>
+            <description><![CDATA[We've asked Grannies from around the world for their advice on staying positive.]]></description>
+            <link>https://www.bbc.co.uk/news/world-52376726</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-52376726</guid>
+            <pubDate>Wed, 22 Apr 2020 12:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A coronavirus survivor's story: 'I touched death']]></title>
+            <description><![CDATA[Elizabeth says she feels lucky to be alive after falling seriously ill with the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-52353275</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52353275</guid>
+            <pubDate>Tue, 21 Apr 2020 23:01:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Wacky and wonderful scrubs for NHS workers]]></title>
+            <description><![CDATA[Hundreds of volunteers are making scrubs of all different designs and colours for doctors and nurses.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-berkshire-52359124</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-berkshire-52359124</guid>
+            <pubDate>Fri, 24 Apr 2020 01:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: The detention centre for teenage Taliban members]]></title>
+            <description><![CDATA[The Afghan detention centre houses some 300 boys under 18, of whom half are alleged to be militants.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-52186388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-52186388</guid>
+            <pubDate>Mon, 20 Apr 2020 23:06:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
