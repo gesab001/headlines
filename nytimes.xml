@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Apr 2020 03:49:46 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Apr 2020 03:49:46 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2020 04:48:35 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2020 04:48:35 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -44,7 +44,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illiteracy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Detroit (Mich)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/us/28literacy-02/28literacy-02-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/us/28literacy-02/28literacy-02-moth-v2.jpg" width="151"></media:content>
       <media:credit>Carlos Osorio/Associated Press</media:credit>
       <media:description>Nikolai Vitti, the Detroit schools superintendent, spoke about an initiative to give public school students tablet computers during the coronavirus pandemic.</media:description>
     </item>
@@ -75,7 +75,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/27/us/coronavirus-sign-language-interpreters.html" rel="standout"></atom:link>
       <description>Sign language interpreters are sharing lifesaving information and becoming part of a visible pantheon of essential workers.</description>
       <dc:creator>Shawn Hubler</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 22:23:24 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2020 04:23:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deafness</category>
@@ -89,6 +89,34 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/us/27virus-interpreters-1/27virus-interpreters-1-moth.jpg" width="151"></media:content>
       <media:credit>L.A. County</media:credit>
       <media:description>Rorri Burton interpreting for Barbara Ferrer (not pictured), the director of the Los Angeles County Department of Public Health, in March.</media:description>
+    </item>
+    <item>
+      <title>Stock Markets in Asia Cautious Ahead of Earnings Announcements: Live Updates</title>
+      <link>https://www.nytimes.com/2020/04/28/business/stock-market-today-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/business/stock-market-today-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/28/business/stock-market-today-coronavirus.html" rel="standout"></atom:link>
+      <description>The latest on stock market and business news during the coronavirus outbreak.</description>
+      <pubDate>Tue, 28 Apr 2020 04:35:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/world/28markets-briefing-japan/merlin_171964476_a8e1194d-056d-4992-91e2-f6fb82c1ca31-moth.jpg" width="151"></media:content>
+      <media:credit>Philip Fong/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A demonstration of a drive-through coronavirus testing center southwest of Tokyo on Monday.</media:description>
+    </item>
+    <item>
+      <title>World Coronavirus Coverage: Live Tracker</title>
+      <link>https://www.nytimes.com/2020/04/28/world/coronavirus-news.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/world/coronavirus-news.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/28/world/coronavirus-news.html" rel="standout"></atom:link>
+      <description>Gradual openings in Africa’s most populous country will begin next week. In Bangladesh, garment factories are allowed to reopen, but workers fear infection.</description>
+      <pubDate>Tue, 28 Apr 2020 04:21:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/world/27virus-int-briefing-lagos/27virus-int-briefing-lagos-moth.jpg" width="151"></media:content>
+      <media:credit>Yagazie Emezi for The New York Times</media:credit>
+      <media:description>A parking lot in downtown Lagos, normally at full capacity, was empty earlier this month.</media:description>
     </item>
     <item>
       <title>New York Attorney General Scrutinizes Amazon for Firing Warehouse Worker</title>
@@ -344,7 +372,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/27/us/florida-felons-voting-trial.html" rel="standout"></atom:link>
       <description>A closely watched trial will determine whether felons who have served their time should have to pay outstanding fines before regaining the right to vote.</description>
       <dc:creator>Patricia Mazzei</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 20:24:19 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 20:24:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Registration and Requirements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ex-Convicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
@@ -401,7 +429,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/27/us/el-paso-shooting-guillermo-memo-garcia.html" rel="standout"></atom:link>
       <description>A soccer coach whose extensive injuries kept him hospitalized died nearly nine months after the shooting, the deadliest anti-Latino attack in modern American history.</description>
       <dc:creator>Manny Fernandez and Sarah Mervosh</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 21:48:10 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 21:48:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">El Paso, Tex, Shooting (2019)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Paso (Tex)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
@@ -470,7 +498,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/27/us/politics/Pelosi-endorses-Biden.html" rel="standout"></atom:link>
       <description>The House speaker described the former vice president as “a leader with the humility to seek expertise and science, and the confidence to act upon it.”</description>
       <dc:creator>Maggie Astor</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 18:30:23 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 18:30:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
@@ -509,10 +537,10 @@
       <link>https://www.nytimes.com/2020/04/27/us/coronavirus-live.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/us/coronavirus-live.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/27/us/coronavirus-live.html" rel="standout"></atom:link>
-      <description>The U.S. death toll exceeded 50,000 as more states gradually allowed some businesses to restart. The C.D.C. added six new Covid-19 symptoms.</description>
-      <pubDate>Tue, 28 Apr 2020 02:43:08 +0000</pubDate>
+      <description>More states gradually lift restrictions on some businesses even as cases remain high. A new testing plan falls short of what public health experts say is necessary.</description>
+      <pubDate>Tue, 28 Apr 2020 04:34:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v345.png" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v346.png" width="151"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -535,33 +563,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/business/00virus-sbastartups1/00virus-sbaloans1-moth.jpg" width="151"></media:content>
       <media:credit>Gabby Jones for The New York Times</media:credit>
       <media:description>Funding for the government’s small-business loan program quickly ran out, even as hundreds of hard-hit restaurants, hair salons and shops missed out on the relief.</media:description>
-    </item>
-    <item>
-      <title>Stock Market Live Tracker During Coronavirus Pandemic</title>
-      <link>https://www.nytimes.com/2020/04/27/business/coronavirus-stock-market-tracker.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/business/coronavirus-stock-market-tracker.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/27/business/coronavirus-stock-market-tracker.html" rel="standout"></atom:link>
-      <description>The latest on stock market and business news during the coronavirus outbreak.</description>
-      <pubDate>Tue, 28 Apr 2020 00:27:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/business/27virus-markets-briefing-oil/merlin_171818550_52d43679-a536-4129-977d-8a50fb3c77a2-moth.jpg" width="151"></media:content>
-      <media:credit>Bronte Wittpenn for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Live Updates: Global Coronavirus Pandemic </title>
-      <link>https://www.nytimes.com/2020/04/27/world/coronavirus-world-pandemic.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/world/coronavirus-world-pandemic.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/27/world/coronavirus-world-pandemic.html" rel="standout"></atom:link>
-      <description>Even as the global death toll passed 200,000, countries are mapping out a return to public life. Health care workers in Mexico, India and other countries are facing attacks.</description>
-      <pubDate>Tue, 28 Apr 2020 02:03:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/world/27virus-int-briefing-boris/27virus-int-briefing-boris-moth.jpg" width="151"></media:content>
-      <media:credit>Neil Hall/EPA, via Shutterstock</media:credit>
-      <media:description>Prime Minister Boris Johnson of Britain made his first public appearance since his hospitalization outside 10 Downing Street on Monday. </media:description>
     </item>
   </channel>
 </rss>
