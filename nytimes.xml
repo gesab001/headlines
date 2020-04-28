@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Apr 2020 04:48:35 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Apr 2020 04:48:35 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2020 08:36:37 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2020 08:36:37 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -91,12 +91,48 @@
       <media:description>Rorri Burton interpreting for Barbara Ferrer (not pictured), the director of the Los Angeles County Department of Public Health, in March.</media:description>
     </item>
     <item>
+      <title>Marc Benioff’s $25 Million Blitz to Buy Protective Gear From China</title>
+      <link>https://www.nytimes.com/2020/04/28/business/coronavirus-marc-benioff-salesforce.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/business/coronavirus-marc-benioff-salesforce.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/28/business/coronavirus-marc-benioff-salesforce.html" rel="standout"></atom:link>
+      <description>A call from a university chancellor set in motion a private sector effort to procure 50 million masks, gowns and swabs for American medical facilities.</description>
+      <dc:creator>David Gelles</dc:creator>
+      <pubDate>Tue, 28 Apr 2020 07:08:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alibaba Group Holding Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Salesforce.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Benioff, Marc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhang, Daniel (1972- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/business/00virus-benioff-1/00virus-benioff-1-moth.jpg" width="151"></media:content>
+      <media:credit>Matt Edge for The New York Times</media:credit>
+      <media:description>Marc Benioff, chief executive of Salesforce.</media:description>
+    </item>
+    <item>
+      <title>Abortion by Telemedicine: A Growing Option as Access to Clinics Wanes</title>
+      <link>https://www.nytimes.com/2020/04/28/health/telabortion-abortion-telemedicine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/health/telabortion-abortion-telemedicine.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/28/health/telabortion-abortion-telemedicine.html" rel="standout"></atom:link>
+      <description>The coronavirus has created a surge in demand for telemedicine of all types — including for a quietly expanding program for terminating pregnancies.</description>
+      <dc:creator>Pam Belluck</dc:creator>
+      <pubDate>Tue, 28 Apr 2020 06:59:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telemedicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mifeprex (RU-486)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TelAbortion</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/science/00TELEBORTION1/00TELEBORTION1-moth.jpg" width="151"></media:content>
+      <media:credit>Michelle Mishina-Kunz for The New York Times</media:credit>
+      <media:description>Ashley Dale taking medications that were mailed to her through an abortion telemedicine service.</media:description>
+    </item>
+    <item>
       <title>Stock Markets in Asia Cautious Ahead of Earnings Announcements: Live Updates</title>
       <link>https://www.nytimes.com/2020/04/28/business/stock-market-today-coronavirus.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/business/stock-market-today-coronavirus.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/28/business/stock-market-today-coronavirus.html" rel="standout"></atom:link>
       <description>The latest on stock market and business news during the coronavirus outbreak.</description>
-      <pubDate>Tue, 28 Apr 2020 04:35:07 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2020 07:27:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
@@ -111,12 +147,12 @@
       <link>https://www.nytimes.com/2020/04/28/world/coronavirus-news.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/world/coronavirus-news.html</guid>
       <atom:link href="https://www.nytimes.com/2020/04/28/world/coronavirus-news.html" rel="standout"></atom:link>
-      <description>Gradual openings in Africa’s most populous country will begin next week. In Bangladesh, garment factories are allowed to reopen, but workers fear infection.</description>
-      <pubDate>Tue, 28 Apr 2020 04:21:01 +0000</pubDate>
+      <description>Even Malaysia’s deputy health minister fell afoul of the rules. In India, plans for a partial reopening create fear and uncertainty.</description>
+      <pubDate>Tue, 28 Apr 2020 08:34:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/world/27virus-int-briefing-lagos/27virus-int-briefing-lagos-moth.jpg" width="151"></media:content>
-      <media:credit>Yagazie Emezi for The New York Times</media:credit>
-      <media:description>A parking lot in downtown Lagos, normally at full capacity, was empty earlier this month.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/world/28virus-int-briefing-argentina/28virus-int-briefing-argentina-moth.jpg" width="151"></media:content>
+      <media:credit>Miguel Lo Bianco/Reuters</media:credit>
+      <media:description>Planes parked at Jorge Newbery airport in Buenos Aires earlier this month.</media:description>
     </item>
     <item>
       <title>New York Attorney General Scrutinizes Amazon for Firing Warehouse Worker</title>
@@ -224,7 +260,7 @@
       <atom:link href="https://www.nytimes.com/2020/04/27/world/middleeast/israel-palestinian-memorial-day.html" rel="standout"></atom:link>
       <description>With Israel’s cemeteries closed, Memorial Day mourning had to adapt to the coronavirus lockdown. An alternative ceremony bringing together Israelis and Palestinians attracted 170,000 people online.</description>
       <dc:creator>David M. Halbfinger</dc:creator>
-      <pubDate>Mon, 27 Apr 2020 21:48:57 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2020 07:43:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rivlin, Reuven</category>
