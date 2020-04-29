@@ -10,232 +10,238 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/johnny-joey-jones-coronavirus-frontline-workers-ptsd</guid>
-      <link>https://www.foxnews.com/media/johnny-joey-jones-coronavirus-frontline-workers-ptsd</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/science/visualization-droplets-one-cough-airplane-infecting-passengers</guid>
+      <link>https://www.foxnews.com/science/visualization-droplets-one-cough-airplane-infecting-passengers</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/jones.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/jones.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/droplets-visualization-purdue-u.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/droplets-visualization-purdue-u.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/jones.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">e79095b5-9b4e-59cf-82c9-f2ba0b4e62f8</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/droplets-visualization-purdue-u.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">feb55b6f-4030-5903-a7ff-570ab53f7626</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/tech/companies/google</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/specials</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/mental-health</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/outnumbered-overtime</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/military/marines</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/science</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Visualization shows droplets from one cough on an airplane infecting large number of passengers, researchers say</title>
+      <description>The coronavirus pandemic has brought air travel to an unprecedented standstill -- wreaking all sorts of havoc and putting countless jobs at risk -- but a new visualization is unlikely to make people eager to fly the friendly skies again soon.</description>
+                  <dc:creator>Christopher Carbone</dc:creator>
+                         <pubDate>Wed, 29 Apr 2020 22:54:25 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Christopher Carbone</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/juan-williams-biden-democrats-in-a-bind</guid>
+      <link>https://www.foxnews.com/media/juan-williams-biden-democrats-in-a-bind</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Video-2020-04-29T182558.714.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Video-2020-04-29T182558.714.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Video-2020-04-29T182558.714.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d94547e1-def8-5693-ae69-0604a02c4c4b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/democratic-party</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/the-five</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/tara-reade</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Retired Marine Johnny 'Joey' Jones explains how frontline workers can cope with coronavirus PTSD</title>
-      <description>Fox News contributor and retired Marine bomb technician Johnny "Joey" Jones appeared on  “America Copes Together: A Virtual Town Hall” on Wednesday to share how frontline workers can cope with post-traumatic stress disorder incurred from the coronavirus pandemic.</description>
-                  <dc:creator>Joshua Nelson</dc:creator>
-                         <pubDate>Wed, 29 Apr 2020 19:25:26 GMT</pubDate>
+      <title>Juan Williams: Tara Reade claims put Democrats 'in a bind' but Trump campaign should be careful</title>
+      <description>"The Five" co-host Juan Williams acknowledged Wednesday that allegations of sexual assault against presumptive Democratic nominee Joe Biden have left the party "in a bind."</description>
+                  <dc:creator>Charles Creitz</dc:creator>
+                         <pubDate>Wed, 29 Apr 2020 22:52:12 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Joshua Nelson</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Charles Creitz</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/lifestyle/little-girl-under-quarantine-loses-mind-when-cinderella-sends-birthday-message</guid>
-      <link>https://www.foxnews.com/lifestyle/little-girl-under-quarantine-loses-mind-when-cinderella-sends-birthday-message</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/pennsylvania-bald-eagle-deaths-possible-poisonings</guid>
+      <link>https://www.foxnews.com/us/pennsylvania-bald-eagle-deaths-possible-poisonings</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/cinderella-call-510235.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/cinderella-call-510235.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/04/EagleTrio.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/EagleTrio.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/cinderella-call-510235.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">29c818a0-0ef5-5d35-b5d2-dcb50a489f55</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/lifestyle/parenting</category>
-            <category domain="foxnews.com/taxonomy">fox-news/lifestyle</category>
-            <category domain="foxnews.com/taxonomy">fox-news/travel/general/disney</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/EagleTrio.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">eb45dcd9-8ef7-5a0e-a023-79f0ba36a023</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/science/wild-nature/birds</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/pennsylvania</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/lifestyle</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Little girl goes ‘crazy’ meeting Disney characters on quarantine birthday</title>
-      <description>“She played the video about a million times. She’s still playing it now.”</description>
-                  <dc:creator>Janine Puhak</dc:creator>
-                         <pubDate>Wed, 29 Apr 2020 19:08:49 GMT</pubDate>
+      <title>Pennsylvania investigates bald eagle deaths, possible poisonings</title>
+      <description>Pennsylvania authorities are investigating the deaths of three bald eagles found in the same area over a two-month span, according to a local report.</description>
+                  <dc:creator>Michael Ruiz</dc:creator>
+                         <pubDate>Wed, 29 Apr 2020 22:47:44 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Janine Puhak</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Michael Ruiz</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/gop-decries-impeachment-2-0-as-pelosi-names-top-trump-critics-to-coronavirus-oversight-panel</guid>
-      <link>https://www.foxnews.com/politics/gop-decries-impeachment-2-0-as-pelosi-names-top-trump-critics-to-coronavirus-oversight-panel</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/wisconsin-finds-more-people-who-worked-voted-in-primary-tested-positive-coronavirus</guid>
+      <link>https://www.foxnews.com/politics/wisconsin-finds-more-people-who-worked-voted-in-primary-tested-positive-coronavirus</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/01/Pelosi-McCarthy-AP.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Pelosi-McCarthy-AP.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20120555314232.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20120555314232.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Pelosi-McCarthy-AP.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">e906e5b0-ea9c-5ffb-b959-b0dfca8eb713</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/nancy-pelosi</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/kevin-mccarthy</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/house-of-representatives</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20120555314232.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">98a2e8e1-1f64-536d-9327-541853a5d3c9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/wisconsin</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>GOP decries ‘impeachment 2.0’ as Pelosi names top Trump critics to coronavirus oversight panel</title>
-      <description>House Speaker Nancy Pelosi on Wednesday appointed several high-profile Democrats who have been outspoken advocates of impeachment in the past to sit on a new committee overseeing the Trump administration’s response to the coronavirus pandemic, prompting House Republicans to blast the effort as “impeachment 2.0.”</description>
-                  <dc:creator>Brooke Singman</dc:creator>
-                         <pubDate>Wed, 29 Apr 2020 19:05:35 GMT</pubDate>
+      <title>Wisconsin finds more people who worked or voted in primary tested positive for coronavirus</title>
+      <description>At least 52 people who voted in Wisconsin's presidential primaries earlier in April tested positive for coronavirus, but despite this, the Democratic push to postpone the state's special congressional election in two weeks has been unsuccessful. </description>
+                  <dc:creator>Vandana Rambaran</dc:creator>
+                         <pubDate>Wed, 29 Apr 2020 22:43:29 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Brooke Singman</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Vandana Rambaran</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/state-rep-on-floridas-covid-19-testing-were-not-there-yet</guid>
-      <link>https://www.foxnews.com/media/state-rep-on-floridas-covid-19-testing-were-not-there-yet</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/joe-giudice-deportation-appeal</guid>
+      <link>https://www.foxnews.com/entertainment/joe-giudice-deportation-appeal</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/repannaeskamani_thumb.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/repannaeskamani_thumb.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/10/joe-giudice-ap.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/joe-giudice-ap.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/repannaeskamani_thumb.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">fe408396-ae29-5182-99f9-3e8832197cf0</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/florida</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/economy</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/joe-giudice-ap.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">168c9d22-4dcc-5897-8ccd-fc314359fb9b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/in-court</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/the-real-housewives</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Joe Giudice's deportation appeal has been denied</title>
+      <description>Joe Giudice is staying put in Italy.</description>
+                  <dc:creator>Nate Day</dc:creator>
+                         <pubDate>Wed, 29 Apr 2020 22:43:06 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/morgan-ortagus-who-coronavirus-claims-state-department</guid>
+      <link>https://www.foxnews.com/media/morgan-ortagus-who-coronavirus-claims-state-department</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/c1b564af-image-1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/c1b564af-image-1.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/c1b564af-image-1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0bffca8e-f830-58c8-98f4-1ebfac7bc354</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy/state-department</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/bill-hemmer-reports</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-health-organization</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>State Rep on Florida’s COVID-19 testing: ‘We’re not there yet’</title>
-      <description>Florida Gov. Ron DeSantis made headlines recently for boasting that the numbers of coronavirus cases in his state are far below than what was expected, but state Rep. Anna Eskamani is urging not to overlook the reality on the ground. </description>
-                  <dc:creator>Emily DeCiccio</dc:creator>
-                         <pubDate>Wed, 29 Apr 2020 19:04:31 GMT</pubDate>
+      <title>State Department spokesperson rebuffs WHO claim it acted 'quickly and decisively' against coronavirus</title>
+      <description>State Department spokesperson Morgan Ortagus disputed claims by the World Health Organization that it had acted "quickly and decisively" to stop the spread of the coronavirus pandemic.</description>
+                  <dc:creator>Charles Creitz</dc:creator>
+                         <pubDate>Wed, 29 Apr 2020 22:35:51 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Emily DeCiccio</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Charles Creitz</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/health/how-coronavirus-pandemic-affecting-children-autism</guid>
-      <link>https://www.foxnews.com/health/how-coronavirus-pandemic-affecting-children-autism</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/utah-business-owner-allegedly-pushed-silver-products-that-falsely-claimed-to-prevent-treat-coronavirus</guid>
+      <link>https://www.foxnews.com/us/utah-business-owner-allegedly-pushed-silver-products-that-falsely-claimed-to-prevent-treat-coronavirus</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Hudson-2-.jpeg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Hudson-2-.jpeg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Doctor-Gordon-Pedersen-Facebook.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Doctor-Gordon-Pedersen-Facebook.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Hudson-2-.jpeg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">a94aac11-7379-50af-9d57-e219e439353a</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/education/autism</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/healthy-living/childrens-health</category>
-            <category domain="foxnews.com/taxonomy">fox-news/lifestyle/parenting</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/health</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>How the coronavirus pandemic is affecting children with autism: 'We are trying our best'</title>
-      <description>How is the coronavirus pandemic affecting children with an autism spectrum disorder?</description>
-                  <dc:creator>Madeline Farber</dc:creator>
-                         <pubDate>Wed, 29 Apr 2020 19:02:14 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Madeline Farber</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/nfl-commissioner-roger-goodell-reduces-salary-zero</guid>
-      <link>https://www.foxnews.com/sports/nfl-commissioner-roger-goodell-reduces-salary-zero</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/10/goodell.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/goodell.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/goodell.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">81839d44-10ae-5560-b5cd-297fd4564d3f</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Doctor-Gordon-Pedersen-Facebook.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">b84aa548-b8c0-55f1-92e1-e91d7a8c4e6b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/utah</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>NFL Commissioner Roger Goodell foregoes salary, league workers taking pay cuts amid coronavirus: report</title>
-      <description>NFL Commissioner Roger Goodell and a host of other league employees will be taking pay cuts or furloughs amid the coronavirus pandemic.</description>
-                  <dc:creator>Daniel Canova</dc:creator>
-                         <pubDate>Wed, 29 Apr 2020 19:00:58 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/health/mental-health-hotlines-during-the-coronavirus-pandemic</guid>
-      <link>https://www.foxnews.com/health/mental-health-hotlines-during-the-coronavirus-pandemic</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20107672573680.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20107672573680.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20107672573680.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">18958fa0-ef90-5f99-bcb9-6b5d6a24f843</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/mental-health</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/outbreaks</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/health</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Mental health hotlines available during the coronavirus pandemic</title>
-      <description>The coronavirus pandemic has taken a devastating toll on U.S. citizens and its economy.</description>
+      <title>Utah business owner allegedly pushed silver products, falsely claiming they prevent, treat coronavirus</title>
+      <description>A Utah business owner is accused of pushing silver products that he falsely claimed prevented and treated the novel coronavirus, according to a civil complaint filed Monday.</description>
                   <dc:creator>Bradford Betz</dc:creator>
-                         <pubDate>Wed, 29 Apr 2020 18:55:59 GMT</pubDate>
+                         <pubDate>Wed, 29 Apr 2020 22:35:27 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Bradford Betz</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/world/kim-jong-un-north-korea-wonsan-resort-compound-luxury-boat-satellite-image</guid>
-      <link>https://www.foxnews.com/world/kim-jong-un-north-korea-wonsan-resort-compound-luxury-boat-satellite-image</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/smithsonian-cutting-salaries-executives-amid-coronavirus</guid>
+      <link>https://www.foxnews.com/politics/smithsonian-cutting-salaries-executives-amid-coronavirus</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/nksat_4.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/nksat_4.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Smithsonian-1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Smithsonian-1.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/nksat_4.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">a340e94a-4522-5106-9ac6-6aee71fa63fd</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/kim-jong-un</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/north-korea</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/asia</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/conflicts</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/world</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Kim Jong Un may be at North Korea resort compound after satellite images spot luxury boats</title>
-      <description>Recent satellite photos are giving a stronger indication that North Korean dictator Kim Jong Un is actually at a luxury coastal resort on the Hermit Kingdom's northeast coast as worldwide speculation swirls over his health and whereabouts</description>
-                  <dc:creator>Travis Fedschun</dc:creator>
-                         <pubDate>Wed, 29 Apr 2020 18:53:47 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Travis Fedschun</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/protesters-michigan-stay-at-home-order-removed-from-state-house-video-shows</guid>
-      <link>https://www.foxnews.com/politics/protesters-michigan-stay-at-home-order-removed-from-state-house-video-shows</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Michigan-United-for-Freedom-Protest-47.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Michigan-United-for-Freedom-Protest-47.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Michigan-United-for-Freedom-Protest-47.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">ebf01259-ed43-5b07-8b55-86109a43d7f5</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Smithsonian-1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c5e8a1b3-2c65-5d36-9b33-8d1c86b7d7be</category>
                   <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/michigan</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Protesters against Michigan's stay-at-home order removed from the state House, video shows</title>
-      <description>Michiganders protesting the state’s coronavirus lockdown restrictions made their way to the state House gallery on Wednesday before they were forcibly removed, a video posted on social media shows.</description>
-                  <dc:creator>Morgan Phillips</dc:creator>
-                         <pubDate>Wed, 29 Apr 2020 18:49:29 GMT</pubDate>
+      <title>Smithsonian cutting salaries of executives after estimated losses of $22M amid coronavirus</title>
+      <description>The Smithsonian Institution will slash pay for some of its executives and implement salary and hiring freezes after losing an estimated $22 million in revenue due to closures during the coronavirus pandemic.</description>
+                  <dc:creator>Andrew O'Reilly</dc:creator>
+                         <pubDate>Wed, 29 Apr 2020 22:34:39 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Andrew O'Reilly</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/zac-taylor-bengals-joe-burrow-prediction</guid>
-      <link>https://www.foxnews.com/sports/zac-taylor-bengals-joe-burrow-prediction</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/coronavirus-cattle-industry-may-lose-billions-covid19</guid>
+      <link>https://www.foxnews.com/us/coronavirus-cattle-industry-may-lose-billions-covid19</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/01/Zac-Taylor.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Zac-Taylor.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/IMG_2538.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/IMG_2538.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Zac-Taylor.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">b116a663-87e9-5b13-95d0-ce4f053e7afc</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/cincinnati-bengals</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/joe-burrow</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl-draft</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/IMG_2538.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8be581c1-e2d8-521f-9a4f-ead4e27b4c2b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/economy/jobs</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/disaster-response</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/outbreaks</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Zac Taylor thinks Bengals 'will never pick No. 1 again' after Joe Burrow selection+</title>
-      <description>Cincinnati Bengals head coach Zac Taylor has no doubt in Joe Burrow’s ability to perform but he’s so confident in the former LSU quarterback that he doesn’t see the Bengals getting the No. 1 pick in the draft ever again. </description>
-                  <dc:creator>Paulina Dedaj</dc:creator>
-                         <pubDate>Wed, 29 Apr 2020 18:46:52 GMT</pubDate>
+      <title>Cattle industry expected to lose billions amid coronavirus pandemic: 'We are suffering right now'</title>
+      <description>President Trump signed an executive order Tuesday requiring beef-packing plants to remain open during the coronavirus pandemic -- but beef producers are starting to feel the impact as well.</description>
+                  <dc:creator>Hunter Davis</dc:creator>
+                         <pubDate>Wed, 29 Apr 2020 22:22:58 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Paulina Dedaj</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Hunter Davis</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/washington-post-biden-address-tara-reade-claims-release-relevant-records</guid>
+      <link>https://www.foxnews.com/media/washington-post-biden-address-tara-reade-claims-release-relevant-records</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Biden-Tara-WP-1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Biden-Tara-WP-1.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Biden-Tara-WP-1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">cadd4ab6-e6de-5f69-b678-f3a78caa24c8</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/tara-reade</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Washington Post calls on Biden to address Tara Reade sex-assault allegations, 'release relevant records'</title>
+      <description>The Washington Post editorial board is calling on former Vice President Joe Biden to address the allegations made by his former Senate staffer Tara Reade and to "release relevant records" from his time as a senator that are currently sealed at the University of Delaware.</description>
+                  <dc:creator>Joseph Wulfsohn</dc:creator>
+                         <pubDate>Wed, 29 Apr 2020 22:16:19 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Joseph Wulfsohn</category>
                             </item>
       </channel>
 </rss>
