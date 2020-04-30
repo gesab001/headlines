@@ -4,7 +4,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <body>
+
 <div id="admin"> 
+<form action="updateNewscgi.py" method="post">
+<input type="submit" value="update"/>
+</form>
 <form action="addnewscgi.py" method="post">
 <input type="text" name="keyword" placeholder="keyword"/>
 
@@ -33,6 +37,7 @@ var windowlocation = window.location.href;
 
 if (windowlocation.includes("192")){
 	document.getElementById("admin").style.display = "inline-block";
+
 }else{
 	document.getElementById("admin").style.display = "none";
 }

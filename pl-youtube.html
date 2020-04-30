@@ -1,17 +1,37 @@
 <html>
 
+<head>
+<style>
+#video-container{
+  position:relative;
+  width:auto;
+}
 
+#foreground-text{
+  position:absolute;
+  top:50%;width:100%;text-align:center;
+  margin:0 auto;
+  
+  color: white;font: bold 20px;
+
+}
+
+</style>
+</head>
 <body>
 
-<p id="test"></p>
-<iframe id="videoframe" width="420" height="345" src="https://www.youtube.com/embed/iNhKiMNuKIo">
+<p id="test">some text</p>
+<div id="video-container">
+<iframe allowFullScreen='allowFullScreen'  id="videoframe" width="100%" frameborder="0" height="100%" src="https://www.youtube.com/embed/iNhKiMNuKIo">
 </iframe>
-
+  <span id="foreground-text">Some text</span>
+</div>
 </body>
 
 <script>
 
 var address = window.location.href;
+
 document.getElementById("videoframe").src = getEmbedURL(address);
 
 function getEmbedURL(address){
