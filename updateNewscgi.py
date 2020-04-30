@@ -20,13 +20,12 @@ json_string = f.read()
 rss = json.loads(json_string)
 for news in rss:
    url= rss[news]
-   #print(url)
+   print(url)
    try:     
-    command = "curl -L '" + url + "' -o " + news + ".xml"
+    command = "sudo curl -L '" + url + "' -o " + news + ".xml"
+    subprocess.call(command, shell=True)
     
-    print(subprocess.call(command, shell=True))
-    
-    #print(news+".xml saved successfully" )
+    print(news+".xml saved successfully" )
    except Exception as ex:
     print(ex)
 
@@ -35,4 +34,4 @@ subprocess.call(command, shell=True)
 command = "sudo ./gitupdater.sh"
 subprocess.call(command, shell=True)
 
-#print("finished updating news")
+print("finished updating news")
