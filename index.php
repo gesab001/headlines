@@ -124,8 +124,12 @@ function loadYoutubeLinks(xml){
 	  var mp4filename = youtubeid + ".mp4";
 	  var embedurl = getEmbedURL(youtubeid);
 	  var urladdress = "./pl-youtube.html?filename="+mp4filename+"&embedurl="+embedurl;
+	  
       var downloadurl = "downloadyoutube.py?filename="+mp4filename+"&url="+embedurl; 	  
-	  text += "<button onclick=\"downloadvideo(\'"+downloadurl+"\')\">download</button>";
+      if (windowlocation.includes("192")){	  
+	  
+	     text += "<button onclick=\"downloadvideo(\'"+downloadurl+"\')\">download</button>";
+      }
 	  text += "<a href='"+urladdress+"'>"+title+"</a><br><br>";
   }
   document.getElementById("demo").innerHTML = text;
