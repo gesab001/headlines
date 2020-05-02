@@ -61,7 +61,7 @@ document.getElementById('test').innerHTML = getEmbedURL(address);
 function getLocalURL(address){
  var split = address.split("=");
  var localfile = split[1].slice(0,-9);
- var localurl = "./videos/"+localfile;
+ var localurl = "http://192.168.1.70/headlines/videos/"+localfile;
  return localurl;
 }
 

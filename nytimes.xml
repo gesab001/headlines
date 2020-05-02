@@ -7,94 +7,131 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 02 May 2020 07:57:01 +0000</lastBuildDate>
-    <pubDate>Sat, 02 May 2020 07:57:01 +0000</pubDate>
+    <lastBuildDate>Sat, 02 May 2020 15:20:15 +0000</lastBuildDate>
+    <pubDate>Sat, 02 May 2020 15:20:15 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>Coronavirus News and Updates</title>
-      <link>https://www.nytimes.com/2020/05/01/us/coronavirus-updates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/us/coronavirus-updates.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/us/coronavirus-updates.html" rel="standout"></atom:link>
-      <description>The F.D.A. issued emergency approval for an antiviral drug. High school seniors appear reluctant to commit to a college for the fall.</description>
-      <pubDate>Sat, 02 May 2020 04:06:02 +0000</pubDate>
+      <title>Coronavirus Live Updates: States Rely on Trust in Loosening Limits</title>
+      <link>https://www.nytimes.com/2020/05/02/us/coronavirus-updates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/02/us/coronavirus-updates.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/02/us/coronavirus-updates.html" rel="standout"></atom:link>
+      <description>Moderate Republicans in tight re-election races are distancing themselves from President Trump’s pandemic response. And some long-term couples are dying within days of each other.</description>
+      <pubDate>Sat, 02 May 2020 15:05:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v365.png" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/02/us/02virus-cuomo-video/merlin_172103226_863eb909-3b52-4015-9bd8-bfb6b91d51e6-moth.jpg" width="151"></media:content>
+      <media:credit>Stefani Reynolds/Getty Images</media:credit>
     </item>
     <item>
-      <title>Michigan Governor Reinstates State of Emergency as Protests Ramp Up</title>
-      <link>https://www.nytimes.com/2020/05/01/us/michigan-protests-capitol-virus-armed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/us/michigan-protests-capitol-virus-armed.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/us/michigan-protests-capitol-virus-armed.html" rel="standout"></atom:link>
-      <description>The governor’s moves were in response to the Republican-led Legislature’s refusal to extend the original emergency declaration.</description>
-      <dc:creator>Jacey Fortin</dc:creator>
-      <pubDate>Fri, 01 May 2020 18:17:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <title>After a Lifetime Together, Coronavirus Takes Them Both</title>
+      <link>https://www.nytimes.com/2020/05/02/us/coronavirus-couples.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/02/us/coronavirus-couples.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/02/us/coronavirus-couples.html" rel="standout"></atom:link>
+      <description>Across the country, reports are surfacing of long-term couples dying from Covid-19 in quick succession, redoubling the pain for those they leave behind.</description>
+      <dc:creator>Katherine Rosman</dc:creator>
+      <pubDate>Sat, 02 May 2020 15:13:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whitmer, Gretchen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/world/01virus-us-briefing-michigan/01virus-us-briefing-michigan-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Hester/Ann Arbor News, via Associated Press</media:credit>
-      <media:description>Protesters inside the Capitol building  in Lansing, Mich., watched a demonstration outside on Thursday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lender, Maranda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lender, Brad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lender, Becky</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">King, Dr. Delutha</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">King, Lois</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Loving, Ron</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/30/us/00virus-couples3/00virus-couples3-moth.jpg" width="151"></media:content>
+      <media:description>Brad and Becky Lender with their daughter, Maranda, at her high school graduation in June 2006. All three became infected with the coronavirus this year.</media:description>
     </item>
     <item>
-      <title>Two Arrested in Killings of Transgender Women in Puerto Rico</title>
-      <link>https://www.nytimes.com/2020/04/30/us/puerto-rico-transgender-murder-arrests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/30/us/puerto-rico-transgender-murder-arrests.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/30/us/puerto-rico-transgender-murder-arrests.html" rel="standout"></atom:link>
-      <description>The police said they had classified the deaths as a hate crime after the remains of two women were found in a badly burned car last week.</description>
-      <dc:creator>Michael Levenson and Sandra E. Garcia</dc:creator>
-      <pubDate>Fri, 01 May 2020 00:36:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelaez, Layla (d 2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Velazquez, Serena Angelique</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/23/multimedia/23xp-puerto-rico-image2/23xp-puerto-rico-image2-moth-v2.jpg" width="151"></media:content>
-      <media:description>The Facebook profile photo of Serena Angelique Velázquez, one of two transgender women killed last week in Puerto Rico.</media:description>
+      <title>Tracking the ‘Murder Hornet’: A Deadly Pest Has Reached North America</title>
+      <link>https://www.nytimes.com/2020/05/02/us/asian-giant-hornet-washington.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/02/us/asian-giant-hornet-washington.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/02/us/asian-giant-hornet-washington.html" rel="standout"></atom:link>
+      <description>Sightings of the Asian giant hornet have prompted fears that the vicious insect could establish itself in the United States and devastate bee populations.</description>
+      <dc:creator>Mike Baker</dc:creator>
+      <pubDate>Sat, 02 May 2020 09:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hornets (Insects)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+      <category domain="">Asian giant hornet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bees</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/us/00ASIAN-HORNETS-deadhornet/00ASIAN-HORNETS-deadhornet-moth.jpg" width="151"></media:content>
+      <media:credit>Ruth Fremson/The New York Times</media:credit>
+      <media:description>“This is our window to keep it from establishing,” Chris Looney, a Washington State entomologist, said of the two-inch Asian giant hornet. He displayed a dead hornet on his jacket. </media:description>
     </item>
     <item>
-      <title>Gavin Newsom Orders Orange County Beaches Closed Due to Coronavirus</title>
-      <link>https://www.nytimes.com/2020/04/30/us/newsom-beaches-california-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/30/us/newsom-beaches-california-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/30/us/newsom-beaches-california-coronavirus.html" rel="standout"></atom:link>
-      <description>Images of packed shores have prompted a furor against officials in coastal states like California and Florida, who have resisted statewide beach closure orders.</description>
-      <dc:creator>Patricia Mazzei, Shawn Hubler and Thomas Fuller</dc:creator>
-      <pubDate>Fri, 01 May 2020 19:33:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
+      <title>Coronavirus Drives Signs of a Major Drop in College Enrollment</title>
+      <link>https://www.nytimes.com/2020/05/01/us/coronavirus-college-enrollment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/us/coronavirus-college-enrollment.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/01/us/coronavirus-college-enrollment.html" rel="standout"></atom:link>
+      <description>Uncertain that campuses will reopen, students are reluctant to commit for the fall. For schools, enrollment drops and lost revenue could be devastating.</description>
+      <dc:creator>Anemona Hartocollis and Dan Levin</dc:creator>
+      <pubDate>Fri, 01 May 2020 21:09:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/30/us/30virus-beaches01/30virus-beaches01-moth.jpg" width="151"></media:content>
-      <media:credit>Apu Gomes/Agence France-Presse — Getty Images</media:credit>
-      <media:description>People flocked to Huntington Beach, Calif., last weekend despite advice that they keep their distance from one another to limit the spread of the coronavirus. </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Students (in US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Loyola University Maryland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/us/01virus-colleges01/01virus-colleges01-moth.jpg" width="151"></media:content>
+      <media:credit>Sasha Maslov for The New York Times</media:credit>
+      <media:description>Tiffany Tang of Albany, N.Y., was choosing from among four schools that had accepted her. This week, three more that had put her on the wait list got in touch.</media:description>
+    </item>
+    <item>
+      <title>Houston Police Helicopter Crash Kills 1 Officer and Injures Another</title>
+      <link>https://www.nytimes.com/2020/05/02/us/houston-helicopter-crash-police.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/02/us/houston-helicopter-crash-police.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/02/us/houston-helicopter-crash-police.html" rel="standout"></atom:link>
+      <description>The officers were investigating a report of bodies in a bayou when the helicopter crashed near an apartment building, the authorities said.</description>
+      <dc:creator>Maria Cramer</dc:creator>
+      <pubDate>Sat, 02 May 2020 13:39:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Helicopters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Acevedo, Art (Houston, Tex, Police Chief)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Turner, Sylvester</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/02/us/02xp-crash-image/02xp-crash-image-moth.jpg" width="151"></media:content>
+      <media:credit>John Shannon, Harris County Sheriff&#39;s Office</media:credit>
+      <media:description>The authorities at the crash site early on Saturday.</media:description>
+    </item>
+    <item>
+      <title>‘I Could Solve Most of Your Problems’: Eric Schmidt’s Pentagon Offensive</title>
+      <link>https://www.nytimes.com/2020/05/02/technology/eric-schmidt-pentagon-google.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/02/technology/eric-schmidt-pentagon-google.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/02/technology/eric-schmidt-pentagon-google.html" rel="standout"></atom:link>
+      <description>The former Google C.E.O. has reinvented himself as the prime liaison between Silicon Valley and the military-industrial complex.</description>
+      <dc:creator>Kate Conger and Cade Metz</dc:creator>
+      <pubDate>Sat, 02 May 2020 09:00:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schmidt, Eric E</category>
     </item>
     <item>
       <title>Coronavirus World Updates: Live Tracker</title>
       <link>https://www.nytimes.com/2020/05/02/world/coronavirus-news.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/02/world/coronavirus-news.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/02/world/coronavirus-news.html" rel="standout"></atom:link>
-      <description>The jump in cases comes as India prepares to ease some restrictions on movement next week. The Philippines has released almost 10,000 prisoners to slow the spread of infections.</description>
-      <pubDate>Sat, 02 May 2020 07:06:29 +0000</pubDate>
+      <description>India reported its biggest single-day case rise as it prepared to ease some restrictions. Spain’s adults are allowed outdoors to exercise.</description>
+      <pubDate>Sat, 02 May 2020 14:01:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/02/world/02virus-int-briefing-india/merlin_171926886_15eb27bb-dae0-4612-9329-f5714320f669-moth.jpg" width="151"></media:content>
-      <media:credit>Atul Loke for The New York Times</media:credit>
-      <media:description>A woman passing through a sanitization tunnel in Mumbai last week.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/02/world/02virus-int-briefing-malaysia/merlin_172094883_cfd00f71-f95b-444e-a8d4-bbe000385eb8-moth.jpg" width="151"></media:content>
+      <media:credit>Lim Huey Teng/Reuters</media:credit>
+      <media:description>A police officer in protective suit escorting an undocumented immigrant from an apartment under lockdown in Kuala Lumpur, Malaysia, on Friday.</media:description>
     </item>
     <item>
       <title>Native American Tribes Sue Over Coronavirus Stimulus Aid</title>
@@ -141,13 +178,68 @@
       <media:description>Custer County in Montana is predominately covered by livestock grazing and agricultural use with drilling sites and resource extraction scattered throughout.</media:description>
     </item>
     <item>
+      <title>‘No One Needs Botox in a Pandemic.’ But Some in Beverly Hills Are Now Getting It.</title>
+      <link>https://www.nytimes.com/2020/05/01/us/coronavirus-beverly-hills-botox.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/us/coronavirus-beverly-hills-botox.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/01/us/coronavirus-beverly-hills-botox.html" rel="standout"></atom:link>
+      <description>The city on Tuesday rescinded a moratorium on elective surgery, clearing the way for some cosmetic surgeons to reopen.</description>
+      <dc:creator>Shawn Hubler</dc:creator>
+      <pubDate>Sat, 02 May 2020 13:40:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plastic Surgery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Botox (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beverly Hills (Calif)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/us/01virus-facelift/01virus-facelift-moth.jpg" width="151"></media:content>
+      <media:credit>Kevin Winter/Getty Images</media:credit>
+      <media:description>Beverly Hills rescinded a city moratorium on elective surgery, clearing the way for cosmetic surgeons to reopen.</media:description>
+    </item>
+    <item>
+      <title>As Businesses Resurface After State Shutdowns, So Does Divisiveness</title>
+      <link>https://www.nytimes.com/2020/05/01/us/coronavirus-states-reopen-tension.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/us/coronavirus-states-reopen-tension.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/01/us/coronavirus-states-reopen-tension.html" rel="standout"></atom:link>
+      <description>Nearly a dozen states resumed portions of public life as a debate over the safety and timing of reopening grew louder.</description>
+      <dc:creator>Julie Bosman and Sarah Mervosh</dc:creator>
+      <pubDate>Sat, 02 May 2020 13:40:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/02/us/02VIRUS-STATES-jump4/02VIRUS-STATES-jump4-moth.jpg" width="151"></media:content>
+      <media:credit>Christopher Lee for The New York Times</media:credit>
+      <media:description>Mexican Curiosities, a gift shop near the Alamo in San Antonio, was open on Friday after Texas lifted some coronavirus-related restrictions for businesses.</media:description>
+    </item>
+    <item>
+      <title>Trump Gets Coronavirus Tests While Senators Wait</title>
+      <link>https://www.nytimes.com/2020/05/01/us/politics/coronavirus-testing-senate-white-house.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/us/politics/coronavirus-testing-senate-white-house.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/01/us/politics/coronavirus-testing-senate-white-house.html" rel="standout"></atom:link>
+      <description>As senators prepare to return on Monday, Congress’s doctor warned that he does not have the capacity to test all 100 for coronavirus. At the White House, the president and many of his aides are tested repeatedly.</description>
+      <dc:creator>Sheryl Gay Stolberg, Nicholas Fandos and Katie Rogers</dc:creator>
+      <pubDate>Sat, 02 May 2020 14:16:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/us/politics/01dc-virus-testing1/merlin_171652068_8c98087f-a330-4095-81f7-5835630e94bc-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>A Senate doorkeeper waiting for Senator Mitch McConnell, the majority leader, last month in the Capitol.</media:description>
+    </item>
+    <item>
       <title>‘I Will Never Lie to You,’ McEnany Says in First White House Briefing</title>
       <link>https://www.nytimes.com/2020/05/01/us/politics/kayleigh-mcenany-white-house-briefing.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/us/politics/kayleigh-mcenany-white-house-briefing.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/01/us/politics/kayleigh-mcenany-white-house-briefing.html" rel="standout"></atom:link>
       <description>But Kayleigh McEnany, the president’s fourth press secretary, found that vow tested almost immediately.</description>
       <dc:creator>Annie Karni</dc:creator>
-      <pubDate>Sat, 02 May 2020 03:50:12 +0000</pubDate>
+      <pubDate>Sat, 02 May 2020 03:50:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McEnany, Kayleigh</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -192,7 +284,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/01/health/coronavirus-remdesivir.html" rel="standout"></atom:link>
       <description>The drug failed as a treatment for hepatitis and Ebola. With federal funding, scientists trained it on the coronavirus.</description>
       <dc:creator>Gina Kolata</dc:creator>
-      <pubDate>Sat, 02 May 2020 01:39:37 +0000</pubDate>
+      <pubDate>Sat, 02 May 2020 15:19:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Remdesivir (Drug)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
@@ -209,9 +301,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/science/01VIRUS-REMDESIVIR1/01VIRUS-REMDESIVIR1-moth.jpg" width="151"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
-      <media:description>President Trump in the Oval Office on Friday flanked by, from left, Vice President Pence; Daniel O’Day, the Gilead Sciences C.E.O.; and Stephen Hahn, the F.D.A. commissioner.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/science/01VIRUS-REMDESIVIR2/01VIRUS-REMDESIVIR2-moth.jpg" width="151"></media:content>
+      <media:credit>Gilead Sciences, via Reuters</media:credit>
+      <media:description>Vials of remdesivir at a Gilead Sciences facility in La Verne, Calif.</media:description>
     </item>
     <item>
       <title>Some Trump Officials Take Harder Actions on China During Pandemic</title>
@@ -349,7 +441,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/01/us/coronavirus-texas-reopening.html" rel="standout"></atom:link>
       <description>Texas opened a wide range of malls, restaurants and businesses just a day after the state reported its highest death toll from the coronavirus.</description>
       <dc:creator>Manny Fernandez and David Montgomery</dc:creator>
-      <pubDate>Fri, 01 May 2020 21:42:12 +0000</pubDate>
+      <pubDate>Sat, 02 May 2020 13:40:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping Centers and Malls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
@@ -424,30 +516,13 @@
       <media:description>Tedros Adhanom Ghebreyesus, director-general of the W.H.O., during a coronavirus press briefing in Geneva in March.</media:description>
     </item>
     <item>
-      <title>Coronavirus Drives Signs of a Major Drop in College Enrollment</title>
-      <link>https://www.nytimes.com/2020/05/01/us/coronavirus-college-enrollment.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/us/coronavirus-college-enrollment.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/us/coronavirus-college-enrollment.html" rel="standout"></atom:link>
-      <description>Uncertain that campuses will reopen, students are reluctant to commit for the fall. For schools, enrollment drops and lost revenue could be devastating.</description>
-      <dc:creator>Anemona Hartocollis and Dan Levin</dc:creator>
-      <pubDate>Fri, 01 May 2020 21:09:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Students (in US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Loyola University Maryland</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/us/01virus-colleges01/01virus-colleges01-moth.jpg" width="151"></media:content>
-      <media:credit>Sasha Maslov for The New York Times</media:credit>
-      <media:description>Tiffany Tang of Albany, N.Y., was choosing from among four schools that had accepted her. This week, three more that had put her on the wait list got in touch.</media:description>
-    </item>
-    <item>
       <title>The Hunt for Moby Dick Moves Online</title>
       <link>https://www.nytimes.com/2020/05/01/books/moby-dick-annual-marathon.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/books/moby-dick-annual-marathon.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/01/books/moby-dick-annual-marathon.html" rel="standout"></atom:link>
       <description>Every year, the New Bedford Whaling Museum hosts a marathon reading of “Moby-Dick.” For the social distancing edition, volunteers are recording performances from home.</description>
       <dc:creator>Jacey Fortin</dc:creator>
-      <pubDate>Fri, 01 May 2020 22:50:21 +0000</pubDate>
+      <pubDate>Sat, 02 May 2020 13:20:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Moby-Dick (Book)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Bedford Whaling Museum</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
@@ -479,231 +554,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/science/01VIRUS-BLOODPRESSURE/01VIRUS-BLOODPRESSURE-moth.jpg" width="151"></media:content>
       <media:credit>Chris Gallagher/Science Source</media:credit>
       <media:description>A study published Friday found that ACE inhibitors, ARBs, beta blockers and other commonly used blood pressure drugs do not increase the risk of coronavirus infection, or severe illness as a result of infection.</media:description>
-    </item>
-    <item>
-      <title>Full Transcript: Joe Biden Addresses Tara Reade Allegations on ‘Morning Joe’</title>
-      <link>https://www.nytimes.com/2020/05/01/us/politics/joe-biden-tara-reade-msnbc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/us/politics/joe-biden-tara-reade-msnbc.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/us/politics/joe-biden-tara-reade-msnbc.html" rel="standout"></atom:link>
-      <description>The former vice president was interviewed about the allegation made by his former Senate aide that he sexually assaulted her in 1993.</description>
-      <dc:creator>Maggie Astor and Isabella Grullón Paz</dc:creator>
-      <pubDate>Fri, 01 May 2020 15:18:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MSNBC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Delaware</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brzezinski, Mika</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reade, Tara</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/us/politics/01biden-transcript/merlin_172094907_b608afc5-a842-422c-80e1-52d94c5185f4-moth.jpg" width="151"></media:content>
-      <media:credit>MSNBC&#39;s Morning Joe, via Associated Press</media:credit>
-      <media:description>Former Vice President Joseph R. Biden Jr. spoke with Mika Brzezinski on MSNBC on Friday.</media:description>
-    </item>
-    <item>
-      <title>How to Be a Good Neighbor Now</title>
-      <link>https://www.nytimes.com/2020/05/01/style/america-neighborhoods-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/style/america-neighborhoods-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/style/america-neighborhoods-coronavirus.html" rel="standout"></atom:link>
-      <description>How we come together when we can’t go very far.</description>
-      <pubDate>Fri, 01 May 2020 18:58:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/03/fashion/01AMERICAN-PORCHES-la-fruit/01AMERICAN-PORCHES-la-fruit-moth.jpg" width="151"></media:content>
-      <media:credit>Kendrick Brinson for The New York Times</media:credit>
-      <media:description>Picking fruit out of a yard in the Silver Lake neighborhood of Los Angeles.</media:description>
-    </item>
-    <item>
-      <title>A Composer and Her (Very) Long String Instrument</title>
-      <link>https://www.nytimes.com/2020/05/01/arts/music/ellen-fullman.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/arts/music/ellen-fullman.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/arts/music/ellen-fullman.html" rel="standout"></atom:link>
-      <description>Ellen Fullman is sheltering in place with the 40-string, 45-foot-long droning instrument she created decades ago.</description>
-      <dc:creator>Kerry O’Brien</dc:creator>
-      <pubDate>Fri, 01 May 2020 14:00:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Musical Instruments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellen Fullman</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
-      <category domain="">Guggenheim Fellow</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berkeley (Calif)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/03/arts/03fullman-7/03fullman-7-moth.jpg" width="151"></media:content>
-      <media:credit>Erin Brethauer for The New York Times</media:credit>
-      <media:description>Her diary mostly contains tablature notation, but one entry, from before quarantine, last December, reads: “Try to find resonances — textural miracles that are confusing as to structure but spinning and mesmerizing.”</media:description>
-    </item>
-    <item>
-      <title>Coronavirus in California: Newsom Orders Beaches Closed</title>
-      <link>https://www.nytimes.com/2020/05/01/us/newsom-beach-closing-california-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/us/newsom-beach-closing-california-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/us/newsom-beach-closing-california-coronavirus.html" rel="standout"></atom:link>
-      <description>Friday: You probably can’t go to the beach. But restrictions on other activities have been loosened. Also: A remembrance, and photos of poppies.</description>
-      <dc:creator>Jill Cowan</dc:creator>
-      <pubDate>Fri, 01 May 2020 14:09:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/30/us/31californiatoday/merlin_172082535_f6fbf563-8a18-4e27-8dfe-8269fb823402-moth.jpg" width="151"></media:content>
-      <media:credit>Jim Wilson/The New York Times</media:credit>
-      <media:description>Along California Highway 1 south of Half Moon Bay, people paused to take photos on Thursday at one of the few vista spots that was still open to parking.</media:description>
-    </item>
-    <item>
-      <title>Big Government? For Now, Most Americans Say Bring It On</title>
-      <link>https://www.nytimes.com/2020/05/01/us/politics/coronavirus-spending-polls.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/us/politics/coronavirus-spending-polls.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/us/politics/coronavirus-spending-polls.html" rel="standout"></atom:link>
-      <description>Battered by the coronavirus, the American public is increasingly looking to the federal government to provide an economic lifeline, polls suggest.</description>
-      <dc:creator>Giovanni Russonello</dc:creator>
-      <pubDate>Fri, 01 May 2020 11:00:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-    </item>
-    <item>
-      <title>Coronavirus, Gretchen Whitmer, Joe Biden: Your Friday Briefing</title>
-      <link>https://www.nytimes.com/2020/05/01/briefing/coronavirus-gretchen-whitmer-joe-biden.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/briefing/coronavirus-gretchen-whitmer-joe-biden.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/briefing/coronavirus-gretchen-whitmer-joe-biden.html" rel="standout"></atom:link>
-      <description> Here’s what you need to know.</description>
-      <dc:creator>Chris Stanford</dc:creator>
-      <pubDate>Fri, 01 May 2020 12:44:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Street Art Confronts the Pandemic</title>
-      <link>https://www.nytimes.com/2020/05/01/travel/coronavirus-street-art.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/travel/coronavirus-street-art.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/travel/coronavirus-street-art.html" rel="standout"></atom:link>
-      <description>From Norway to Colorado, street artists depict a world of masks and hand-washing (and toilet paper). One recurrent theme: a deep appreciation of health care workers.</description>
-      <dc:creator>Charu Suri</dc:creator>
-      <pubDate>Fri, 01 May 2020 09:00:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/travel/01street-art-09/01street-art-09-moth.jpg" width="151"></media:content>
-      <media:credit>Pobel</media:credit>
-      <media:description>“The Lovers,” by the Norwegian artist Pobel, in Bryne, Norway.</media:description>
-    </item>
-    <item>
-      <title>A Life and Death Battle: 4 Days of Kidney Failure but No Dialysis</title>
-      <link>https://www.nytimes.com/2020/05/01/health/coronavirus-dialysis-death.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/health/coronavirus-dialysis-death.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/health/coronavirus-dialysis-death.html" rel="standout"></atom:link>
-      <description>At the peak of the pandemic in New York, a longtime city employee joined a crush of patients in desperate need of treatment.</description>
-      <dc:creator>Nicholas Kulish</dc:creator>
-      <pubDate>Fri, 01 May 2020 14:39:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidneys</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dialysis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NYU Langone Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Uddin, Jamal (d 2020)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/science/28VIRUS-DIALYSIS-promo/28VIRUS-DIALYSIS-promo-moth.jpg" width="151"></media:content>
-      <media:credit>via Shehran Uddin</media:credit>
-    </item>
-    <item>
-      <title>Find a Vaccine. Next: Produce 300 Million Vials of It.</title>
-      <link>https://www.nytimes.com/2020/05/01/health/coronavirus-vaccine-supplies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/health/coronavirus-vaccine-supplies.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/health/coronavirus-vaccine-supplies.html" rel="standout"></atom:link>
-      <description>Scaling up the manufacturing of syringes and other medical products required to deliver a vaccine to millions of Americans will be just as important as the vaccine itself.</description>
-      <dc:creator>Knvul Sheikh</dc:creator>
-      <pubDate>Fri, 01 May 2020 09:00:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Devices</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hypodermic Needles and Syringes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Biomedical Advanced Research and Development Authority</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/30/science/30VIRUS-VAXPREP1/30VIRUS-VAXPREP1-moth.jpg" width="151"></media:content>
-      <media:credit>Bsip/Universal Images Group, via Getty Images</media:credit>
-      <media:description>Syringes on an assembly line in a pharmaceutical plant in France. Even when a vaccine is developed, producing the number of vials and syringes needed for a coronavirus vaccine will prove a significant hurdle.</media:description>
-    </item>
-    <item>
-      <title>An Accidental Navy Chief Steers His Service Through a Storm</title>
-      <link>https://www.nytimes.com/2020/05/01/us/politics/coronavirus-carrier-crozier-gilday-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/us/politics/coronavirus-carrier-crozier-gilday-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/us/politics/coronavirus-carrier-crozier-gilday-trump.html" rel="standout"></atom:link>
-      <description>Adm. Michael M. Gilday appears determined that his recommendations on the Roosevelt case will be made based on Navy principles and not on fears of what the White House might want.</description>
-      <dc:creator>Helene Cooper and Eric Schmitt</dc:creator>
-      <pubDate>Fri, 01 May 2020 15:05:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aircraft Carriers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint Chiefs of Staff</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Naval Academy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crozier, Brett E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Esper, Mark T</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modly, Thomas B</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">USS Theodore Roosevelt (CVN-71) (Ship)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Michael M. Gilday</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/30/us/politics/30dc-virus-gilday1/30dc-virus-gilday1-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Mark Makela/Getty Images</media:credit>
-      <media:description>In recommending the reinstatement of the captain of the aircraft carrier Theodore Roosevelt, Admiral Michael M. Gilday put the Navy before his own career.</media:description>
-    </item>
-    <item>
-      <title>A Crime Novelist on the Oakland County Child Killer Case</title>
-      <link>https://www.nytimes.com/2020/05/01/us/oakland-county-child-killer-detroit-true-crime.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/us/oakland-county-child-killer-detroit-true-crime.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/us/oakland-county-child-killer-detroit-true-crime.html" rel="standout"></atom:link>
-      <description>The still-unsolved Oakland County Child Killer case lodged in the author Megan Abbott’s psyche, even if she didn’t know it at the time.</description>
-      <dc:creator>Megan Abbott</dc:creator>
-      <pubDate>Fri, 01 May 2020 09:00:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Detroit (Mich)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/lens/01truecrime-oaklandcounty/01truecrime-oaklandcounty-moth.jpg" width="151"></media:content>
-      <media:credit>John C. Hillery/Associated Press</media:credit>
-      <media:description>At an operations center in Beverly Hills, Mich., in March 1977, the police received an avalanche of tips as they worked to find the killer of Timothy King. </media:description>
-    </item>
-    <item>
-      <title>Biden Denies Tara Reade’s Assault Allegation: ‘It Never Happened’</title>
-      <link>https://www.nytimes.com/2020/05/01/us/politics/joe-biden-tara-reade-morning-joe.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/01/us/politics/joe-biden-tara-reade-morning-joe.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/01/us/politics/joe-biden-tara-reade-morning-joe.html" rel="standout"></atom:link>
-      <description>Joseph R. Biden Jr., in his first public address of a former Senate aide’s accusation that he sexually assaulted her in 1993, called on the National Archives to release any document related to the allegation.</description>
-      <dc:creator>Katie Glueck, Lisa Lerer and Sydney Ember</dc:creator>
-      <pubDate>Sat, 02 May 2020 00:12:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reade, Tara</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MSNBC</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/us/politics/01BIDEN2/01BIDEN2-moth.jpg" width="151"></media:content>
-      <media:credit>Todd Heisler/The New York Times</media:credit>
-      <media:description>Joseph R. Biden Jr.’s campaign has denied the allegation by Tara Reade, but Mr. Biden did not address it publicly for weeks.</media:description>
     </item>
   </channel>
 </rss>
