@@ -22,11 +22,8 @@ print ("Content-type:text/html\r\n\r\n")
 now = time()
 lines = []
 command = "sudo youtube-dl -f mp4 " + url +  " -o ./videos/" + filename
-print('the following command will be run and its output logged:\n%s\n' % command)
+
 with Popen(command, shell=True, stdout=PIPE, bufsize=1) as sp:
     for line in sp.stdout:
-        #print('%d sec: ' % (time() - now), end='', flush=True)
-        #print(logging.info(line))
-        #print('\n', end='', flush=True)
-        with open('download.txt', 'a') as filehandle:	
-          filehandle.write('%s\n' % str(line, 'utf-8'))  
+        lines.append(str(line, 'utf-8'))
+    print("downloaded successful")

@@ -10,6 +10,31 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/whitmer-possible-biden-vp-pick-and-rape-survivor-says-women-should-be-able-to-tell-their-stories</guid>
+      <link>https://www.foxnews.com/media/whitmer-possible-biden-vp-pick-and-rape-survivor-says-women-should-be-able-to-tell-their-stories</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d03f2800-3e8b-44da-8f09-ce59db1e8585/dd6635aa-6237-4f17-b6a9-49885fbe8d89/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c02d8f0d-591c-58b1-91c5-e7138f5c54ac</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/gretchen-whitmer</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/michigan</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/sex-crimes</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Whitmer, possible Biden VP pick and a rape survivor, says ‘women should be able to tell their stories’</title>
+      <description>Michigan Gov. Gretchen Whitmer, whose name has been mentioned as a possible running mate for presumptive Democratic presidential nominee Joe Biden, spoke early Friday about the sexual assault claims against the former vice president.</description>
+                  <dc:creator>Dom Calicchio</dc:creator>
+                         <pubDate>Sat, 02 May 2020 07:09:17 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/entertainment/ny-times-msnbc-journalist-warns-fascism-could-come-to-us-if-coronavirus-shutdowns-wreck-economy</guid>
       <link>https://www.foxnews.com/entertainment/ny-times-msnbc-journalist-warns-fascism-could-come-to-us-if-coronavirus-shutdowns-wreck-economy</link>
                   <media:group>
@@ -228,32 +253,6 @@
                          <pubDate>Sat, 02 May 2020 02:28:01 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Louis Casiano</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/ohio-protester-confronts-masked-reporter-youre-terrifying-the-general-public</guid>
-      <link>https://www.foxnews.com/us/ohio-protester-confronts-masked-reporter-youre-terrifying-the-general-public</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20111728500234.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20111728500234.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20111728500234.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">0c22055e-e67c-5751-ac5f-e0f38471910c</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/ohio</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/mike-dewine</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/illness</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local/governors</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Ohio protester confronts masked reporter: ‘You’re terrifying the general public!’</title>
-      <description>Chanting “Reopen Ohio!” a crowd gathered outside the Ohio Statehouse in Columbus on Friday, as Republican Gov. Mike DeWine was preparing for his daily news briefing on the coronavirus outbreak.</description>
-                  <dc:creator>Dom Calicchio</dc:creator>
-                         <pubDate>Sat, 02 May 2020 02:19:06 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
                             </item>
       </channel>
 </rss>

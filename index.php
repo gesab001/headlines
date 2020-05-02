@@ -27,6 +27,7 @@
 </div>
 <select id="selection" name="news" onchange="loadNews(this.value)"></select>
 
+<p id="downloading"></p>
 <p id="test"></p>
 <p id="dateUpdate"></p>
 <div id="demo"></div>
@@ -124,11 +125,25 @@ function loadYoutubeLinks(xml){
 	  var embedurl = getEmbedURL(youtubeid);
 	  var urladdress = "./pl-youtube.html?filename="+mp4filename+"&embedurl="+embedurl;
       var downloadurl = "downloadyoutube.py?filename="+mp4filename+"&url="+embedurl; 	  
-	  text += "<button><a href='"+downloadurl+"'>download</a></button>";
+	  text += "<button onclick=\"downloadvideo(\'"+downloadurl+"\')\">download</button>";
 	  text += "<a href='"+urladdress+"'>"+title+"</a><br><br>";
   }
   document.getElementById("demo").innerHTML = text;
 
+}
+function downloadvideo(url){
+  document.getElementById("downloading").innerHTML = url;
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+           var text = this.responseText;
+           document.getElementById("dateUpdate").innerHTML = "Updated: " + text;
+    }
+    else{
+         //document.getElementById("dateUpdate").innerHTML = "error";
+    }
+  };
+  xhttp.open("POST", url, true);
+  xhttp.send();
 }
 
 function displayFeeds(xml) {
