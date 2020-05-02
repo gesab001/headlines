@@ -10,6 +10,28 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/chinas-bat-woman-shi-zhengli-denies-defecting</guid>
+      <link>https://www.foxnews.com/world/chinas-bat-woman-shi-zhengli-denies-defecting</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Shi-Zhengli.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Shi-Zhengli.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Shi-Zhengli.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">dcefe495-fba4-5d9a-8ce0-974f70cc5bd0</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/asia</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>China’s ‘Bat Woman’ Shi Zhengli denies ‘defecting with intelligence files’</title>
+      <description>A Chinese virologist at the center of controversy has attempted to clarify her whereabouts.</description>
+                  <dc:creator>Peter Aitken</dc:creator>
+                         <pubDate>Sat, 02 May 2020 15:24:28 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Peter Aitken</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/us/nc-youths-9-to-16-took-cars-from-dealerships-out-of-boredom-police</guid>
       <link>https://www.foxnews.com/us/nc-youths-9-to-16-took-cars-from-dealerships-out-of-boredom-police</link>
                   <media:group>
@@ -221,30 +243,6 @@
                          <pubDate>Sat, 02 May 2020 14:24:04 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Melissa Roberto</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/opinion/judge-justin-walker-deserving-nominee-us-court-appeals-michael-davis-david-feder</guid>
-      <link>https://www.foxnews.com/opinion/judge-justin-walker-deserving-nominee-us-court-appeals-michael-davis-david-feder</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/judgewalker.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/judgewalker.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/judgewalker.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">f12e2a38-65e2-5fb7-a08d-d815fe69699b</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/judiciary/federal-courts</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/senate</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/opinion</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Davis and Feder: Judge Justin Walker, a deserving nominee to the US Court of Appeals</title>
-      <description>Judge Justin Walker, a recently appointed federal district judge in Kentucky and the nominee to the U.S. Court of Appeals for the D.C. Circuit, has a resume that marks him as among the most talented lawyers of his generation. </description>
-                  <dc:creator>Michael Davis</dc:creator>
-            <dc:creator>David Feder</dc:creator>
-                         <pubDate>Sat, 02 May 2020 14:00:27 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Michael Davis</category>
-            <category domain="foxnews.com/metadata/dc.creator">David Feder</category>
                             </item>
       </channel>
 </rss>
