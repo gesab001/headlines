@@ -22,22 +22,53 @@
 
 <p id="test">some text</p>
 <div id="video-container">
-<iframe allowFullScreen='allowFullScreen'  id="videoframe" width="100%" frameborder="0" height="100%" src="https://www.youtube.com/embed/iNhKiMNuKIo">
+<iframe style='display:none' allowFullScreen='allowFullScreen'  id="videoframe" width="100%" frameborder="0" height="100%" src="">
 </iframe>
-  <span id="foreground-text">Some text</span>
 </div>
+
+ <video  id="localvideo" width="100%" height="100%" controls>
+  <source src="" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video> 
 </body>
 
 <script>
 
 var address = window.location.href;
+var video = document.getElementById('localvideo');
+var iframevideo = document.getElementById("videoframe");
+video.onload = function() {
+    //alert('success, it exsist');
+	iframevideo.style.display = "none";
+    // show video element
+}
 
-document.getElementById("videoframe").src = getEmbedURL(address);
+video.onerror = function() {
+    //alert('error, couldn\'t load');
+    // don't show video element
+	iframevideo.src = getEmbedURL(address);
+	iframevideo.style.display = "inline-block";
+	video.style.display = "none";
+
+
+
+}
+
+video.src = getLocalURL(address);
+document.getElementById('test').innerHTML = getEmbedURL(address);
+
+function getLocalURL(address){
+ var split = address.split("=");
+ var localfile = split[1].slice(0,-9);
+ var localurl = "./videos/"+localfile;
+ return localurl;
+}
 
 function getEmbedURL(address){
  var split = address.split("=");
- var url = split[1];
- return url;
+ var remotefile = split[2];
+ return remotefile;
 }
 </script>
 

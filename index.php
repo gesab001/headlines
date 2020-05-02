@@ -119,10 +119,13 @@ function loadYoutubeLinks(xml){
 	  var entry = entries[x]; 
 	  var title = entry.getElementsByTagName("title")[0].childNodes[0].nodeValue;
 	  var link = entry.getElementsByTagName("link")[0].getAttribute("href");
-          var youtubeid = getYoutubeID(link);
-          var embedurl = getEmbedURL(youtubeid);
-          var urladdress = "./pl-youtube.html?embedurl="+embedurl;         
-  text += "<a href='"+urladdress+"'>"+title+"</a><br><br>";
+	  var youtubeid = getYoutubeID(link);
+	  var mp4filename = youtubeid + ".mp4";
+	  var embedurl = getEmbedURL(youtubeid);
+	  var urladdress = "./pl-youtube.html?filename="+mp4filename+"&embedurl="+embedurl;
+      var downloadurl = "downloadyoutube.py?filename="+mp4filename+"&url="+embedurl; 	  
+	  text += "<button><a href='"+downloadurl+"'>download</a></button>";
+	  text += "<a href='"+urladdress+"'>"+title+"</a><br><br>";
   }
   document.getElementById("demo").innerHTML = text;
 
