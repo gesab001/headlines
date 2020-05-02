@@ -28,8 +28,8 @@
    <media:thumbnail url="https://i2.ytimg.com/vi/11LCwXqI2v4/hqdefault.jpg" width="480" height="360"/>
    <media:description>Animated Bible Story of Ruth And Her Mighty GOD</media:description>
    <media:community>
-    <media:starRating count="263" average="4.76" min="1" max="5"/>
-    <media:statistics views="27478"/>
+    <media:starRating count="265" average="4.76" min="1" max="5"/>
+    <media:statistics views="27786"/>
    </media:community>
   </media:group>
  </entry>
@@ -51,8 +51,8 @@
    <media:thumbnail url="https://i1.ytimg.com/vi/tXaZKCrAjZQ/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="82" average="4.90" min="1" max="5"/>
-    <media:statistics views="4618"/>
+    <media:starRating count="83" average="4.90" min="1" max="5"/>
+    <media:statistics views="4783"/>
    </media:community>
   </media:group>
  </entry>
@@ -74,54 +74,8 @@
    <media:thumbnail url="https://i1.ytimg.com/vi/D0zlFqVwgaY/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="326" average="4.82" min="1" max="5"/>
-    <media:statistics views="25915"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:MABoRdvkr6U</id>
-  <yt:videoId>MABoRdvkr6U</yt:videoId>
-  <yt:channelId>UC2m9pkIDNga8QLH6Y-x7BhA</yt:channelId>
-  <title>Tne Kingdom of Heaven Animated Stories from the New Testament</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=MABoRdvkr6U"/>
-  <author>
-   <name>Jesus for You on English</name>
-   <uri>https://www.youtube.com/channel/UC2m9pkIDNga8QLH6Y-x7BhA</uri>
-  </author>
-  <published>2020-02-05T17:39:12+00:00</published>
-  <updated>2020-04-18T03:03:22+00:00</updated>
-  <media:group>
-   <media:title>Tne Kingdom of Heaven Animated Stories from the New Testament</media:title>
-   <media:content url="https://www.youtube.com/v/MABoRdvkr6U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i2.ytimg.com/vi/MABoRdvkr6U/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="110" average="4.89" min="1" max="5"/>
-    <media:statistics views="6627"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:cs38GG6i0Us</id>
-  <yt:videoId>cs38GG6i0Us</yt:videoId>
-  <yt:channelId>UCCtEZ8TDaHzfLS0DTnBgnMA</yt:channelId>
-  <title>Animated Stories from the Bible   Joseph in Egypt</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=cs38GG6i0Us"/>
-  <author>
-   <name>Robbie Marie Vandell’s LEGO Land Channel</name>
-   <uri>https://www.youtube.com/channel/UCCtEZ8TDaHzfLS0DTnBgnMA</uri>
-  </author>
-  <published>2019-07-08T20:00:24+00:00</published>
-  <updated>2020-03-10T22:25:57+00:00</updated>
-  <media:group>
-   <media:title>Animated Stories from the Bible   Joseph in Egypt</media:title>
-   <media:content url="https://www.youtube.com/v/cs38GG6i0Us?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i4.ytimg.com/vi/cs38GG6i0Us/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="301" average="4.84" min="1" max="5"/>
-    <media:statistics views="31332"/>
+    <media:starRating count="329" average="4.82" min="1" max="5"/>
+    <media:statistics views="26141"/>
    </media:community>
   </media:group>
  </entry>
@@ -144,7 +98,30 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="115" average="4.93" min="1" max="5"/>
-    <media:statistics views="9252"/>
+    <media:statistics views="9346"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MABoRdvkr6U</id>
+  <yt:videoId>MABoRdvkr6U</yt:videoId>
+  <yt:channelId>UC2m9pkIDNga8QLH6Y-x7BhA</yt:channelId>
+  <title>Tne Kingdom of Heaven Animated Stories from the New Testament</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MABoRdvkr6U"/>
+  <author>
+   <name>Jesus for You on English</name>
+   <uri>https://www.youtube.com/channel/UC2m9pkIDNga8QLH6Y-x7BhA</uri>
+  </author>
+  <published>2020-02-05T17:39:12+00:00</published>
+  <updated>2020-04-18T03:03:22+00:00</updated>
+  <media:group>
+   <media:title>Tne Kingdom of Heaven Animated Stories from the New Testament</media:title>
+   <media:content url="https://www.youtube.com/v/MABoRdvkr6U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MABoRdvkr6U/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="111" average="4.89" min="1" max="5"/>
+    <media:statistics views="6738"/>
    </media:community>
   </media:group>
  </entry>
@@ -166,8 +143,31 @@
    <media:thumbnail url="https://i2.ytimg.com/vi/m67yxcCc3qs/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="161" average="4.88" min="1" max="5"/>
-    <media:statistics views="11056"/>
+    <media:starRating count="164" average="4.88" min="1" max="5"/>
+    <media:statistics views="11199"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:cs38GG6i0Us</id>
+  <yt:videoId>cs38GG6i0Us</yt:videoId>
+  <yt:channelId>UCCtEZ8TDaHzfLS0DTnBgnMA</yt:channelId>
+  <title>Animated Stories from the Bible   Joseph in Egypt</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=cs38GG6i0Us"/>
+  <author>
+   <name>Robbie Marie Vandell’s LEGO Land Channel</name>
+   <uri>https://www.youtube.com/channel/UCCtEZ8TDaHzfLS0DTnBgnMA</uri>
+  </author>
+  <published>2019-07-08T20:00:24+00:00</published>
+  <updated>2020-03-10T22:25:57+00:00</updated>
+  <media:group>
+   <media:title>Animated Stories from the Bible   Joseph in Egypt</media:title>
+   <media:content url="https://www.youtube.com/v/cs38GG6i0Us?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/cs38GG6i0Us/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="303" average="4.84" min="1" max="5"/>
+    <media:statistics views="31512"/>
    </media:community>
   </media:group>
  </entry>
@@ -189,8 +189,8 @@
    <media:thumbnail url="https://i1.ytimg.com/vi/X5J-WcYVEyg/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="116" average="4.90" min="1" max="5"/>
-    <media:statistics views="5977"/>
+    <media:starRating count="119" average="4.90" min="1" max="5"/>
+    <media:statistics views="6029"/>
    </media:community>
   </media:group>
  </entry>
@@ -213,7 +213,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="17" average="5.00" min="1" max="5"/>
-    <media:statistics views="841"/>
+    <media:statistics views="857"/>
    </media:community>
   </media:group>
  </entry>
@@ -236,7 +236,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="51" average="4.69" min="1" max="5"/>
-    <media:statistics views="2141"/>
+    <media:statistics views="2187"/>
    </media:community>
   </media:group>
  </entry>
@@ -259,30 +259,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="76" average="5.00" min="1" max="5"/>
-    <media:statistics views="4168"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:_3K9YhI_xkc</id>
-  <yt:videoId>_3K9YhI_xkc</yt:videoId>
-  <yt:channelId>UCjzFrgwYttepDAyvQ6QrPLQ</yt:channelId>
-  <title>The story of Daniel.(Animated)</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=_3K9YhI_xkc"/>
-  <author>
-   <name>Bible Today</name>
-   <uri>https://www.youtube.com/channel/UCjzFrgwYttepDAyvQ6QrPLQ</uri>
-  </author>
-  <published>2019-09-08T06:39:22+00:00</published>
-  <updated>2019-10-22T07:45:23+00:00</updated>
-  <media:group>
-   <media:title>The story of Daniel.(Animated)</media:title>
-   <media:content url="https://www.youtube.com/v/_3K9YhI_xkc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i4.ytimg.com/vi/_3K9YhI_xkc/hqdefault.jpg" width="480" height="360"/>
-   <media:description>Watch an amazing story from Bible. Story of David.</media:description>
-   <media:community>
-    <media:starRating count="275" average="4.80" min="1" max="5"/>
-    <media:statistics views="23315"/>
+    <media:statistics views="4242"/>
    </media:community>
   </media:group>
  </entry>
@@ -308,8 +285,8 @@ Surely goodness and mercy shall follow me all the days of my life
 
 Background Music and Videos: Credited to rightful owner.</media:description>
    <media:community>
-    <media:starRating count="223" average="4.84" min="1" max="5"/>
-    <media:statistics views="20499"/>
+    <media:starRating count="225" average="4.84" min="1" max="5"/>
+    <media:statistics views="20688"/>
    </media:community>
   </media:group>
  </entry>
@@ -332,36 +309,53 @@ Background Music and Videos: Credited to rightful owner.</media:description>
    <media:description></media:description>
    <media:community>
     <media:starRating count="48" average="4.83" min="1" max="5"/>
-    <media:statistics views="2663"/>
+    <media:statistics views="2711"/>
    </media:community>
   </media:group>
  </entry>
  <entry>
-  <id>yt:video:NLQGS25uZXQ</id>
-  <yt:videoId>NLQGS25uZXQ</yt:videoId>
-  <yt:channelId>UCC8CGXS5vh4AO02SUL9982w</yt:channelId>
-  <title>The Bible Story of Queen Esther (Animation)</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=NLQGS25uZXQ"/>
+  <id>yt:video:_3K9YhI_xkc</id>
+  <yt:videoId>_3K9YhI_xkc</yt:videoId>
+  <yt:channelId>UCjzFrgwYttepDAyvQ6QrPLQ</yt:channelId>
+  <title>The story of Daniel.(Animated)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_3K9YhI_xkc"/>
   <author>
-   <name>Louie Zabayle</name>
-   <uri>https://www.youtube.com/channel/UCC8CGXS5vh4AO02SUL9982w</uri>
+   <name>Bible Today</name>
+   <uri>https://www.youtube.com/channel/UCjzFrgwYttepDAyvQ6QrPLQ</uri>
   </author>
-  <published>2019-03-15T18:25:56+00:00</published>
-  <updated>2020-03-15T01:17:17+00:00</updated>
+  <published>2019-09-08T06:39:22+00:00</published>
+  <updated>2019-10-22T07:45:23+00:00</updated>
   <media:group>
-   <media:title>The Bible Story of Queen Esther (Animation)</media:title>
-   <media:content url="https://www.youtube.com/v/NLQGS25uZXQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i3.ytimg.com/vi/NLQGS25uZXQ/hqdefault.jpg" width="480" height="360"/>
-   <media:description>Here's a video that kids and adults will enjoy. This is the story of a beautiful queen who showed courage and faith to save her fellow Jews from execution. Her name is Esther.
-
-Esther is described in the Book of Esther as a Jewish queen of the Persian king Ahasuerus (commonly identified as Xerxes I, reigned 486–465 BCE).[1] In the narrative, Ahasuerus seeks a new wife after his queen, Vashti, refuses to obey him, and Esther is chosen for her beauty. The king's chief advisor, Haman, is offended by Esther's cousin and guardian, Mordecai, and gets permission from the king to have all the Jews in the kingdom killed. Esther foils the plan, and wins permission from the king for the Jews to kill their enemies, and they do so.
-
-Her story is the traditional basis for Purim, which is celebrated on the date given in the story for when Haman's order was to go into effect, which is the same day that the Jews killed their enemies after the plan was reversed. 
-
-Please don't forget to Like &amp; SUBSCRIBE for you to enjoy more animated stories from the Bible. Thank you and God bless!</media:description>
+   <media:title>The story of Daniel.(Animated)</media:title>
+   <media:content url="https://www.youtube.com/v/_3K9YhI_xkc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_3K9YhI_xkc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Watch an amazing story from Bible. Story of David.</media:description>
    <media:community>
-    <media:starRating count="579" average="4.68" min="1" max="5"/>
-    <media:statistics views="53518"/>
+    <media:starRating count="276" average="4.80" min="1" max="5"/>
+    <media:statistics views="23429"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:sIdEbFRF9fA</id>
+  <yt:videoId>sIdEbFRF9fA</yt:videoId>
+  <yt:channelId>UC2m9pkIDNga8QLH6Y-x7BhA</yt:channelId>
+  <title>The Lost is Found Animated Stories from the Old Testament</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=sIdEbFRF9fA"/>
+  <author>
+   <name>Jesus for You on English</name>
+   <uri>https://www.youtube.com/channel/UC2m9pkIDNga8QLH6Y-x7BhA</uri>
+  </author>
+  <published>2020-02-02T16:14:38+00:00</published>
+  <updated>2020-02-02T17:01:59+00:00</updated>
+  <media:group>
+   <media:title>The Lost is Found Animated Stories from the Old Testament</media:title>
+   <media:content url="https://www.youtube.com/v/sIdEbFRF9fA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/sIdEbFRF9fA/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="63" average="4.94" min="1" max="5"/>
+    <media:statistics views="3008"/>
    </media:community>
   </media:group>
  </entry>
