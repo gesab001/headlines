@@ -6,8 +6,8 @@
 <atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
 <description>World News</description>
 <language>en-us</language>
-<pubDate>Sun, 03 May 2020 11:07:59 -0400</pubDate>
-<lastBuildDate>Sun, 03 May 2020 11:07:59 -0400</lastBuildDate>
+<pubDate>Sun, 03 May 2020 16:17:45 -0400</pubDate>
+<lastBuildDate>Sun, 03 May 2020 16:17:45 -0400</lastBuildDate>
 <copyright>Dow Jones &amp; Company, Inc.</copyright>
 <generator>http://online.wsj.com/page/2_0006.html</generator>
 <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
@@ -17,21 +17,31 @@
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
 </image>
 <item>
-<title>As Coronavirus Restrictions Ease, People Slowly Emerge From Homes</title>
-<link>https://www.wsj.com/articles/coronavirus-latest-news-05-03-2020-11588499307</link>
-<description><![CDATA[As the U.S. monitors the tentative easing of lockdown measures, governments across Europe and Asia moved to further relax restrictions on business and social gatherings, even as new infections surged in some of the world’s largest developing countries.]]></description>
+<title>Kim Jong Un Returns, North Korean Instability Fears Fade</title>
+<link>https://www.wsj.com/articles/kim-jong-un-returns-and-north-korean-instability-fears-fade-away-11588523180</link>
+<description><![CDATA[Any upheaval in Pyongyang would have come at a delicate time, amid political tensions and the coronavirus pandemic.]]></description>
 <content:encoded/>
-<pubDate>Sun, 03 May 2020 10:41:00 -0400</pubDate>
-<guid isPermaLink="false">SB10746138266685993791904586361012206728544</guid>
+<pubDate>Sun, 03 May 2020 14:59:00 -0400</pubDate>
+<guid isPermaLink="false">SB10539763906949664234704586361690606450886</guid>
 <category domain="AccessClassName">PAID</category>
-<wsj:articletype>World News</wsj:articletype>
+<wsj:articletype>Asia News</wsj:articletype>
+</item>
+<item>
+<title>Amid Lockdown, India Post Still Delivers---Because Nobody Else Can</title>
+<link>https://www.wsj.com/articles/amid-coronavirus-lockdown-india-post-still-deliversbecause-nobody-else-can-11588528535</link>
+<description><![CDATA[India’s 400,000 postal workers have become unlikely front-line fighters against the economic and psychological ravages of the coronavirus.]]></description>
+<content:encoded/>
+<pubDate>Sun, 03 May 2020 13:55:00 -0400</pubDate>
+<guid isPermaLink="false">SB12092468891363964161304586357473378123328</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>India News</wsj:articletype>
 </item>
 <item>
 <title>Israel's High Court Hears Challenges to a Unity Government Led by Netanyahu</title>
 <link>https://www.wsj.com/articles/israels-high-court-hears-challenges-to-a-unity-government-led-by-netanyahu-11588508121</link>
-<description><![CDATA[Prime Minister Netanyahu and his rival Benny Gantz have faced pushback from critics who say the deal shouldn’t leave Mr. Netanyahu in power while he faces bribery, fraud and breach of trust charges.]]></description>
+<description><![CDATA[Israel’s high court heard petitions against Prime Minister Benjamin Netanyahy forming a government while under indictment, with a potential ruling that could lead to another election.]]></description>
 <content:encoded/>
-<pubDate>Sun, 03 May 2020 08:15:00 -0400</pubDate>
+<pubDate>Sun, 03 May 2020 11:10:00 -0400</pubDate>
 <guid isPermaLink="false">SB10539763906949664234704586361401656565910</guid>
 <category domain="AccessClassName">PAID</category>
 <wsj:articletype>Middle East News</wsj:articletype>
@@ -65,16 +75,6 @@
 <guid isPermaLink="false">SB12092468891363964161304586357554095232110</guid>
 <category domain="AccessClassName">PAID</category>
 <wsj:articletype>Europe News</wsj:articletype>
-</item>
-<item>
-<title>Kim Jong Un, Smoking and Strolling, Reappears After Three-Week Absence</title>
-<link>https://www.wsj.com/articles/kim-jong-un-is-said-to-have-attended-factory-opening-11588374281</link>
-<description><![CDATA[Newly published photo and video showed a smiling North Korean leader Kim Jong Un strolling around a factory Friday, ending a nearly three-week absence from public view that fueled rumors of his death.]]></description>
-<content:encoded/>
-<pubDate>Sat, 02 May 2020 04:58:00 -0400</pubDate>
-<guid isPermaLink="false">SB12092468891363964161304586358361605063744</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>World News</wsj:articletype>
 </item>
 </channel>
 </rss>
