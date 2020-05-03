@@ -10,239 +10,247 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/world/chinas-bat-woman-shi-zhengli-denies-defecting</guid>
-      <link>https://www.foxnews.com/world/chinas-bat-woman-shi-zhengli-denies-defecting</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/nancy-grace-questions-bidens-response-to-sexual-assault-accusation-if-anybody-accused-me-i-would-be-on-fire</guid>
+      <link>https://www.foxnews.com/media/nancy-grace-questions-bidens-response-to-sexual-assault-accusation-if-anybody-accused-me-i-would-be-on-fire</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Shi-Zhengli.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Shi-Zhengli.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01614b29-db05-44d2-afcc-faecf8ddc9ab/0f30d6b2-85d3-4c91-8c10-8a1158437088/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Shi-Zhengli.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">dcefe495-fba4-5d9a-8ce0-974f70cc5bd0</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c025e081-939b-5865-96f2-e7b90b8e1ce2</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/watters-world</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Nancy Grace questions Biden's response to sexual-assault accusation: 'If anybody accused me... I would be on fire'</title>
+      <description>Fox Nation host Nancy Grace appeared on "Watters World" Saturday where she addressed presumptive Democratic presidential nominee Joe Biden's response t allegations he sexually assaulted a staffer in 1993. </description>
+                  <dc:creator>Victor Garcia</dc:creator>
+                         <pubDate>Sun, 03 May 2020 00:00:50 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Victor Garcia</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/mitchell-bard-world-health-organization-lies-about-israel-on-coronavirus-and-other-health-issues</guid>
+      <link>https://www.foxnews.com/opinion/mitchell-bard-world-health-organization-lies-about-israel-on-coronavirus-and-other-health-issues</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8270a9cb-be0f-4166-90d9-f8ab4a4dac11/00a6a3f7-8851-47ff-9909-67e3686c2006/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">54db2df9-e2b6-5c1a-9393-a59d83b46619</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/israel</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/syria</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Mitchell Bard: World Health Organization lies about Israel on coronavirus and other health issues</title>
+      <description>President Trump renewed his criticism of the World Health Organization this week for the way the United Nations organization failed to challenge false information China initially provided minimizing the coronavirus outbreak in that country. He should also call out the WHO for its disgraceful role in spreading absurd lies and hatred about U.S. ally Israel for years.</description>
+                  <dc:creator>Mitchell Bard</dc:creator>
+                         <pubDate>Sat, 02 May 2020 23:51:40 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Mitchell Bard</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/venezuela-prison-riot-kills-at-least-40-including-warden</guid>
+      <link>https://www.foxnews.com/world/venezuela-prison-riot-kills-at-least-40-including-warden</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Prison-iStock.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Prison-iStock.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Prison-iStock.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">90e6a82b-9060-520e-941b-8e961fd311ab</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/topic/venezuelan-political-crisis</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world</category>
+            <category domain="foxnews.com/taxonomy">fox-news/travel/regions/south-america</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/latin-america</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Venezuela prison riot kills at least 40, including warden</title>
+      <description>A prison riot in Venezuela has left at least 40 dead and 50 others injured, authorities said Saturday.</description>
+                  <dc:creator>Peter Aitken</dc:creator>
+                         <pubDate>Sat, 02 May 2020 23:37:47 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Peter Aitken</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/amash-taking-historic-step-to-white-house-bid-becomes-first-libertarian-in-congress-im-in-the-race-to-win-it</guid>
+      <link>https://www.foxnews.com/politics/amash-taking-historic-step-to-white-house-bid-becomes-first-libertarian-in-congress-im-in-the-race-to-win-it</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/rep-justin-amash-freedom-caucus-ap.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/rep-justin-amash-freedom-caucus-ap.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/rep-justin-amash-freedom-caucus-ap.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">674e43f2-e0b5-5c50-a2af-c18612f0c574</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/libertarians</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/republicans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/senate/democrats</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Amash, taking historic step to White House bid, becomes first Libertarian in Congress: 'I'm in the race to win it'</title>
+      <description>Rep. Justin Amash from Michigan made history by becoming the first Libertarian Party member in Congress after he officially changed his party affiliation Friday to launch his 2020 presidential bid against President Trump and Joe Biden. </description>
+                  <dc:creator>Marisa Schultz</dc:creator>
+                         <pubDate>Sat, 02 May 2020 23:33:27 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Marisa Schultz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/richard-komi-tara-reade-tweet-resigns</guid>
+      <link>https://www.foxnews.com/politics/richard-komi-tara-reade-tweet-resigns</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Tara-Reade-Biden-3.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Tara-Reade-Biden-3.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Tara-Reade-Biden-3.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ab312268-55b9-5f36-9ffc-560b171af97a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-hampshire</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/tara-reade</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/democratic-party</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>NH Dem resigns after bizarre suggestion that Reade's assault claim would've required her 'cooperation'</title>
+      <description>New Hampshire state Rep. Richard Komi, D-Manchester, has resigned amid backlash over his apparent suggestion that Tara Reade was "looking for attention" and would have had to have "cooperated" with former Vice President Joe Biden's attempt to assault her if her allegation were true.</description>
+                  <dc:creator>Sam Dorman</dc:creator>
+                         <pubDate>Sat, 02 May 2020 23:27:21 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Sam Dorman</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/tara-reade-associated-press-biden-complaint</guid>
+      <link>https://www.foxnews.com/media/tara-reade-associated-press-biden-complaint</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Biden-Tara-Reade-AP-2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Biden-Tara-Reade-AP-2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Biden-Tara-Reade-AP-2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">cc262e02-7228-511b-b255-8fa215a32284</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/tara-reade</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/companies/twitter</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Tara Reade pushes back on AP report, calls to 'retract' headline about Biden complaint</title>
+      <description>EXCLUSIVE: Tara Reade slammed The Associated Press on Saturday for its framing of a story regarding her Senate personnel complaint she filed against her former boss Joe Biden, calling for the news outlet to "retract" its headline.</description>
+                  <dc:creator>Joseph Wulfsohn</dc:creator>
+                         <pubDate>Sat, 02 May 2020 23:09:55 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Joseph Wulfsohn</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/kim-jong-un-heart-surgery-marks-wrist</guid>
+      <link>https://www.foxnews.com/world/kim-jong-un-heart-surgery-marks-wrist</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Kim-Jong-Un-Wrist-Mark-NK-News.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Kim-Jong-Un-Wrist-Mark-NK-News.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Kim-Jong-Un-Wrist-Mark-NK-News.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c96184c5-296e-55c7-ad77-7c88edc43603</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/north-korea</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/kim-jong-un</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world</category>
             <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/asia</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/world</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>China’s ‘Bat Woman’ Shi Zhengli denies ‘defecting with intelligence files’</title>
-      <description>A Chinese virologist at the center of controversy has attempted to clarify her whereabouts.</description>
+      <title>Kim Jong Un may have had heart surgery, based on fresh mark on wrist, experts say</title>
+      <description>A new mark on North Korean leader Kim Jong-Un’s wrist could suggest that he has had heart surgery, according to medical experts.</description>
                   <dc:creator>Peter Aitken</dc:creator>
-                         <pubDate>Sat, 02 May 2020 15:24:28 GMT</pubDate>
+                         <pubDate>Sat, 02 May 2020 22:56:43 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Peter Aitken</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/nc-youths-9-to-16-took-cars-from-dealerships-out-of-boredom-police</guid>
-      <link>https://www.foxnews.com/us/nc-youths-9-to-16-took-cars-from-dealerships-out-of-boredom-police</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/tim-graham-michelle-and-barack-obama-rake-in-big-bucks-collecting-millions-of-dollars-from-post-presidency</guid>
+      <link>https://www.foxnews.com/opinion/tim-graham-michelle-and-barack-obama-rake-in-big-bucks-collecting-millions-of-dollars-from-post-presidency</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Crimestoppers-Photo-3.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Crimestoppers-Photo-3.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://media2.foxnews.com/BrightCove/694940094001/2019/12/05/694940094001_6113396224001_6113396498001-vs.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/694940094001_6113396224001_6113396498001-vs.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Crimestoppers-Photo-3.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">1992e46b-ea1e-59b2-8472-796f05e69deb</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/robbery-theft</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/north-carolina</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/694940094001_6113396224001_6113396498001-vs.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">11019a69-081e-58a1-8d06-0c06aadbf16a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/barack-obama</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/michelle-obama</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/senate/democrats</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>North Carolina youths, 9 to 16, stole cars from dealerships out of boredom: police</title>
-      <description>Teens and children as young as 9 broke into car dealerships in a North Carolina city on lockdown and stole vehicles to go on joyrides, according to reports.</description>
-                  <dc:creator>Robert Gearty</dc:creator>
-                         <pubDate>Sat, 02 May 2020 15:08:38 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Robert Gearty</category>
+      <title>Tim Graham: Michelle and Barack Obama rake in millions of dollars, as adoration by liberal media continues</title>
+      <description>The Obamas were awarded a book deal worth an estimated $65 million for their memoirs, hers and then his. They also struck an estimated $50 million production deal with Netflix. (We don't have actual numbers. Could someone in the media ask for a tax return?)</description>
+                  <dc:creator>Tim Graham</dc:creator>
+                         <pubDate>Sat, 02 May 2020 22:41:34 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Creators Syndicate</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Tim Graham</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/opinion/chernobyl-site-judith-miller</guid>
-      <link>https://www.foxnews.com/opinion/chernobyl-site-judith-miller</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/usama-bin-laden-seal-team-six-rob-oneill</guid>
+      <link>https://www.foxnews.com/media/usama-bin-laden-seal-team-six-rob-oneill</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/judy-miller.png" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/judy-miller.png" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Bin-Laden-Oneill.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Bin-Laden-Oneill.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/judy-miller.png" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">f29be510-1e42-5be1-92f9-81fa1951e8c0</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Bin-Laden-Oneill.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">70b41257-69b0-5928-b30c-1ff8579465df</category>
                   <category domain="foxnews.com/taxonomy">fox-news/fox-nation</category>
             <category domain="foxnews.com/taxonomy">fox-news/topic/fox-nation-opinion</category>
             <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/ukraine</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/disasters/nuclear</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/opinion</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Judith Miller: Chernobyl -- Here's what I saw, heard and felt when I visited the site last year</title>
-      <description>What we saw at Chernobyl still haunts me, just as the accident itself continues to haunt Ukraine.</description>
-                  <dc:creator>Judith Miller</dc:creator>
-                         <pubDate>Sat, 02 May 2020 15:05:34 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Judith Miller</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/nba-draft-combine-draft-lottery</guid>
-      <link>https://www.foxnews.com/sports/nba-draft-combine-draft-lottery</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/10/NBA-Adam-Silver5.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/NBA-Adam-Silver5.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/NBA-Adam-Silver5.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">854f5593-d633-5c00-b8b1-e3980774372b</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nba</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nba-draft</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>NBA pushes back draft combine, draft lottery</title>
-      <description>The NBA is delaying the draft lottery and draft combine, events scheduled for Chicago later this month.</description>
-                   <pubDate>Sat, 02 May 2020 15:01:42 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/cleveland-indians-pitcher-emmanuel-clase-suspended-ped</guid>
-      <link>https://www.foxnews.com/sports/cleveland-indians-pitcher-emmanuel-clase-suspended-ped</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Emmanuel-Chase-AP.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Emmanuel-Chase-AP.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Emmanuel-Chase-AP.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">090e16da-1ab1-5675-9bd8-312f70fd829f</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/cleveland-indians</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Cleveland Indians pitcher Emmanuel Clase suspended 80-games for PED use</title>
-      <description>Cleveland Indians’ pitcher Emmanuel Clase was suspended 80 games after testing positive for performance-enhancing drugs, Major League Baseball announced Friday. </description>
-                  <dc:creator>Paulina Dedaj</dc:creator>
-                         <pubDate>Sat, 02 May 2020 14:59:25 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Paulina Dedaj</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/padma-lakshmi-chugs-tequila-daughter-school-september</guid>
-      <link>https://www.foxnews.com/entertainment/padma-lakshmi-chugs-tequila-daughter-school-september</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/11/rtert5654651111.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/rtert5654651111.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/rtert5654651111.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">fbe8ece2-966c-58d4-93cc-5ac4a88283d5</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/padma-lakshmi</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Padma Lakshmi chugs tequila upon learning daughter's school is closed til September: 'We could all use a drink'</title>
-      <description>Padma Lakshmi turned to alcohol on Friday after learning that her daughter will not be returning to school until the fall.</description>
-                  <dc:creator>Melissa Roberto</dc:creator>
-                         <pubDate>Sat, 02 May 2020 14:54:15 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Melissa Roberto</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/marsha-blackburn-joe-biden-tara-reade-sexual-misconduct-allegations</guid>
-      <link>https://www.foxnews.com/media/marsha-blackburn-joe-biden-tara-reade-sexual-misconduct-allegations</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/MARSHA.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/MARSHA.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/MARSHA.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">33042072-e02b-5923-805a-13100287c3a7</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/fox-friends-weekend</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/democrats</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/judiciary/confirmation-of-judge-kavanaugh</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/sex-crimes</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/tara-reade</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/senate</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/nancy-pelosi</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/special/man-who-killed-bin-laden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/terrorism</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/terror/al-qaeda</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Sen. Marsha Blackburn: Biden sex assault allegation 'serious,' must be investigated</title>
-      <description>Sen. Marsha Blackburn, R-Tenn., stated Saturday that she is fascinated with the double standard between the Democrats' handling of allegations of sexual misconduct against former vice president Joe Biden and those of now-Supreme Court Justice Brett Kavanaugh.</description>
-                  <dc:creator>Julia Musto</dc:creator>
-                         <pubDate>Sat, 02 May 2020 14:50:54 GMT</pubDate>
+      <title>This Navy SEAL killed Usama bin Laden 9 years ago: 'We met for a second -- that's it'</title>
+      <description>On May 1, 2011, an elite team of U.S. special operators, known as SEAL Team 6, killed the world's most wanted terrorist -- Usama bin Laden.</description>
+                  <dc:creator>Matt London</dc:creator>
+                         <pubDate>Sat, 02 May 2020 22:35:23 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Julia Musto</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Matt London</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/opinion/trump-biden-2020-newt-gingrich</guid>
-      <link>https://www.foxnews.com/opinion/trump-biden-2020-newt-gingrich</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/pelosi-mcconnell-decline-trump-administration-testing-offer</guid>
+      <link>https://www.foxnews.com/politics/pelosi-mcconnell-decline-trump-administration-testing-offer</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Trump-Biden_AP-Getty.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Trump-Biden_AP-Getty.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/03/McConnellPelosi032320.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/McConnellPelosi032320.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Trump-Biden_AP-Getty.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">26564693-1b17-5b6e-834f-d76d580b62fa</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/white-house</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/McConnellPelosi032320.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ccea4fc3-e493-59f3-9cdb-32cb0497f37b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/nancy-pelosi</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/mitch-mcconnell</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/house-of-representatives</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/senate</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Newt Gingrich: Trump trounced by Biden in 2020? Don't bet on it. Here's why</title>
-      <description>At this point in 2015, it was inconceivable that Donald Trump would become the Republican nominee.</description>
-                  <dc:creator>Newt Gingrich</dc:creator>
-                         <pubDate>Sat, 02 May 2020 14:37:00 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Gingrich360.com</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Newt Gingrich</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/oklahoma-mall-opens-shoppers-face-masks-social-distancing-coronavirus</guid>
-      <link>https://www.foxnews.com/us/oklahoma-mall-opens-shoppers-face-masks-social-distancing-coronavirus</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20122690377276.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20122690377276.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20122690377276.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">541efad5-c757-5de4-837e-d3a039cb1d4c</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/oklahoma</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Oklahoma mall opens with shoppers in face masks and social distancing</title>
-      <description>Oklahoma is one of the states leading the charge to reopen businesses after weeks of closures</description>
-                  <dc:creator>Peter Aitken</dc:creator>
-                         <pubDate>Sat, 02 May 2020 14:30:31 GMT</pubDate>
+      <title>Pelosi, McConnell decline coronavirus testing offer from Trump administration</title>
+      <description>House Speaker Nancy Pelosi, D-Calif., and Senate Majority Leader Mitch McConnell, R-Ky., said Saturday they are turning down a Trump administration offer to implement speedy coronavirus testing at the Capitol, saying the technology should be saved for frontline workers rather than elected officials.</description>
+                  <dc:creator>Marisa Schultz</dc:creator>
+            <dc:creator>Chad Pergram</dc:creator>
+                         <pubDate>Sat, 02 May 2020 22:21:55 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Peter Aitken</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/westworld-evan-rachel-wood-supports-rose-mcgowan-anti-democrat-biden-fallout</guid>
-      <link>https://www.foxnews.com/entertainment/westworld-evan-rachel-wood-supports-rose-mcgowan-anti-democrat-biden-fallout</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/wood-mcgowan-getty.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/wood-mcgowan-getty.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/wood-mcgowan-getty.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">8902dc32-6475-5102-a79f-cc73d0802a26</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/tara-reade</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>'Westworld' star Evan Rachel Wood supports Rose McGowan's anti-Democrats stance after Biden fallout: 'Spot on'</title>
-      <description>"Westworld" star Evan Rachel Wood is the latest celebrity liberal to aim fire at the Democratic party by standing in support of Rose McGowan's most recent missive against them and the media following the fallout from sex assault allegations against former Vice President Joe Biden.</description>
-                  <dc:creator>Melissa Roberto</dc:creator>
-                         <pubDate>Sat, 02 May 2020 14:24:04 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Melissa Roberto</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Marisa Schultz</category>
+            <category domain="foxnews.com/metadata/dc.creator">Chad Pergram</category>
                             </item>
       </channel>
 </rss>
