@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 07 May 2020 17:33:02 +0000</lastBuildDate>
-    <pubDate>Thu, 07 May 2020 17:33:02 +0000</pubDate>
+    <lastBuildDate>Thu, 07 May 2020 20:41:29 +0000</lastBuildDate>
+    <pubDate>Thu, 07 May 2020 20:41:29 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/07/us/indianapolis-police-shooting.html" rel="standout"></atom:link>
       <description>The police said the man was killed after shooting at an officer who chased him for driving recklessly. The man apparently recorded a video several minutes long during the pursuit.</description>
       <dc:creator>Nicholas Bogel-Burroughs</dc:creator>
-      <pubDate>Thu, 07 May 2020 06:53:34 +0000</pubDate>
+      <pubDate>Thu, 07 May 2020 19:26:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indianapolis (Ind)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/06/multimedia/06indy-shoot/06indy-shoot-moth.jpg" width="151"></media:content>
@@ -35,7 +35,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/07/us/church-reopening-coronavirus.html" rel="standout"></atom:link>
       <description>Many churches across the country, closed for physical worship for nearly two months, are contemplating what’s next.</description>
       <dc:creator>Elizabeth Dias</dc:creator>
-      <pubDate>Thu, 07 May 2020 13:49:58 +0000</pubDate>
+      <pubDate>Thu, 07 May 2020 20:38:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
@@ -53,7 +53,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/06/us/coronavirus-covid-parties.html" rel="standout"></atom:link>
       <description>County health officials in Washington State walked back earlier claims that young people were gathering in a deliberate attempt to be exposed to the coronavirus.</description>
       <dc:creator>Mike Baker</dc:creator>
-      <pubDate>Thu, 07 May 2020 13:51:09 +0000</pubDate>
+      <pubDate>Thu, 07 May 2020 20:01:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parties (Social)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
@@ -79,13 +79,168 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/05/us/00virus-walks-promo/00virus-walks-promo-moth.jpg" width="151"></media:content>
     </item>
     <item>
-      <title>Northeast Forecast Has Cold and Snow On the Way</title>
+      <title>After Recovery From the Coronavirus, Most People Carry Antibodies</title>
+      <link>https://www.nytimes.com/2020/05/07/health/coronavirus-antibody-prevalence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/health/coronavirus-antibody-prevalence.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/07/health/coronavirus-antibody-prevalence.html" rel="standout"></atom:link>
+      <description>A new study adds to evidence of immunity among those who have already been exposed to the pathogen.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Thu, 07 May 2020 20:32:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antibodies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mount Sinai Medical Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Medicine (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/07/science/07VIRUS-ANTIBODIES2/07VIRUS-ANTIBODIES2-moth.jpg" width="151"></media:content>
+      <media:credit>Lucas Jackson/Reuters</media:credit>
+      <media:description>Taking blood for antibody testing at Mount Sinai Hospital in Manhattan last month.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus Could Disrupt Weather Monitoring</title>
+      <link>https://www.nytimes.com/2020/05/07/climate/coronavirus-weather-monitoring.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/climate/coronavirus-weather-monitoring.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/07/climate/coronavirus-weather-monitoring.html" rel="standout"></atom:link>
+      <description>The amount of atmospheric data routinely gathered by commercial airliners has dropped sharply as a result of the coronavirus, the World Meteorological Organization announced.</description>
+      <dc:creator>Henry Fountain</dc:creator>
+      <pubDate>Thu, 07 May 2020 20:14:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/07/climate/07CLI-MONITORING/07CLI-MONITORING-moth.jpg" width="151"></media:content>
+      <media:credit>Frank Rumpenhorst/picture alliance, via Getty Images</media:credit>
+      <media:description>Data on temperature, wind and humidity collected by commercial airline flights has fallen sharply.</media:description>
+    </item>
+    <item>
+      <title>This Brooklyn High School Found a Way to Honor Its Graduating Seniors</title>
+      <link>https://www.nytimes.com/2020/05/07/nyregion/coronavirus-high-school-graduations-2020.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/nyregion/coronavirus-high-school-graduations-2020.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/07/nyregion/coronavirus-high-school-graduations-2020.html" rel="standout"></atom:link>
+      <description>With almost all Class of 2020 ceremonies canceled, high schools like James Madison have found creative ways to honor their departing students.</description>
+      <dc:creator>Elizabeth A. Harris</dc:creator>
+      <pubDate>Thu, 07 May 2020 20:04:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Secondary)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">James Madison High School (Brooklyn, N.Y.)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/06/nyregion/00nyvirus-seniors1/00nyvirus-seniors1-moth.jpg" width="151"></media:content>
+      <media:credit>James Estrin/The New York Times</media:credit>
+      <media:description>Martin Philip took a photo on Wednesday of the sign honoring his daughter Jessica, one of the 750 seniors at James Madison High School in Brooklyn, who are being honored on the school’s fence.</media:description>
+    </item>
+    <item>
+      <title>Sean Reed Shooting: Detective Joked About &#39;Closed Casket&#39;</title>
+      <link>https://www.nytimes.com/2020/05/07/us/sean-reed-indianapolis-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/sean-reed-indianapolis-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/07/us/sean-reed-indianapolis-shooting.html" rel="standout"></atom:link>
+      <description>The deaths included two police shootings, one of which was streamed live on Facebook, and an officer fatally striking a pregnant woman with his car.</description>
+      <dc:creator>Nicholas Bogel-Burroughs</dc:creator>
+      <pubDate>Thu, 07 May 2020 20:08:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indianapolis (Ind)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/06/us/06INDIANAPOLIS/06INDIANAPOLIS-moth.jpg" width="151"></media:content>
+      <media:credit>Stevi Kersh/The Indianapolis Star, via Associated Press</media:credit>
+      <media:description>Protesters gathered in Indianapolis on Wednesday, hours after a man was killed by the police in a shooting that was captured in part on a Facebook Live video.</media:description>
+    </item>
+    <item>
+      <title>Justice Dept. Drops Case Against Michael Flynn</title>
+      <link>https://www.nytimes.com/2020/05/07/us/politics/michael-flynn-case-dropped.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/politics/michael-flynn-case-dropped.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/07/us/politics/michael-flynn-case-dropped.html" rel="standout"></atom:link>
+      <description>The extraordinary move came after the former national security adviser had fought the case in court for months, a reversal after pleading guilty twice and cooperating with investigators.</description>
+      <dc:creator>Adam Goldman and Katie Benner</dc:creator>
+      <pubDate>Thu, 07 May 2020 20:29:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flynn, Michael T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/07/us/politics/07dc-flynn-sub/07dc-flynn-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Samuel Corum for The New York Times</media:credit>
+      <media:description>Michael T. Flynn, President Trump’s first national security adviser, pleaded guilty in late 2017 to lying to investigators.</media:description>
+    </item>
+    <item>
+      <title>Failing to Override a Veto, Senate Falls Short of Curbing Trump’s Iran War Powers</title>
+      <link>https://www.nytimes.com/2020/05/07/us/politics/senate-war-powers-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/politics/senate-war-powers-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/07/us/politics/senate-war-powers-trump.html" rel="standout"></atom:link>
+      <description>The defeat of the measure allows President Trump to continue to act unilaterally on Iran, in defiance of Congress.</description>
+      <dc:creator>Catie Edmondson</dc:creator>
+      <pubDate>Thu, 07 May 2020 20:06:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Powers Act (1973)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vetoes (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Emergency Powers (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaine, Timothy M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Suleimani, Qassim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/07/us/politics/00dc-warpowers/00dc-warpowers-moth.jpg" width="151"></media:content>
+      <media:credit>Nazanin Tabatabaee/WANA, via Reuters</media:credit>
+      <media:description>An image of Maj. Gen. Qassim Suleimani of Iran, who was killed by an American airstrike, in Tehran in February.</media:description>
+    </item>
+    <item>
+      <title>Dallas Salon Owner Who Was Jailed for Reopening Is Released</title>
+      <link>https://www.nytimes.com/2020/05/07/us/dallas-salon-owner-shelley-luther.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/dallas-salon-owner-shelley-luther.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/07/us/dallas-salon-owner-shelley-luther.html" rel="standout"></atom:link>
+      <description>The salon owner, Shelley Luther, had become a symbol of conservative outrage over state lockdowns and stay-at-home orders.</description>
+      <dc:creator>Manny Fernandez and David Montgomery</dc:creator>
+      <pubDate>Thu, 07 May 2020 20:01:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dallas (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">luther, shelley</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/07/us/07DALLAS/07DALLAS-moth.jpg" width="151"></media:content>
+      <media:credit>Jeremy Lock/Reuters</media:credit>
+      <media:description>Shelley Luther, a Dallas hair salon owner who defied an order to keep her business closed, at a rally protesting such restrictions in Frisco, Texas, last month.</media:description>
+    </item>
+    <item>
+      <title>Supreme Court Is Asked to Block House From Seeing Mueller’s Grand Jury Secrets</title>
+      <link>https://www.nytimes.com/2020/05/07/us/politics/mueller-supreme-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/politics/mueller-supreme-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/07/us/politics/mueller-supreme-court.html" rel="standout"></atom:link>
+      <description>The Justice Department asked the justices to temporarily halt a lower-court order, arguing that the executive branch would suffer irreparable harm if the evidence is disclosed.</description>
+      <dc:creator>Charlie Savage</dc:creator>
+      <pubDate>Thu, 07 May 2020 19:06:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Committee on the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francisco, Noel J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/07/us/politics/07dc-report/07dc-report-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Lawmakers have asked to see secret grand jury evidence gathered by Robert S. Mueller III, the former special counsel.</media:description>
+    </item>
+    <item>
+      <title>May Snow Storm Forecast for the Northeast</title>
       <link>https://www.nytimes.com/2020/05/07/us/northeast-polar-vortex-snow.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/northeast-polar-vortex-snow.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/07/us/northeast-polar-vortex-snow.html" rel="standout"></atom:link>
       <description>An Arctic blast will sweep parts of the Northeast, bringing record-cold temperatures and even some snow to states that are coming out of a mild winter.</description>
       <dc:creator>Maria Cramer and Henry Fountain</dc:creator>
-      <pubDate>Thu, 07 May 2020 17:00:29 +0000</pubDate>
+      <pubDate>Thu, 07 May 2020 20:22:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
@@ -95,13 +250,36 @@
       <media:description>A dusting of snow in Stowe, Vt., on Tuesday. Unseasonably cold weather is expected to move into the Northeast on Friday night.</media:description>
     </item>
     <item>
-      <title>Woman Opens Fire in McDonald’s Partly Closed Over Virus Concerns, Police Say</title>
+      <title>Partisan Divide Over Next Coronavirus Stimulus Package</title>
+      <link>https://www.nytimes.com/2020/05/07/us/coronavirus-stimulus-package.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/coronavirus-stimulus-package.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/07/us/coronavirus-stimulus-package.html" rel="standout"></atom:link>
+      <description>Democrats hope to extend a program that increased unemployment benefits by $600 a week. Republicans have criticized it as overly generous, creating a disincentive to work.</description>
+      <dc:creator>Carl Hulse</dc:creator>
+      <pubDate>Thu, 07 May 2020 16:18:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment Insurance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/07/us/politics/07dc-virus-joblessaid1/07dc-virus-joblessaid1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker/The New York Times</media:credit>
+      <media:description>“I think there is going to be a need based on the economic conditions at the end of July for the workers to get an additional boost,” said Senator Ron Wyden, Democrat of Oregon.</media:description>
+    </item>
+    <item>
+      <title>McDonald’s Employee Is Shot After Store Is Partly Closed for Coronavirus</title>
       <link>https://www.nytimes.com/2020/05/07/us/oklahoma-mcdonalds-shooting-coronavirus.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/oklahoma-mcdonalds-shooting-coronavirus.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/07/us/oklahoma-mcdonalds-shooting-coronavirus.html" rel="standout"></atom:link>
-      <description>At least three employees were injured after one told a woman that the dining area was closed, the police said. The McDonald’s chief executive called it a “heinous crime” against workers trying to protect public health.</description>
+      <description>At least four employees were injured after one told a woman that the dining area was closed, the police said.</description>
       <dc:creator>Mihir Zaveri</dc:creator>
-      <pubDate>Thu, 07 May 2020 16:19:37 +0000</pubDate>
+      <pubDate>Thu, 07 May 2020 19:29:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">McDonald&#39;s Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma City (Okla)</category>
@@ -135,9 +313,9 @@
       <link>https://www.nytimes.com/2020/05/07/us/supreme-court-bridgegate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/supreme-court-bridgegate.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/07/us/supreme-court-bridgegate.html" rel="standout"></atom:link>
-      <description>The court said there was evidence of wrongdoing but not of a federal crime.</description>
-      <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Thu, 07 May 2020 17:04:54 +0000</pubDate>
+      <description>The court said there was evidence of “wrongdoing” by two associates of Chris Christie, the former New Jersey governor, but no federal crime.</description>
+      <dc:creator>Adam Liptak and Nick Corasaniti</dc:creator>
+      <pubDate>Thu, 07 May 2020 18:19:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">George Washington Bridge Scandal (2013)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Port Authority of New York and New Jersey</category>
@@ -167,13 +345,13 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/07/us/-promo-1588859808818/-promo-1588859808818-moth.png" width="151"></media:content>
     </item>
     <item>
-      <title>Generic Drug Maker to Admit to Fixing Prices for Cholesterol Medication</title>
+      <title>Generic Drug Maker Admits to Fixing Prices for Cholesterol Medication</title>
       <link>https://www.nytimes.com/2020/05/07/us/politics/justice-department-antitrust-drugs.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/politics/justice-department-antitrust-drugs.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/07/us/politics/justice-department-antitrust-drugs.html" rel="standout"></atom:link>
-      <description>Apotex will admit conspiring to inflate drug prices, pay $24 million and cooperate with the Justice Department’s investigation into the pharmaceutical industry.</description>
+      <description>For conspiring to inflate drug prices, Apotex will pay $24 million and cooperate with the Justice Department’s investigation into the pharmaceutical industry.</description>
       <dc:creator>Katie Benner</dc:creator>
-      <pubDate>Thu, 07 May 2020 14:22:08 +0000</pubDate>
+      <pubDate>Thu, 07 May 2020 18:52:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
@@ -186,13 +364,13 @@
       <media:description>Apotex’s manufacturing plant in Toronto.</media:description>
     </item>
     <item>
-      <title>Wildfires in Florida Panhandle Force Hundreds to Evacuate</title>
+      <title>Wildfires in Florida Force Hundreds to Evacuate: ‘All You Could See Is Smoke’</title>
       <link>https://www.nytimes.com/2020/05/07/us/florida-wildfire.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/florida-wildfire.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/07/us/florida-wildfire.html" rel="standout"></atom:link>
       <description>More than 1,000 residents were told to move away from fires that a state official called “extremely dangerous.”</description>
       <dc:creator>Christine Hauser</dc:creator>
-      <pubDate>Thu, 07 May 2020 14:30:26 +0000</pubDate>
+      <pubDate>Thu, 07 May 2020 18:26:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
@@ -201,6 +379,34 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/07/multimedia/-07xp-floridafires1/-07xp-floridafires1-moth.jpg" width="151"></media:content>
       <media:credit>Florida Department of Agriculture and Consumer Services, via Associated Press</media:credit>
       <media:description>The fire broke out on Monday afternoon and has grown, fanned by high winds and low humidity, officials said.</media:description>
+    </item>
+    <item>
+      <title>Unemployment in California: When Will You Get Benefit Payments?</title>
+      <link>https://www.nytimes.com/2020/05/07/us/unemployment-benefits-edd-california.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/unemployment-benefits-edd-california.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/07/us/unemployment-benefits-edd-california.html" rel="standout"></atom:link>
+      <description>Thursday: Millions have applied for unemployment insurance in California. Here’s what you need to know now. Also: Find a testing site near you.</description>
+      <dc:creator>Marie Tae McDermott and Jill Cowan</dc:creator>
+      <pubDate>Thu, 07 May 2020 15:47:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/06/us/00CALTODAY-edd/00CALTODAY-edd-moth.jpg" width="151"></media:content>
+      <media:credit>Frederic J. Brown/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A woman entering a building where the Employment Development Department has its offices in Los Angeles on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>On Politics: Rising Hunger as the Virus’s Effects Spread</title>
+      <link>https://www.nytimes.com/2020/05/07/us/politics/coronavirus-children-hunger.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/politics/coronavirus-children-hunger.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/07/us/politics/coronavirus-children-hunger.html" rel="standout"></atom:link>
+      <description>Grim evidence of a virus’s continuing toll as the country reopens: This is your morning tip sheet.</description>
+      <dc:creator>Giovanni Russonello</dc:creator>
+      <pubDate>Thu, 07 May 2020 19:04:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
     </item>
     <item>
       <title>Coronavirus, President Trump, India: Your Thursday Briefing</title>
@@ -215,27 +421,15 @@
       <media:description>A coal-fired generating station in Sidney, Mont.</media:description>
     </item>
     <item>
-      <title>As Restaurants Remain Shuttered, American Cities Fear the Future</title>
-      <link>https://www.nytimes.com/2020/05/07/us/coronavirus-restaurants-closings.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/coronavirus-restaurants-closings.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/07/us/coronavirus-restaurants-closings.html" rel="standout"></atom:link>
-      <description>Restaurants have become the economic lifeblood for many cities. The coronavirus threatens to take away more than just delicious food.</description>
-      <dc:creator>Jennifer Steinhauer and Pete Wells</dc:creator>
-      <pubDate>Thu, 07 May 2020 09:00:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Providence (RI)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Louis (Mo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Detroit (Mich)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Asheville (NC)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/us/politics/00dc-virus-foodcity1-copy/00dc-virus-foodcity1-copy-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Whitney Curtis for The New York Times</media:credit>
-      <media:description>Olio, an Italian restaurant in St. Louis, was converted from an old gas station.</media:description>
+      <title>Live Coronavirus News Updates</title>
+      <link>https://www.nytimes.com/2020/05/07/us/coronavirus-updates-cases-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/coronavirus-updates-cases-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/07/us/coronavirus-updates-cases-deaths.html" rel="standout"></atom:link>
+      <description>Another 3.2 million people filed for unemployment benefits. A new study found that nearly everyone who gets the disease eventually makes antibodies to the virus. The governor of Texas said people would not be jailed for defiantly reopening businesses.</description>
+      <pubDate>Thu, 07 May 2020 20:31:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v385.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>Knock, Knock, Who’s There? No Political Canvassers, for the First Time Maybe Ever</title>
@@ -256,6 +450,29 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/06/us/politics/00field-01/00field-01-moth.jpg" width="151"></media:content>
       <media:credit>Jordan Gale for The New York Times</media:credit>
       <media:description>A sign for former Vice President Jospeh R. Biden Jr. was left on a door by a canvasser in Dubuque, Iowa, in January. Showing up on doorsteps has long been one of the most reliable ways to get people to vote.</media:description>
+    </item>
+    <item>
+      <title>As Restaurants Remain Shuttered, American Cities Fear the Future</title>
+      <link>https://www.nytimes.com/2020/05/07/us/coronavirus-restaurants-closings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/us/coronavirus-restaurants-closings.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/07/us/coronavirus-restaurants-closings.html" rel="standout"></atom:link>
+      <description>Restaurants have become the economic lifeblood for many cities. The coronavirus threatens to take away more than just delicious food.</description>
+      <dc:creator>Jennifer Steinhauer and Pete Wells</dc:creator>
+      <pubDate>Thu, 07 May 2020 17:46:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Providence (RI)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Louis (Mo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Detroit (Mich)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Asheville (NC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/us/politics/00dc-virus-foodcity1-copy/00dc-virus-foodcity1-copy-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Whitney Curtis for The New York Times</media:credit>
+      <media:description>Olio, an Italian restaurant in St. Louis, was converted from an old gas station.</media:description>
     </item>
     <item>
       <title>His Day Job: Cory Booker’s Top Aide. His Night One: E.M.S. Volunteer.</title>
@@ -285,7 +502,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/07/us/new-york-city-coronavirus-outbreak.html" rel="standout"></atom:link>
       <description>The coronavirus outbreak in New York City became the primary source of infections around the United States, researchers have found.</description>
       <dc:creator>Benedict Carey and James Glanz</dc:creator>
-      <pubDate>Thu, 07 May 2020 17:27:52 +0000</pubDate>
+      <pubDate>Thu, 07 May 2020 19:23:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
@@ -310,31 +527,31 @@
       <media:description>UnitedHealth Group has decided to return a part of its profits during the pandemic to enrollees.</media:description>
     </item>
     <item>
-      <title>Coronavirus World News: Live Updates</title>
+      <title>Global Tracker: U.K., India, Russia</title>
       <link>https://www.nytimes.com/2020/05/07/world/coronavirus-news.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/world/coronavirus-news.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/07/world/coronavirus-news.html" rel="standout"></atom:link>
-      <description>The United Nations tripled the size of its humanitarian aid appeal, citing a global food shortage created by the virus. In India, a lethal gas leak may have resulted from a rush to reopen a chemical plant.</description>
-      <pubDate>Thu, 07 May 2020 16:57:26 +0000</pubDate>
+      <description>Poland has postponed its presidential election amid debate over how to conduct voting safely. In India, a lethal gas leak may have resulted from a rush to reopen a chemical plant.</description>
+      <pubDate>Thu, 07 May 2020 20:21:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/07/world/07virus-int-briefing-tourism/07virus-int-briefing-tourism-moth.jpg" width="151"></media:content>
-      <media:credit>Samuel Aranda for The New York Times</media:credit>
-      <media:description>A beach in Barcelona, Spain, was empty last month.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/07/world/07virus-int-briefing-ukrace/07virus-int-briefing-ukrace-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Police guards outside St. Thomas Hospital in London last month.</media:description>
     </item>
     <item>
-      <title>3.2 Million Filed for Unemployment Benefits Last Week: Live Updates</title>
+      <title>Stocks Rise With Tech Index Now Up for 2020: Live Updates</title>
       <link>https://www.nytimes.com/2020/05/07/business/stock-market-today-coronavirus.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/07/business/stock-market-today-coronavirus.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/07/business/stock-market-today-coronavirus.html" rel="standout"></atom:link>
       <description>The latest on stock market and business news during the coronavirus outbreak.</description>
-      <pubDate>Thu, 07 May 2020 17:26:56 +0000</pubDate>
+      <pubDate>Thu, 07 May 2020 20:38:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/21/business/00Neimans-bankrupt/00Neimans-bankrupt-moth.jpg" width="151"></media:content>
-      <media:credit>Karsten Moran for The New York Times</media:credit>
-      <media:description>Neiman Marcus was forced to close its 43 stores across the country because of the pandemic.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/07/business/07virus-markets-brieifng-sba/merlin_171375483_e8b19f7d-9ac5-43a8-b20f-bedb4f5030c0-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump with Steven Mnuchin, the Treasury secretary, during a meeting on small businesses at the White House last month.</media:description>
     </item>
     <item>
       <title>Brett Favre to Repay $1.1 Million for Speeches He Didn’t Make, Auditor Says</title>
@@ -343,7 +560,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/06/us/Brett-Favre-speeches-money.html" rel="standout"></atom:link>
       <description>The Hall of Fame quarterback was the unknowing recipient of money intended to help needy families in his home state, Mississippi, officials said.</description>
       <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Thu, 07 May 2020 03:46:08 +0000</pubDate>
+      <pubDate>Thu, 07 May 2020 18:54:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embezzlement</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mississippi Community Education Center</category>
@@ -388,7 +605,7 @@
       <dc:creator>Patrick J. Lyons</dc:creator>
       <pubDate>Thu, 07 May 2020 00:04:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v383.png" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v385.png" width="151"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -527,195 +744,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/06/multimedia/06xp-shooting/06xp-shooting-moth.jpg" width="151"></media:content>
       <media:credit>Sheyanne N Romero/The Times-Delta, via Associated Press</media:credit>
       <media:description>A damaged fence outside Golden West High School in Visalia, Calif. Three teenagers, none of whom were students at the school, were killed in a shooting in the parking lot there on Tuesday night.</media:description>
-    </item>
-    <item>
-      <title>Democrats Press Judicial Nominee, a McConnell Protégé, on Health Care Views</title>
-      <link>https://www.nytimes.com/2020/05/06/us/justin-walker-confirmation-hearing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/06/us/justin-walker-confirmation-hearing.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/06/us/justin-walker-confirmation-hearing.html" rel="standout"></atom:link>
-      <description>Judge Justin Walker seems headed for confirmation to an important appeals court despite concerns by critics that he would help unravel the Affordable Care Act.</description>
-      <dc:creator>Carl Hulse</dc:creator>
-      <pubDate>Wed, 06 May 2020 20:36:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Patient Protection and Affordable Care Act (2010)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appeals Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Justin R</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/06/us/politics/06dc-walker2/06dc-walker2-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>Senator Mitch McConnell, Republican of Kentucky and the majority leader, has known Judge Walker since the judge was in high school.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Makes Cooling Centers Risky, Just as Scorching Weather Hits</title>
-      <link>https://www.nytimes.com/2020/05/06/climate/coronavirus-climate-change-heat-waves.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/06/climate/coronavirus-climate-change-heat-waves.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/06/climate/coronavirus-climate-change-heat-waves.html" rel="standout"></atom:link>
-      <description>Officials are scrambling to find ways to protect residents against dueling threats of extreme heat and the coronavirus.</description>
-      <dc:creator>Christopher Flavelle</dc:creator>
-      <pubDate>Wed, 06 May 2020 23:08:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Temperature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Phoenix (Ariz)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Richmond (Va)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/06/climate/06cli-virus-heat6/06cli-virus-heat6-moth.jpg" width="151"></media:content>
-      <media:credit>Ozier Muhammad/The New York Times</media:credit>
-      <media:description>American cities traditionally rely on cooling centers  to protect the most vulnerable. Above, a center for older people near Times Square in 2006. </media:description>
-    </item>
-    <item>
-      <title>Israeli High Court Lets Netanyahu Form Government, Despite Indictments</title>
-      <link>https://www.nytimes.com/2020/05/06/world/middleeast/israel-netanyahu-court.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/06/world/middleeast/israel-netanyahu-court.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/06/world/middleeast/israel-netanyahu-court.html" rel="standout"></atom:link>
-      <description>The court ruling clears the last major obstacle to Mr. Netanyahu’s claiming a record fifth term as Israel’s leader.</description>
-      <dc:creator>David M. Halbfinger and Adam Rasgon</dc:creator>
-      <pubDate>Wed, 06 May 2020 22:55:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gantz, Benny</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/01/world/06israel-sub/29ISRAEL-CHALLENGES2-moth.jpg" width="151"></media:content>
-      <media:credit>Dan Balilty for The New York Times</media:credit>
-      <media:description>Prime Minister Benjamin Netanyahu of Israel during an event in Kiryat Arba, an Israeli settlement in the West Bank, in February.</media:description>
-    </item>
-    <item>
-      <title>To Fight Virus in Prisons, C.D.C. Suggests More Screenings</title>
-      <link>https://www.nytimes.com/2020/05/06/health/coronavirus-prisons-cdc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/06/health/coronavirus-prisons-cdc.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/06/health/coronavirus-prisons-cdc.html" rel="standout"></atom:link>
-      <description>The Centers for Disease Control and Prevention confirmed that detention facilities are hot spots for infection and recommended regular symptom screenings.</description>
-      <dc:creator>David Waldstein</dc:creator>
-      <pubDate>Wed, 06 May 2020 21:17:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/06/arts/06virus-cdc-prisons/06virus-cdc-prisons-moth.jpg" width="151"></media:content>
-      <media:credit>Sandy Huffaker/Agence France-Presse — Getty Images</media:credit>
-      <media:description>An inmate cleaning a jail cell at Las Colinas Women’s Detention Facility in Santee, Calif., last month.</media:description>
-    </item>
-    <item>
-      <title>Auto Plant Shutdown Spares an Essential: Corvette Parts</title>
-      <link>https://www.nytimes.com/2020/05/06/business/coronavirus-corvette-gm.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/06/business/coronavirus-corvette-gm.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/06/business/coronavirus-corvette-gm.html" rel="standout"></atom:link>
-      <description>Big U.S. automakers have kept the lights on at a few factories, including a General Motors plant in Indiana making the Corvette chassis.</description>
-      <dc:creator>Noam Scheiber</dc:creator>
-      <pubDate>Wed, 06 May 2020 23:02:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Automobile Workers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Motors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bowling Green (Ky)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bedford (Ind)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/06/business/06virus-corvette5/06virus-corvette5-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Kaiti Sullivan for The New York Times</media:credit>
-      <media:description>The General Motors plant in Bedford, Ind., makes chassis for Chevrolet Corvettes.</media:description>
-    </item>
-    <item>
-      <title>Are You Paying Extra for Eggs? Lawsuits Accuse Producers of Price Gouging</title>
-      <link>https://www.nytimes.com/2020/05/06/us/coronavirus-eggs-price-gouging-lawsuit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/06/us/coronavirus-eggs-price-gouging-lawsuit.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/06/us/coronavirus-eggs-price-gouging-lawsuit.html" rel="standout"></atom:link>
-      <description>Separate lawsuits in California and Texas contend that egg producers or supermarkets charged excessive, illegal prices for eggs amid the coronavirus pandemic.</description>
-      <dc:creator>Neil MacFarquhar</dc:creator>
-      <pubDate>Thu, 07 May 2020 13:52:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eggs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Price Gouging</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cal Maine Foods Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Costco Wholesale Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Whole Foods Market Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/05/us/05VIRUS-EGGS/05VIRUS-EGGS-moth.jpg" width="151"></media:content>
-      <media:credit>Kirby Lee, via Associated Press</media:credit>
-      <media:description>Eggs have been in high demand during the coronavirus pandemic. The average wholesale price for Grade A large eggs surged from $1.01 to $3.07 per dozen in March, according to the U.S. Department of Agriculture. </media:description>
-    </item>
-    <item>
-      <title>The Compost by My Couch: How (and Why) I Started an Odorless Bin at Home</title>
-      <link>https://www.nytimes.com/2020/05/06/climate/new-york-coronavirus-composting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/06/climate/new-york-coronavirus-composting.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/06/climate/new-york-coronavirus-composting.html" rel="standout"></atom:link>
-      <description>New York City has suspended its composting program because of the coronavirus. Here’s an alternative that’s easy, clean and good for the climate.</description>
-      <dc:creator>Hiroko Tabuchi</dc:creator>
-      <pubDate>Thu, 07 May 2020 00:57:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compost</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/06/climate/06CLI-COMPOST/06CLI-COMPOST-moth.jpg" width="151"></media:content>
-      <media:credit>Stephen Groves/Associated Press</media:credit>
-      <media:description>An organic waste bin in New York. The city has stopped collecting compost because of budget cuts related to the coronavirus pandemic.</media:description>
-    </item>
-    <item>
-      <title>Did a Mutation Turbocharge the Coronavirus? Not Likely, Scientists Say</title>
-      <link>https://www.nytimes.com/2020/05/06/health/coronavirus-mutation-transmission.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/06/health/coronavirus-mutation-transmission.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/06/health/coronavirus-mutation-transmission.html" rel="standout"></atom:link>
-      <description>A preliminary report posted online claimed that a mutation had made the virus more transmissible. Geneticists say the evidence isn’t there.</description>
-      <dc:creator>Carl Zimmer</dc:creator>
-      <pubDate>Wed, 06 May 2020 19:12:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evolution (Biology)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Academic and Scientific Journals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/06/science/06VIRUS-MUTATIONS/06VIRUS-MUTATIONS-moth.jpg" width="151"></media:content>
-      <media:credit>National Institute of Allergy and Infectious Diseases, via Reuters</media:credit>
-      <media:description>A colored scanning electron micrograph of a dying cell infected with the coronavirus, with viral particles in red.</media:description>
-    </item>
-    <item>
-      <title>A Place in the U.S. With No Covid-19? Look to American Samoa.</title>
-      <link>https://www.nytimes.com/2020/05/06/us/coronavirus-american-samoa.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/06/us/coronavirus-american-samoa.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/06/us/coronavirus-american-samoa.html" rel="standout"></atom:link>
-      <description>The territory, which has sealed itself off from the outside world, has no confirmed cases.</description>
-      <dc:creator>Simon Romero</dc:creator>
-      <pubDate>Thu, 07 May 2020 13:53:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Measles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">American Samoa</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/05/us/00VIRUS-SAMOA-top/00VIRUS-SAMOA-top-moth.jpg" width="151"></media:content>
-      <media:credit>Gabby Fa&#39;ai&#39;uaso for The New York Times</media:credit>
-      <media:description>Some credit American Samoa’s good fortune to its enduring memories of the 1918 influenza epidemic, which wiped out much of neighboring Samoa’s population.</media:description>
-    </item>
-    <item>
-      <title>Supreme Court Divided Over Obamacare’s Contraceptive Mandate</title>
-      <link>https://www.nytimes.com/2020/05/06/us/politics/supreme-court-obamacare-contraception.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/06/us/politics/supreme-court-obamacare-contraception.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/06/us/politics/supreme-court-obamacare-contraception.html" rel="standout"></atom:link>
-      <description>The justices considered whether the Trump administration may allow employers to refuse to provide free insurance coverage for birth control on religious or moral grounds.</description>
-      <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Wed, 06 May 2020 17:46:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Control and Family Planning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Preventive Medicine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Patient Protection and Affordable Care Act (2010)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Religion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Little Sisters of the Poor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/06/us/politics/06dc-scotus/06dc-scotus-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Ruth Fremson/The New York Times</media:credit>
-      <media:description>About 70,000 to 126,000 women could lose contraceptive coverage from their employers if the Trump administration prevails.</media:description>
     </item>
   </channel>
 </rss>
