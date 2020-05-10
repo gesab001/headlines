@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 09 May 2020 19:46:35 +0000</lastBuildDate>
-    <pubDate>Sat, 09 May 2020 19:46:35 +0000</pubDate>
+    <lastBuildDate>Sun, 10 May 2020 07:51:49 +0000</lastBuildDate>
+    <pubDate>Sun, 10 May 2020 07:51:49 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -19,12 +19,11 @@
       <link>https://www.nytimes.com/2020/05/09/us/coronavirus-news-updates.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/09/us/coronavirus-news-updates.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/09/us/coronavirus-news-updates.html" rel="standout"></atom:link>
-      <description>Three children have died of a mysterious syndrome linked to the virus. President Trump’s support among seniors slips as the pandemic becomes more political.</description>
-      <pubDate>Sat, 09 May 2020 18:34:35 +0000</pubDate>
+      <description>Three children have died of a mysterious syndrome linked to the virus. Trump’s support among seniors slips as the pandemic becomes more political.</description>
+      <pubDate>Sun, 10 May 2020 04:05:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/09/world/09virus-us-briefing-nursinghome/09virus-us-briefing-nursinghome-moth.jpg" width="151"></media:content>
-      <media:credit>Gregg Vigliotti for The New York Times</media:credit>
-      <media:description>A care facility in Andover, N.J., last month.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v397.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>The Coronavirus Is Widening the Class Divide in Education</title>
@@ -66,6 +65,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mount Vernon (Wash)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/08/us/00VIRUS-TULIPS-still2/merlin_172188732_87c0da9b-c8c5-46d5-93e3-5f07d4800556-moth.jpg" width="151"></media:content>
+      <media:credit>Ruth Fremson/The New York Times</media:credit>
       <media:description>Fields of flowers at Tulip Town in Mt. Vernon, Wash., late last month.</media:description>
     </item>
     <item>
@@ -88,13 +88,72 @@
       <media:description>A rally in Brunswick, Ga., on Friday to protest the fatal shooting of Ahmaud Arbery.</media:description>
     </item>
     <item>
+      <title>Coronavirus World Tracker</title>
+      <link>https://www.nytimes.com/2020/05/10/world/coronavirus-news.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/10/world/coronavirus-news.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/10/world/coronavirus-news.html" rel="standout"></atom:link>
+      <description>The officials, including Dr. Anthony Fauci, were exposed to people who were infected with the coronavirus. China’s new cluster is highlighting the challenge of controlling the pandemic.</description>
+      <pubDate>Sun, 10 May 2020 06:55:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v397.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Teenager Finds $135,000 in Cash in a Bag and Returns It</title>
+      <link>https://www.nytimes.com/2020/05/09/us/atm-cash-135000-albuquerque-police.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/09/us/atm-cash-135000-albuquerque-police.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/09/us/atm-cash-135000-albuquerque-police.html" rel="standout"></atom:link>
+      <description>Jose Nuñez Romaniz, a criminal justice student, turned over the money to officials and was invited to apply for an entry-level job at the Albuquerque Police Department.</description>
+      <dc:creator>Mariel Padilla</dc:creator>
+      <pubDate>Sun, 10 May 2020 01:43:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nunez Romaniz, Jose</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automated Teller Machines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wells Fargo &amp; Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albuquerque (NM)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Altruism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Good Samaritans</category>
+    </item>
+    <item>
+      <title>Divorcing Parents Have a Right to Post Their Stories Online, Court Says</title>
+      <link>https://www.nytimes.com/2020/05/09/us/divorcing-parents-have-right-to-post-court-says.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/09/us/divorcing-parents-have-right-to-post-court-says.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/09/us/divorcing-parents-have-right-to-post-court-says.html" rel="standout"></atom:link>
+      <description>A ruling in Massachusetts finds that involuntary nondisparagement orders, commonly used to keep spouses from discussing their cases on social media, are unconstitutional.</description>
+      <dc:creator>Ellen Barry</dc:creator>
+      <pubDate>Sat, 09 May 2020 21:11:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Divorce, Separations and Annulments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Massachusetts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/09/us/00divorce/00divorce-moth.jpg" width="151"></media:content>
+      <media:credit>Nate Raymond/Reuters</media:credit>
+      <media:description>The Massachusetts Supreme Judicial Court in Boston.</media:description>
+    </item>
+    <item>
+      <title>A First Among Gerber Babies: She’s Adopted</title>
+      <link>https://www.nytimes.com/2020/05/09/us/gerber-baby-adopted.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/09/us/gerber-baby-adopted.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/09/us/gerber-baby-adopted.html" rel="standout"></atom:link>
+      <description>Magnolia Earl, a 1-year-old from California, was selected from among more than 327,000 entrants to represent Gerber in marketing campaigns.</description>
+      <dc:creator>Johnny Diaz</dc:creator>
+      <pubDate>Sat, 09 May 2020 20:17:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gerber Products Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baby Foods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Earl, Magnolia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adoptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contests and Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+    </item>
+    <item>
       <title>For Michael Flynn, Dropped Charges Latest in Life Full of Reversals</title>
       <link>https://www.nytimes.com/2020/05/09/us/politics/michael-flynn.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/09/us/politics/michael-flynn.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/09/us/politics/michael-flynn.html" rel="standout"></atom:link>
-      <description>For most of his life, Michael Flynn has swung from being “a good soldier” to committing radical disruptions.</description>
+      <description>For most of his life, Michael Flynn has swung from being “a good soldier” to an agent of disruption.</description>
       <dc:creator>Sharon LaFraniere and Julian E. Barnes</dc:creator>
-      <pubDate>Sat, 09 May 2020 19:40:14 +0000</pubDate>
+      <pubDate>Sat, 09 May 2020 20:57:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -114,23 +173,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/09/us/politics/09dc-flynn1/09dc-flynn1-moth.jpg" width="151"></media:content>
       <media:credit>Sam Hodgson for The New York Times</media:credit>
       <media:description>The Justice Department abruptly dropped charges against President Trump’s former national security adviser Michael T. Flynn.</media:description>
-    </item>
-    <item>
-      <title>For the First Time in Decades, This Recession Is a ‘Shecession’</title>
-      <link>https://www.nytimes.com/2020/05/09/us/unemployment-coronavirus-women.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/09/us/unemployment-coronavirus-women.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/09/us/unemployment-coronavirus-women.html" rel="standout"></atom:link>
-      <description>A majority of the jobs lost in April were held by women, a sharp reversal of gains in the labor market.</description>
-      <dc:creator>Alisha Haridasani Gupta</dc:creator>
-      <pubDate>Sat, 09 May 2020 18:10:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/09/multimedia/09ihw-employment1/09ihw-employment1-moth-v3.jpg" width="151"></media:content>
-      <media:credit>John Locher/Associated Press</media:credit>
-      <media:description>People waited in line for help with unemployment benefits at the One-Stop Career Center in Las Vegas in March.</media:description>
     </item>
     <item>
       <title>Snow and Cold in May: A &#39;Nerve-Racking&#39; Time for Growers</title>
@@ -159,7 +201,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/09/health/antigen-testing-fda-coronavirus.html" rel="standout"></atom:link>
       <description>The test offers medical workers and health authorities an inexpensive tool for fast, mass screening.</description>
       <dc:creator>Andrew Jacobs</dc:creator>
-      <pubDate>Sat, 09 May 2020 16:51:43 +0000</pubDate>
+      <pubDate>Sun, 10 May 2020 00:29:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
@@ -167,6 +209,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Quidel Corporation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/10/us/politics/10virus-test-fda/10virus-test-fda-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Jacquelyn Martin/Associated Press</media:credit>
+      <media:description>The Quidel test, which received an emergency use authorization from the F.D.A., uses specimens collected from nasal swabs that can be processed only by the company’s instruments.</media:description>
     </item>
     <item>
       <title>Andre Harrell, Executive Who Bridged Hip-Hop and R&amp;B, Dies at 59</title>
@@ -176,12 +221,11 @@
       <description>He founded the influential label Uptown Records and gave a first break to Sean Combs, who would go on to become one of hip-hop’s signature moguls.</description>
       <dc:creator>Jon Caramanica</dc:creator>
       <pubDate>Sat, 09 May 2020 15:16:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andre Harrell</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harrell, Andre</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uptown Records</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rhythm and Blues (Music)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Combs, Sean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uptown Records (Record Label)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/09/arts/09harrell/merlin_141718788_7700a691-aa65-4682-93f1-498a44d30ddb-moth.jpg" width="151"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>The music executive Andre Harrell in an undated photo. He helped build the careers of Mary J. Blige, Jodeci, Al B. Sure!, Guy and many others.</media:description>
@@ -203,13 +247,38 @@
       <media:description>The newsroom of Xinhua News Agency in New York City in 2011.</media:description>
     </item>
     <item>
+      <title>Hospitals Struggle to Restart Lucrative Elective Care After Coronavirus Shutdowns</title>
+      <link>https://www.nytimes.com/2020/05/09/health/hospitals-coronavirus-reopening.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/09/health/hospitals-coronavirus-reopening.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/09/health/hospitals-coronavirus-reopening.html" rel="standout"></atom:link>
+      <description>The nation’s medical centers were forced to stop offering many surgeries, and sustained severe financial losses. Reopening is a daunting task amid the threat of more infection.</description>
+      <dc:creator>Reed Abelson</dc:creator>
+      <pubDate>Sat, 09 May 2020 14:39:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Patient Protection and Affordable Care Act (2010)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Hospital Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oregon Health and Science University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/10/science/10virus-hospital-print1/09VIRUS-HOSPITALS1-moth.jpg" width="151"></media:content>
+      <media:credit>Shannon Stapleton/Reuters</media:credit>
+      <media:description>Roseland Community Hospital in Chicago last month. Hospitals are furloughing workers amid industry losses that total as much as $50 billion a month.</media:description>
+    </item>
+    <item>
       <title>Sister Fights to Free Uighur Businessman Held in China After U.S. Trip</title>
       <link>https://www.nytimes.com/2020/05/09/us/politics/china-uighurs-arrest.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/09/us/politics/china-uighurs-arrest.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/09/us/politics/china-uighurs-arrest.html" rel="standout"></atom:link>
       <description>Ekpar Asat came to the United States for the State Department’s most prestigious program for foreign citizens. Chinese security officers detained him weeks after he returned home.</description>
       <dc:creator>Edward Wong</dc:creator>
-      <pubDate>Sat, 09 May 2020 18:01:10 +0000</pubDate>
+      <pubDate>Sat, 09 May 2020 21:56:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Uighurs (Chinese Ethnic Group)</category>
@@ -228,13 +297,34 @@
       <media:description>Mr. Asat disappeared within three weeks of returning to China.</media:description>
     </item>
     <item>
+      <title>Anxious About the Virus, Older Voters Grow More Wary of Trump</title>
+      <link>https://www.nytimes.com/2020/05/09/us/politics/trump-older-voters-2020.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/09/us/politics/trump-older-voters-2020.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/09/us/politics/trump-older-voters-2020.html" rel="standout"></atom:link>
+      <description>Surveys show the president’s standing with seniors, the group most vulnerable to the coronavirus, has fallen as he pushes to reopen the country.</description>
+      <dc:creator>Annie Karni and Maggie Haberman</dc:creator>
+      <pubDate>Sat, 09 May 2020 09:00:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parscale, Brad (1976- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/07/us/politics/07-Trump-oldervoters-1/merlin_171764802_72f36172-3af8-4a4d-ad2c-f5fbd8f7c556-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Officials said they attributed the shifting views of older voters at least in part to President Trump’s coronavirus briefings.</media:description>
+    </item>
+    <item>
       <title>Nightly Applause Is Nice, but Some Doctors Think Votes Would Be Nicer</title>
       <link>https://www.nytimes.com/2020/05/09/us/politics/doctor-politicians-coronavirus.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/09/us/politics/doctor-politicians-coronavirus.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/09/us/politics/doctor-politicians-coronavirus.html" rel="standout"></atom:link>
       <description>“My day job is talking people into getting colonoscopies,” one doctor said. So how much harder could the campaign trail be?</description>
       <dc:creator>Emma Goldberg</dc:creator>
-      <pubDate>Sat, 09 May 2020 09:00:22 +0000</pubDate>
+      <pubDate>Sat, 09 May 2020 09:00:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -253,17 +343,17 @@
       <description>For 50 years, Andy Beckstoffer drove up the price of wine. Did the strategy work too well?</description>
       <dc:creator>Ben Ryder Howe</dc:creator>
       <pubDate>Sat, 09 May 2020 09:00:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beckstoffer, Andy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beckstoffer, Andy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beckstoffer Vineyards (Rutherford, Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Napa (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Millennial Generation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beckstoffer Vineyards</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/10/business/08BECKSTOFFER-01/08BECKSTOFFER-01-moth.jpg" width="151"></media:content>
       <media:credit>Cayce Clifford for The New York Times</media:credit>
       <media:description>Andy Beckstoffer in Rutherford, Calif. Napa Valley has unquestionably the best American terroir, and within it, the choicest land has his name on a billboard next to it.</media:description>
@@ -307,349 +397,12 @@
       <link>https://www.nytimes.com/2020/05/09/world/live-coronavirus-news.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/09/world/live-coronavirus-news.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/09/world/live-coronavirus-news.html" rel="standout"></atom:link>
-      <description>Gulf states’ reliance on vast numbers of foreign workers is being shaken. Europe braces for clashes over cutting emissions and reopening economies.</description>
-      <pubDate>Sat, 09 May 2020 18:44:31 +0000</pubDate>
+      <description>A new cluster of cases in Seoul tests South Korea’s easing. Belarus held a tank parade.</description>
+      <pubDate>Sun, 10 May 2020 04:12:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/09/world/09virus-int-briefing-skorea/merlin_172261179_d98f13f3-d82f-4214-95a1-bf917513291f-moth.jpg" width="151"></media:content>
       <media:credit>Woohae Cho for The New York Times</media:credit>
       <media:description>Partitions at dining-hall tables in Suwon, South Korea, are in keeping with recommendations from the country’s task force of economists, sociologists and infectious-disease experts.</media:description>
-    </item>
-    <item>
-      <title>2 Arrested in Fatal Shooting of Family Dollar Guard in Flint, Mich. </title>
-      <link>https://www.nytimes.com/2020/05/08/us/coronavirus-masks-dollar-store-shooting-flint-Michigan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/us/coronavirus-masks-dollar-store-shooting-flint-Michigan.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/us/coronavirus-masks-dollar-store-shooting-flint-Michigan.html" rel="standout"></atom:link>
-      <description>The authorities said the two men had been sought since May 1 in the shooting death of a security guard at the store in Flint, Mich.</description>
-      <dc:creator>Christopher Mele</dc:creator>
-      <pubDate>Sat, 09 May 2020 01:13:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Family Dollar Stores Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Guards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Flint (Mich)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Teague, Larry E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bishop, Ramonyea T</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Munerlyn, Calvin (d 2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bishop, Brya S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Teague, Sharmel</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/08/multimedia/08xp-virus-mask-arrests-image/08xp-virus-mask-arrests-image-moth.jpg" width="151"></media:content>
-      <media:credit>U.S. Marshals Service</media:credit>
-      <media:description>Ramonyea T. Bishop, 23, left, and Larry E. Teague, 44, face felony premeditated murder and firearms charges.</media:description>
-    </item>
-    <item>
-      <title>No Charges for Parents of 5-Year-Old Who Took to the Highway in an S.U.V.</title>
-      <link>https://www.nytimes.com/2020/05/08/us/utah-boy-highway-lamborghini.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/us/utah-boy-highway-lamborghini.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/us/utah-boy-highway-lamborghini.html" rel="standout"></atom:link>
-      <description>The couple were at work and had no idea that their son had sneaked out while his teenage sister watched him, a prosecutor said on Friday.</description>
-      <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Sat, 09 May 2020 00:39:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Automobili Lamborghini SpA</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ogden (Utah)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/05/multimedia/05xp-driver/05xp-driver-moth.jpg" width="151"></media:content>
-      <media:credit>Utah Highway Patrol</media:credit>
-      <media:description>An image from dash cam video of a trooper pulling over a 5-year-old.</media:description>
-    </item>
-    <item>
-      <title>Georgia Killing Puts Spotlight on a Police Force’s Troubled History</title>
-      <link>https://www.nytimes.com/2020/05/08/us/glynn-county-police-ahmaud-arbery.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/us/glynn-county-police-ahmaud-arbery.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/us/glynn-county-police-ahmaud-arbery.html" rel="standout"></atom:link>
-      <description>The shooting death of Ahmaud Arbery has renewed criticism of the police agency that released the two suspects. They were charged by the state months later.</description>
-      <dc:creator>Rick Rojas, Richard Fausset and Serge F. Kovaleski</dc:creator>
-      <pubDate>Sat, 09 May 2020 14:11:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arbery, Ahmaud (1994-2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMichael, Gregory (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMichael, Travis (1986- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brunswick (Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Glynn County Police Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/08/us/08GEORGIA-FORCE/08GEORGIA-FORCE-moth.jpg" width="151"></media:content>
-      <media:credit>Dustin Chambers/Reuters</media:credit>
-      <media:description>A cross near the Georgia neighborhood where Ahmaud Arbery, a black man, was fatally shot in February after being chased by a white former police officer and his son.</media:description>
-    </item>
-    <item>
-      <title>A Drug Cocktail Hastens Recovery in Some Coronavirus Patients</title>
-      <link>https://www.nytimes.com/2020/05/08/health/coronavirus-drug-treatment.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/health/coronavirus-drug-treatment.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/health/coronavirus-drug-treatment.html" rel="standout"></atom:link>
-      <description>A combination of three antiviral drugs, including interferon, seemed to speed recovery, researchers reported.</description>
-      <dc:creator>Roni Caryn Rabin</dc:creator>
-      <pubDate>Sat, 09 May 2020 01:08:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interferon Beta (Drugs)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">SARS (Severe Acute Respiratory Syndrome)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Hong Kong</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/08/us/politics/08virus-drugs/08virus-drugs-moth.jpg" width="151"></media:content>
-      <media:credit>Fabio Bucciarelli for The New York Times</media:credit>
-      <media:description>Patients with Covid-19 hospitalized in Argentina. In a new study, those receiving a triple-drug treatment in Hong Kong improved more quickly than those in a comparison group, researchers reported on Friday.</media:description>
-    </item>
-    <item>
-      <title>Ahmaud Arbery Video Was Leaked by a Lawyer Who Consulted With Suspects</title>
-      <link>https://www.nytimes.com/2020/05/08/us/ahmaud-arbery-video-lawyer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/us/ahmaud-arbery-video-lawyer.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/us/ahmaud-arbery-video-lawyer.html" rel="standout"></atom:link>
-      <description>The lawyer, Alan Tucker, declined to comment on his conversations with the suspects, citing attorney-client privilege. He later said he would not be representing them.</description>
-      <dc:creator>Sarah Mervosh</dc:creator>
-      <pubDate>Fri, 08 May 2020 23:38:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arbery, Ahmaud (1994-2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMichael, Gregory (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMichael, Travis (1986- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brunswick (Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tucker, Alan (Attorney)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/08/us/08GA-lawyer2/merlin_172329615_25ac802f-6221-4bef-a392-c30a64be0762-moth.jpg" width="151"></media:content>
-      <media:credit>Sean Rayford/Getty Images</media:credit>
-      <media:description>Demonstrators holding signs Friday at a memorial for Ahmaud Arbery in Brunswick, Ga., near where he was shot and killed in February.</media:description>
-    </item>
-    <item>
-      <title>Chief Justice Roberts Rejects Request for Inquiry into D.C. Appeals Court Vacancy</title>
-      <link>https://www.nytimes.com/2020/05/08/us/roberts-appeals-court-vacancy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/us/roberts-appeals-court-vacancy.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/us/roberts-appeals-court-vacancy.html" rel="standout"></atom:link>
-      <description>The top circuit court judge had asked the complaint be transferred and investigated, but the chief justice’s office said it did not qualify.</description>
-      <dc:creator>Carl Hulse</dc:creator>
-      <pubDate>Fri, 08 May 2020 23:37:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griffith, Thomas B</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Justin R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Srinivasan, Sri</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/08/us/politics/08dc-judge-image/08dc-judge-image-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Jonathan Ernst</media:credit>
-      <media:description>Judge Justin Walker is sworn in prior to testifying before a Senate Judiciary Committee hearing on Walker&#39;s nomination to be a U.S. circuit judge for the District of Columbia Circuit on Capitol Hill in Washington, Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Two White House Coronavirus Cases Raise Question of if Anyone Is Really Safe</title>
-      <link>https://www.nytimes.com/2020/05/08/us/politics/white-house-coronavirus-safety.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/us/politics/white-house-coronavirus-safety.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/us/politics/white-house-coronavirus-safety.html" rel="standout"></atom:link>
-      <description>If it is so hard to maintain a healthy environment at 1600 Pennsylvania Avenue, then how can businesses across the country establish a safe space for their workers?</description>
-      <dc:creator>Peter Baker and Michael Crowley</dc:creator>
-      <pubDate>Sat, 09 May 2020 03:34:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Secret Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McEnany, Kayleigh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Stephen (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pence, Mike</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Katie Rose</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/08/us/politics/08dc-virus-memo1/08dc-virus-memo1-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>Reporters listening to Larry Kudlow speak on Friday outside the White House.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Briefing: What Happened Today</title>
-      <link>https://www.nytimes.com/2020/05/08/us/coronavirus-today.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/us/coronavirus-today.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/us/coronavirus-today.html" rel="standout"></atom:link>
-      <description>The coronavirus is not going to simply vanish after restrictions are lifted — instead, it may come back in waves.</description>
-      <dc:creator>Jonathan Wolfe and Lara Takenaga</dc:creator>
-      <pubDate>Fri, 08 May 2020 23:33:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v394.png" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Dropping of Michael Flynn Case Heightens Fear of Justice Dept. Politicization</title>
-      <link>https://www.nytimes.com/2020/05/08/us/politics/barr-flynn-case-justice-department.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/us/politics/barr-flynn-case-justice-department.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/us/politics/barr-flynn-case-justice-department.html" rel="standout"></atom:link>
-      <description>Across the country, rank-and-file prosecutors cringed at another extraordinary intervention by Attorney General William P. Barr.</description>
-      <dc:creator>Katie Benner and Charlie Savage</dc:creator>
-      <pubDate>Sat, 09 May 2020 01:36:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flynn, Michael T</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wray, Christopher A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shea, Timothy J (1960- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/08/us/politics/08dc-barr/08dc-barr-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>Attorney General William P. Barr has consistently sided with President Trump on politically-tinged issues.</media:description>
-    </item>
-    <item>
-      <title>Overlooked No More: June Almeida, Scientist Who Identified the First Coronavirus</title>
-      <link>https://www.nytimes.com/2020/05/08/obituaries/june-almeida-overlooked-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/obituaries/june-almeida-overlooked-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/obituaries/june-almeida-overlooked-coronavirus.html" rel="standout"></atom:link>
-      <description>In 1966, she used a powerful electron microscope to capture an image of a mysterious pathogen — the first coronavirus known to cause human disease.</description>
-      <dc:creator>Denise Gellene</dc:creator>
-      <pubDate>Fri, 08 May 2020 23:58:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biographical Information</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Microbiology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Almeida, June (1930-2007)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/05/obituaries/00overlooked-almeida/00Almeida-moth.jpg" width="151"></media:content>
-      <media:credit>Norman James/Toronto Star, via Getty Images</media:credit>
-      <media:description>June Almeida in 1963 at the Ontario Cancer Institute in Toronto. In her day she gained a reputation for “extending the range of the electron microscope to new limits.”</media:description>
-    </item>
-    <item>
-      <title>Motoko Fujishiro Huthwaite, 92, Last of the ‘Monuments Women,’ Dies</title>
-      <link>https://www.nytimes.com/2020/05/08/us/motoko-fujishiro-huthwaite-dead-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/us/motoko-fujishiro-huthwaite-dead-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/us/motoko-fujishiro-huthwaite-dead-coronavirus.html" rel="standout"></atom:link>
-      <description>An American who was sent to Japan after Pearl Harbor, she was one of 345 people from 14 countries who helped preserve cultural treasures.</description>
-      <dc:creator>Katharine Q. Seelye</dc:creator>
-      <pubDate>Sat, 09 May 2020 17:30:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huthwaite, Motoko Fujishiro (1927-2020)</category>
-    </item>
-    <item>
-      <title>In Michael Flynn Case, William Barr Again Takes Aim at Robert Mueller Inquiry</title>
-      <link>https://www.nytimes.com/2020/05/08/us/politics/barr-mueller-investigation-flynn.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/us/politics/barr-mueller-investigation-flynn.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/us/politics/barr-mueller-investigation-flynn.html" rel="standout"></atom:link>
-      <description>The Justice Department’s move was the latest example of the attorney general’s effort to chisel away at the special counsel investigation and emphasize an alternate narrative.</description>
-      <dc:creator>Mark Mazzetti</dc:creator>
-      <pubDate>Fri, 08 May 2020 23:31:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durham, John H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flynn, Michael T</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/08/us/politics/08dc-mueller1/08dc-mueller1-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>The investigation by Robert S. Mueller III revealed a historic campaign by Russia to sabotage the 2016 presidential election.</media:description>
-    </item>
-    <item>
-      <title>Tesla Tells Workers It Will Reopen California Factory Despite County Order</title>
-      <link>https://www.nytimes.com/2020/05/08/business/economy/tesla-coronavirus-factory-alameda.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/business/economy/tesla-coronavirus-factory-alameda.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/business/economy/tesla-coronavirus-factory-alameda.html" rel="standout"></atom:link>
-      <description>The electric car company told employees to report to work Friday, but a county official said Tesla did not meet the requirements for resuming production.</description>
-      <dc:creator>Neal E. Boudette</dc:creator>
-      <pubDate>Fri, 08 May 2020 22:33:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fremont (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alameda County (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/08/business/08tesla1/08tesla1-moth.jpg" width="151"></media:content>
-      <media:credit>Shannon Stapleton/Reuters</media:credit>
-      <media:description>Tesla’s factory in Fremont, Calif., in March. It has been closed since March 23.</media:description>
-    </item>
-    <item>
-      <title>Ahmaud Arbery Shooting: A Timeline of the Case</title>
-      <link>https://www.nytimes.com/article/ahmaud-arbery-timeline.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/ahmaud-arbery-timeline.html</guid>
-      <atom:link href="https://www.nytimes.com/article/ahmaud-arbery-timeline.html" rel="standout"></atom:link>
-      <description>A look at the major moments between Mr. Arbery’s killing in a Georgia suburb and the arrest of two suspects, both charged with murder.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 09 May 2020 17:26:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arbery, Ahmaud (1994-2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMichael, Gregory (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMichael, Travis (1986- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brunswick (Ga)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/05/us/08xp-arbery-timeline/05georgia-promo-copy-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Sean Rayford/Getty Images</media:credit>
-      <media:description>A rally in Brunswick, Ga., on Friday to protest the fatal shooting of Ahmaud Arbery.</media:description>
-    </item>
-    <item>
-      <title>Haphazard Rollout of Coronavirus Drug Frustrates Doctors</title>
-      <link>https://www.nytimes.com/2020/05/08/health/coronavirus-remdesivir-hospitals.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/health/coronavirus-remdesivir-hospitals.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/health/coronavirus-remdesivir-hospitals.html" rel="standout"></atom:link>
-      <description>Remdesivir was shipped to small hospitals even as besieged medical centers were denied access.</description>
-      <dc:creator>Gina Kolata</dc:creator>
-      <pubDate>Fri, 08 May 2020 23:21:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Remdesivir (Drug)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AmerisourceBergen Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gilead Sciences Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Infectious Diseases Society of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institute of Allergy and Infectious Diseases</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Birx, Deborah L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McEnany, Kayleigh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pence, Mike</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/08/science/08VIRUS-REMDESIVIR1/08VIRUS-REMDESIVIR1-moth.jpg" width="151"></media:content>
-      <media:credit>Stan Grossfeld/The Boston Globe, via Getty Images</media:credit>
-      <media:description>Massachusetts General Hospital in Boston in March. Though other major hospitals did not receive supplies of remdesivir, Mass General did — without asking. “We have no idea how this landed with us,” said one doctor.</media:description>
-    </item>
-    <item>
-      <title>California to Mail All Voters Ballots for November Election</title>
-      <link>https://www.nytimes.com/2020/05/08/us/politics/california-mail-vote-november-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/us/politics/california-mail-vote-november-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/us/politics/california-mail-vote-november-election.html" rel="standout"></atom:link>
-      <description>Gov. Gavin Newsom on Friday made California the first state to alter its plans for the general election in response to the coronavirus pandemic.</description>
-      <dc:creator>Nick Corasaniti and Jennifer Medina</dc:creator>
-      <pubDate>Sat, 09 May 2020 01:35:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Registration and Requirements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/08/us/politics/08virus-voting/08virus-voting-moth.jpg" width="151"></media:content>
-      <media:credit>Josh Haner/The New York Times</media:credit>
-      <media:description>A polling place in Los Angeles in March.</media:description>
-    </item>
-    <item>
-      <title>Michael Pack: Trump Pushes for Senate to Confirm Conservative to Run Voice of America</title>
-      <link>https://www.nytimes.com/2020/05/08/us/politics/michael-pack-voa.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/08/us/politics/michael-pack-voa.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/08/us/politics/michael-pack-voa.html" rel="standout"></atom:link>
-      <description>A key Senate committee has scheduled a vote on the long-stalled nomination of Michael Pack, an ally of Stephen K. Bannon, to run the agency in charge of the Voice of America. Employees are worried.</description>
-      <dc:creator>Catie Edmondson and Edward Wong</dc:creator>
-      <pubDate>Fri, 08 May 2020 22:17:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Voice of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for Global Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pack, Michael</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/08/us/politics/08dc-pack1/08dc-pack1-moth.jpg" width="151"></media:content>
-      <media:credit>Jason Andrew for The New York Times</media:credit>
-      <media:description>The Voice of America studio in Washington. Voice of America is the largest American international broadcaster.</media:description>
     </item>
   </channel>
 </rss>
