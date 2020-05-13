@@ -6,8 +6,8 @@
 <atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
 <description>World News</description>
 <language>en-us</language>
-<pubDate>Wed, 13 May 2020 13:44:27 -0400</pubDate>
-<lastBuildDate>Wed, 13 May 2020 13:44:27 -0400</lastBuildDate>
+<pubDate>Wed, 13 May 2020 17:34:37 -0400</pubDate>
+<lastBuildDate>Wed, 13 May 2020 17:34:37 -0400</lastBuildDate>
 <copyright>Dow Jones &amp; Company, Inc.</copyright>
 <generator>http://online.wsj.com/page/2_0006.html</generator>
 <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
@@ -17,11 +17,21 @@
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
 </image>
 <item>
-<title>U.S. Says Chinese, Iranian Hackers Potentially Jeopardize Vaccine Hunt</title>
-<link>https://www.wsj.com/articles/chinese-iranian-hacking-may-be-hampering-search-for-coronavirus-vaccine-officials-say-11589362205</link>
-<description><![CDATA[Hackers are targeting American universities and health-care firms in a bid to steal intellectual property related to coronavirus treatments and vaccines, and the intrusions may be jeopardizing the medical research, U.S. officials said.]]></description>
+<title>As Coronavirus Cases Fall, Countries Struggle to Measure When It's Safe to Reopen</title>
+<link>https://www.wsj.com/articles/as-coronavirus-cases-fall-countries-struggle-to-measure-when-its-safe-to-reopen-11589403732</link>
+<description><![CDATA[As the pace of new coronavirus infections slows across Europe, governments are reconsidering how best to measure the progress of the disease and guide their decisions on loosening lockdowns.]]></description>
 <content:encoded/>
-<pubDate>Wed, 13 May 2020 12:59:00 -0400</pubDate>
+<pubDate>Wed, 13 May 2020 17:02:00 -0400</pubDate>
+<guid isPermaLink="false">SB10961706393508873711804586382193191028656</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>World News</wsj:articletype>
+</item>
+<item>
+<title>U.S.: Chinese, Iranian Hackers Seek to Steal Virus Research</title>
+<link>https://www.wsj.com/articles/chinese-iranian-hacking-may-be-hampering-search-for-coronavirus-vaccine-officials-say-11589362205</link>
+<description><![CDATA[Hackers are targeting U.S. universities and health-care firms in a bid to steal intellectual property related to coronavirus treatments and vaccines, and the intrusions may be jeopardizing the medical research, U.S. officials said.]]></description>
+<content:encoded/>
+<pubDate>Wed, 13 May 2020 14:37:00 -0400</pubDate>
 <guid isPermaLink="false">SB12166214633957064433604586380891473342766</guid>
 <category domain="AccessClassName">PAID</category>
 <wsj:articletype>U.S. News</wsj:articletype>
@@ -65,16 +75,6 @@
 <guid isPermaLink="false">SB10961706393508873711804586381643848557046</guid>
 <category domain="AccessClassName">PAID</category>
 <wsj:articletype>China News</wsj:articletype>
-</item>
-<item>
-<title>From Odessa to Burgundy: The Tale of a Ukrainian Hunt for Justice</title>
-<link>https://www.wsj.com/articles/from-odessa-to-burgundy-the-tale-of-a-ukrainian-hunt-for-justice-11589371020</link>
-<description><![CDATA[The saga of Dmitri Malinovsky was a stop-start quest for due process that exemplifies Ukraine’s struggle to prove its commitment to rule of law.]]></description>
-<content:encoded/>
-<pubDate>Wed, 13 May 2020 07:57:00 -0400</pubDate>
-<guid isPermaLink="false">SB11419749939775504906304586351823909214188</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>Europe News</wsj:articletype>
 </item>
 </channel>
 </rss>
