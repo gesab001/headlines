@@ -10,239 +10,228 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/president-trump-to-visit-pennsylvania-amid-battle-over-states-coronavirus-shutdown-policies</guid>
-      <link>https://www.foxnews.com/politics/president-trump-to-visit-pennsylvania-amid-battle-over-states-coronavirus-shutdown-policies</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/washington-post-jennifer-rubin-walls-are-closing-in-trump</guid>
+      <link>https://www.foxnews.com/media/washington-post-jennifer-rubin-walls-are-closing-in-trump</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP-Trump-Prayer.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP-Trump-Prayer.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Jennifer-Rubin-Getty-WAPO.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Jennifer-Rubin-Getty-WAPO.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP-Trump-Prayer.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">a96284ce-a390-5088-931e-d505bdbe05fb</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/pennsylvania</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Jennifer-Rubin-Getty-WAPO.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">024f3ed8-6202-52f0-a525-77efdb1bfa5d</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/executive/first-family</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
             <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>President Trump to visit Pennsylvania amid battle over state’s coronavirus shutdown policies</title>
-      <description>President Trump plans to be in Pennsylvania on Thursday, three days after asserting on Twitter that the state’s residents have grown frustrated with their Democrat governor’s coronavirus shutdown rules.</description>
-                  <dc:creator>Dom Calicchio</dc:creator>
-                         <pubDate>Thu, 14 May 2020 06:47:40 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/los-angeles-residents-must-wear-masks-outside-home-eric-garcetti-says</guid>
-      <link>https://www.foxnews.com/politics/los-angeles-residents-must-wear-masks-outside-home-eric-garcetti-says</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/AP20111735586997.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20111735586997.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20111735586997.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">1aa487ba-a051-5756-9ecf-98867ecef1f0</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Los Angeles residents must wear masks outside home, Garcetti says</title>
-      <description>Los Angeles Mayor Eric Garcetti Wednesday issued an executive order requiring residents to wear face masks whenever they leave their homes.</description>
-                  <dc:creator>Brie Stimson</dc:creator>
-                         <pubDate>Thu, 14 May 2020 06:34:48 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/msnbcs-andrea-mitchell-asks-those-sounding-alarm-on-flynn-unmasking-to-stop-trying-to-gaslight-us</guid>
-      <link>https://www.foxnews.com/media/msnbcs-andrea-mitchell-asks-those-sounding-alarm-on-flynn-unmasking-to-stop-trying-to-gaslight-us</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Andrea20Mitchell20NBC.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Andrea20Mitchell20NBC.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Andrea20Mitchell20NBC.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">11dacca0-b80b-5aec-b7fa-643f1638d1af</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/white-house</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/companies/twitter</category>
-            <category domain="foxnews.com/taxonomy">fox-news/news-events/russia-investigation</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/barack-obama</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/the-clintons</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>MSNBC's Andrea Mitchell asks those sounding alarm on Flynn unmasking to 'stop trying to gaslight us'</title>
-      <description>MSNBC anchor Andrew Mitchell appeared to downplay major news surrounding the revealed Obama officials who requested the unmasking of former national security advisor Michael Flynn, suggesting those that are sounding the alarm are "gaslighting." </description>
+      <title>Washington Post's Jennifer Rubin mocked for repeatedly claiming 'the walls are closing in' on Trump</title>
+      <description>Washington Post columnist Jennifer Rubin was mocked on Thursday for repeating her claim that the "walls are closing in" on President Trump. </description>
                   <dc:creator>Joseph Wulfsohn</dc:creator>
-                         <pubDate>Thu, 14 May 2020 06:31:22 GMT</pubDate>
+                         <pubDate>Thu, 14 May 2020 22:07:19 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Joseph Wulfsohn</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/sylvester-stallone-provides-heartfelt-video-broadway-actor-nick-cordero</guid>
-      <link>https://www.foxnews.com/entertainment/sylvester-stallone-provides-heartfelt-video-broadway-actor-nick-cordero</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/charles-lipson-on-repealing-the-logan-act</guid>
+      <link>https://www.foxnews.com/media/charles-lipson-on-repealing-the-logan-act</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/12/GettyImages-503530862.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/GettyImages-503530862.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/logan-act-thumb.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/logan-act-thumb.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/GettyImages-503530862.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">19baa7ed-f501-5c6c-9cf7-6ef33606e2cf</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/sylvester-stallone</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/musicals</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Sylvester Stallone provides heartfelt message to Broadway actor Nick Cordero</title>
-      <description>Sylvester Stallone gave a heartfelt video message on Wednesday to Broadway actor Nick Cordero who recently woke from a weeks-long coma as part of his desperate fight with COVID-19.</description>
-                  <dc:creator>David Aaro</dc:creator>
-                         <pubDate>Thu, 14 May 2020 06:00:29 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/state-parties-reaching-out-to-arizona-gop-after-novel-virtual-convention-staffer-says</guid>
-      <link>https://www.foxnews.com/politics/state-parties-reaching-out-to-arizona-gop-after-novel-virtual-convention-staffer-says</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/arizona-convention.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/arizona-convention.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/arizona-convention.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">7cf04c6b-c5c3-567a-ab57-77c9dd60a091</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/arizona</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>State parties reach out to Arizona GOP after novel virtual convention, staffer says</title>
-      <description>Several other state parties have reached out to Arizona’s Republican Party this week after the party successfully ran a virtual state convention last weekend, according to a staffer.</description>
-                  <dc:creator>Brie Stimson</dc:creator>
-            <dc:creator>Lee Ross</dc:creator>
-                         <pubDate>Thu, 14 May 2020 05:48:11 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
-            <category domain="foxnews.com/metadata/dc.creator">Lee Ross</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/love-hip-hop-atlanta-arkansas-mo-emergency-loan-rolls-royce-jewelry</guid>
-      <link>https://www.foxnews.com/entertainment/love-hip-hop-atlanta-arkansas-mo-emergency-loan-rolls-royce-jewelry</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Maurice-Fayne-Getty.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Maurice-Fayne-Getty.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Maurice-Fayne-Getty.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">2e218955-7597-5b45-85e6-eac07023c0a8</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/in-court</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/reality</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>'Love &amp; Hip Hop: Atlanta' star Arkansas Mo spent emergency loan on Rolls Royce, jewelry, authorities say</title>
-      <description>"Love &amp; Hip-Hop: Atlanta" star Arkansas Mo used recently spent an emergency loan obtained by the federal government to lease a car and buy jewelry in addition to making child support payments, authorities said.</description>
-                  <dc:creator>Nate Day</dc:creator>
-                         <pubDate>Thu, 14 May 2020 05:37:24 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/indiana-man-assaults-7-11-clerk-asked-wear-mask-coronavirus-police</guid>
-      <link>https://www.foxnews.com/us/indiana-man-assaults-7-11-clerk-asked-wear-mask-coronavirus-police</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/7-11.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/7-11.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/7-11.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">29293a7e-7587-5a8f-ac8d-2ff0f1db4c6d</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/indiana</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Indiana suspect assaults 7-Eleven clerk who asked him to wear mask, police say</title>
-      <description>Indiana police are searching for a man who assaulted a 7-Eleven clerk on Wednesday morning after being told he needed to wear a mask inside before being served, authorities said.</description>
-                  <dc:creator>David Aaro</dc:creator>
-                         <pubDate>Thu, 14 May 2020 05:31:27 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/fbi-seizes-sen-richard-burrs-cellphone-after-serving-search-warrant-report-says</guid>
-      <link>https://www.foxnews.com/politics/fbi-seizes-sen-richard-burrs-cellphone-after-serving-search-warrant-report-says</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28575488-8761-4c98-8e46-35d76ee6dd4c/cb3f177a-4d14-444d-b37d-dd55fc2e1d8c/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">b39c50ff-31ab-581e-bb8f-bf01f1f6bca7</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/politics/senate</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/north-carolina</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/justice-department</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/fbi</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>FBI seizes Sen. Richard Burr’s cellphone after serving search warrant, report says</title>
-      <description>Federal agents on Wednesday served a search warrant to Sen. Richard Burr, R-N.C., at his Washington-area home in part of the government’s investigation into his stock sales that were made early in the coronavirus outbreak, according to a report.</description>
-                  <dc:creator>Edmund DeMarche</dc:creator>
-                         <pubDate>Thu, 14 May 2020 05:09:15 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/pennsylvania-health-official-draws-fire-after-her-mother-leaves-care-facility-as-coronavirus-patients-return</guid>
-      <link>https://www.foxnews.com/politics/pennsylvania-health-official-draws-fire-after-her-mother-leaves-care-facility-as-coronavirus-patients-return</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/nursing-home-group-home-walker-istock-large.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/nursing-home-group-home-walker-istock-large.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/nursing-home-group-home-walker-istock-large.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">838ef1d2-1bb4-5d0a-b217-0cfd33e2ba30</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/pennsylvania</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Pennsylvania health official draws fire after her mother leaves care facility as coronavirus patients return</title>
-      <description>Pennsylvania Health Secretary Dr. Rachel Levine defended herself Wednesday after reports that her 95-year-old mother relocated from a care facility after Levine said such centers could begin accepting coronavirus patients discharged from hospitals.</description>
-                  <dc:creator>Brie Stimson</dc:creator>
-                         <pubDate>Thu, 14 May 2020 04:53:00 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/wisenberg-flynn-judge-sullivan-trump-pardon</guid>
-      <link>https://www.foxnews.com/media/wisenberg-flynn-judge-sullivan-trump-pardon</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/05/Ingraham-Wisemberg-FOX.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Ingraham-Wisemberg-FOX.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Ingraham-Wisemberg-FOX.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">2a5932b2-0633-59e2-b0e1-89242e8901cb</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/logan-act-thumb.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3eb8af40-88bc-5520-ae2f-71cfb86cb392</category>
                   <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/ingraham-angle</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/fbi</category>
             <category domain="foxnews.com/taxonomy">fox-news/news-events/russia-investigation</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/national-security</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/judiciary/federal-courts</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/justice-department</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Sol Wisenberg says Flynn case judge may be trying to force pardon out of Trump with unusual orders</title>
-      <description>Former Whitewater deputy independent counsel Sol Wisenberg joined "The Ingraham Angle" Wednesday to discuss U.S. District Judge Emmett Sullivan's order allowing a third party to present arguments opposing the Justice Department's motion to dismiss the case against former National Security Adviser Michael Flynn.</description>
-                  <dc:creator>Victor Garcia</dc:creator>
-                         <pubDate>Thu, 14 May 2020 04:25:55 GMT</pubDate>
+      <title>Charles Lipson on repealing the Logan Act: 'Get it off the books before it can be used for mischief again'</title>
+      <description>Professor Charles Lipson makes a case for why the Logan Act should be repealed, citing the most recent abuse of the law used by the FBI and DOJ against General Michael Flynn.</description>
+                  <dc:creator>Teny Sahakian</dc:creator>
+                         <pubDate>Thu, 14 May 2020 22:06:37 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Victor Garcia</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Teny Sahakian</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/london-transportation-tube-bus-billions-emergency-relief</guid>
+      <link>https://www.foxnews.com/world/london-transportation-tube-bus-billions-emergency-relief</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/03/London-Underground.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/London-Underground.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/London-Underground.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">b0e6bade-4e99-59c2-b0d9-2ffed4d4191f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/united-kingdom</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/disasters/transportation</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>London's transportation system secures $1.9B in emergency relief</title>
+      <description>Transport for London (TfL) has reportedly been granted £1.6 billion, or approximately $1.9 billion in U.S. currency, in emergency funding as part of a government bailout plan Thursday, which would keep the Tube and bus system up and running through September.</description>
+                  <dc:creator>Caitlin McFall</dc:creator>
+                         <pubDate>Thu, 14 May 2020 22:05:42 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Caitlin McFall</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/tech/army-kill-enemy-drones-ai</guid>
+      <link>https://www.foxnews.com/tech/army-kill-enemy-drones-ai</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/4577c86f-11311drone.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/4577c86f-11311drone.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/4577c86f-11311drone.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3a7f7e40-3543-5a9a-b9ac-4f3885176ec9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/tech/topics/us-army</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/armed-forces</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/technologies/drones</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/tech</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>The Army hopes to kill enemy drones with AI</title>
+      <description>The Army and Raytheon are now accelerating development and deployment of an upgraded counter-drone weapons system designed specifically to address close-in small drone threats, in part by leveraging emerging applications of AI.  </description>
+                  <dc:creator>Kris Osborn</dc:creator>
+                         <pubDate>Thu, 14 May 2020 22:04:01 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Warrior Maven</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Kris Osborn</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/science/coyote-chases-roadrunner-video-tuscon-arizona</guid>
+      <link>https://www.foxnews.com/science/coyote-chases-roadrunner-video-tuscon-arizona</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/04/coyote-istock.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/coyote-istock.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/coyote-istock.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">63f2fce6-b64d-5968-8e72-53b458be94a4</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/arizona</category>
+            <category domain="foxnews.com/taxonomy">fox-news/odd-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science/wild-nature/mammals</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science/wild-nature/birds</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/science</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Coyote chases roadrunner on video: 'It's happening right now y'all!!!'</title>
+      <description>A classic ‘“Looney Tunes” scene has seemingly come to life after a university professor in Tuscon, Ariz., captured video of a coyote actually chasing a roadrunner.</description>
+                  <dc:creator>Catherine Park</dc:creator>
+            <dc:creator> Fox Television Stations</dc:creator>
+                         <pubDate>Thu, 14 May 2020 22:00:49 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Catherine Park</category>
+            <category domain="foxnews.com/metadata/dc.creator"> Fox Television Stations</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/frozen-musical-broadway-closes</guid>
+      <link>https://www.foxnews.com/entertainment/frozen-musical-broadway-closes</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/frozen.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/frozen.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/frozen.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">4e25f034-a236-5193-8bee-434cc36750ac</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/musicals</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>'Frozen' Broadway musical officially shutters amid coronavirus outbreak</title>
+      <description>The musical “Frozen” is the first Broadway show to officially shutter amid the coronavirus pandemic. </description>
+                  <dc:creator>Jessica Napoli</dc:creator>
+                         <pubDate>Thu, 14 May 2020 21:53:52 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Jessica Napoli</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/lifestyle/people-forget-days-coronavirus-study</guid>
+      <link>https://www.foxnews.com/lifestyle/people-forget-days-coronavirus-study</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/working-from-home-stressed.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/working-from-home-stressed.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/working-from-home-stressed.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c0d4fc54-f42a-587b-a3a4-da7e25bc63cf</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/fitness-and-wellbeing</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/lifestyle</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>People are struggling to remember what day it is during self-isolation, study shows</title>
+      <description>Don’t worry, it’s not just you.</description>
+                  <dc:creator>Michael Hollan</dc:creator>
+                         <pubDate>Thu, 14 May 2020 21:49:35 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Michael Hollan</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/lifestyle/coronavirus-georgia-pellegrini-food-adventurer-chef-tv-show</guid>
+      <link>https://www.foxnews.com/lifestyle/coronavirus-georgia-pellegrini-food-adventurer-chef-tv-show</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/GeorgiaPellegrini2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/GeorgiaPellegrini2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/GeorgiaPellegrini2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">23138688-2906-5191-bc28-e041c82c6828</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/america-together</category>
+            <category domain="foxnews.com/taxonomy">fox-news/food-drink/food/celebrity-chefs</category>
+            <category domain="foxnews.com/taxonomy">fox-news/lifestyle/celebrity-chefs</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/lifestyle</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Survival during coronavirus: Food adventurer, chef fights to save public television show teaching lessons of self-sufficiency</title>
+      <description>Georgia Pellegrini has launched a campaign to save her TV show calling attention to self-sustainability.</description>
+                  <dc:creator>Cristina Corbin</dc:creator>
+                         <pubDate>Thu, 14 May 2020 21:45:14 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Cristina Corbin</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/el-chapo-enforcer-chino-antrax-california-missing</guid>
+      <link>https://www.foxnews.com/us/el-chapo-enforcer-chino-antrax-california-missing</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/gamboa.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/gamboa.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/gamboa.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ae998761-2150-50c4-8511-848b9532232e</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime/manhunt</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/drugs</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>'El Chapo' enforcer vanishes in California, 2 months after release</title>
+      <description>A feared enforcer for Joaquin “El Chapo” Guzman’s cartel who previously had plastic surgery to evade capture has gone missing in California — just two months after he was released on probation, according to a report.</description>
+                  <dc:creator>Lee Brown</dc:creator>
+                         <pubDate>Thu, 14 May 2020 21:45:08 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Lee Brown</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/white-house-public-private-partnership-develop-coronavirus-vaccine-operation-warp-speed</guid>
+      <link>https://www.foxnews.com/politics/white-house-public-private-partnership-develop-coronavirus-vaccine-operation-warp-speed</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ee8dbd9-5cd7-4624-a95c-539b6c7f3eef/d086fece-cd33-4d8e-888b-2aaaca1af8b5/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">5ab2bffc-33bf-5490-b30e-44e745207009</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/white-house</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>White House to unveil public-private partnership to develop coronavirus vaccine through 'Operation Warp Speed'</title>
+      <description>The White House plans to announce on Friday a new public-private partnership to develop a vaccine for the novel coronavirus under the so-called “Operation Warp Speed,” Fox News has been told.</description>
+                  <dc:creator>Andrew O'Reilly</dc:creator>
+                         <pubDate>Thu, 14 May 2020 21:34:45 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Andrew O'Reilly</category>
                             </item>
       </channel>
 </rss>
