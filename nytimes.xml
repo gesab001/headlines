@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 13 May 2020 23:43:47 +0000</lastBuildDate>
-    <pubDate>Wed, 13 May 2020 23:43:47 +0000</pubDate>
+    <lastBuildDate>Thu, 14 May 2020 06:57:20 +0000</lastBuildDate>
+    <pubDate>Thu, 14 May 2020 06:57:20 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -19,11 +19,50 @@
       <link>https://www.nytimes.com/2020/05/13/us/coronavirus-cases-deaths.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/us/coronavirus-cases-deaths.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/13/us/coronavirus-cases-deaths.html" rel="standout"></atom:link>
-      <description>The president’s remarks come as the administration weighs extending border restrictions. Wisconsin’s Supreme Court strikes down the governor’s stay-at-home order, and a top W.H.O. official says the virus “may never go away.”</description>
-      <pubDate>Wed, 13 May 2020 23:43:16 +0000</pubDate>
+      <description>President Trump pushes to reopen schools, and criticizes Dr. Fauci’s warnings about moving too quickly. The administration weighs extending some border restrictions indefinitely.</description>
+      <pubDate>Thu, 14 May 2020 04:21:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v409.png" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v410.png" width="151"></media:content>
       <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Coronavirus Lockdowns: Businesses Turn to Armed Defiance</title>
+      <link>https://www.nytimes.com/2020/05/13/us/coronavirus-businesses-lockdown-guns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/us/coronavirus-businesses-lockdown-guns.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/13/us/coronavirus-businesses-lockdown-guns.html" rel="standout"></atom:link>
+      <description>Armed militia-style protesters have helped businesses across Texas defy coronavirus lockdowns and reopen. Protesters say they are enforcing the Constitution.</description>
+      <dc:creator>Manny Fernandez and David Montgomery</dc:creator>
+      <pubDate>Wed, 13 May 2020 21:18:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Second Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Open Carry Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luther, Shelley (Dallas, Tex, Salon Owner)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/14/us/14virus-texas-p1/13virus-texas01-moth.jpg" width="151"></media:content>
+      <media:credit>Eli Hartman/Odessa American, via Associated Press</media:credit>
+      <media:description>An armed protester provided support to the owner of a bar in Odessa, Texas, which reopened last week in defiance of an order that it remain shut.</media:description>
+    </item>
+    <item>
+      <title>Wisconsin Supreme Court Says Coronavirus Shutdown Is Overreach</title>
+      <link>https://www.nytimes.com/2020/05/13/us/coronavirus-wisconsin-supreme-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/us/coronavirus-wisconsin-supreme-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/13/us/coronavirus-wisconsin-supreme-court.html" rel="standout"></atom:link>
+      <description>The decision, by a 4-to-3 majority, was a high-profile challenge of the emergency authority of a statewide official during the coronavirus pandemic.</description>
+      <dc:creator>Neil Vigdor</dc:creator>
+      <pubDate>Thu, 14 May 2020 03:07:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Evers, Tony (1951- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/13/us/13VIRUS-WISCONSIN-protest/merlin_171917850_58211f13-6b45-42b7-ba59-20f97323ae45-moth.jpg" width="151"></media:content>
+      <media:credit>Kamil Krzaczynski/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A protest against the coronavirus shutdown in front of the State Capitol in Madison, Wis., in late April.</media:description>
     </item>
     <item>
       <title>Coronavirus Canceled County Fairs. Now Children Show Their Cows and Sheep Virtually.</title>
@@ -45,44 +84,161 @@
       <media:description>Emma Helsinger, 9, has entered virtual shows in Ohio but said she was disappointed she did not get to show off her pigs in the ring.</media:description>
     </item>
     <item>
-      <title>Autopsy Shows Ahmaud Arbery Was Shot Twice in the Chest</title>
-      <link>https://www.nytimes.com/2020/05/12/us/ahmaud-arbery-autopsy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/12/us/ahmaud-arbery-autopsy.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/12/us/ahmaud-arbery-autopsy.html" rel="standout"></atom:link>
-      <description>The autopsy report, which also showed Mr. Arbery had no drugs or alcohol in his system, came as activists renewed their protests against prosecutors’ handling of the investigation into his death.</description>
-      <dc:creator>Richard Fausset and Rick Rojas</dc:creator>
-      <pubDate>Wed, 13 May 2020 12:57:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">District Attorneys</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Glynn County, Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arbery, Ahmaud (1994-2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carr, Christopher M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Holmes, Joyette M (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMichael, Gregory (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMichael, Travis (1986- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brunswick (Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/12/us/12GEORGIA-SHOOTING-arbery/12GEORGIA-SHOOTING-arbery-moth.jpg" width="151"></media:content>
-      <media:credit>via Reuters</media:credit>
-      <media:description>Ahmaud Arbery was shot and killed in Brunswick, Ga., in February. “That day is just a day in a long history of atrocities,” State Representative James Beverly said of the episode.</media:description>
+      <title>Asian Markets Fall on Fears of Slow Pandemic Recovery: Live Updates</title>
+      <link>https://www.nytimes.com/2020/05/14/business/unemployment-claims-numbers-stock-market-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/14/business/unemployment-claims-numbers-stock-market-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/14/business/unemployment-claims-numbers-stock-market-coronavirus.html" rel="standout"></atom:link>
+      <description>The latest on stock market and business news during the coronavirus outbreak.</description>
+      <pubDate>Thu, 14 May 2020 06:41:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/14/world/14virus-markets-briefing-japan/merlin_172472718_10649eab-8e49-4045-ba83-1854684edcca-moth.jpg" width="151"></media:content>
+      <media:credit>Kim Kyung-Hoon/Reuters</media:credit>
+      <media:description>A quiet business building in Tokyo, on Thursday.</media:description>
     </item>
     <item>
-      <title>Coronavirus Will Keep Cal State University Classes Online in the Fall</title>
-      <link>https://www.nytimes.com/2020/05/12/us/cal-state-online-classes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/12/us/cal-state-online-classes.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/12/us/cal-state-online-classes.html" rel="standout"></atom:link>
-      <description>The move by the nation’s largest four-year public university system comes as many other schools insist they will find a way to bring students back to campus despite the coronavirus.</description>
-      <dc:creator>Shawn Hubler</dc:creator>
-      <pubDate>Wed, 13 May 2020 19:15:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Learning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California State University</category>
+      <title>Coronavirus World Updates</title>
+      <link>https://www.nytimes.com/2020/05/14/world/coronavirus-news.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/14/world/coronavirus-news.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/14/world/coronavirus-news.html" rel="standout"></atom:link>
+      <description>The United Nations is warning of new risks to children and a subsequent plague of mental illness. And governments are noting the unintended consequences of lockdowns and other restrictions.</description>
+      <pubDate>Thu, 14 May 2020 06:39:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/12/us/12VIRUS-CALSTATE/12VIRUS-CALSTATE-moth.jpg" width="151"></media:content>
-      <media:credit>Hans Gutknecht/Orange County Register, via ZUMA Wire</media:credit>
-      <media:description>The California State University, Northridge, campus in March. The system’s chancellor said on Tuesday that the risk was too great to bring back 480,000 undergraduates to 23 campuses in the fall.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pediatric Inflammatory Multisystem Syndrome (PIMS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/14/world/14virus-int-briefing-lede/14virus-int-briefing-lede-moth.jpg" width="151"></media:content>
+      <media:credit>Victor Moriyama for The New York Times</media:credit>
+      <media:description>A funeral in São Paulo, Brazil, for José Veracruz, who died after contracting the coronavirus. Brazil’s death toll has surpassed 13,000.</media:description>
+    </item>
+    <item>
+      <title>TikTok Broke Privacy Promises, Children’s Groups Say</title>
+      <link>https://www.nytimes.com/2020/05/14/technology/tiktok-kids-privacy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/14/technology/tiktok-kids-privacy.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/14/technology/tiktok-kids-privacy.html" rel="standout"></atom:link>
+      <description>Twenty consumer groups said the video app had failed to make some changes it agreed to carry out last year to settle federal charges.</description>
+      <dc:creator>Natasha Singer</dc:creator>
+      <pubDate>Thu, 14 May 2020 04:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Musical.ly Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/14/business/14tiktok/14tiktok-moth.jpg" width="151"></media:content>
+      <media:credit>Tony Luong for The New York Times</media:credit>
+      <media:description>TikTok is under scrutiny by consumer groups.</media:description>
+    </item>
+    <item>
+      <title>Judge in Flynn Case Renowned for His Independent Streak</title>
+      <link>https://www.nytimes.com/2020/05/13/us/politics/emmet-sullivan-flynn-judge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/us/politics/emmet-sullivan-flynn-judge.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/13/us/politics/emmet-sullivan-flynn-judge.html" rel="standout"></atom:link>
+      <description>U.S. District Court Judge Emmet Sullivan will hear a challenge to the Justice Department’s surprise move to drop charges against President Trump’s former national security adviser Michael T. Flynn.</description>
+      <dc:creator>Michael Crowley</dc:creator>
+      <pubDate>Thu, 14 May 2020 00:59:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Emmet G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flynn, Michael T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/13/us/politics/13dc-judge/13dc-judge-moth.jpg" width="151"></media:content>
+      <media:credit>Charles Dharapak/Associated Press</media:credit>
+      <media:description>Judge Emmet G. Sullivan was first appointed to the bench by President Ronald Reagan.</media:description>
+    </item>
+    <item>
+      <title>Trump Picks Ex-Drug Company Executive to Lead Accelerated Coronavirus Vaccine Effort</title>
+      <link>https://www.nytimes.com/2020/05/13/us/politics/coronavirus-trump-operation-warp-speed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/us/politics/coronavirus-trump-operation-warp-speed.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/13/us/politics/coronavirus-trump-operation-warp-speed.html" rel="standout"></atom:link>
+      <description>The chief operating officer will be an Army general who specializes in logistics.</description>
+      <dc:creator>Michael D. Shear</dc:creator>
+      <pubDate>Thu, 14 May 2020 03:47:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Biomedical Advanced Research and Development Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GlaxoSmithKline PLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Johnson &amp; Johnson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bright, Rick A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Slaoui, Moncef M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gen. Gustave F. Perna</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/13/us/politics/13dc-virus-vaccine/13dc-virus-vaccine-moth.jpg" width="151"></media:content>
+      <media:credit>Susan Walsh/Associated Press</media:credit>
+      <media:description>Moncef Slaoui before the House Oversight and Government Reform committee hearing on the diabetes drug Avandia in 2007.</media:description>
+    </item>
+    <item>
+      <title>Republicans Release Names of Obama-Era Officials in ‘Unmaskings’ That Revealed Flynn</title>
+      <link>https://www.nytimes.com/2020/05/13/us/politics/unmasking-flynn.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/us/politics/unmasking-flynn.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/13/us/politics/unmasking-flynn.html" rel="standout"></atom:link>
+      <description>The moves prompted accusations that President Trump’s allies were disclosing the information for his political benefit.</description>
+      <dc:creator>Julian E. Barnes and Charlie Savage</dc:creator>
+      <pubDate>Wed, 13 May 2020 23:45:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the Director of National Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flynn, Michael T</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/13/us/politics/13dc-intel01/13dc-intel01-moth.jpg" width="151"></media:content>
+      <media:credit>Tom Brenner for The New York Times</media:credit>
+      <media:description>The Justice Department moved last week to drop a false-statements criminal case against Michael T. Flynn, President Trump’s first national security adviser.</media:description>
+    </item>
+    <item>
+      <title>Michael Flynn Case: Judge Appoints Outsider to Take On Justice Dept.</title>
+      <link>https://www.nytimes.com/2020/05/13/us/politics/michael-flynn-john-gleeson-judge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/us/politics/michael-flynn-john-gleeson-judge.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/13/us/politics/michael-flynn-john-gleeson-judge.html" rel="standout"></atom:link>
+      <description>A retired judge will also examine whether the former national security adviser committed perjury.</description>
+      <dc:creator>Katie Benner</dc:creator>
+      <pubDate>Thu, 14 May 2020 02:50:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Perjury</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flynn, Michael T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gleeson, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Emmet G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/13/us/politics/13dc-justice/13dc-justice-moth.jpg" width="151"></media:content>
+      <media:credit>Susan Walsh/Associated Press</media:credit>
+      <media:description>Michael T. Flynn, President Trump’s first national security adviser, in 2017 in Washington.</media:description>
+    </item>
+    <item>
+      <title>Charges Against Former Michigan State President Are Dismissed</title>
+      <link>https://www.nytimes.com/2020/05/13/us/michigan-state-university-president-charges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/us/michigan-state-university-president-charges.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/13/us/michigan-state-university-president-charges.html" rel="standout"></atom:link>
+      <description>A judge said prosecutors had failed to prove that Lou Anna K. Simon knew of sexual abuse committed by Dr. Lawrence G. Nassar when he was employed by the university.</description>
+      <dc:creator>Sandra E. Garcia</dc:creator>
+      <pubDate>Wed, 13 May 2020 22:43:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Michigan State University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Simon, Lou Anna K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nassar, Lawrence G (1963- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gymnastics</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/13/sports/13xp-michigan/13xp-michigan-moth.jpg" width="151"></media:content>
+      <media:credit>Leah Millis/Reuters</media:credit>
+      <media:description>Lou Anna K. Simon, a former president of Michigan State University, in 2018.</media:description>
     </item>
     <item>
       <title>New Inflammatory Condition in Children Probably Linked to Coronavirus, Study Finds</title>
@@ -91,7 +247,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/13/health/coronavirus-children-kawasaki-pmis.html" rel="standout"></atom:link>
       <description>Researchers compared 10 cases in Italy with previous cases of a similar childhood illness, Kawasaki disease. The rate of the new cases was much higher, and the conditions were more serious.</description>
       <dc:creator>Pam Belluck</dc:creator>
-      <pubDate>Wed, 13 May 2020 22:37:58 +0000</pubDate>
+      <pubDate>Thu, 14 May 2020 00:25:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pediatric Inflammatory Multisystem Syndrome (PIMS)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Kawasaki Disease</category>
@@ -100,6 +256,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hospital Papa Giovanni XXIII</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lancet, The (Journal)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/13/science/13VIRUS-KIDS1/13VIRUS-KIDS1-moth.jpg" width="151"></media:content>
       <media:credit>Piero Cruciatti/Agence France-Presse — Getty Images</media:credit>
       <media:description>Medical staff tending to a coronavirus patient in the I.C.U. of the Papa Giovanni XXIII Hospital in Bergamo, Italy. The hospital’s pediatric center saw 10 cases of the inflammatory condition in just two months.</media:description>
@@ -122,7 +279,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/13/us/politics/bill-priestap-michael-flynn.html" rel="standout"></atom:link>
       <description>Prosecutors questioned a former F.B.I. official whose notes were used to buttress their motion to dismiss the charge against the president’s first national security adviser.</description>
       <dc:creator>Adam Goldman and Katie Benner</dc:creator>
-      <pubDate>Wed, 13 May 2020 23:40:59 +0000</pubDate>
+      <pubDate>Wed, 13 May 2020 23:41:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
@@ -157,13 +314,72 @@
       <media:description>A group of pro-polygamy demonstrators at the Utah State Capitol in Salt Lake City in 2017.</media:description>
     </item>
     <item>
+      <title>Small-Business Loan Deadline Poses Test for Mnuchin</title>
+      <link>https://www.nytimes.com/2020/05/13/us/politics/ppp-loan-companies-mnuchin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/us/politics/ppp-loan-companies-mnuchin.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/13/us/politics/ppp-loan-companies-mnuchin.html" rel="standout"></atom:link>
+      <description>The Treasury Secretary has given big companies until May 18 to return their Paycheck Protection Program loans or face criminal liability. Many borrowers are rebuffing those demands.</description>
+      <dc:creator>Alan Rappeport and David McCabe</dc:creator>
+      <pubDate>Thu, 14 May 2020 01:33:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/13/business/13DC-VIRUS-LOANS-01/13DC-VIRUS-LOANS-01-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker/The New York Times</media:credit>
+      <media:description>Treasury Secretary Steven Mnuchin’s threat is likely to set off a wave of new government audits and legal fights over who is entitled to aid money.</media:description>
+    </item>
+    <item>
+      <title>In Bid for Party Unity, Biden Moves Beyond Restoring the Pre-Trump Era</title>
+      <link>https://www.nytimes.com/2020/05/13/us/politics/joe-biden-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/us/politics/joe-biden-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/13/us/politics/joe-biden-trump.html" rel="standout"></atom:link>
+      <description>Trying to win over progressives and aware that the coronavirus crisis is upending the political landscape, Joe Biden is increasingly using the language of systemic disruption.</description>
+      <dc:creator>Katie Glueck and Astead W. Herndon</dc:creator>
+      <pubDate>Thu, 14 May 2020 00:16:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/30/us/politics/00bidenmessaging1/00bidenmessaging1-moth.jpg" width="151"></media:content>
+      <media:credit>Tamir Kalifa for The New York Times</media:credit>
+      <media:description>Former Vice President Joseph R. Biden Jr. has often resisted calls for sweeping societal changes, urging a more incremental approach. </media:description>
+    </item>
+    <item>
+      <title>In Guam, the Aircraft Carrier Roosevelt Is Still Battling the Virus</title>
+      <link>https://www.nytimes.com/2020/05/13/us/politics/coronavirus-navy-theodore-roosevelt.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/us/politics/coronavirus-navy-theodore-roosevelt.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/13/us/politics/coronavirus-navy-theodore-roosevelt.html" rel="standout"></atom:link>
+      <description>A sailor infected with the coronavirus was quickly whisked off the ship, which is docked in Guam as Navy officials prepare for the vessel to deploy.</description>
+      <dc:creator>Thomas Gibbons-Neff, Eric Schmitt and Helene Cooper</dc:creator>
+      <pubDate>Wed, 13 May 2020 23:57:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">USS Theodore Roosevelt (CVN-71) (Ship)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aircraft Carriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crozier, Brett E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gilday, Michael M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/13/us/politics/13dc-virus-roosevelt-01/13dc-virus-roosevelt-01-moth.jpg" width="151"></media:content>
+      <media:credit>Nguyen Huy Kham/Reuters</media:credit>
+      <media:description>The aircraft carrier Theodore Roosevelt at sea in March.</media:description>
+    </item>
+    <item>
       <title>Mike Garcia Wins California 25 in Special Election</title>
       <link>https://www.nytimes.com/2020/05/13/us/politics/christy-smith-mike-garcia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/us/politics/christy-smith-mike-garcia.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/13/us/politics/christy-smith-mike-garcia.html" rel="standout"></atom:link>
       <description>Mike Garcia, who won the endorsement of President Trump, flipped California’s 25th Congressional District after Representative Katie Hill, a Democrat, resigned last year.</description>
       <dc:creator>Jennifer Medina</dc:creator>
-      <pubDate>Wed, 13 May 2020 21:41:55 +0000</pubDate>
+      <pubDate>Thu, 14 May 2020 01:36:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
@@ -171,8 +387,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Christy (1969- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hill, Katie (1987- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garcia, Mike (1976- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/13/us/politics/13california-25/merlin_172406802_f5b239b8-2120-4545-8e2e-2508c269f461-moth.jpg" width="151"></media:content>
-      <media:credit>Cynthia Smalley/Mike Garcia For Congress, via Associated Press</media:credit>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/13/us/politics/13california-25-1/13california-25-1-moth.jpg" width="151"></media:content>
+      <media:credit>Michael Blood/Associated Press</media:credit>
       <media:description>Mike Garcia won California’s 25th Congressional District.</media:description>
     </item>
     <item>
@@ -201,7 +417,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/13/climate/coronavirus-coal-electricity-renewables.html" rel="standout"></atom:link>
       <description>The coronavirus has pushed the coal industry to once-unthinkable lows, and the consequences for climate change are big.</description>
       <dc:creator>Brad Plumer</dc:creator>
-      <pubDate>Wed, 13 May 2020 20:08:23 +0000</pubDate>
+      <pubDate>Thu, 14 May 2020 00:50:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
@@ -281,6 +497,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/13/arts/13virus-concert/merlin_161280600_6d023b4f-5f8f-402b-b908-882806d49684-moth.jpg" width="151"></media:content>
       <media:credit>Terry Wyatt/Getty Images For Pilgrimage Music &amp; Cultural Festival</media:credit>
       <media:description>Travis McCready, who was slated to perform in a concert in Arkansas on Friday, three days before the state’s reopening for venues with audiences of fewer than 50 people.</media:description>
+    </item>
+    <item>
+      <title>Paul Manafort, Trump&#39;s Ex-Campaign Manager, Released from Prison</title>
+      <link>https://www.nytimes.com/2020/05/13/us/politics/paul-manafort-released-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/us/politics/paul-manafort-released-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/13/us/politics/paul-manafort-released-coronavirus.html" rel="standout"></atom:link>
+      <description>Paul Manafort, who had been serving a seven-and-a-half-year sentence in Pennsylvania for fraud, is among the prisoners released over the spreading coronavirus.</description>
+      <dc:creator>Eileen Sullivan</dc:creator>
+      <pubDate>Thu, 14 May 2020 00:16:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manafort, Paul J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cohen, Michael D (1966- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Prisons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/13/us/politics/13dc-manafort/merlin_172452018_1468f366-385f-450e-b2db-7069af0de742-moth.jpg" width="151"></media:content>
+      <media:credit>Justin Lane/EPA, via Shutterstock</media:credit>
+      <media:description>Paul Manafort, President Trump’s former campaign manager, arriving at an arraignment hearing last year.</media:description>
     </item>
     <item>
       <title>Low-Tech Way to Help Some Covid Patients: Flip Them Over</title>
@@ -397,7 +632,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/13/world/middleeast/israel-pompeo-annexation-netanyahu.html" rel="standout"></atom:link>
       <description>Although the secretary of state took pains to avoid publicly addressing the issue, he seemed to caution Israel’s leadership against moving too quickly to annex occupied territory.</description>
       <dc:creator>David M. Halbfinger and Lara Jakes</dc:creator>
-      <pubDate>Wed, 13 May 2020 22:32:42 +0000</pubDate>
+      <pubDate>Thu, 14 May 2020 00:18:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
@@ -415,7 +650,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/13/us/politics/joe-biden-donald-trump-2020.html" rel="standout"></atom:link>
       <description>The former vice president has unified the party and is leading in the polls. But some Democrats say he faces familiar challenges, including slow decision-making and flaws in his digital operation.</description>
       <dc:creator>Katie Glueck, Lisa Lerer, Shane Goldmacher and Alexander Burns</dc:creator>
-      <pubDate>Wed, 13 May 2020 22:14:48 +0000</pubDate>
+      <pubDate>Wed, 13 May 2020 22:14:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
@@ -445,139 +680,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Telecommuting</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/14/business/14Techfix-illo/13Techfix-illo-moth.jpg" width="151"></media:content>
       <media:credit>Glenn Harvey</media:credit>
-    </item>
-    <item>
-      <title>Stocks Fall as Powell Warns of Lasting Economic Damage: Live Updates</title>
-      <link>https://www.nytimes.com/2020/05/13/business/stocks-today-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/business/stocks-today-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/13/business/stocks-today-coronavirus.html" rel="standout"></atom:link>
-      <description>The latest on stock market and business news during the coronavirus outbreak.</description>
-      <pubDate>Wed, 13 May 2020 23:27:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/13/business/13virus-markets-briefing-mnuchin/merlin_172327881_fdb3cc66-a5c3-4af3-9ad2-e3fe71082a71-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>Treasury Secretary Steve Mnuchin in the State Dining Room at the White House in Washington last week.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Live: World News Coverage</title>
-      <link>https://www.nytimes.com/2020/05/13/world/coronavirus-world-news-updates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/13/world/coronavirus-world-news-updates.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/13/world/coronavirus-world-news-updates.html" rel="standout"></atom:link>
-      <description>Some countries are reinstating controls after backsliding, while others are relaxing restrictions, creating a global patchwork. Some are hoping to salvage the coming tourism season.</description>
-      <pubDate>Wed, 13 May 2020 23:42:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/20/world/13virus-int-briefing-who/20virus-int-briefing-who-moth.jpg" width="151"></media:content>
-      <media:credit>Fabrice Coffrini/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Michael Ryan, left, head of the W.H.O.’s health emergencies program, said that the virus may not be an enemy that can be permanently eradicated.</media:description>
-    </item>
-    <item>
-      <title>Former Veterans Affairs Doctor Is Charged With Sexual Abuse of Patients</title>
-      <link>https://www.nytimes.com/2020/05/12/us/west-virginia-doctor-molested-patients.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/12/us/west-virginia-doctor-molested-patients.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/12/us/west-virginia-doctor-molested-patients.html" rel="standout"></atom:link>
-      <description>The doctor, Jonathan Yates, worked at a hospital in West Virginia. He was accused of causing bodily injury to some veterans and abusive sexual contact while they were incapacitated, according to the federal indictment.</description>
-      <dc:creator>Mariel Padilla</dc:creator>
-      <pubDate>Wed, 13 May 2020 12:47:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yates, Jonathan (1968- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Veterans Affairs Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Virginia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/12/multimedia/12xp-westvirginia/12xp-westvirginia-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Harnik/Associated Press</media:credit>
-      <media:description>If convicted, Dr. Jonathan Yates could face a maximum penalty of life in prison.</media:description>
-    </item>
-    <item>
-      <title>Kushner, Law Aside, Doesn’t Rule Out Delaying 2020 Election</title>
-      <link>https://www.nytimes.com/2020/05/12/us/politics/kushner-election-november.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/12/us/politics/kushner-election-november.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/12/us/politics/kushner-election-november.html" rel="standout"></atom:link>
-      <description>The opinion of a White House staff member has no bearing on when the election is held, but his comment played into the concerns of President Trump’s detractors.</description>
-      <dc:creator>Annie Karni and Maggie Haberman</dc:creator>
-      <pubDate>Wed, 13 May 2020 03:45:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Time (Magazine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/12/us/politics/12dc-kushner1/12dc-kushner1-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>Jared Kushner, the president’s son-in-law and a senior White House adviser, this week at the Rose Garden. On Monday, the White House ordered all West Wing employees to wear masks unless they are sitting at their desks.</media:description>
-    </item>
-    <item>
-      <title>Mike Garcia, G.O.P. House Candidate, Is Ahead in California</title>
-      <link>https://www.nytimes.com/2020/05/12/us/politics/california-wisconsin-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/12/us/politics/california-wisconsin-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/12/us/politics/california-wisconsin-elections.html" rel="standout"></atom:link>
-      <description>Mr. Garcia, a political newcomer, was leading Christy Smith in a special election that reflected the nation’s fiercely partisan climate. Republicans also won a House race in Wisconsin.</description>
-      <dc:creator>Jennifer Medina and Reid J. Epstein</dc:creator>
-      <pubDate>Wed, 13 May 2020 05:47:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tiffany, Tom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Christy (1969- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garcia, Mike (1976- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zunker, Tricia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hill, Katie (1987- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/12/us/politics/12elections-garcia1/12elections-garcia1-moth.jpg" width="151"></media:content>
-      <media:credit>Michael Blood/Associated Press</media:credit>
-      <media:description>Mike Garcia won the election to replace former Rep. Katie Hill. </media:description>
-    </item>
-    <item>
-      <title>Judge Hesitates to Accept Justice Dept. Move to Drop Flynn Charge</title>
-      <link>https://www.nytimes.com/2020/05/12/us/politics/michael-flynn-charge-judge.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/12/us/politics/michael-flynn-charge-judge.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/12/us/politics/michael-flynn-charge-judge.html" rel="standout"></atom:link>
-      <description>Law enforcement officials’ abrupt decision to end the case drew accusations from former colleagues that they had undermined the rule of law.</description>
-      <dc:creator>Sharon LaFraniere</dc:creator>
-      <pubDate>Wed, 13 May 2020 02:51:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flynn, Michael T</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Emmet G</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/12/us/politics/12dc-flynn1/12dc-flynn1-moth.jpg" width="151"></media:content>
-      <media:credit>Tom Brenner for The New York Times</media:credit>
-      <media:description>Michael T. Flynn, President Trump’s former national security adviser, pleaded guilty twice to lying to investigators.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Ravaged a Choir. But Isolation Helped Contain It.</title>
-      <link>https://www.nytimes.com/2020/05/12/health/coronavirus-choir.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/12/health/coronavirus-choir.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/12/health/coronavirus-choir.html" rel="standout"></atom:link>
-      <description>One sick singer attended choir practice, infecting 52 others, two of whom died. A study released by the C.D.C. shows that self-isolation and tracing efforts helped contain the outbreak.</description>
-      <dc:creator>David Waldstein</dc:creator>
-      <pubDate>Wed, 13 May 2020 14:07:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leibrand, Howard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamner, Lea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mount Vernon (Wash)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Skagit County (Wash)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/12/multimedia/12virus-choir/12virus-choir-moth.jpg" width="151"></media:content>
-      <media:credit>Centers for Disease Control and Prevention</media:credit>
-      <media:description>A graphic released with the study.</media:description>
     </item>
   </channel>
 </rss>
