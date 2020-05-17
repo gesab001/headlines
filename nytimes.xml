@@ -7,20 +7,20 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 17 May 2020 20:53:37 +0000</lastBuildDate>
-    <pubDate>Sun, 17 May 2020 20:53:37 +0000</pubDate>
+    <lastBuildDate>Sun, 17 May 2020 21:27:53 +0000</lastBuildDate>
+    <pubDate>Sun, 17 May 2020 21:27:53 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>Live Coronavirus News: Full Analysis and Updates</title>
-      <link>https://www.nytimes.com/2020/05/17/us/coronavirus-live-updates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/17/us/coronavirus-live-updates.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/17/us/coronavirus-live-updates.html" rel="standout"></atom:link>
-      <description>Speaker Nancy Pelosi urged the Senate to take up the $3 trillion economic aid bill passed by the House, but Senate leaders said it was too soon for more stimulus.</description>
-      <pubDate>Sun, 17 May 2020 20:37:30 +0000</pubDate>
+      <title>Live Coronavirus News Tracker</title>
+      <link>https://www.nytimes.com/2020/05/17/us/coronavirus-cases-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/17/us/coronavirus-cases-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/17/us/coronavirus-cases-deaths.html" rel="standout"></atom:link>
+      <description>Thirteen sailors aboard the virus-stricken aircraft carrier Theodore Roosevelt tested positive for Covid-19 after seeming to have recovered from the disease.</description>
+      <pubDate>Sun, 17 May 2020 21:26:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/17/business/17virus-us-briefing-economy/17virus-us-briefing-economy-moth.jpg" width="151"></media:content>
       <media:credit>Stephanie Keith/Getty Images</media:credit>
@@ -80,6 +80,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>‘Straight-Up Fire’ in His Veins: Teen Battles New Covid Syndrome</title>
+      <link>https://www.nytimes.com/2020/05/17/health/coronavirus-children-inflammatory-syndrome.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/17/health/coronavirus-children-inflammatory-syndrome.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/17/health/coronavirus-children-inflammatory-syndrome.html" rel="standout"></atom:link>
+      <description>Jack McMorrow, 14, awoke in agony, with heart failure. His case may help doctors understand a frightening new affliction in children linked to the coronavirus.</description>
+      <dc:creator>Pam Belluck</dc:creator>
+      <pubDate>Sun, 17 May 2020 20:14:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+      <category domain="">Multisystem Inflammatory Syndrome in Children</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jack McMorrow</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/15/science/00virus-teen-1/00virus-teen-1-moth.jpg" width="151"></media:content>
+      <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
+      <media:description>Jack McMorrow, 14, was hospitalized for heart failure from a severe inflammatory syndrome linked to the coronavirus.</media:description>
     </item>
     <item>
       <title>Immigration Agency That Issues Visas, Green Cards Struggles to Stay Afloat</title>
@@ -261,12 +281,12 @@
       <media:description>Mr. Biden’s campaign has been rapidly expanding its policy-drafting apparatus, with an uphill economic recovery waiting if he wins in November.</media:description>
     </item>
     <item>
-      <title>Coronavirus News Global Tracker</title>
-      <link>https://www.nytimes.com/2020/05/17/world/coronavirus-live.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/17/world/coronavirus-live.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/17/world/coronavirus-live.html" rel="standout"></atom:link>
+      <title>Coronavirus Outbreak in Nigeria Highlights Emerging Threat in Africa: Live Coverage</title>
+      <link>https://www.nytimes.com/2020/05/17/world/coronavirus-world-news.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/17/world/coronavirus-world-news.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/17/world/coronavirus-world-news.html" rel="standout"></atom:link>
       <description>China has quarantined thousands of people after a resurgence of cases in the Northeast. The leaders of Italy and Britain warned that a vaccine may be a long time coming.</description>
-      <pubDate>Sun, 17 May 2020 20:42:30 +0000</pubDate>
+      <pubDate>Sun, 17 May 2020 20:42:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/15/world/17virus-int-briefing-nigeria/15virus-africa-hotspots05-moth.jpg" width="151"></media:content>
       <media:credit>Sipa, via Associated Press</media:credit>
@@ -316,7 +336,7 @@
       <atom:link href="https://www.nytimes.com/video/us/100000007142853/ahmaud-arbery-video-911-georgia.html" rel="standout"></atom:link>
       <description>Using security footage, cellphone video, 911 calls and police reports, The Times has reconstructed the 12 minutes before Ahmaud Arbery was shot dead in Georgia on Feb. 23.</description>
       <dc:creator>Malachy Browne, Drew Jordan, Dmitriy Khavin and Ainara Tiefenthäler</dc:creator>
-      <pubDate>Sun, 17 May 2020 20:25:33 +0000</pubDate>
+      <pubDate>Sun, 17 May 2020 21:27:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arbery, Ahmaud (1994-2020)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
@@ -347,21 +367,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/17/us/politics/17trumpjr-biden/merlin_172144566_97fff2a1-68f1-4a76-8888-51dc2c904354-moth.jpg" width="151"></media:content>
       <media:credit>Rick Scuteri/Associated Press</media:credit>
       <media:description>Donald Trump Jr. often goes even further than his father&amp;rsquo;s accusations and insinuations.</media:description>
-    </item>
-    <item>
-      <title>Cody Latimer of the Redskins Faces Assault and Weapons Charges</title>
-      <link>https://www.nytimes.com/2020/05/16/sports/football/cody-latimer-arrest-redskins.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/05/16/sports/football/cody-latimer-arrest-redskins.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/05/16/sports/football/cody-latimer-arrest-redskins.html" rel="standout"></atom:link>
-      <description>Deputies went to an apartment complex in Colorado early Saturday morning after receiving a report of gunfire inside a unit, officials said.</description>
-      <dc:creator>Derrick Bryson Taylor</dc:creator>
-      <pubDate>Sat, 16 May 2020 21:03:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Redskins</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Latimer, Cody (1992- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Douglas County (Colo)</category>
     </item>
   </channel>
 </rss>

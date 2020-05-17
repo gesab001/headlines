@@ -10,6 +10,123 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/auto/jimmie-johnson-crashes-nascar-darlington</guid>
+      <link>https://www.foxnews.com/auto/jimmie-johnson-crashes-nascar-darlington</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/jj.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/jj.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/jj.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0986c3aa-1b97-53b3-bc4d-a1becb011c68</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/auto/nascar</category>
+            <category domain="foxnews.com/taxonomy">fox-news/auto/attributes/racing</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/auto</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Jimmie Johnson crashes out of the lead at NASCAR Darlington race</title>
+      <description>Hasn't won since 2017.</description>
+                  <dc:creator>Gary Gastelu</dc:creator>
+                         <pubDate>Sun, 17 May 2020 21:23:15 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Gary Gastelu</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/chris-sununu-new-hampshire-coronavirus-economy-restaurants-reopening</guid>
+      <link>https://www.foxnews.com/media/chris-sununu-new-hampshire-coronavirus-economy-restaurants-reopening</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Sununu-NH.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Sununu-NH.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Sununu-NH.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d89d3703-347a-56ec-ac1a-0da7c10a1709</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-hampshire</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/economy</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/fox-friends-weekend</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/disaster-response</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local/governors</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local/issues</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local/controversies</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Gov. Sununu 'very confident' New Hampshire's economy can restart safely amid coronavirus outbreak</title>
+      <description>New Hampshire Gov. Chris Sununu told “Fox &amp; Friends Weekend” on Sunday he’s “very confident” restaurants in his state can reopen safely for outdoor dining amid the coronavirus pandemic.</description>
+                  <dc:creator>Talia Kaplan</dc:creator>
+                         <pubDate>Sun, 17 May 2020 21:21:22 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Talia Kaplan</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/coronavirus-london-warsaw-anti-lockdown-protests-shutdowns</guid>
+      <link>https://www.foxnews.com/world/coronavirus-london-warsaw-anti-lockdown-protests-shutdowns</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20137596353754.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20137596353754.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20137596353754.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">4a39ced7-8acd-539b-9520-5c7c230dac68</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/europe</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/outbreaks</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/disasters/disaster-response</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Anti-lockdown protests break out in London, Warsaw, other European cities as coronavirus shutdowns linger</title>
+      <description>Amid increasing frustration over lockdown measures to curb the coronavirus pandemic, multiple protests took place across Europe on Saturday to demand businesses reopen.  </description>
+                  <dc:creator>Bradford Betz</dc:creator>
+                         <pubDate>Sun, 17 May 2020 21:11:13 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Bradford Betz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/michael-jordan-game-worn-sneakers-sell-560g-online-auction</guid>
+      <link>https://www.foxnews.com/sports/michael-jordan-game-worn-sneakers-sell-560g-online-auction</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Jeff-Hornacek-Michael-Jordan-Getty-Images.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Jeff-Hornacek-Michael-Jordan-Getty-Images.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Jeff-Hornacek-Michael-Jordan-Getty-Images.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">7a6a3c81-9d1a-5a5f-ba8e-e5fa1ebd428c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/michael-jordan</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nba/chicago-bulls</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nba</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/illinois</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Michael Jordan game-worn sneakers sell for record $560G in online auction</title>
+      <description>As ESPN’s documentary, “The Last Dance” continues to showcase NBA legend Michael Jordan and the historic run of the ‘90s Chicago Bulls, another piece of Jordan memorabilia has sold for a record-breaking amount of money.</description>
+                  <dc:creator>Daniel Canova</dc:creator>
+                         <pubDate>Sun, 17 May 2020 21:03:51 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-daughter-wwe-very-proud</guid>
+      <link>https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-daughter-wwe-very-proud</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Simone-Dwayne-Johnson.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Simone-Dwayne-Johnson.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Simone-Dwayne-Johnson.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">bb0c262b-2ebf-5ee1-aea8-8f50b791f06c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/dwayne-the-rock-johnson</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/organization/wwe</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Dwayne 'The Rock' Johnson says he's 'very proud of' his daughter as she joins WWE</title>
+      <description>Dwayne "The Rock" Johnson's daughter is joining the family business.</description>
+                  <dc:creator>Nate Day</dc:creator>
+                         <pubDate>Sun, 17 May 2020 20:54:31 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/entertainment/britney-spears-oops-i-did-it-again-20th-anniversary-album-fans</guid>
       <link>https://www.foxnews.com/entertainment/britney-spears-oops-i-did-it-again-20th-anniversary-album-fans</link>
                   <media:group>
@@ -116,116 +233,6 @@
                          <pubDate>Sun, 17 May 2020 20:12:19 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Peter Aitken</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/great-outdoors/bait-and-tackle-shortage-reportedly-hits-as-fishing-soars-in-popularity-due-to-social-distancing</guid>
-      <link>https://www.foxnews.com/great-outdoors/bait-and-tackle-shortage-reportedly-hits-as-fishing-soars-in-popularity-due-to-social-distancing</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/fish-vs-bait.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/fish-vs-bait.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/fish-vs-bait.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">6a6717e7-1a58-5513-8df1-6a3a6dd85699</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/great-outdoors/fishing</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/great-outdoors</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Bait and tackle shortage reportedly hits as fishing soars in popularity due to social distancing</title>
-      <description>It might be time to start looking into spearfishing.</description>
-                  <dc:creator>Michael Hollan</dc:creator>
-                         <pubDate>Sun, 17 May 2020 20:11:35 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Michael Hollan</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/nj-home-health-aide-coronavirus-died</guid>
-      <link>https://www.foxnews.com/us/nj-home-health-aide-coronavirus-died</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Gurbir-S-Grewal.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Gurbir-S-Grewal.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Gurbir-S-Grewal.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">c7817eb9-62db-5334-9eb4-f32abe8f82a5</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-jersey</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>NJ home health aide charged with exposing coronavirus to elderly client who died</title>
-      <description>A New Jersey home health aide is facing criminal charges in the COVID-19 death of an 80-year-old woman under her care, prosecutors said.</description>
-                  <dc:creator>Robert Gearty</dc:creator>
-                         <pubDate>Sun, 17 May 2020 20:07:37 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Robert Gearty</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/auto/nascar-darlington-race-start</guid>
-      <link>https://www.foxnews.com/auto/nascar-darlington-race-start</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/darl-ap.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/darl-ap.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/darl-ap.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">cd7270bc-0662-5077-a80d-eae925ab4e7e</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/auto/nascar</category>
-            <category domain="foxnews.com/taxonomy">fox-news/auto/attributes/racing</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/america-together</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/auto</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>NASCAR Darlington race starts with a crash on lap 1</title>
-      <description>Back to the track.</description>
-                  <dc:creator>Gary Gastelu</dc:creator>
-                         <pubDate>Sun, 17 May 2020 20:04:52 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Gary Gastelu</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/pastor-brian-gibson-faith-leaders-reopen-coronavirus-governors</guid>
-      <link>https://www.foxnews.com/media/pastor-brian-gibson-faith-leaders-reopen-coronavirus-governors</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c796d9b8-1e70-4920-b1c5-c1e912462d7e/ef00c62d-3291-4da3-bce4-c969c9e538b5/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">7c66b65b-6ef9-56cd-b31e-b39bd97785ef</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/fox-friends-weekend</category>
-            <category domain="foxnews.com/taxonomy">fox-news/faith-values/faith</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/disaster-response</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Pastor urges faith leaders to reopen in defiance of governors' coronavirus orders: 'Step up and roar'</title>
-      <description>Brian Gibson, pastor of His Church, a megachurch with locations in Owensboro, Ky., and Amarillo, Texas, told "Fox &amp; Friends" Sunday that he finds it unreasonable that businesses are able to reopen while churches are forced to stay closed amid the coronavirus.</description>
-                  <dc:creator>Yael Halon</dc:creator>
-                         <pubDate>Sun, 17 May 2020 20:02:06 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Yael Halon</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/lifestyle/florida-man-describes-surviving-lockdown-in-supposedly-haunted-house</guid>
-      <link>https://www.foxnews.com/lifestyle/florida-man-describes-surviving-lockdown-in-supposedly-haunted-house</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/10/halloween-house.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/halloween-house.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/halloween-house.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">2055f982-3913-5fe9-8412-97e254ba71a4</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/lifestyle/real-estate</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/lifestyle</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Florida man describes surviving lockdown in supposedly haunted house</title>
-      <description>Ghosts don’t care about social distancing.</description>
-                  <dc:creator>Michael Hollan</dc:creator>
-                         <pubDate>Sun, 17 May 2020 20:00:04 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Michael Hollan</category>
                             </item>
       </channel>
 </rss>
