@@ -10,6 +10,27 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/brian-austin-green-megan-fox-message-bored-smothered-split-rumors</guid>
+      <link>https://www.foxnews.com/entertainment/brian-austin-green-megan-fox-message-bored-smothered-split-rumors</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/megan-fox-brian-austin-green-876.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/megan-fox-brian-austin-green-876.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/megan-fox-brian-austin-green-876.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">47385f42-9ee0-5fbd-b0c3-436738664eda</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/couples</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Brian Austin Green shares message about being 'bored', 'smothered' amid Megan Fox split rumors</title>
+      <description>There may be trouble in paradise for Brian Austin Green and Megan Fox.</description>
+                  <dc:creator>Nate Day</dc:creator>
+                         <pubDate>Sun, 17 May 2020 22:12:00 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/us/de-blasio-nyc-health-commissioner-oxiris-barbot-coronavirus-nypd-masks</guid>
       <link>https://www.foxnews.com/us/de-blasio-nyc-health-commissioner-oxiris-barbot-coronavirus-nypd-masks</link>
                   <media:group>
@@ -222,28 +243,6 @@
                          <pubDate>Sun, 17 May 2020 20:28:42 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/nyc-bars-see-flood-of-patients-weary-of-coronavirus-stay-at-home-orders</guid>
-      <link>https://www.foxnews.com/us/nyc-bars-see-flood-of-patients-weary-of-coronavirus-stay-at-home-orders</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/NYC-Bar-2.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/NYC-Bar-2.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/NYC-Bar-2.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">9afe6de6-88b5-5851-8be6-2abfd8ea71ae</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>NYC bars see flood of patrons weary of coronavirus stay-at-home orders</title>
-      <description>As the weather heats up, though, more and more New Yorkers are flocking to public spaces and familiar haunts for a sense of normalcy after spending most of the last two months cooped up inside — and not always policing themselves.</description>
-                  <dc:creator>Frank Miles</dc:creator>
-                         <pubDate>Sun, 17 May 2020 20:23:17 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Frank Miles</category>
                             </item>
       </channel>
 </rss>
