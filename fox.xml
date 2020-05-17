@@ -10,6 +10,29 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/pompeo-china-warning-hong-kong-american-journalists</guid>
+      <link>https://www.foxnews.com/world/pompeo-china-warning-hong-kong-american-journalists</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae0ab8d9-34ee-4820-beae-ef0bed7e057c/5b0579bb-7259-48be-a6c9-e89b06940870/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">fed5904e-50dd-5c92-8b3c-936cc8c2907f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy/secretary-of-state</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/hong-kong</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy/state-department</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Pompeo warns China after revealing it 'threatened to interfere' with work of US journalists in Hong Kong</title>
+      <description>Secretary of State Mike Pompeo warned China on Sunday, revealing he’s learned that the communist country has been threatening to stand in the way of American journalists in Hong Kong.</description>
+                  <dc:creator>Frank Miles</dc:creator>
+                         <pubDate>Sun, 17 May 2020 22:34:29 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Frank Miles</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/entertainment/brian-austin-green-megan-fox-message-bored-smothered-split-rumors</guid>
       <link>https://www.foxnews.com/entertainment/brian-austin-green-megan-fox-message-bored-smothered-split-rumors</link>
                   <media:group>
@@ -222,27 +245,6 @@
                          <pubDate>Sun, 17 May 2020 20:28:51 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/former-bears-chairman-michael-mccaskey-grandson-george-halas-dies</guid>
-      <link>https://www.foxnews.com/sports/former-bears-chairman-michael-mccaskey-grandson-george-halas-dies</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Michael-McCaskey-1.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Michael-McCaskey-1.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Michael-McCaskey-1.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">0321892c-44b3-50a2-b02b-57fdcc420b3a</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/chicago-bears</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Former Bears' chairman Michael McCaskey, grandson of George Halas, dies at 76, team announces</title>
-      <description>Former Chicago Bears chairman Michael McCaskey, the grandson of George Halas who led the franchise for three decades, died on Saturday after a battle with cancer, the team said in a statement.</description>
-                  <dc:creator>Daniel Canova</dc:creator>
-                         <pubDate>Sun, 17 May 2020 20:28:42 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
                             </item>
       </channel>
 </rss>
