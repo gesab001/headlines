@@ -24,7 +24,7 @@ print(date_string)
 #d2 = today.strftime("%B %d, %Y")
 #print("d2 =", d2)
 
-command = "echo " + str(date_string) + " NZ" + " >lastNewsUpdate.txt"
+command = "echo " + str(date_string) + " NZ" + " >/var/www/html/headlines/lastNewsUpdate.txt"
 subprocess.call(command, shell=True)
 
 
