@@ -10,231 +10,254 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/lebron-james-barack-obama-televised-graduate-together-ceremony</guid>
-      <link>https://www.foxnews.com/us/lebron-james-barack-obama-televised-graduate-together-ceremony</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/phyllis-george-former-miss-america-later-a-co-host-of-nfl-today-dead-at-70</guid>
+      <link>https://www.foxnews.com/entertainment/phyllis-george-former-miss-america-later-a-co-host-of-nfl-today-dead-at-70</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/LeBron-James-Obama-AP.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/LeBron-James-Obama-AP.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20138031843634.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20138031843634.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/LeBron-James-Obama-AP.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">d9bc4357-012c-5767-b839-8eba59052f50</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/lebron-james</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/barack-obama</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/education/high-school</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/education</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/companies/twitter</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/companies/facebook</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20138031843634.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d909c56f-f424-5fbd-97a0-c82e816bbae7</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/departed</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/obituary</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/miss-america</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/kentucky</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/texas</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/media</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Phyllis George, former Miss America, later a co-host of 'NFL Today,' dead at 70</title>
+      <description>Phyllis George, the former Miss America who became a female sportscasting pioneer on CBS's “The NFL Today” and served as the first lady of Kentucky, has died. She was 70.</description>
+                  <dc:creator>Bruce Schreiner</dc:creator>
+            <dc:creator>John Raby</dc:creator>
+                         <pubDate>Sun, 17 May 2020 03:06:57 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Bruce Schreiner</category>
+            <category domain="foxnews.com/metadata/dc.creator">John Raby</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/nyc-joe-borelli-cuomo-de-blasio-urgency-reasonable-guidelines-reopening</guid>
+      <link>https://www.foxnews.com/politics/nyc-joe-borelli-cuomo-de-blasio-urgency-reasonable-guidelines-reopening</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Virus-Outbreak-New-York5.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Virus-Outbreak-New-York5.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Virus-Outbreak-New-York5.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">bcdd098e-a41e-5253-8b2c-c75ccb0c70a9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/bill-de-blasio</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/andrew-cuomo</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>NYC councilman calls out Cuomo, de Blasio, asks for 'urgency' and 'reasonable guidelines' in reopening</title>
+      <description>Joe Borelli, councilman to the 51st District in New York City, called for state and local government officials to start addressing “reasonable guidelines” to reopen the Big Apple and get people back to work.</description>
+                  <dc:creator>Caitlin McFall</dc:creator>
+                         <pubDate>Sun, 17 May 2020 02:32:42 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Caitlin McFall</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/los-angeles-fire-explosion-leave-at-least-10-firefighters-injured-reports</guid>
+      <link>https://www.foxnews.com/us/los-angeles-fire-explosion-leave-at-least-10-firefighters-injured-reports</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/iStock-521989614.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/iStock-521989614.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/iStock-521989614.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3d816186-e9e4-5ea8-90cc-dd71e99b7395</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/disasters/fires</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/los-angeles</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/environment/cities</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Lebron James to host televised 'Graduate Together' ceremony celebrating Class of 2020</title>
-      <description>Lebron James and former President Barack Obama will headline a televised salute to 2020 high school graduates on Saturday evening, in place of ceremonies that were either canceled or altered due to the novel coronavirus outbreak. </description>
+      <title>Los Angeles fire, explosion leave at least 10 firefighters injured: reports</title>
+      <description>A fire and explosion in downtown Los Angeles on Saturday evening have left at least 10 firefighters injured, according to reports.</description>
+                  <dc:creator>Brie Stimson</dc:creator>
+            <dc:creator>Dom Calicchio</dc:creator>
+                         <pubDate>Sun, 17 May 2020 02:24:08 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
+            <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/laura-ingraham-obama-administration-officials-targeted-flynn-blunt-the-force</guid>
+      <link>https://www.foxnews.com/media/laura-ingraham-obama-administration-officials-targeted-flynn-blunt-the-force</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/beea60c1-6f97-4875-add8-4879823321a5/02a8beba-a6ef-4991-971f-fe9d8fe0da56/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">bd6e0495-4d6a-5382-8b40-708255b9adde</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/watters-world</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/barack-obama</category>
+            <category domain="foxnews.com/taxonomy">fox-news/news-events/russia-investigation</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Laura Ingraham says Obama, administration officials targeted Flynn to 'blunt the force'</title>
+      <description>Laura Ingraham appeared "Watters' World" Saturday to discuss the "unmasking" of Lt. Gen. Michael Flynn.</description>
+                  <dc:creator>Victor Garcia</dc:creator>
+                         <pubDate>Sun, 17 May 2020 02:07:46 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Victor Garcia</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/florida-desantis-gyms-next-reopening-phase</guid>
+      <link>https://www.foxnews.com/us/florida-desantis-gyms-next-reopening-phase</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/06/AP19164651320187.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP19164651320187.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP19164651320187.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8fda394b-036a-50ed-a45a-2ad0cb418eb9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/florida</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/republicans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/ron-desantis</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+            <category domain="foxnews.com/taxonomy">fox-news/newsedge/politics</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Florida Gov. DeSantis says gyms allowed to reopen after being shuttered due to coronavirus</title>
+      <description>Florida Gov. Ron DeSantis had some good news for state businesses and residents on Friday when he announced that gyms will be allowed to reopen after being shuttered since March due to the novel coronavirus outbreak.</description>
                   <dc:creator>Nick Givas</dc:creator>
-                         <pubDate>Sat, 16 May 2020 22:44:10 GMT</pubDate>
+                         <pubDate>Sun, 17 May 2020 01:50:08 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Nick Givas</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/packers-aaron-rodgers-career-green-bay-not-be-a-reality</guid>
-      <link>https://www.foxnews.com/sports/packers-aaron-rodgers-career-green-bay-not-be-a-reality</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/jack-keane-rising-tensions-china-coronavirus-outbreak</guid>
+      <link>https://www.foxnews.com/media/jack-keane-rising-tensions-china-coronavirus-outbreak</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/09/NFL-Aaron-Rodgers5.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/NFL-Aaron-Rodgers5.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/NFL-Aaron-Rodgers5.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">1c130840-6e89-5f7d-b5f0-991a3bfef095</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/aaron-rodgers</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/green-bay-packers</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl-draft</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Packers' Aaron Rodgers says 'desire' to play out career in Green Bay 'may not be a reality': report</title>
-      <description>Aaron Rodgers says he has a “sincere desire” to finish out his career right where he started it, but after watching the Green Bay Packers pick Utah’s Jordan Love in the first round of the draft last month, he thinks it “may not be a reality at this point.”</description>
-                  <dc:creator>Paulina Dedaj</dc:creator>
-                         <pubDate>Sat, 16 May 2020 21:57:54 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Paulina Dedaj</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/biden-blames-trump-cuba-push-rejoin-un-human-rights-council-despite-being-member-during-obama-admin</guid>
-      <link>https://www.foxnews.com/politics/biden-blames-trump-cuba-push-rejoin-un-human-rights-council-despite-being-member-during-obama-admin</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b60b3aa4-db3d-412b-be6a-fc95ccc9d132/008d741b-80ca-441d-b322-d59d594070ad/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d477825c-9141-4026-b3ee-40ac900abfcb/23a653f9-1ec1-4ded-9c52-11db3aa72d78/1280x720/match/image.jpg" medium="image" isDefault="true" />
         <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
       </media:group>
       <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">ad81747d-6100-5198-9c7a-52eec262df4c</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/united-nations</category>
+            <category domain="foxnews.com/metadata/dc.identifier">2eef2b94-4f4b-5950-8b75-e78e90ce17c8</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/americas-news-hq</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Gen. Jack Keane says China has 'stepped up activity' as result of coronavirus outbreak</title>
+      <description>Fox News senior strategic analyst Gen. Jack Keane joined "America's News HQ" Saturday to discuss the escalating tension between the United States and China, telling co-host Arthel Neville the Communist nation is looking to take advantage of the coronavirus pandemic.</description>
+                  <dc:creator>Victor Garcia</dc:creator>
+                         <pubDate>Sun, 17 May 2020 01:39:57 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Victor Garcia</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/pompeo-warns-china-real-risk</guid>
+      <link>https://www.foxnews.com/politics/pompeo-warns-china-real-risk</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/mike-pompeo-FOX.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/mike-pompeo-FOX.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/mike-pompeo-FOX.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">4357f1aa-d087-5704-8b4c-ad80b908a2aa</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy/secretary-of-state</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/republicans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/florida</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/senate</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Biden blames Trump for Cuba push to rejoin UN Human Rights Council, despite it being a member during Obama admin</title>
-      <description>Presumptive Democratic nominee Joe Biden on Friday blamed President Trump for a push by Cuba to join the U.N. Human Rights Council -- a criticism that ignores Cuba’s membership multiple times during the Obama administration.</description>
-                  <dc:creator>Adam Shaw</dc:creator>
-                         <pubDate>Sat, 16 May 2020 21:54:46 GMT</pubDate>
+      <title>Pompeo says China poses real 'risk' to US, in new interview</title>
+      <description>In yet another push from the federal government to highlight the nefarious nature of Communist China, Secretary of State Mike Pompeo said during a radio interview on Saturday that the country's actions pose a real "risk" to the safety and security of the United States. </description>
+                  <dc:creator>Nick Givas</dc:creator>
+                         <pubDate>Sun, 17 May 2020 01:23:40 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Adam Shaw</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nick Givas</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/tropical-system-arthur-florida-storm-hurricane-season</guid>
-      <link>https://www.foxnews.com/us/tropical-system-arthur-florida-storm-hurricane-season</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/new-york-city-shootings-spike-coronavirus</guid>
+      <link>https://www.foxnews.com/us/new-york-city-shootings-spike-coronavirus</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/HurricaneAlex_1.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/HurricaneAlex_1.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20122597202250.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20122597202250.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/HurricaneAlex_1.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">57e2b080-9e33-5237-9f6c-e6f373998093</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/disasters/hurricanes-typhoons</category>
-            <category domain="foxnews.com/taxonomy">fox-news/weather</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/florida</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20122597202250.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9479656e-72d1-5212-92f4-081e33d783d5</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Tropical depression forms off Florida coast, would be first named storm of hurricane season</title>
-      <description>Florida will likely see the first named storm of hurricane season on Saturday, according to reports.</description>
-                  <dc:creator>Peter Aitken</dc:creator>
-                         <pubDate>Sat, 16 May 2020 21:39:11 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Peter Aitken</category>
+      <title>NYC shootings spike nearly 200 percent this week compared to same time last year</title>
+      <description>Shootings in New York city soared 188 percent this week compared to the same time last year.</description>
+                  <dc:creator>Tina Moore</dc:creator>
+            <dc:creator>Dean Balsamini</dc:creator>
+                         <pubDate>Sun, 17 May 2020 00:59:02 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Tina Moore</category>
+            <category domain="foxnews.com/metadata/dc.creator">Dean Balsamini</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/redskins-cody-latimer-arrested-assault-illegal-discharge-firearm-police</guid>
-      <link>https://www.foxnews.com/sports/redskins-cody-latimer-arrested-assault-illegal-discharge-firearm-police</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/los-angeles-coronavirus-testing</guid>
+      <link>https://www.foxnews.com/us/los-angeles-coronavirus-testing</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Cody-Latimer-Giants-Getty-Douglas-County-Sheriff.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Cody-Latimer-Giants-Getty-Douglas-County-Sheriff.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/garcetti_1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/garcetti_1.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Cody-Latimer-Giants-Getty-Douglas-County-Sheriff.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">f5f9b740-ccf8-5198-8406-c6cb97a888c0</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/washington-redskins</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/colorado</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/garcetti_1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3de98763-27f9-5e09-bbe3-27e2d02a1e53</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/los-angeles</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Redskins' Cody Latimer arrested, faces charges of assault, illegal discharge of firearm: police</title>
-      <description>Washington Redskins’ Cody Latimer was arrested early Saturday morning after police were called to an apartment complex in Colorado over reports of shots fired.</description>
-                  <dc:creator>Paulina Dedaj</dc:creator>
-                         <pubDate>Sat, 16 May 2020 21:15:12 GMT</pubDate>
+      <title>LA makes coronavirus tests available to all residents, but many go unused amid nationwide shortage, report finds</title>
+      <description>Los Angeles Mayor Eric Garcetti made coronavirus testing available to anyone who wants to be tested, and the city now finds itself with a surplus of unused testing kits amid a nationwide shortage, according to data compiled in a new report.</description>
+                  <dc:creator>Caitlin McFall</dc:creator>
+                         <pubDate>Sun, 17 May 2020 00:37:27 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Paulina Dedaj</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Caitlin McFall</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/us-immigration-agency-payroll-congressional-help</guid>
-      <link>https://www.foxnews.com/politics/us-immigration-agency-payroll-congressional-help</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/acting-dhs-secretary-wolf-we-honor-heroic-law-officers-who-died-in-the-line-of-duty-protecting-us-all</guid>
+      <link>https://www.foxnews.com/opinion/acting-dhs-secretary-wolf-we-honor-heroic-law-officers-who-died-in-the-line-of-duty-protecting-us-all</link>
                   <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a3580b0-6dbb-4b5e-bc4a-36218ccbac99/03df3bb4-91c9-4d21-ac45-2ad2a69d8004/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/02/BORDER-LOGO.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/BORDER-LOGO.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">56a1c60e-3f97-51d4-8fb4-2f1a2922b8dd</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/immigration</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/BORDER-LOGO.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d90618c9-e661-5593-b633-18fac875e51c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/homeland-security</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/congress</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>US immigration agency says it might not make payroll without congressional help</title>
-      <description>U.S. Citizenship and Immigration Services (USCIS) is warning that it is being hit hard by the coronavirus pandemic and that it will soon exhaust its funding and might be unable to meet its payroll without significant help from Congress -- as the number of applications from immigrants dries up.</description>
-                  <dc:creator>Marisa Schultz</dc:creator>
-            <dc:creator>Adam Shaw</dc:creator>
-                         <pubDate>Sat, 16 May 2020 21:01:25 GMT</pubDate>
+      <title>Acting DHS Secretary Wolf: We honor heroic law officers who died in the line of duty protecting us all</title>
+      <description>Americans should pay thanks to the men and women who wear the uniform each day, risking their own health and safety to protect our communities. Due to the very nature of police work, social distancing isn’t always an option for our nation’s law enforcement heroes.</description>
+                  <dc:creator>Chad Wolf</dc:creator>
+                         <pubDate>Sun, 17 May 2020 00:33:08 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Marisa Schultz</category>
-            <category domain="foxnews.com/metadata/dc.creator">Adam Shaw</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/amash-not-running-president-coronavirus</guid>
-      <link>https://www.foxnews.com/politics/amash-not-running-president-coronavirus</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/rep-justin-amash-freedom-caucus-ap.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/rep-justin-amash-freedom-caucus-ap.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/rep-justin-amash-freedom-caucus-ap.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">da04691f-d41f-528d-85d5-1f5e8f479054</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/libertarians</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Citing coronavirus, Justin Amash announces he won't run for president</title>
-      <description>Rep. Justin Amash, I-Mich., announced Saturday that he will not run in the 2020 presidential election due to challenges posed by the coronavirus during the campaign season.</description>
-                  <dc:creator>Sam Dorman</dc:creator>
-                         <pubDate>Sat, 16 May 2020 20:50:30 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Sam Dorman</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/justin-bieber-regrets-wishes-waited-marriage-sex</guid>
-      <link>https://www.foxnews.com/entertainment/justin-bieber-regrets-wishes-waited-marriage-sex</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Justin-Bieber.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Justin-Bieber.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Justin-Bieber.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">de00100c-b1cb-51c4-9c16-e3bf0a67f431</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/justin-bieber</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/marriage</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Justin Bieber talks regrets, says he wishes he waited until marriage to have sex</title>
-      <description>If Justin Bieber could go back in time, he says he'd do some things differently.</description>
-                  <dc:creator>Melissa Roberto</dc:creator>
-                         <pubDate>Sat, 16 May 2020 20:37:56 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Melissa Roberto</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/mlb-projects-640k-per-game-loss-with-no-fans-report</guid>
-      <link>https://www.foxnews.com/sports/mlb-projects-640k-per-game-loss-with-no-fans-report</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/03/05_Coronavirus-Empty-Event-Venues.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/05_Coronavirus-Empty-Event-Venues.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/05_Coronavirus-Empty-Event-Venues.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">2b8e4062-1274-5619-b2aa-1301aac3766a</category>
-                  <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>MLB projects $640K per game loss with no fans: report</title>
-      <description>Major League Baseball told players their prorated salaries would contribute to an average loss of $640,000 for each game over an 82-game season in empty ballparks, according to a presentation from the commissioner’s office to the union that was obtained by The Associated Press.</description>
-                   <pubDate>Sat, 16 May 2020 20:34:13 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/jennifer-lopez-flaunts-ripped-body-workout-camo</guid>
-      <link>https://www.foxnews.com/entertainment/jennifer-lopez-flaunts-ripped-body-workout-camo</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/01/GettyImages-1199104388.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/GettyImages-1199104388.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/GettyImages-1199104388.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">e647eaf1-b53e-510b-bfea-59426ef33387</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/jennifer-lopez</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/diet-fitness</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Jennifer Lopez flaunts ripped body in mid-workout snap donning all camo</title>
-      <description>Jennifer Lopez put some hard work in the gym this week -- but not without a photoshoot.</description>
-                  <dc:creator>Melissa Roberto</dc:creator>
-                         <pubDate>Sat, 16 May 2020 20:32:53 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Melissa Roberto</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Chad Wolf</category>
                             </item>
       </channel>
 </rss>
