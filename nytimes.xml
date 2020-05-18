@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 18 May 2020 02:04:26 +0000</lastBuildDate>
-    <pubDate>Mon, 18 May 2020 02:04:26 +0000</pubDate>
+    <lastBuildDate>Mon, 18 May 2020 02:45:04 +0000</lastBuildDate>
+    <pubDate>Mon, 18 May 2020 02:45:04 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -80,13 +80,24 @@
       <media:description>California is one of many states emerging from stay-at-home restrictions in gradual, regional steps. Beachgoers strolled in Laguna Beach, Calif. on May 9.</media:description>
     </item>
     <item>
+      <title>Fire Consumes Storefront in Harlem</title>
+      <link>https://www.nytimes.com/2020/05/17/nyregion/harlem-fire-store.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/05/17/nyregion/harlem-fire-store.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/05/17/nyregion/harlem-fire-store.html" rel="standout"></atom:link>
+      <description>The fire started at 7:30 p.m. in a furniture store on 125th Street and Adam Clayton Powell Jr. Boulevard.</description>
+      <dc:creator>Sandra E. Garcia</dc:creator>
+      <pubDate>Mon, 18 May 2020 02:36:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Harlem (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+    </item>
+    <item>
       <title>Inspector General’s Firing Puts Pompeo’s Use of Taxpayer Funds Under Scrutiny</title>
       <link>https://www.nytimes.com/2020/05/17/us/politics/pompeo-inspector-general-steve-linick.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/05/17/us/politics/pompeo-inspector-general-steve-linick.html</guid>
       <atom:link href="https://www.nytimes.com/2020/05/17/us/politics/pompeo-inspector-general-steve-linick.html" rel="standout"></atom:link>
       <description>Accusations of improperly using government resources have trailed the secretary of state, but President Trump’s move to fire the State Department inspector general has handed Democrats a new weapon.</description>
       <dc:creator>Edward Wong</dc:creator>
-      <pubDate>Mon, 18 May 2020 01:17:09 +0000</pubDate>
+      <pubDate>Mon, 18 May 2020 02:32:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
@@ -123,7 +134,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/17/world/canada/snowbirds-crash-coronavirus.html" rel="standout"></atom:link>
       <description>Another member of the military was injured, the authorities said. The jet crashed into a house in Kamloops, British Columbia.</description>
       <dc:creator>Sandra E. Garcia</dc:creator>
-      <pubDate>Mon, 18 May 2020 00:21:42 +0000</pubDate>
+      <pubDate>Mon, 18 May 2020 02:36:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
@@ -181,7 +192,7 @@
       <atom:link href="https://www.nytimes.com/2020/05/17/us/black-delivery-driver-okc-travis-miller.html" rel="standout"></atom:link>
       <description>Travis Miller Sr. said he was trying to leave a gated neighborhood in Oklahoma after a delivery when a vehicle blocked his path.</description>
       <dc:creator>Mariel Padilla</dc:creator>
-      <pubDate>Mon, 18 May 2020 01:34:17 +0000</pubDate>
+      <pubDate>Mon, 18 May 2020 01:34:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Travis Miller Sr.</category>
@@ -377,7 +388,7 @@
       <atom:link href="https://www.nytimes.com/video/us/100000007142853/ahmaud-arbery-video-911-georgia.html" rel="standout"></atom:link>
       <description>Using security footage, cellphone video, 911 calls and police reports, The Times has reconstructed the 12 minutes before Ahmaud Arbery was shot dead in Georgia on Feb. 23.</description>
       <dc:creator>Malachy Browne, Drew Jordan, Dmitriy Khavin and Ainara Tiefenthäler</dc:creator>
-      <pubDate>Mon, 18 May 2020 01:34:11 +0000</pubDate>
+      <pubDate>Mon, 18 May 2020 02:36:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arbery, Ahmaud (1994-2020)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>

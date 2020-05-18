@@ -10,6 +10,49 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/cnn-kaitlan-collins-trump-video-mask-white-house-briefing-room</guid>
+      <link>https://www.foxnews.com/media/cnn-kaitlan-collins-trump-video-mask-white-house-briefing-room</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Kaitlan-Collins.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Kaitlan-Collins.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Kaitlan-Collins.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">94ed4487-be3b-54c3-bd91-a2f52150e675</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/white-house</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>CNN's Kaitlan Collins spars with Trump after video shows her removing mask in WH briefing room</title>
+      <description>CNN reporter Kaitlan Collins sparred with President Trump for the second time in a week, this time on Twitter.</description>
+                  <dc:creator>Frank Miles</dc:creator>
+                         <pubDate>Mon, 18 May 2020 02:32:54 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Frank Miles</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/nashville-machete-attack-storage-facility-homeless-man-arrested</guid>
+      <link>https://www.foxnews.com/us/nashville-machete-attack-storage-facility-homeless-man-arrested</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/NashvilleMacheteSuspect.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/NashvilleMacheteSuspect.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/NashvilleMacheteSuspect.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6a0e3351-5cc3-5b80-90cf-bee772a8e7fe</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/tennessee</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Machete attack at Nashville storage facility wounds 2; homeless man arrested, police say</title>
+      <description>A homeless suspect is in custody after a husband and wife were injured in a stabbing involving a machete Sunday afternoon, police said.</description>
+                  <dc:creator>Fox 17</dc:creator>
+                         <pubDate>Mon, 18 May 2020 02:17:51 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Fox 17</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/world/barcelona-closes-temporary-morgue-parking-garage-coronavirus-deaths</guid>
       <link>https://www.foxnews.com/world/barcelona-closes-temporary-morgue-parking-garage-coronavirus-deaths</link>
                   <media:group>
@@ -194,51 +237,6 @@
                          <pubDate>Sun, 17 May 2020 23:48:27 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Bradford Betz</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/auto/kevin-harvick-nascars-darlington-speedway</guid>
-      <link>https://www.foxnews.com/auto/kevin-harvick-nascars-darlington-speedway</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/darl.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/darl.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/darl.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">67d58986-f7b5-56c2-93c3-9d402ee65d7f</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/auto/nascar</category>
-            <category domain="foxnews.com/taxonomy">fox-news/auto/attributes/racing</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/auto</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Kevin Harvick wins NASCAR's return to racing at Darlington Speedway</title>
-      <description>Second win at the track.</description>
-                  <dc:creator>Gary Gastelu</dc:creator>
-                         <pubDate>Sun, 17 May 2020 23:23:19 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Gary Gastelu</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/democrats-coronavirus-bill-house-messages-pergram</guid>
-      <link>https://www.foxnews.com/politics/democrats-coronavirus-bill-house-messages-pergram</link>
-                  <media:group>
-        <media:content url="https://media2.foxnews.com/BrightCove/694940094001/2020/01/09/694940094001_6120978179001_6120974464001-vs.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/694940094001_6120978179001_6120974464001-vs.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/694940094001_6120978179001_6120974464001-vs.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">2c2e1058-5a67-57a9-bcbd-d7864017efa4</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/house-of-representatives/legislation</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/disaster-response</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/nancy-pelosi</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/mitch-mcconnell</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Reporter's Notebook: Battle over House Dems' coronavirus aid bill sends these messages</title>
-      <description>The House Democrats' bill may not go “anywhere,” but it will likely serve as a marker and send a message, in more ways than one.</description>
-                  <dc:creator>Chad Pergram</dc:creator>
-                         <pubDate>Sun, 17 May 2020 23:22:46 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Chad Pergram</category>
                             </item>
       </channel>
 </rss>
