@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 import git
 
 repo = git.Repo("/var/www/html/headlines")
