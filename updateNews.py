@@ -18,5 +18,5 @@ for news in rss:
 
 command = "sudo python3 /var/www/html/headlines/updateDate.py"
 subprocess.call(command, shell=True)
-command = "sudo /var/www/html/headlines/gitupdater.py"
+command = "sudo python /var/www/html/headlines/gitupdater.py"
 subprocess.call(command, shell=True)
