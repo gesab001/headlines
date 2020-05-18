@@ -8,3 +8,4 @@ git = repo.git
 git.pull()
 git.add(".")
 git.commit("-m", "updated xml")
+git.push()
