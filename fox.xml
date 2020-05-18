@@ -10,6 +10,28 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/tech/elon-musk-take-the-red-pill-tweet</guid>
+      <link>https://www.foxnews.com/tech/elon-musk-take-the-red-pill-tweet</link>
+                  <media:group>
+        <media:content url="https://media2.foxnews.com/BrightCove/694940094001/2019/08/19/694940094001_6074449165001_6074448265001-vs.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/694940094001_6074449165001_6074448265001-vs.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/694940094001_6074449165001_6074448265001-vs.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9a6e15a8-6f7c-502d-8eef-dd1026ceea9c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/elon-musk</category>
+            <category domain="foxnews.com/taxonomy">fox-news/auto/make/tesla</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/tech</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Elon Musk stirs the pot with cryptic 'red pill' tweet</title>
+      <description>Tech billionaire Elon Musk, who has emerged as a champion of defying stay-at-home orders intended to stop the coronavirus from spreading, stirred the pot with a cryptic tweet Sunday.</description>
+                  <dc:creator>Frank Miles</dc:creator>
+                         <pubDate>Mon, 18 May 2020 00:33:58 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Frank Miles</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/world/mexican-reporter-killed-armed-attack-authorities</guid>
       <link>https://www.foxnews.com/world/mexican-reporter-killed-armed-attack-authorities</link>
                   <media:group>
@@ -213,31 +235,6 @@
                          <pubDate>Sun, 17 May 2020 22:12:00 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/de-blasio-nyc-health-commissioner-oxiris-barbot-coronavirus-nypd-masks</guid>
-      <link>https://www.foxnews.com/us/de-blasio-nyc-health-commissioner-oxiris-barbot-coronavirus-nypd-masks</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20135695618188.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20135695618188.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20135695618188.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">d320186e-d857-56ed-8591-2d2e9496bdcc</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/bill-de-blasio</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/disaster-response</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>De Blasio: NYC health commissioner won't be fired despite crass remarks about NYPD's coronavirus mask requests</title>
-      <description>New York City Mayor Bill De Blasio said Sunday he hopes to "move forward together" with his health commissioner despite days of backlash after reports that she made disparaging remarks about police officers.</description>
-                  <dc:creator>Vandana Rambaran</dc:creator>
-                         <pubDate>Sun, 17 May 2020 21:44:38 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Vandana Rambaran</category>
                             </item>
       </channel>
 </rss>
