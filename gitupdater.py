@@ -5,5 +5,6 @@ repo = git.Repo("/var/www/html/headlines")
 assert not repo.bare
 
 git = repo.git
+git.pull()
 git.add(".")
-git.commit("updated xml")
+repo.commit('updated xml')

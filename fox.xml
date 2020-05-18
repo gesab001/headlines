@@ -10,6 +10,29 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/coronavirus-de-blasio-new-york-city-overspending-congress-aid</guid>
+      <link>https://www.foxnews.com/opinion/coronavirus-de-blasio-new-york-city-overspending-congress-aid</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af1e8c3e-7dd9-48e4-ba0e-9d69f620ca63/04fc9c04-6540-4abe-a497-05ae4f8c4529/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2ff40d5c-17bf-57a9-af47-7bcebf80593d</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/bill-de-blasio</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>De Blasio's overspending can only discourage Congress from sending coronavirus aid to NYC</title>
+      <description>Even as he threatens layoffs and furloughs, de Blasio brought in or promoted at least 10 people, many with six-figure salaries, boosting payroll costs by $2 million.</description>
+                  <dc:creator>New York Post Editorial Board</dc:creator>
+                         <pubDate>Sun, 17 May 2020 23:54:24 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">New York Post Editorial Board</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/world/nigeria-impounds-british-plane-coronavirus-spread-rules</guid>
       <link>https://www.foxnews.com/world/nigeria-impounds-british-plane-coronavirus-spread-rules</link>
                   <media:group>
@@ -216,34 +239,6 @@
                          <pubDate>Sun, 17 May 2020 21:23:15 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Gary Gastelu</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/chris-sununu-new-hampshire-coronavirus-economy-restaurants-reopening</guid>
-      <link>https://www.foxnews.com/media/chris-sununu-new-hampshire-coronavirus-economy-restaurants-reopening</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Sununu-NH.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Sununu-NH.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Sununu-NH.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">d89d3703-347a-56ec-ac1a-0da7c10a1709</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-hampshire</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/economy</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/fox-friends-weekend</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/disaster-response</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local/governors</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local/issues</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local/controversies</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Gov. Sununu 'very confident' New Hampshire's economy can restart safely amid coronavirus outbreak</title>
-      <description>New Hampshire Gov. Chris Sununu told “Fox &amp; Friends Weekend” on Sunday he’s “very confident” restaurants in his state can reopen safely for outdoor dining amid the coronavirus pandemic.</description>
-                  <dc:creator>Talia Kaplan</dc:creator>
-                         <pubDate>Sun, 17 May 2020 21:21:22 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Talia Kaplan</category>
                             </item>
       </channel>
 </rss>
