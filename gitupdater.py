@@ -7,4 +7,4 @@ assert not repo.bare
 git = repo.git
 git.pull()
 git.add(".")
-repo.commit('updated xml')
+git.commit("-m", "updated xml")
