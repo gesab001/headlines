@@ -33,6 +33,7 @@
 <div id="demo"></div>
 
 <script>
+var downloadedvideos;
 
 var windowlocation = window.location.href;
 
@@ -43,6 +44,7 @@ if (windowlocation.includes("192")){
 	document.getElementById("admin").style.display = "none";
 }
 var xhttp = new XMLHttpRequest();
+
 var news;
 loadSelectionTitles();
 
@@ -126,21 +128,27 @@ function loadYoutubeLinks(xml){
 	  var urladdress = "./pl-youtube.html?filename="+mp4filename+"&embedurl="+embedurl;
 	  
       var downloadurl = "downloadyoutube.py?filename="+mp4filename+"&url="+embedurl; 	  
-      if (windowlocation.includes("192")){	  
-	  
-	     text += "<button onclick=\"downloadvideo(\'"+downloadurl+"\')\">download</button>";
+      if (windowlocation.includes("192")){
+             var videoexists = "true";
+	     if (videoexists=="true"){
+                  text += "<button disabled>downloaded already</button>";
+
+             }else{
+	       text += "<button onclick=\"downloadvideo(\'"+downloadurl+"\')\">download</button>";
+             }
       }
 	  text += "<a href='"+urladdress+"'>"+title+"</a><br><br>";
   }
   document.getElementById("demo").innerHTML = text;
 
 }
+
 function downloadvideo(url){
-  document.getElementById("downloading").innerHTML = url;
+  document.getElementById("downloading").innerHTML += "downloading: " + url;
   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
            var text = this.responseText;
-           document.getElementById("dateUpdate").innerHTML = "Updated: " + text;
+           document.getElementById("dateUpdate").innerHTML += "Updated: " + text;
     }
     else{
          //document.getElementById("dateUpdate").innerHTML = "error";
@@ -150,12 +158,28 @@ function downloadvideo(url){
   xhttp.send();
 }
 
+function loadVideoList(){
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+           var text = this.responseText;
+           //document.getElementById("dateUpdate").innerHTML += "Updated: " + text;
+    }
+    else{
+         //document.getElementById("dateUpdate").innerHTML = "error";
+    }
+  };
+  xhttp.open("GET", "downloadedvideos.json", true);
+  xhttp.send();
+}
+
+
 function displayFeeds(xml) {
  var xmlDoc = xml.responseXML;
  //document.getElementById("test").innerHTML = xmlDoc;
 
     var items = xmlDoc.getElementsByTagName("item");
 	if (items.length<1){
+       //loadVideoList();
        loadYoutubeLinks(xml);
 	}else{
 		var text = "";

@@ -4,7 +4,7 @@ from subprocess import PIPE, Popen
 from time import time
 import cgitb
 import cgi
-
+import subprocess
 #import mysql.connector as conn
 cgitb.enable()  
 form = cgi.FieldStorage()
@@ -26,4 +26,7 @@ command = "sudo youtube-dl -f mp4 " + url +  " -o ./videos/" + filename
 with Popen(command, shell=True, stdout=PIPE, bufsize=1) as sp:
     for line in sp.stdout:
         lines.append(str(line, 'utf-8'))
-    print("downloaded successful")
+    print("downloaded successful: " + filename )
+
+command = "./updatedownloadslist.py"
+subprocess.call(command, shell=True)
