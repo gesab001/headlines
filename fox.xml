@@ -10,253 +10,238 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/beto-orourke-mocks-texas-governors-reopening-message-then-hears-back-from-crenshaw-cruz</guid>
-      <link>https://www.foxnews.com/politics/beto-orourke-mocks-texas-governors-reopening-message-then-hears-back-from-crenshaw-cruz</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/auto/jimmie-johnson-disqualified-coca-cola-600</guid>
+      <link>https://www.foxnews.com/auto/jimmie-johnson-disqualified-coca-cola-600</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/09/AP-Beto-ORourke.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP-Beto-ORourke.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/cc1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/cc1.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP-Beto-ORourke.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">397c4165-5ad9-5dc6-9b42-763734f3ddbd</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/texas</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/cc1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8119f335-d254-5ab2-a3e1-6b5929b98871</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/auto/nascar</category>
+            <category domain="foxnews.com/taxonomy">fox-news/auto/attributes/racing</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/auto</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Jimmie Johnson disqualified from second-place Coca-Cola 600 finish after car fails post-race inspection</title>
+      <description>Hasn't won since 2017.</description>
+                  <dc:creator>Gary Gastelu</dc:creator>
+                         <pubDate>Mon, 25 May 2020 14:29:42 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Gary Gastelu</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/mike-pence-seeing-real-progress-as-coronavirus-deaths-continue-to-fall</guid>
+      <link>https://www.foxnews.com/media/mike-pence-seeing-real-progress-as-coronavirus-deaths-continue-to-fall</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/pence.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/pence.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/pence.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">f74c18be-a577-514d-8dbf-1a44cae45481</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/fox-friends</category>
             <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/economy</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-house-races</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/beto-orourke</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/ted-cruz</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/greg-abbott</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Beto O’Rourke mocks Texas governor’s reopening message – then hears back from Crenshaw, Cruz</title>
-      <description>Democrat Beto O’Rourke Tried to get the upper hand late Friday, mocking the gradual reopening of the Texas economy from coronavirus shutdowns as “Dangerous, dumb and weak.” But at least two Texas Republicans weren’t having it.</description>
-                  <dc:creator>Dom Calicchio</dc:creator>
-                         <pubDate>Sun, 24 May 2020 09:06:29 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/food-drink/weirdest-regional-hot-dog-styles-across-country</guid>
-      <link>https://www.foxnews.com/food-drink/weirdest-regional-hot-dog-styles-across-country</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/hot-dogs-plate.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/hot-dogs-plate.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/hot-dogs-plate.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">94ee5dbf-1e69-59ef-a63a-3acfcf87a287</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/food-drink/food/snack-foods</category>
-            <category domain="foxnews.com/taxonomy">fox-news/food-drink/recipes/cuisines/bbq</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/food-drink</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>The weirdest regional hot dog styles across the country</title>
-      <description>Nothing says summer like a good old fashioned hot dog.</description>
-                  <dc:creator>Michael Hollan</dc:creator>
-                         <pubDate>Sun, 24 May 2020 09:00:26 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Michael Hollan</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/edward-viii-obsessive-wallis-simpson-documentary</guid>
-      <link>https://www.foxnews.com/entertainment/edward-viii-obsessive-wallis-simpson-documentary</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/GettyImages-515463142.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/GettyImages-515463142.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/GettyImages-515463142.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">a2de6fff-3f2b-5a4d-94a6-99be174c7bcf</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/features/exclusive</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/personalities/british-royals</category>
-            <category domain="foxnews.com/taxonomy">fox-news/topic/royals</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/documentary</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/departed</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/couples</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/prince-harry</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news/meghan-markle</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/personalities/queen</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Edward VIII was ‘obsessive’ and ‘suffocating’ with American divorcee Wallis Simpson, doc says</title>
-      <description>When Edward VIII passed away in 1972 at age 77, he seemingly left behind an epic love story of a British king who gave up the throne to marry the American woman he loved -- but in reality, it was far from a fairy tale.</description>
-                  <dc:creator>Stephanie Nolasco</dc:creator>
-                         <pubDate>Sun, 24 May 2020 09:00:21 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Stephanie Nolasco</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/opinion/charlie-kirk-coronavirus-shouldnt-take-away-our-god-given-freedoms-los-angeles-mayor-doesnt-get-that</guid>
-      <link>https://www.foxnews.com/opinion/charlie-kirk-coronavirus-shouldnt-take-away-our-god-given-freedoms-los-angeles-mayor-doesnt-get-that</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5beda0d6-4763-4c24-8da7-ea85dae311fd/08fd20cb-0af3-4b00-94b7-3364a26fb264/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">67747353-2eb7-53d7-85cd-156ee1f99997</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/los-angeles</category>
-            <category domain="foxnews.com/taxonomy">fox-news/faith-values/faith</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/opinion</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Charlie Kirk: Coronavirus shouldn’t take away our God-given freedoms – Los Angeles mayor doesn’t get that</title>
-      <description>Going back to President Woodrow Wilson and ever since, Democrats have ranged from expressing frustration to voicing open hostility for the limits that the Constitution places on government and their collectivist dreams of ordering society the way they believe is best.</description>
-                  <dc:creator>Charlie Kirk</dc:creator>
-                         <pubDate>Sun, 24 May 2020 09:00:07 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Charlie Kirk</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/food-drink/backyard-barbecue-hacks-every-grill-fan-needs-to-know</guid>
-      <link>https://www.foxnews.com/food-drink/backyard-barbecue-hacks-every-grill-fan-needs-to-know</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/ertert54656dgfdf.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/ertert54656dgfdf.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/ertert54656dgfdf.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">e4fd0a54-a724-5b54-9133-f832ccdf3677</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/food-drink/food/cooking-basics</category>
-            <category domain="foxnews.com/taxonomy">fox-news/food-drink</category>
-            <category domain="foxnews.com/taxonomy">fox-news/food-drink/food/kitchen-tools-gadgets</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/food-drink</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>8 grilling mistakes that will screw up your Memorial Day cookout</title>
-      <description>Grilling season is almost here so we've rounded up some of the top secrets from chefs and barbecue restaurateurs across the country.</description>
-                  <dc:creator>Katie Jackson</dc:creator>
-                         <pubDate>Sun, 24 May 2020 09:00:00 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Katie Jackson</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/tech/upgrade-home-office-assess-covid-risks-destroy-sent-email-and-more-tech-qa</guid>
-      <link>https://www.foxnews.com/tech/upgrade-home-office-assess-covid-risks-destroy-sent-email-and-more-tech-qa</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/02/laptop-istock.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/laptop-istock.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/laptop-istock.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">6c4d0db2-7bec-5052-8a94-b39dfb92c13a</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/technologies/email</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/companies/google</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/companies/amazon</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/tech</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Upgrade home office, assess COVID risks, destroy sent email and more: Tech Q&amp;A</title>
-      <description>Each week, I receive tons of questions from my listeners about tech concerns, new products, and all things digital.</description>
-                  <dc:creator>Kim Komando</dc:creator>
-                         <pubDate>Sun, 24 May 2020 08:00:22 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">The Kim Komando Show</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Kim Komando</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/nfl-great-herschel-walker-blasts-joe-biden-you-dont-determine-who-we-vote-for</guid>
-      <link>https://www.foxnews.com/sports/nfl-great-herschel-walker-blasts-joe-biden-you-dont-determine-who-we-vote-for</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/herschel-walker-2-Reuters.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/herschel-walker-2-Reuters.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/herschel-walker-2-Reuters.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">800714ae-ac91-5bb6-8e61-f8e2c7783ea4</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/dallas-cowboys</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/philadelphia-eagles</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/minnesota-vikings</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/georgia-bulldogs</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>NFL great Herschel Walker blasts Joe Biden: ‘You don’t determine who we vote for’</title>
-      <description>Add the name of former NFL running back Herschel Walker to the list of people apparently offended by Joe Biden’s recent “you ain’t black” gaffe.</description>
-                  <dc:creator>Dom Calicchio</dc:creator>
-                         <pubDate>Sun, 24 May 2020 07:36:48 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/eddie-sutton-hall-of-fame-basketball-coach-dead-at-84</guid>
-      <link>https://www.foxnews.com/sports/eddie-sutton-hall-of-fame-basketball-coach-dead-at-84</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/sutton.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/sutton.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/sutton.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">9b521bff-cfaf-5df2-b680-da996c6fca5e</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-bk</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/creighton-bluejays</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/arkansas-razorbacks</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/kentucky-wildcats</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/oklahoma-state-cowboys</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/san-francisco-dons</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Eddie Sutton, Hall of Fame basketball coach, dead at 84</title>
-      <description>Eddie Sutton, the Hall of Fame basketball coach who led three teams to the Final Four and was the first coach to take four schools to the NCAA Tournament, died Saturday. He was 84.</description>
-                  <dc:creator>Cliff Brunt</dc:creator>
-                         <pubDate>Sun, 24 May 2020 04:52:04 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Cliff Brunt</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/california-retail-employee-posts-photo-of-her-bloody-face-after-alleged-customer-attack</guid>
-      <link>https://www.foxnews.com/us/california-retail-employee-posts-photo-of-her-bloody-face-after-alleged-customer-attack</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/bl2.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/bl2.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/bl2.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">eb604cac-313b-5f44-8aa3-9ee351a77305</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/companies/facebook</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/economy/jobs</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>California retail employee posts photo of her bloody face after alleged customer attack</title>
-      <description>It’s getting rough out there for retail workers during the coronavirus outbreak, a California woman wants the public to know.</description>
-                  <dc:creator>Dom Calicchio</dc:creator>
-                         <pubDate>Sun, 24 May 2020 04:19:51 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/gen-jack-keane-reflects-on-memorial-day-when-america-honors-those-who-risk-everything</guid>
-      <link>https://www.foxnews.com/media/gen-jack-keane-reflects-on-memorial-day-when-america-honors-those-who-risk-everything</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1abd45e9-3c50-4d12-a929-dd8db972b554/a5518f0d-85f8-405f-8ef5-286ada58256b/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">dcbd6a82-9eb8-5977-91d8-679f69b3b4ba</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/shows/americas-news-hq</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/military</category>
-            <category domain="foxnews.com/taxonomy">fox-news/lifestyle/occasions/holiday</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Gen. Jack Keane reflects on Memorial Day, when America honors those who 'risk everything'</title>
-      <description>Memorial Day may be commemorated differently this year because of the coronavirus pandemic -- but the day will still be meaningful, Fox News senior strategic military analyst Gen. Jack Keane said Saturday on "America's News HQ."</description>
-                  <dc:creator>Victor Garcia</dc:creator>
-                         <pubDate>Sun, 24 May 2020 03:15:15 GMT</pubDate>
+      <title>Mike Pence touts 'real progress' as coronavirus deaths continue to fall across country</title>
+      <description>Vice President Mike Pence said on Monday that since the American people heeded government official orders to social distance, there has been a decline in hospitalizations, new cases across the country, and fatalities.</description>
+                  <dc:creator>Joshua Nelson</dc:creator>
+                         <pubDate>Mon, 25 May 2020 13:51:39 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Victor Garcia</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Joshua Nelson</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/favor-voting-by-mail-but-wide-partisan-divide-poll</guid>
+      <link>https://www.foxnews.com/politics/favor-voting-by-mail-but-wide-partisan-divide-poll</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2558c4ac-aa95-4207-9573-c1acb7b98fb9/9109c60a-a9b5-4c7b-b9a3-c4a6953caf38/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ce7be9d1-70a1-5a00-af72-454c9e9cf2aa</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/campaigning/trump-2020-campaign</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Nearly two-thirds favor voting by mail, but wide partisan divide: poll</title>
+      <description>As President Trump continues his full-court press this holiday weekend against states moving to expand voting by mail, a new national poll indicates that by a more than two-to-one margin Americans favor allowing balloting through the mail in November’s general election due to health concerns amid the coronavirus pandemic.</description>
+                  <dc:creator>Paul Steinhauser</dc:creator>
+                         <pubDate>Mon, 25 May 2020 13:37:07 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Paul Steinhauser</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/south-carolina-block-party-shooting-dead-wounded-police</guid>
+      <link>https://www.foxnews.com/us/south-carolina-block-party-shooting-dead-wounded-police</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Crime-Scene-iStock.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Crime-Scene-iStock.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Crime-Scene-iStock.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">bf1351d2-9b3f-532d-ba90-ea5f2e762a7e</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/south-carolina</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/homicide</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>South Carolina block party shooting leaves two dead, including teen, five others wounded, police say</title>
+      <description>A South Carolina teenager was among two killed when gunfire erupted late Saturday at a block party that drew about a thousand people despite the government’s warnings against large gatherings during the coronavirus pandemic, investigators said.</description>
+                  <dc:creator>Stephen Sorace</dc:creator>
+                         <pubDate>Mon, 25 May 2020 13:33:27 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Stephen Sorace</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/elizabeth-ames-coronavirus-new-normal-dont-believe-all-the-predictions-heres-why</guid>
+      <link>https://www.foxnews.com/opinion/elizabeth-ames-coronavirus-new-normal-dont-believe-all-the-predictions-heres-why</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa34f452-1dd1-44f3-9310-58cc9a67243b/a6da519f-25e5-4e11-9bdf-772ed00205bc/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e074c3ef-82cd-52da-a66c-4bad1bfed4d0</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Elizabeth Ames: Coronavirus 'new normal' – Don't believe all the predictions. Here's why</title>
+      <description>It is said that the coronavirus will alter not just our habits, but also our politics. </description>
+                  <dc:creator>Elizabeth Ames</dc:creator>
+                         <pubDate>Mon, 25 May 2020 13:30:46 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Elizabeth Ames</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/lawrence-jones-joe-biden-you-aint-black</guid>
+      <link>https://www.foxnews.com/media/lawrence-jones-joe-biden-you-aint-black</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/88cb5901-jones.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/88cb5901-jones.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/88cb5901-jones.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">29fa7a20-a050-5ec8-b5fc-93f8846e5f73</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/fox-friends</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/campaigning/trump-2020-campaign</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Lawrence Jones slams Joe Biden: Black America is 'fed up' and tired of supporting Dems</title>
+      <description>Fox Nation host Lawrence Jones said on Monday that presumptive 2020 Democratic presidential candidate Joe Biden came to the hip hop radio show “The Breakfast Club” interview with Charlamagne Tha God “ill-prepared.”</description>
+                  <dc:creator>Joshua Nelson</dc:creator>
+                         <pubDate>Mon, 25 May 2020 13:29:35 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Joshua Nelson</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/food-drink/texas-chick-fil-a-holds-ceremony-for-employees-graduating-high-school</guid>
+      <link>https://www.foxnews.com/food-drink/texas-chick-fil-a-holds-ceremony-for-employees-graduating-high-school</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/texas-grad-3-Chick-fil-A.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/texas-grad-3-Chick-fil-A.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/texas-grad-3-Chick-fil-A.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">11e59093-7208-5524-b39b-77de23d24e2c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/america-together</category>
+            <category domain="foxnews.com/taxonomy">fox-news/food-drink/food/fast-food</category>
+            <category domain="foxnews.com/taxonomy">fox-news/lifestyle</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/education/high-school</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/food-drink</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Texas Chick-fil-A hosts high school graduation ceremony for employees</title>
+      <description>Congrats, grads.</description>
+                  <dc:creator>Janine Puhak</dc:creator>
+                         <pubDate>Mon, 25 May 2020 13:24:17 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Janine Puhak</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/joey-jones-shame-new-york-times-military-white-supremacy</guid>
+      <link>https://www.foxnews.com/media/joey-jones-shame-new-york-times-military-white-supremacy</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/jones.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/jones.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/jones.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e7cdf8fe-980a-5833-9812-8a017f0fd074</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/fox-friends</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/military</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/military/veterans</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Joey Jones: 'Shame on' the New York Times for 'cheap' op-ed on US military and white supremacy</title>
+      <description>U.S. Marine veteran Johnny "Joey" Jones blasted The New York Times for publishing an editorial on Memorial Day weekend that claims the U.S. military celebrates white supremacy.</description>
+                  <dc:creator>David Montanaro</dc:creator>
+                         <pubDate>Mon, 25 May 2020 13:16:52 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">David Montanaro</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/coronavirus-essentials-new-name-privileged-few-michael-goodwin</guid>
+      <link>https://www.foxnews.com/opinion/coronavirus-essentials-new-name-privileged-few-michael-goodwin</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76e4f73d-b71d-43a5-b80a-b42786279737/adb237a4-a136-43b4-bd23-186422332e16/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">64dc8537-6d68-548c-8ad6-c2f136caa4f8</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/economy</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Michael Goodwin: Coronavirus 'essentials' – a new name for these privileged few</title>
+      <description>Pay attention to another potential reaction to the pandemic. Think of it as the revenge of the nonessentials.</description>
+                  <dc:creator>Michael Goodwin</dc:creator>
+                         <pubDate>Mon, 25 May 2020 13:00:11 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Michael Goodwin</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/science/spacexs-first-astronaut-launch-breaking-ground</guid>
+      <link>https://www.foxnews.com/science/spacexs-first-astronaut-launch-breaking-ground</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/1000.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/1000.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/1000.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e6a2193a-4deb-56c7-b255-8a2962297022</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/science</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/elon-musk</category>
+            <category domain="foxnews.com/taxonomy">fox-news/auto/make/tesla</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science/air-and-space</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science/air-and-space/nasa</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/star-wars</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/science</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>SpaceX’s first astronaut launch breaking ground with new look: ‘It is really neat’</title>
+      <description>The first astronauts launched by SpaceX are breaking new ground for style by unveiling hip spacesuits, gull-wing Teslas and even a sleek rocketship with a black and white trim.</description>
+                  <dc:creator>Stephanie Nolasco</dc:creator>
+                         <pubDate>Mon, 25 May 2020 12:46:36 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Stephanie Nolasco</category>
                             </item>
       </channel>
 </rss>
