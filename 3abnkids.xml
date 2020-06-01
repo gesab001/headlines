@@ -11,6 +11,29 @@
  </author>
  <published>2017-01-21T03:45:29+00:00</published>
  <entry>
+  <id>yt:video:nX6yElqJTio</id>
+  <yt:videoId>nX6yElqJTio</yt:videoId>
+  <yt:channelId>UCyxe3g0khLIXRxRd3G9qSrw</yt:channelId>
+  <title>3ABN Kids Network Live Stream</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nX6yElqJTio"/>
+  <author>
+   <name>3ABN Kids Network</name>
+   <uri>https://www.youtube.com/channel/UCyxe3g0khLIXRxRd3G9qSrw</uri>
+  </author>
+  <published>2020-05-31T12:23:50+00:00</published>
+  <updated>2020-05-31T12:25:49+00:00</updated>
+  <media:group>
+   <media:title>3ABN Kids Network Live Stream</media:title>
+   <media:content url="https://www.youtube.com/v/nX6yElqJTio?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nX6yElqJTio/hqdefault.jpg" width="480" height="360"/>
+   <media:description>3ABN Kids Network is a channel for kids of all ages! Featuring 24/7 Christ-centered programming, it provides a great way for children to learn more about Jesus. Enjoy the fun crafts, stories, science experiments, cooking demos, music, nature programs, and much more. Please visit the 3ABN Kids Network website, 3abnkids.tv for more details.</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="206"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:mxp5WO_ADH4</id>
   <yt:videoId>mxp5WO_ADH4</yt:videoId>
   <yt:channelId>UCyxe3g0khLIXRxRd3G9qSrw</yt:channelId>
@@ -35,30 +58,7 @@ Crafts
 https://3abnkids.tv/crafts.html</media:description>
    <media:community>
     <media:starRating count="4" average="5.00" min="1" max="5"/>
-    <media:statistics views="210"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:1QDMsvqWOko</id>
-  <yt:videoId>1QDMsvqWOko</yt:videoId>
-  <yt:channelId>UCyxe3g0khLIXRxRd3G9qSrw</yt:channelId>
-  <title>3ABN Kids Network Live Stream</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=1QDMsvqWOko"/>
-  <author>
-   <name>3ABN Kids Network</name>
-   <uri>https://www.youtube.com/channel/UCyxe3g0khLIXRxRd3G9qSrw</uri>
-  </author>
-  <published>2020-05-29T08:31:53+00:00</published>
-  <updated>2020-05-29T08:37:22+00:00</updated>
-  <media:group>
-   <media:title>3ABN Kids Network Live Stream</media:title>
-   <media:content url="https://www.youtube.com/v/1QDMsvqWOko?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i2.ytimg.com/vi/1QDMsvqWOko/hqdefault.jpg" width="480" height="360"/>
-   <media:description>3ABN Kids Network is a channel for kids of all ages! Featuring 24/7 Christ-centered programming, it provides a great way for children to learn more about Jesus. Enjoy the fun crafts, stories, science experiments, cooking demos, music, nature programs, and much more. Please visit the 3ABN Kids Network website, 3abnkids.tv for more details.</media:description>
-   <media:community>
-    <media:starRating count="56" average="4.86" min="1" max="5"/>
-    <media:statistics views="2513"/>
+    <media:statistics views="229"/>
    </media:community>
   </media:group>
  </entry>
@@ -109,7 +109,7 @@ Find out more at https://3abnkids.tv
 KCKF190004</media:description>
    <media:community>
     <media:starRating count="9" average="5.00" min="1" max="5"/>
-    <media:statistics views="1116"/>
+    <media:statistics views="1141"/>
    </media:community>
   </media:group>
  </entry>
@@ -137,7 +137,7 @@ Find out more at https://3abnkids.tv
 KCCC190004</media:description>
    <media:community>
     <media:starRating count="5" average="5.00" min="1" max="5"/>
-    <media:statistics views="388"/>
+    <media:statistics views="389"/>
    </media:community>
   </media:group>
  </entry>
@@ -165,7 +165,7 @@ Find out more at https://3abnkids.tv
 KCSA190002</media:description>
    <media:community>
     <media:starRating count="11" average="5.00" min="1" max="5"/>
-    <media:statistics views="346"/>
+    <media:statistics views="347"/>
    </media:community>
   </media:group>
  </entry>
@@ -194,7 +194,7 @@ Find out more at https://3abnkids.tv
 KCBB190003</media:description>
    <media:community>
     <media:starRating count="9" average="5.00" min="1" max="5"/>
-    <media:statistics views="256"/>
+    <media:statistics views="258"/>
    </media:community>
   </media:group>
  </entry>
@@ -221,8 +221,8 @@ Find out more at https://3abnkids.tv
 
 KCBG190002</media:description>
    <media:community>
-    <media:starRating count="9" average="5.00" min="1" max="5"/>
-    <media:statistics views="698"/>
+    <media:starRating count="10" average="5.00" min="1" max="5"/>
+    <media:statistics views="709"/>
    </media:community>
   </media:group>
  </entry>
@@ -275,7 +275,7 @@ Find out more at 3ABNKidsCamp.tv
 KCSA190004</media:description>
    <media:community>
     <media:starRating count="31" average="4.87" min="1" max="5"/>
-    <media:statistics views="1890"/>
+    <media:statistics views="1896"/>
    </media:community>
   </media:group>
  </entry>
@@ -303,7 +303,7 @@ Find out more at 3ABNKidsCamp.tv
 KCBB190002</media:description>
    <media:community>
     <media:starRating count="4" average="5.00" min="1" max="5"/>
-    <media:statistics views="445"/>
+    <media:statistics views="446"/>
    </media:community>
   </media:group>
  </entry>
@@ -333,7 +333,7 @@ Find out more at 3ABNKidsCamp.tv
 KCBG190004</media:description>
    <media:community>
     <media:starRating count="15" average="5.00" min="1" max="5"/>
-    <media:statistics views="1463"/>
+    <media:statistics views="1470"/>
    </media:community>
   </media:group>
  </entry>
@@ -361,7 +361,7 @@ Find out more at 3ABNKidsCamp.tv
 KCKF190005</media:description>
    <media:community>
     <media:starRating count="18" average="4.56" min="1" max="5"/>
-    <media:statistics views="1925"/>
+    <media:statistics views="1940"/>
    </media:community>
   </media:group>
  </entry>
@@ -389,7 +389,7 @@ Find out more at 3ABNKidsCamp.tv
 KCCC190001</media:description>
    <media:community>
     <media:starRating count="9" average="5.00" min="1" max="5"/>
-    <media:statistics views="657"/>
+    <media:statistics views="661"/>
    </media:community>
   </media:group>
  </entry>
@@ -419,7 +419,7 @@ Find out more at https://3abnkids.tv
 KCSA190001</media:description>
    <media:community>
     <media:starRating count="9" average="5.00" min="1" max="5"/>
-    <media:statistics views="534"/>
+    <media:statistics views="537"/>
    </media:community>
   </media:group>
  </entry>
