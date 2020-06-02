@@ -10,241 +10,216 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/biden-delaware-community-leaders-criticism-crime-bill</guid>
-      <link>https://www.foxnews.com/politics/biden-delaware-community-leaders-criticism-crime-bill</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/nba-star-trae-young-speaks-at-peaceful-protest-in-oklahoma</guid>
+      <link>https://www.foxnews.com/sports/nba-star-trae-young-speaks-at-peaceful-protest-in-oklahoma</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/joe-biden-bethel-church-2-AP.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/joe-biden-bethel-church-2-AP.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/AP20153797444398.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20153797444398.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/joe-biden-bethel-church-2-AP.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">1a51be1b-7790-5f3b-bf90-75e7b3e40d5c</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20153797444398.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6716b566-6179-5493-8e44-87d54b257420</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nba</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nba/atlanta-hawks</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Biden meets with community leaders in Delaware, faces criticism for his support of '94 crime bill</title>
-      <description>Joe Biden met with African American community leaders in Wilmington, Delaware, where he faced criticism for his support of the 1994 crime bill and a call to pick a black female vice president. </description>
-                  <dc:creator>Morgan Phillips</dc:creator>
-                         <pubDate>Mon, 01 Jun 2020 22:27:30 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
-                            </item>
+      <title>NBA star Trae Young speaks at peaceful protest in Oklahoma</title>
+      <description>NBA All-Star Trae Young spoke at a peaceful protest of racial injustice and police brutality in his hometown on Monday.</description>
+                   <pubDate>Tue, 02 Jun 2020 01:38:20 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/baltimore-bricks-bottles-george-floyd-unrest</guid>
-      <link>https://www.foxnews.com/us/baltimore-bricks-bottles-george-floyd-unrest</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/boxer-floyd-mayweather-to-pay-for-george-floyds-funeral</guid>
+      <link>https://www.foxnews.com/sports/boxer-floyd-mayweather-to-pay-for-george-floyds-funeral</link>
                   <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95067728-dedb-4dfa-8a6a-9fcb376845ec/6c1e2ab4-9e43-466d-a151-5330fb0728d4/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Mayweather-Maidana-Bo_Vros-1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Mayweather-Maidana-Bo_Vros-1.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Mayweather-Maidana-Bo_Vros-1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">f25f37df-3231-592d-8c34-d4805a41684a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/boxing</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Boxer Floyd Mayweather to pay for George Floyd's funeral</title>
+      <description>Former boxing champion Floyd Mayweather has offered to pay for George Floyd’s funeral and memorial services, and the family has accepted the offer.</description>
+                   <pubDate>Tue, 02 Jun 2020 01:22:07 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/george-floyd-protests-around-the-world</guid>
+      <link>https://www.foxnews.com/world/george-floyd-protests-around-the-world</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d91aa374-547c-422a-8725-9e09140b9e9d/9bf5df2a-6e25-4954-bd6d-bb618df2388a/1280x720/match/image.jpg" medium="image" isDefault="true" />
         <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
       </media:group>
       <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">4b013a9b-404c-515a-906c-045ab1916c7c</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/topic/baltimore-crime-and-corruption</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/maryland</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
+            <category domain="foxnews.com/metadata/dc.identifier">95a84900-0c75-55c4-b91a-bf2f6a420296</category>
+                  <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Mounds of bricks, bottles found in Baltimore ahead of expected George Floyd unrest</title>
-      <description>According to sources, mounds of bricks and bottles have been found in Downtown Baltimore.</description>
-                  <dc:creator>WBFF Fox 45</dc:creator>
-                         <pubDate>Mon, 01 Jun 2020 22:21:09 GMT</pubDate>
+      <title>George Floyd protests around the world</title>
+      <description>The recent killing of George Floyd in Minneapolis has led to protests in many countries around the world</description>
+                   <pubDate>Tue, 02 Jun 2020 01:16:14 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">WBFF Fox 45</category>
-                            </item>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/gutfeld-antifa-facists-taking-advantage-political-cowardice</guid>
-      <link>https://www.foxnews.com/media/gutfeld-antifa-facists-taking-advantage-political-cowardice</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/lachlan-murdoch-george-floyd-peaceful-protest</guid>
+      <link>https://www.foxnews.com/media/lachlan-murdoch-george-floyd-peaceful-protest</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Video-2020-06-01T173022.849.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Video-2020-06-01T173022.849.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/05/Lachlan-Murdoch-Top.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Lachlan-Murdoch-Top.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Video-2020-06-01T173022.849.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">8c89e908-c17e-5059-b834-67a00d94056d</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/shows/the-five</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/antifa</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/philadelphia</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/pennsylvania</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Lachlan-Murdoch-Top.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">02b4f660-792a-5ff0-8625-d70372667c73</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
             <category domain="foxnews.com/taxonomy">fox-news/media</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Gutfeld blasts Antifa as 'fascists' who are taking 'advantage of the cowardice of our politicians'</title>
-      <description>"The Five" co-host Greg Gutfeld reacted strongly Monday to the violent protests that are consuming numerous American cities in the wake of George Floyd's death last week.</description>
-                  <dc:creator>Charles Creitz</dc:creator>
-                         <pubDate>Mon, 01 Jun 2020 22:12:06 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Charles Creitz</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/science/scientists-fear-superspreaders-may-prompt-new-covid-19-outbreaks-as-states-reopen</guid>
-      <link>https://www.foxnews.com/science/scientists-fear-superspreaders-may-prompt-new-covid-19-outbreaks-as-states-reopen</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/san-diego-beach.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/san-diego-beach.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/san-diego-beach.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">1b153728-9c13-5c5f-bba3-57b626237085</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/science</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/science</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Some scientists fear ‘superspreaders’ may prompt new COVID-19 outbreaks as states reopen</title>
-      <description>As states across America being to reopen, some scientists are voicing fears about so-called "superspreaders" who may be responsible for larger numbers of cases through airborne transmission.</description>
-                  <dc:creator>Christopher Carbone</dc:creator>
-                         <pubDate>Mon, 01 Jun 2020 22:06:10 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Christopher Carbone</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/andy-ngo-liberal-media-antifa-conservatives-didnt-take-seriously</guid>
-      <link>https://www.foxnews.com/media/andy-ngo-liberal-media-antifa-conservatives-didnt-take-seriously</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Andy-Ngo_FoxNews.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Andy-Ngo_FoxNews.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Andy-Ngo_FoxNews.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">f27d9312-df81-55da-9e2e-a6e4f6f7d5b3</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Andy Ngo: Liberal media ‘has many sympathies’ toward Antifa, conservatives didn’t take threats seriously</title>
-      <description>Andy Ngo has extensively reported on the far-left, extremist group called Antifa and long cautioned that violent acts that have occurred in particular sections of America could be easily replicated, but he says media on both sides of the political spectrum failed to take him seriously. </description>
+      <title>FOX Corporation CEO Lachlan Murdoch urges colleagues to 'closely listen to the voices of peaceful protest' amid George Floyd unrest</title>
+      <description>Fox Corporation Executive Chairman and CEO Lachlan Murdoch expressed shock and sadness over the tragic death of George Floyd in a memo to staffers Monday in which he urged colleagues to "grieve with the Floyd family, closely listen to the voices of peaceful protest and fundamentally understand that black lives matter."</description>
                   <dc:creator>Brian Flood</dc:creator>
-                         <pubDate>Mon, 01 Jun 2020 22:01:50 GMT</pubDate>
+                         <pubDate>Tue, 02 Jun 2020 01:12:47 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Brian Flood</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/minneapolis-riots-town-talk-diner-burned-looted</guid>
-      <link>https://www.foxnews.com/media/minneapolis-riots-town-talk-diner-burned-looted</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/former-auburn-football-coach-pat-dye-dies-at-80</guid>
+      <link>https://www.foxnews.com/sports/former-auburn-football-coach-pat-dye-dies-at-80</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/image-12.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image-12.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/AP20153654971776.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20153654971776.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image-12.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">b186c746-cc18-553b-adb8-3a0ed8830069</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/your-world-cavuto</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/minneapolis-st-paul</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20153654971776.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">45deb776-828d-5597-8d11-5e9e515715a8</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/auburn-tigers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-fb</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Co-owners of Minneapolis restaurant torched by rioters: 'We have invested our whole lives into it'</title>
-      <description>The owners of a historic Minneapolis restaurant that was destroyed by rioters last week told "Your World" Monday that the loss of years worth of "blood, sweat and tears" was "hard to swallow."</description>
-                  <dc:creator>Yael Halon</dc:creator>
-                         <pubDate>Mon, 01 Jun 2020 21:58:32 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Yael Halon</category>
-                            </item>
+      <title>Former Auburn football coach Pat Dye dies at 80</title>
+      <description>College Football Hall of Famer Pat Dye, who took over a downtrodden Auburn football program in 1981 and turned it into a Southeastern Conference power, died Monday. He was 80.</description>
+                   <pubDate>Tue, 02 Jun 2020 01:11:38 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/national-guard-long-beach-california-george-floyd-cleanup</guid>
-      <link>https://www.foxnews.com/us/national-guard-long-beach-california-george-floyd-cleanup</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/california-liquor-store-owner-uses-ar-15-to-protect-his-property-from-looters-in-george-floyd-unrest</guid>
+      <link>https://www.foxnews.com/us/california-liquor-store-owner-uses-ar-15-to-protect-his-property-from-looters-in-george-floyd-unrest</link>
                   <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7aed99b-891e-413c-9e25-bac1dd06b474/57c395fc-2ed3-475b-8721-d280397a5d2a/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/AP20153673549206-1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20153673549206-1.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">c8f9b2e9-130c-5fdf-848c-b6cf73f0c4d6</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/military/national-guard</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/proud-american</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20153673549206-1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">95d27392-4d8e-5767-a022-1affe195d63a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/second-amendment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>National Guard helps clean up California city after night of George Floyd chaos</title>
-      <description>Members of the National Guard helped community members in Long Beach clean up their city Monday morning following an evening of unrest in the Southern California coastal city.</description>
-                  <dc:creator>Mary Stringini</dc:creator>
-            <dc:creator> Fox 11</dc:creator>
-                         <pubDate>Mon, 01 Jun 2020 21:44:51 GMT</pubDate>
+      <title>California liquor store owner uses AR-15 to protect his property from looters in George Floyd unrest</title>
+      <description>A California liquor store owner kept his business safe from looters in Santa Monica after standing in front of the establishment armed with an AR-15.</description>
+                  <dc:creator>Bradford Betz</dc:creator>
+                         <pubDate>Tue, 02 Jun 2020 01:05:51 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Mary Stringini</category>
-            <category domain="foxnews.com/metadata/dc.creator"> Fox 11</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Bradford Betz</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/howard-safir-nyc-curfew-way-too-late</guid>
-      <link>https://www.foxnews.com/media/howard-safir-nyc-curfew-way-too-late</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/pink-shuts-down-all-lives-matter-supporters-instagram</guid>
+      <link>https://www.foxnews.com/entertainment/pink-shuts-down-all-lives-matter-supporters-instagram</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/image-11.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image-11.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/11/Pink-CMA-2019.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Pink-CMA-2019.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image-11.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">3851a380-bdd5-5403-85ea-88d666a1e566</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Pink-CMA-2019.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c7751f12-0e50-5821-9e98-ca7e5436a905</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
             <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/your-world</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/bill-de-blasio</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Former NYPD commissioner says NYC curfew comes 'way too late': 'Should have been done a couple of days ago'</title>
-      <description>Former New York Police Commissioner Howard Safir told "Your World" Monday that a newly imposed curfew for New York City can work in preventing riots if Mayor Bill de Blasio allows the NYPD to enforce it.</description>
-                  <dc:creator>Charles Creitz</dc:creator>
-                         <pubDate>Mon, 01 Jun 2020 21:39:46 GMT</pubDate>
+      <title>Pink shuts down All Lives Matter commenters on Instagram: 'You don’t even hear yourself'</title>
+      <description>Pink is making her position clear.</description>
+                  <dc:creator>Nate Day</dc:creator>
+                         <pubDate>Tue, 02 Jun 2020 00:58:37 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Charles Creitz</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/science/coronavirus-waivers-reopened-gyms-salons-offices</guid>
-      <link>https://www.foxnews.com/science/coronavirus-waivers-reopened-gyms-salons-offices</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/alex-bregman-says-if-hating-the-kkk-loses-me-fans-then-i-hope-i-lose-them</guid>
+      <link>https://www.foxnews.com/sports/alex-bregman-says-if-hating-the-kkk-loses-me-fans-then-i-hope-i-lose-them</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/iStock-1183038879.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/iStock-1183038879.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/12/AlexBregmanAlexTrautwigMLBPhotosviaGettyImages.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AlexBregmanAlexTrautwigMLBPhotosviaGettyImages.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/iStock-1183038879.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">7ac2b5d6-daa7-5599-bf17-2ca9c094d09a</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/science</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AlexBregmanAlexTrautwigMLBPhotosviaGettyImages.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0aa71d6f-1b06-594d-8528-dec4ab89b128</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/alex-bregman</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/houston-astros</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/science</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Coronavirus waivers required at some reopened gyms, salons and offices</title>
-      <description>Sign here before entering.</description>
-                  <dc:creator>Christopher Carbone</dc:creator>
-                         <pubDate>Mon, 01 Jun 2020 21:35:48 GMT</pubDate>
+      <title>Alex Bregman: 'If hating the KKK loses me fans, then I hope I lose them'</title>
+      <description>Houston Astros third baseman Alex Bregman expressed his views on the countrywide protests against social injustice during an exchange with people on Twitter on Monday.</description>
+                  <dc:creator>Daniel Canova</dc:creator>
+                         <pubDate>Tue, 02 Jun 2020 00:58:24 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Christopher Carbone</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/trump-campaign-staffers-help-out-minneapolis-firefighter-rebuild-bar-destroyed-by-rioters</guid>
-      <link>https://www.foxnews.com/politics/trump-campaign-staffers-help-out-minneapolis-firefighter-rebuild-bar-destroyed-by-rioters</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/omaha-bar-owner-who-shot-killed-protester-wont-face-charges-county-attorney-says</guid>
+      <link>https://www.foxnews.com/us/omaha-bar-owner-who-shot-killed-protester-wont-face-charges-county-attorney-says</link>
                   <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d58a3012-8ab6-47d5-a2ef-7e1f5d4e9ae3/ab29525e-e1d7-457f-a7d2-65e940eb9567/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Hive-Bar-Omaha.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Hive-Bar-Omaha.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">adcdc292-18f9-537a-9526-f0a197c1be47</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Hive-Bar-Omaha.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ea844c71-2cad-53fe-a3c2-59829f8e1b1b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/nebraska</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
+            <category domain="foxnews.com/taxonomy">fox-news/food-drink/drinks/bars</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Omaha bar owner who shot, killed protester won't face charges, county attorney says</title>
+      <description>A white Omaha bar owner who shot and killed a black protester over the weekend will not be facing charges after prosecutors determined he had acted in self-defense, a county attorney said Monday.</description>
+                  <dc:creator>Bradford Betz</dc:creator>
+                         <pubDate>Tue, 02 Jun 2020 00:54:09 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Bradford Betz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/george-floyd-riots-looting-national-guard-curfews</guid>
+      <link>https://www.foxnews.com/us/george-floyd-riots-looting-national-guard-curfews</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/AP20151292407146.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20151292407146.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20151292407146.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">429dd7c6-b827-521b-8156-db2d86110964</category>
                   <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
             <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/campaigning/trump-2020-campaign</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/minnesota</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/minneapolis-st-paul</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/robbery-theft</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Trump campaign staffers donate to help Minneapolis firefighter rebuild bar destroyed by rioters</title>
-      <description>Minneapolis firefighter Korboi “KB” Balla dreams to open a sports bar were almost extinguished. But thanks to a GoFundMe page that ignited with contributions – and assist by members of President Trump’s re-election campaign, Balla’s dreams may still come true.</description>
-                  <dc:creator>Paul Steinhauser</dc:creator>
-            <dc:creator>Sam Dorman</dc:creator>
-                         <pubDate>Mon, 01 Jun 2020 21:28:08 GMT</pubDate>
+      <title>George Floyd unrest: Cities face new looting amid stronger National Guard response, curfews</title>
+      <description>Cities across the country started seeing new looting on Monday night as nationwide demonstrations over the death of George Floyd in Minneapolis escalated out of control yet again, and as President Trump vowed a tougher federal response.</description>
+                  <dc:creator>Louis Casiano</dc:creator>
+                         <pubDate>Tue, 02 Jun 2020 00:52:08 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Paul Steinhauser</category>
-            <category domain="foxnews.com/metadata/dc.creator">Sam Dorman</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Louis Casiano</category>
                             </item>
       </channel>
 </rss>
