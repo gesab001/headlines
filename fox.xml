@@ -10,232 +10,239 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/herschel-walker-its-time-for-us-to-come-together</guid>
-      <link>https://www.foxnews.com/sports/herschel-walker-its-time-for-us-to-come-together</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/amazon-alex-berenson-coronavirus-booklet-censorship-claims</guid>
+      <link>https://www.foxnews.com/media/amazon-alex-berenson-coronavirus-booklet-censorship-claims</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/PI-NFL-Herschel-Walker-4232014.vres-e266ca2d64295510VgnVCM100000d7c1a8c0____.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/PI-NFL-Herschel-Walker-4232014.vres-e266ca2d64295510VgnVCM100000d7c1a8c0____.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Alex-Berenson-Amazon-Logo.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Alex-Berenson-Amazon-Logo.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/PI-NFL-Herschel-Walker-4232014.vres-e266ca2d64295510VgnVCM100000d7c1a8c0____.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">72da9fa3-bc39-5dd7-b725-b409da70622e</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Alex-Berenson-Amazon-Logo.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e7d4f3fd-7216-5a82-9aba-6216a6b43a47</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/companies/amazon</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/disaster-response</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/books</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Alex Berenson's coronavirus booklet hits Amazon after Elon Musk, others call out online retailer for 'censorship'</title>
+      <description>Amazon is selling former New York Times reporter Alex Berenson’s booklet on coronavirus after initially claiming it didn’t meet the online retailer’s guidelines – as help rolled in from the likes of Glenn Greenwald and Elon Musk, who considered the move blatant censorship.</description>
+                  <dc:creator>Brian Flood</dc:creator>
+                         <pubDate>Thu, 04 Jun 2020 22:22:17 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brian Flood</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/buccaneers-bruce-arians-tom-brady-leadership-when-he-talks-they-listen</guid>
+      <link>https://www.foxnews.com/sports/buccaneers-bruce-arians-tom-brady-leadership-when-he-talks-they-listen</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Bruce-Arians-Tom-Brady-Getty.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Bruce-Arians-Tom-Brady-Getty.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Bruce-Arians-Tom-Brady-Getty.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d59841dd-252f-5278-a118-41117e0e47e4</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/tampa-bay-buccaneers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/tom-brady</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Herschel Walker: 'It’s time for us to come together'</title>
-      <description>Former NFL running back Herschel Walker said that he was disappointed on Tuesday with politicians for “sitting on the sidelines doing absolutely nothing” until President Trump tried to reestablish law and order the following days of protests in Washington, D.C., Atlanta and other cities across the country.</description>
+      <title>Buccaneers' Bruce Arians on Tom Brady's leadership: 'When he talks, they listen'</title>
+      <description>Tampa Bay Buccaneers Head Coach Bruce Arians hasn’t seen Tom Brady in action during practice on a football field yet, but he’s already impressed with how the legendary quarterback is showing leadership.</description>
                   <dc:creator>Daniel Canova</dc:creator>
-                         <pubDate>Thu, 04 Jun 2020 00:17:29 GMT</pubDate>
+                         <pubDate>Thu, 04 Jun 2020 22:21:32 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/detroit-man-ppp-aid-cadillacs-dodge-charger-hummer-doj</guid>
-      <link>https://www.foxnews.com/us/detroit-man-ppp-aid-cadillacs-dodge-charger-hummer-doj</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/florida-state-marvin-wilson-coach-mike-norvell-moving-forward</guid>
+      <link>https://www.foxnews.com/sports/florida-state-marvin-wilson-coach-mike-norvell-moving-forward</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Cadillac.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Cadillac.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/RTS2OMIH-1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/RTS2OMIH-1.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Cadillac.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">31ff98be-6451-5f1d-ae3c-ebabfc5515bf</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/detroit</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/justice-department</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/RTS2OMIH-1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">465c0956-a92a-5b28-94b6-26e7133ad1e4</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/florida-state-seminoles</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Detroit man fraudulently applied for PPP aid, used it to buy Cadillacs, Dodge Charger and Hummer, DOJ says</title>
-      <description>In an alleged Motor City money grab, a local man is accused of swiping funds from the federal Payroll Protection Program (PPP) -- which is meant to help keep small businesses afloat amid the coronavirus shutdowns -- to buy two Cadillacs, a Dodge Charger and a Hummer, according to federal prosecutors.</description>
-                  <dc:creator>Michael Ruiz</dc:creator>
-                         <pubDate>Thu, 04 Jun 2020 00:17:02 GMT</pubDate>
+      <title>Florida State's Marvin Wilson is 'moving forward' after disputing coach Mike Norvell's claim he spoke to every player</title>
+      <description>Florida State defensive lineman Marvin Wilson is ready to move forward after previously threatening not to take part in team practices because of coach Mike Norvell’s earlier claims that he had a “back and forth” with each player on his team following the death of George Floyd. </description>
+                  <dc:creator>Paulina Dedaj</dc:creator>
+                         <pubDate>Thu, 04 Jun 2020 22:20:41 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Michael Ruiz</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Paulina Dedaj</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/dc-mayor-bowser-vows-push-back-federal-presence-george-floyd-unrest</guid>
-      <link>https://www.foxnews.com/politics/dc-mayor-bowser-vows-push-back-federal-presence-george-floyd-unrest</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/st-paul-police-chief-george-floyd-death</guid>
+      <link>https://www.foxnews.com/media/st-paul-police-chief-george-floyd-death</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Muriel-Bowser-AP.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Muriel-Bowser-AP.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/image-34.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image-34.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Muriel-Bowser-AP.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">32d60d16-2e44-5f65-add5-088e4442aeb1</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/washington-dc</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/military/national-guard</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image-34.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">dcf6c868-30b8-5f6d-83dc-ebb570cb158b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
             <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/minneapolis-st-paul</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/your-world-cavuto</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>St. Paul chief calls George Floyd death a 'pivotal moment in policing in America'</title>
+      <description>St. Paul, Minn. police chief Todd Axtell told Fox News' "Your World" Thursday that the death of George Floyd and the ensuing unrest have brought about a "pivotal moment in policing in America."</description>
+                  <dc:creator>Charles Creitz</dc:creator>
+                         <pubDate>Thu, 04 Jun 2020 22:14:19 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Charles Creitz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/senate-dems-kneel-george-floyd-moment-of-silence</guid>
+      <link>https://www.foxnews.com/politics/senate-dems-kneel-george-floyd-moment-of-silence</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Democrats-Moment-of-Silence-Schumer-Twitter-2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Democrats-Moment-of-Silence-Schumer-Twitter-2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Democrats-Moment-of-Silence-Schumer-Twitter-2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ff41b227-85ec-5e7a-9bcc-ef517b266d17</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/senate</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/cory-booker</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>DC Mayor Bowser vows to 'push back' on federal presence in wake of George Floyd unrest</title>
-      <description>Washington D.C. Mayor Muriel Bowser made it clear Wednesday that the Metropolitan Police report to her, and that she does not believe National Guardsmen are needed in the nation’s capital to assist in maintaining order during the George Floyd protests.</description>
+      <title>Several Senate Dems kneel during George Floyd moment of silence</title>
+      <description>Five Senate Democrats took a knee as the chamber's minority caucus gathered in Emancipation Hall in the U.S. Capitol Thursday to share in an eight-minute moment of silence for George Floyd.</description>
                   <dc:creator>Caitlin McFall</dc:creator>
-                         <pubDate>Thu, 04 Jun 2020 00:12:46 GMT</pubDate>
+                         <pubDate>Thu, 04 Jun 2020 22:14:19 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Caitlin McFall</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/massachusetts-police-tail-50-cars-many-rentals-circling-malls-amid-george-floyd-looting-fears</guid>
-      <link>https://www.foxnews.com/us/massachusetts-police-tail-50-cars-many-rentals-circling-malls-amid-george-floyd-looting-fears</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/george-floyd-active-duty-soldiers-sent-home-dc-national-guard-arrive</guid>
+      <link>https://www.foxnews.com/us/george-floyd-active-duty-soldiers-sent-home-dc-national-guard-arrive</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Chesnut-Hill-Mall.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Chesnut-Hill-Mall.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/AP20156116048972.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20156116048972.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Chesnut-Hill-Mall.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">8032f8e4-7bb5-5c68-8390-33fc6665bc93</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/massachusetts</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Massachusetts police tail 50 cars, many rentals, circling malls amid George Floyd looting fears</title>
-      <description>Amid looting fears in the wake of George Floyd protests, cops monitored 50 cars circling malls in Massachusetts on Monday night, according to an incident report.</description>
-                  <dc:creator>Frank Miles</dc:creator>
-                         <pubDate>Thu, 04 Jun 2020 00:12:35 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Frank Miles</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/stephanie-wilford-gofundme-riots-minneapolis</guid>
-      <link>https://www.foxnews.com/us/stephanie-wilford-gofundme-riots-minneapolis</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Minneapolis-businesses-destroyed21.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Minneapolis-businesses-destroyed21.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Minneapolis-businesses-destroyed21.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">11bd713f-698c-565c-ab1a-b6fd416099b9</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/politics/elections/fundraising</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/minneapolis-st-paul</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/minnesota</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>More than $20G raised to help Minneapolis woman who wept over riots in viral interview</title>
-      <description>A GoFundMe has raked in more than $20,000 in the past few days for a Minneapolis woman who went viral after she broke down while describing riots in her city.</description>
-                  <dc:creator>Sam Dorman</dc:creator>
-                         <pubDate>Thu, 04 Jun 2020 00:08:21 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Sam Dorman</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/george-floyd-minneapolis-police-criminal-complaints-documents</guid>
-      <link>https://www.foxnews.com/us/george-floyd-minneapolis-police-criminal-complaints-documents</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a68972b7-7c5c-46fa-89bb-e262d0325b7c/0056ba74-efc7-42f9-b576-f8cafff5e757/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">8fed2f0d-c155-538c-b180-99536e1703b1</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20156116048972.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">cc00fccb-ff48-5d26-acd3-d6ccc2887d2e</category>
                   <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/minneapolis-st-paul</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/minnesota</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/homicide</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/military</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/defense</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/washington-dc</category>
             <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/defense/pentagon</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Criminal complaints against Minneapolis police officers in George Floyd case: Read the documents</title>
-      <description>Minnesota prosecutors on Wednesday announced new charges against four police officers in the death of George Floyd. Read the documents here.</description>
-                   <pubDate>Thu, 04 Jun 2020 00:08:11 GMT</pubDate>
+      <title>George Floyd unrest: Hundreds of active-duty soldiers sent home from DC area as National Guard troops arrive</title>
+      <description>About 700 paratroopers in the 82nd Airborne are being sent back to Fort Bragg on Thursday, a senior Defense official told Fox News, after they were initially part of a group of 1,600 active-duty troops who were being sent to bases outside of Washington D.C., following recent civil unrest. </description>
+                  <dc:creator>Nick Givas</dc:creator>
+            <dc:creator>Lucas Tomlinson</dc:creator>
+            <dc:creator>Jennifer Griffin</dc:creator>
+                         <pubDate>Thu, 04 Jun 2020 22:11:59 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/nyc-wolverine-claws-george-floyd-protesters-queens</guid>
-      <link>https://www.foxnews.com/us/nyc-wolverine-claws-george-floyd-protesters-queens</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95067728-dedb-4dfa-8a6a-9fcb376845ec/6c1e2ab4-9e43-466d-a151-5330fb0728d4/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">5d2a1300-96ea-5ff8-aebd-50c9ae107dc2</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>NYC man with Wolverine-type claws apparently threatened George Floyd protesters, police say</title>
-      <description>An older white man, apparently furious at Black Lives Matter demonstrators in Whitestone, Queens, threatened them with knives and then plowed his SUV onto the sidewalk where they were demonstrating, sending the activists running for their lives, according to police and video. </description>
-                  <dc:creator>Gabrielle Fonrouge</dc:creator>
-                         <pubDate>Wed, 03 Jun 2020 23:58:20 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Gabrielle Fonrouge</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nick Givas</category>
+            <category domain="foxnews.com/metadata/dc.creator">Lucas Tomlinson</category>
+            <category domain="foxnews.com/metadata/dc.creator">Jennifer Griffin</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/missouri-ag-st-louis-looting-rioting-arrests-released</guid>
-      <link>https://www.foxnews.com/us/missouri-ag-st-louis-looting-rioting-arrests-released</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/howard-kutz-tom-cotton-ny-times-outrage</guid>
+      <link>https://www.foxnews.com/media/howard-kutz-tom-cotton-ny-times-outrage</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/AP20154539495634.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20154539495634.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Tom-Cotton-NYT-Building-2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Tom-Cotton-NYT-Building-2.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20154539495634.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">373de3fe-e4a9-5b56-9e57-23888f933e55</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/travel/vacation-destinations/st-louis</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Tom-Cotton-NYT-Building-2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">5c15ebd9-74f4-5827-a4b8-886379368e13</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/topic/fox-news-radio</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/senate/republicans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/media-buzz</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Missouri AG says all St. Louis those arrested for looting, rioting have been released: 'Stunning development'</title>
-      <description>Missouri Attorney General Eric Schmitt lashed out at a St. Louis' chief prosecutor over the release of suspected rioters and looters arrested over several days of violent protests that have seen four police officers shot and a retired police captain killed. </description>
-                  <dc:creator>Louis Casiano</dc:creator>
-                         <pubDate>Wed, 03 Jun 2020 23:54:57 GMT</pubDate>
+      <title>Howard Kurtz says fury of NY Times writers at Cotton op-ed 'strikes me ... almost as anti-journalism'</title>
+      <description>"MediaBuzz" host Howard Kurtz praised The New York Times in a rare moment Thursday for publishing an op-ed in which Republican Sen. Tom Cotton called on the military to quell violent uprisings over George Floyd's death, drawing outrage from many of the paper's own reporters.</description>
+                  <dc:creator>Yael Halon</dc:creator>
+                         <pubDate>Thu, 04 Jun 2020 21:59:28 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Louis Casiano</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Yael Halon</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/rapper-ludacris-protesters-chanting-lyrics-nypd-officers</guid>
-      <link>https://www.foxnews.com/entertainment/rapper-ludacris-protesters-chanting-lyrics-nypd-officers</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/arnold-schwarzenegger-gruesome-injury-total-recall</guid>
+      <link>https://www.foxnews.com/entertainment/arnold-schwarzenegger-gruesome-injury-total-recall</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/ludacris-reuters.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/ludacris-reuters.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/07/AP19199695707471.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP19199695707471.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/ludacris-reuters.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">8fe212dd-821d-5729-b0df-f9f905666107</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/hip-hop-rap</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP19199695707471.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ba4d7bda-d6b7-5a64-b8b6-720a677bb3f3</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/arnold-schwarzenegger</category>
             <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
             <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/grammys</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/movies</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/chris-pratt</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/entertainment</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Rapper Ludacris tweets approval of protesters chanting 'Move b---h' lyrics from 2001 song at NYPD officers</title>
-      <description>Ludacris is standing with protesters in New York who broke out into a chant at NYPD and summoned his lyrics to have their message heard.</description>
+      <title>Arnold Schwarzenegger remembers gruesome injury while filming 'Total Recall'</title>
+      <description>Arnold Schwarzenegger is opening up about a nasty injury he sustained while filming the 1990 film “Total Recall.”</description>
                   <dc:creator>Julius Young</dc:creator>
-                         <pubDate>Wed, 03 Jun 2020 23:47:19 GMT</pubDate>
+                         <pubDate>Thu, 04 Jun 2020 21:56:56 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Julius Young</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/ari-fleischer-mattis-reached-breaking-point-trump</guid>
-      <link>https://www.foxnews.com/media/ari-fleischer-mattis-reached-breaking-point-trump</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/grassley-holds-up-key-trump-nominations-demands-white-house-explain-inspector-general-firings</guid>
+      <link>https://www.foxnews.com/politics/grassley-holds-up-key-trump-nominations-demands-white-house-explain-inspector-general-firings</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/image-29.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image-29.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://media2.foxnews.com/BrightCove/694940094001/2018/10/04/694940094001_5844508141001_5844506911001-vs.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/694940094001_5844508141001_5844506911001-vs.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image-29.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">49b84371-46a4-58c5-a03d-a6a72ea8f478</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/defense</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/special-report</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/defense/pentagon</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/defense/secretary-of-defense</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/694940094001_5844508141001_5844506911001-vs.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">fd561b2f-3371-5e5c-8643-f56b9bc55465</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/elections/senate</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Ari Fleischer says Mattis 'reached his breaking point' with 'extraordinary' criticism of Trump</title>
-      <description>Former White House press secretary Ari Fleischer told the "Special Report" All-Star panel that former Defense Secretary Jim Mattis' scathing rebuke of President Trump shows that his "divisive" persona is costing him potential allies in an election year. </description>
-                  <dc:creator>Charles Creitz</dc:creator>
-                         <pubDate>Wed, 03 Jun 2020 23:46:37 GMT</pubDate>
+      <title>Grassley holds up key Trump nominations, demands White House explain inspector general firings</title>
+      <description>Senate Finance Committee Chairman Chuck Grassley, R-Iowa, announced on Thursday he will hold up President Trump's nomination to lead the National Counterterrorism Center until the White House explains the recent firings of the Intelligence Community and State Department inspectors general.</description>
+                  <dc:creator>Gregg Re</dc:creator>
+                         <pubDate>Thu, 04 Jun 2020 21:55:59 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Charles Creitz</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Gregg Re</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/food-drink/uk-man-caught-driving-over-130-mph-to-get-his-first-mcdonalds-burger-since-lockdown</guid>
+      <link>https://www.foxnews.com/food-drink/uk-man-caught-driving-over-130-mph-to-get-his-first-mcdonalds-burger-since-lockdown</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Whopper-car.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Whopper-car.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Whopper-car.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6e3275a9-1b87-541c-89ec-cbb303842fbe</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/food-drink/food/fast-food</category>
+            <category domain="foxnews.com/taxonomy">fox-news/food-drink/food/restaurants</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/food-drink</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>In UK, man caught driving over 130 mph to get his first McDonald's burger since lockdown</title>
+      <description>No burger is worth this much trouble.</description>
+                  <dc:creator>Michael Hollan</dc:creator>
+                         <pubDate>Thu, 04 Jun 2020 21:47:41 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Michael Hollan</category>
                             </item>
       </channel>
 </rss>
