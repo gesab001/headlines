@@ -7,38 +7,36 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 06 Jun 2020 07:06:14 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Jun 2020 07:06:14 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2020 03:09:28 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Jun 2020 03:09:28 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>George Floyd Protests: Live News and Updates</title>
-      <link>https://www.nytimes.com/2020/06/05/us/george-floyd-protests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/us/george-floyd-protests.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/us/george-floyd-protests.html" rel="standout"></atom:link>
-      <description>Major demonstrations are planned across the country on Saturday, including in Washington, where thousands of protesters are expected to converge.</description>
-      <pubDate>Sat, 06 Jun 2020 05:14:48 +0000</pubDate>
+      <title>Protests Today: Live Updates and Video</title>
+      <link>https://www.nytimes.com/2020/06/06/us/protests-today-police-george-floyd.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/06/us/protests-today-police-george-floyd.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/06/us/protests-today-police-george-floyd.html" rel="standout"></atom:link>
+      <description>Thousands march around the world, and even small towns with Klan histories see protests. Two officers face felony assault charges after shoving a protester in Buffalo.</description>
+      <pubDate>Sun, 07 Jun 2020 03:04:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Floyd, George (d 2020)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/05/us/05unrest-briefing-lede/merlin_173248479_9c509821-e1ab-4617-82f3-6d358561e780-moth.jpg" width="151"></media:content>
-      <media:credit>Alyssa Schukar for The New York Times</media:credit>
-      <media:description>Protesters marched by the Minnesota State Capitol as rallies continued on Friday.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/06/us/06unrest-saturday-10/06unrest-saturday-10-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker/The New York Times</media:credit>
+      <media:description>Demonstrators in Washington on Saturday.</media:description>
     </item>
     <item>
-      <title>Coronavirus Claims Some of World War II’s Last Witnesses</title>
-      <link>https://www.nytimes.com/2020/06/05/world/coronavirus-updates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/world/coronavirus-updates.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/world/coronavirus-updates.html" rel="standout"></atom:link>
-      <description>The U.S. is still confirming more than 20,000 new cases every day. Mexico is slowly reopening, but some people fear it’s moving too fast.</description>
-      <pubDate>Sat, 06 Jun 2020 07:03:14 +0000</pubDate>
+      <title>Coronavirus Live Updates: New Cases Are Increasing in U.S.</title>
+      <link>https://www.nytimes.com/2020/06/06/world/coronavirus-update-us-usa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/06/world/coronavirus-update-us-usa.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/06/world/coronavirus-update-us-usa.html" rel="standout"></atom:link>
+      <description>A New York Times analysis shows why some areas of the United States see reopening as long overdue. The daily death toll in New York falls again.</description>
+      <pubDate>Sun, 07 Jun 2020 01:48:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/03/world/05virus-briefing-memory/Virus-Italy-Memory01-moth.jpg" width="151"></media:content>
-      <media:credit>Alessandro Grassani for The New York Times</media:credit>
-      <media:description>On Italy’s Liberation Day in April, residents of Milan placed flowers in memory of the partisans who died during World War II. The ranks of those who remember the war have been diminished by the coronavirus.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/20/us/06virus-briefing-reopen/merlin_172681014_385be8db-2dea-4295-91f4-4cfc766667cc-moth.jpg" width="151"></media:content>
+      <media:credit>Christopher Capozziello for The New York Times</media:credit>
+      <media:description>A group at the Mystic Aquarium in Mystic, Conn., in May. As states move ahead with reopening plans, they may face different futures based on factors like how stressed their health care systems have been.</media:description>
     </item>
     <item>
       <title>Research Shows Students Falling Months Behind During Virus Disruptions</title>
@@ -47,12 +45,21 @@
       <atom:link href="https://www.nytimes.com/2020/06/05/us/coronavirus-education-lost-learning.html" rel="standout"></atom:link>
       <description>The abrupt switch to remote learning wiped out academic gains for many students in America, and widened racial and economic gaps. Catching up in the fall won’t be easy.</description>
       <dc:creator>Dana Goldstein</dc:creator>
-      <pubDate>Fri, 05 Jun 2020 21:07:20 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2020 15:30:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Learning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/03/us/00VIRUS-LOSTLEARNING-gandy/merlin_173084370_74fdc4d9-cd76-49a9-875d-0a4e239cd615-moth.jpg" width="151"></media:content>
       <media:credit>Kendrick Brinson for The New York Times</media:credit>
       <media:description>Danielle Gandy with her daughters Madison, 15, and Cadynce, 6. Assessing their remote education, Ms. Gandy said “it’s maybe a fraction of what they would be learning if they were in an actual school setting.”</media:description>
@@ -80,306 +87,131 @@
       <media:description>President Trump brandishing a Bible in front of St. John’s Church in Washington on Monday.</media:description>
     </item>
     <item>
-      <title>Cyclist Charged With Assaulting Teenagers Who Posted Fliers Against Police Brutality</title>
-      <link>https://www.nytimes.com/2020/06/06/us/-maryland-cyclist-assault-anthony-brennan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/06/us/-maryland-cyclist-assault-anthony-brennan.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/06/us/-maryland-cyclist-assault-anthony-brennan.html" rel="standout"></atom:link>
-      <description>The police said that Anthony Brennan III, 60, of Kensington, Md., was arrested after investigators received hundreds of tips from people who had seen a video of the encounter.</description>
-      <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Sat, 06 Jun 2020 04:35:06 +0000</pubDate>
+      <title>Minneapolis Mayor Booed Out of Rally</title>
+      <link>https://www.nytimes.com/video/us/politics/100000007178355/minneapolis-mayor-booed-out-of-rally.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/us/politics/100000007178355/minneapolis-mayor-booed-out-of-rally.html</guid>
+      <atom:link href="https://www.nytimes.com/video/us/politics/100000007178355/minneapolis-mayor-booed-out-of-rally.html" rel="standout"></atom:link>
+      <description>Chanting “Shame” and “Go home, Jacob, go home,” demonstrators drove Mayor Jacob Frey out of a rally after he declined to commit to defunding the police.</description>
+      <pubDate>Sun, 07 Jun 2020 03:04:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maryland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montgomery County (Md)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/05/multimedia/trail-arrest-2/trail-arrest-2-moth.jpg" width="151"></media:content>
-      <media:credit>via Maryland-National Capital Park Police</media:credit>
-      <media:description>The police said that Anthony Brennan assaulted teenagers who were putting up fliers against police brutality. </media:description>
-    </item>
-    <item>
-      <title>New York Protesters Sing Happy Birthday</title>
-      <link>https://www.nytimes.com/video/us/100000007177503/breonna-taylor-birthday-protest.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/us/100000007177503/breonna-taylor-birthday-protest.html</guid>
-      <atom:link href="https://www.nytimes.com/video/us/100000007177503/breonna-taylor-birthday-protest.html" rel="standout"></atom:link>
-      <description>Demonstrators in remembered Breonna Taylor on what would have been her 27th birthday.</description>
-      <dc:creator>Ainara Tiefenthäler</dc:creator>
-      <pubDate>Sat, 06 Jun 2020 02:20:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birthdays</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/05/nyregion/05nyunrest-briefing-6/merlin_173180049_d71b0dc8-a0ba-4c64-b3b4-16556fb90409-moth.jpg" width="151"></media:content>
-      <media:credit>Amr Alfiky for The New York Times</media:credit>
-      <media:description>At a Brooklyn vigil for Breonna Taylor, who was killed by the police in March in Lousville, Ky. Friday would have been Ms. Taylor’s 27th birthday.</media:description>
-    </item>
-    <item>
-      <title>Cities Ask if It’s Time to Defund Police and ‘Reimagine’ Public Safety</title>
-      <link>https://www.nytimes.com/2020/06/05/us/defund-police-floyd-protests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/us/defund-police-floyd-protests.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/us/defund-police-floyd-protests.html" rel="standout"></atom:link>
-      <description>In the wake of George Floyd’s killing, some cities are asking if the police are being asked to do jobs they were never intended to do. Budgets are being re-evaluated.</description>
-      <dc:creator>Farah Stockman and John Eligon</dc:creator>
-      <pubDate>Sat, 06 Jun 2020 01:39:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Minneapolis, Minn)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/05/us/05UNREST-DEFUND2/05UNREST-DEFUND2-moth.jpg" width="151"></media:content>
-      <media:credit>Victor J. Blue for The New York Times</media:credit>
-      <media:description>The Minneapolis police arrested protesters on Sunday who were marching after George Floyd’s death.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frey, Jacob (1981- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
     </item>
     <item>
-      <title>Temecula Mayor Resigns Amid Uproar Over Email About Police Killings</title>
-      <link>https://www.nytimes.com/2020/06/05/us/temecula-mayor-email-james-stewart.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/us/temecula-mayor-email-james-stewart.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/us/temecula-mayor-email-james-stewart.html" rel="standout"></atom:link>
-      <description>James Stewart blamed a voice-to-text translator for adding the word good in this sentence: “I don’t believe there’s ever been a good person of color killed by a police officer.”</description>
-      <dc:creator>Heather Murphy</dc:creator>
-      <pubDate>Sat, 06 Jun 2020 01:47:36 +0000</pubDate>
+      <title>Birthday for Breonna: A Campaign to Mourn and Honor</title>
+      <link>https://www.nytimes.com/2020/06/06/us/birthday-breonna-taylor-black-lives-matter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/06/us/birthday-breonna-taylor-black-lives-matter.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/06/us/birthday-breonna-taylor-black-lives-matter.html" rel="standout"></atom:link>
+      <description>On Friday, when Breonna Taylor would have turned 27, demonstrators focused attention on her case.</description>
+      <dc:creator>Alisha Haridasani Gupta</dc:creator>
+      <pubDate>Sun, 07 Jun 2020 01:22:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Temecula, Calif.</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riverside County (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stewart, James</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Mail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dyslexia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/05/multimedia/05xp-unrest-temecula-image/05xp-unrest-temecula-image-moth.jpg" width="151"></media:content>
-      <media:credit>Watchara Phomicinda/The Orange County Register, via Associated Press</media:credit>
-      <media:description>James Stewart, the former mayor of Temecula, Calif. His email came in response to a constituent’s question about police violence and systemic racism in policing.</media:description>
-    </item>
-    <item>
-      <title>D.C.’s Mayor Fights for Control of Her City at Trump’s Front Door</title>
-      <link>https://www.nytimes.com/2020/06/05/us/politics/muriel-bowser-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/us/politics/muriel-bowser-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/us/politics/muriel-bowser-trump.html" rel="standout"></atom:link>
-      <description>Amid tensions with the president over his deployment of federal officers during protests, Washington’s mayor had “Black Lives Matter” painted near the White House in an unmistakable assertion of control.</description>
-      <dc:creator>Zolan Kanno-Youngs, Jennifer Steinhauer and Kenneth P. Vogel</dc:creator>
-      <pubDate>Sat, 06 Jun 2020 01:09:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/06/us/06ihw-breonna1/06ihw-breonna1-moth.jpg" width="151"></media:content>
+      <media:credit>Erik Branch for The New York Times</media:credit>
+      <media:description>Protesters singing the black national anthem in Louisville, Ky.</media:description>
+    </item>
+    <item>
+      <title>U.S. Marine Corps Bans Confederate Battle Flag Displays</title>
+      <link>https://www.nytimes.com/2020/06/06/us/marines-confederate-flag-ban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/06/us/marines-confederate-flag-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/06/us/marines-confederate-flag-ban.html" rel="standout"></atom:link>
+      <description>The directive, which was announced on Friday, details what is prohibited in Marine installations, office buildings and work spaces.</description>
+      <dc:creator>Jenny Gross</dc:creator>
+      <pubDate>Sun, 07 Jun 2020 00:44:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flags, Emblems and Insignia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Marine Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil War (US) (1861-65)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="">Confederate flag</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/06/multimedia/06xp-marines-pix/06xp-marines-pix-moth.jpg" width="151"></media:content>
+      <media:credit>Rainier Ehrhardt/Associated Press</media:credit>
+      <media:description>The Marine Corps said on Twitter that the Confederate battle flag had “all too often been co-opted by violent extremists and racist groups whose divisive beliefs have no place in our Corps.”</media:description>
+    </item>
+    <item>
+      <title>Protests Swell Across America as George Floyd Is Mourned Near His Birthplace</title>
+      <link>https://www.nytimes.com/2020/06/06/us/george-floyd-memorial-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/06/us/george-floyd-memorial-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/06/us/george-floyd-memorial-protests.html" rel="standout"></atom:link>
+      <description>People lined up for hours before a viewing and a memorial service in a small North Carolina town, while demonstrations across the country grew larger and more organized.</description>
+      <dc:creator>Dionne Searcey and David Zucchino</dc:creator>
+      <pubDate>Sun, 07 Jun 2020 01:09:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bowser, Muriel E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Floyd, George (d 2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lafayette Square (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/05/us/politics/05dc-unrest-district1/merlin_173234409_3c0d4a35-e23d-40ec-835e-895d51a013ba-moth.jpg" width="151"></media:content>
-      <media:credit>Michael A. McCoy for The New York Times</media:credit>
-      <media:description>Mayor Muriel E. Bowser of Washington dedicated an area near the White House as Black Lives Matter Plaza on Friday.</media:description>
-    </item>
-    <item>
-      <title>Frustration and Fury as Rand Paul Holds Up Anti-Lynching Bill in Senate</title>
-      <link>https://www.nytimes.com/2020/06/05/us/politics/rand-paul-anti-lynching-bill-senate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/us/politics/rand-paul-anti-lynching-bill-senate.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/us/politics/rand-paul-anti-lynching-bill-senate.html" rel="standout"></atom:link>
-      <description>A dispute over legislation to make lynching a federal crime has grown fierce as Congress turns its attention to issues of race and law enforcement amid protests across the country.</description>
-      <dc:creator>Nicholas Fandos</dc:creator>
-      <pubDate>Sat, 06 Jun 2020 05:33:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Till, Emmett Louis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul, Rand</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/05/us/politics/05dc-lynching/05dc-lynching-moth.jpg" width="151"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>Senator Rand Paul, Republican of Kentucky, in the Capitol on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Trump’s False Claim That ‘Nobody Has Ever Done’ More for the Black Community Than He Has</title>
-      <link>https://www.nytimes.com/2020/06/05/us/politics/trump-black-african-americans-fact-check.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/us/politics/trump-black-african-americans-fact-check.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/us/politics/trump-black-african-americans-fact-check.html" rel="standout"></atom:link>
-      <description>The records of Presidents Abraham Lincoln and Lyndon B. Johnson, among others, beg to differ.</description>
-      <dc:creator>Linda Qiu</dc:creator>
-      <pubDate>Sat, 06 Jun 2020 05:28:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lincoln, Abraham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Lyndon Baines</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/05/us/politics/05dc-factcheck/05dc-factcheck-moth.jpg" width="151"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Raeford, N.C..</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/06/us/06unrest-saturday-10/06unrest-saturday-10-moth.jpg" width="151"></media:content>
       <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>President Trump boarding Air Force One on Friday.</media:description>
+      <media:description>Demonstrators in Washington on Saturday.</media:description>
     </item>
     <item>
-      <title>Falling Jobless Rate Could Imperil Aid Underpinning the Recovery</title>
-      <link>https://www.nytimes.com/2020/06/05/business/jobs-economy-recovery-aid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/business/jobs-economy-recovery-aid.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/business/jobs-economy-recovery-aid.html" rel="standout"></atom:link>
-      <description>A surprise jump in the number of people working may give Republican lawmakers less incentive to renew the very programs that have hastened the labor market’s rebound.</description>
-      <dc:creator>Jim Tankersley, Emily Cochrane and Jeanna Smialek</dc:creator>
-      <pubDate>Fri, 05 Jun 2020 22:56:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/05/business/05dc-virus-trumpecon/merlin_173123355_e7637afb-61f6-40e2-9db8-7a4e65799255-moth.jpg" width="151"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>Republican lawmakers, including the Senate majority leader, Mitch McConnell, have urged restraint on additional stimulus spending and are pointing to the rise in employment as a reason to avoid another large-scale aid package.</media:description>
-    </item>
-    <item>
-      <title>Milley, America’s Top General, Walks Into a Political Battle</title>
-      <link>https://www.nytimes.com/2020/06/05/us/politics/protests-milley-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/us/politics/protests-milley-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/us/politics/protests-milley-trump.html" rel="standout"></atom:link>
-      <description>The military that Gen. Mark A. Milley represents is facing what could be the worst schism with the American public since the fractious Vietnam War years.</description>
-      <dc:creator>Helene Cooper, Eric Schmitt and Thomas Gibbons-Neff</dc:creator>
-      <pubDate>Sat, 06 Jun 2020 00:10:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint Chiefs of Staff</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Guard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Air Force</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cotton, Tom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eaton, Paul D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Esper, Mark T</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mattis, James N</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McFaul, Michael A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Stephen (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milley, Mark A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/05/us/politics/05dc-unrest-milley1/05dc-unrest-milley1-moth.jpg" width="151"></media:content>
-      <media:credit>Drew Angerer/Getty Images</media:credit>
-      <media:description>Gen. Mark A. Milley is managing the most consequential professional relationship of his life, with mixed results so far.</media:description>
-    </item>
-    <item>
-      <title>Security Concerns Give the White House a Fortified New Look</title>
-      <link>https://www.nytimes.com/2020/06/05/us/politics/white-house-security.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/us/politics/white-house-security.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/us/politics/white-house-security.html" rel="standout"></atom:link>
-      <description>It increasingly resembles a Washington version of the Green Zone that sheltered American and Iraqi officials in Baghdad.</description>
-      <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Sat, 06 Jun 2020 03:13:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fences and Property Barriers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/06/us/politics/06dc-unrest-response1/06dc-unrest-response1-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>Protesters approached a newly built chain-link fence in front of the White House on Thursday.</media:description>
-    </item>
-    <item>
-      <title>W.H.O. Finally Endorses Masks to Prevent Coronavirus Transmission</title>
-      <link>https://www.nytimes.com/2020/06/05/health/coronavirus-masks-who.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/health/coronavirus-masks-who.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/health/coronavirus-masks-who.html" rel="standout"></atom:link>
-      <description>The agency had been opposed to public use of masks, even after governments worldwide had recommended them.</description>
-      <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Fri, 05 Jun 2020 22:04:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Michaels, David (1954- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/05/science/05VIRUS-MASKS/05VIRUS-MASKS-moth.jpg" width="151"></media:content>
-      <media:credit>Adam Dean for The New York Times</media:credit>
-      <media:description>Workers made masks at a lingerie factory in Bangkok  in April.</media:description>
-    </item>
-    <item>
-      <title>People Are Marching Against Racism. They’re Also Reading About It.</title>
-      <link>https://www.nytimes.com/2020/06/05/books/antiracism-books-race-racism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/books/antiracism-books-race-racism.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/books/antiracism-books-race-racism.html" rel="standout"></atom:link>
-      <description>Books on the subject have soared up best-seller lists as protests continue across the country.</description>
-      <dc:creator>Elizabeth A. Harris</dc:creator>
-      <pubDate>Sat, 06 Jun 2020 00:44:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audiobooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alexander, Michelle (1967- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kendi, Ibram X</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reynolds, Jason (Author)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Between the World and Me (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">How to Be an Antiracist (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">So You Want to Talk About Race (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Stamped: Racisim, Antiracism, and You (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The New Jim Crow: Mass Incarceration in the Age of Colorblindness (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">White Fragility: Why It&#39;s So Hard for White People to Talk about Racism (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DiAngelo, Robin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oluo, Ijeoma</category>
-    </item>
-    <item>
-      <title>Is It Safe to Go to a Pool During Coronavirus?</title>
-      <link>https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/smarter-living/coronavirus-swimming-pool-water.html" rel="standout"></atom:link>
-      <description>Worry less about the water, and more about the person standing next to you in a crowded locker room or wading in the shallow end as you swim by.</description>
-      <dc:creator>Tim Herrera</dc:creator>
-      <pubDate>Fri, 05 Jun 2020 22:21:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming Pools</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mailman School of Public Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Pennsylvania</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/05/smarter-living/05sl-coronavirus-pools/05sl-coronavirus-pools-moth.jpg" width="151"></media:content>
-      <media:credit>Christopher Gregory for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Appeals Court Blocks White House From Suspending Reporter’s Press Pass</title>
-      <link>https://www.nytimes.com/2020/06/05/us/politics/brian-karem-press-pass-white-house.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/us/politics/brian-karem-press-pass-white-house.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/us/politics/brian-karem-press-pass-white-house.html" rel="standout"></atom:link>
-      <description>The ruling came with assurance that the White House could remove any “rogue, mooning journalists” if such a disruption were to happen.</description>
-      <dc:creator>Charlie Savage</dc:creator>
-      <pubDate>Fri, 05 Jun 2020 21:31:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorka, Sebastian</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Karem, Brian</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/05/us/politics/05dc-ruling/merlin_157813707_f37fcab2-73c3-4012-a369-99e724500042-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>Sebastian Gorka, right, an ally of President Trump, confronted Brian Karem, a White House reporter, in the Rose Garden last year.</media:description>
-    </item>
-    <item>
-      <title>Joe Biden Warns Trump Against Declaring the Economic Crisis Over</title>
-      <link>https://www.nytimes.com/2020/06/05/us/politics/joe-biden-trump-economy-george-floyd.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/05/us/politics/joe-biden-trump-economy-george-floyd.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/05/us/politics/joe-biden-trump-economy-george-floyd.html" rel="standout"></atom:link>
-      <description>“A president who takes no responsibility for costing millions and millions of Americans their jobs deserves no credit when a fraction of them return,” Mr. Biden said, adding that President Trump should “step out of his own bunker.”</description>
-      <dc:creator>Katie Glueck</dc:creator>
-      <pubDate>Fri, 05 Jun 2020 21:48:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <title>Vote for Trump? These Republican Leaders Aren’t on the Bandwagon</title>
+      <link>https://www.nytimes.com/2020/06/06/us/politics/trump-biden-republicans-voters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/06/us/politics/trump-biden-republicans-voters.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/06/us/politics/trump-biden-republicans-voters.html" rel="standout"></atom:link>
+      <description>Former President George W. Bush and Senator Mitt Romney won’t support Mr. Trump’s re-election, and other G.O.P. officials are mulling a vote for Joe Biden.</description>
+      <dc:creator>Jonathan Martin</dc:creator>
+      <pubDate>Sun, 07 Jun 2020 01:36:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/05/us/politics/05BIDEN-ECON/05BIDEN-ECON-moth.jpg" width="151"></media:content>
-      <media:credit>Hannah Yoon for The New York Times</media:credit>
-      <media:description>Former Vice President Joseph R. Biden Jr. spoke at Delaware State University on Friday, warning that the economic crisis was far from over and calling President Trump’s comments on George Floyd “despicable.”</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, Jeb</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flake, Jeffrey L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelly, John F (1950- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mattis, James N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Romney, Mitt</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/06/us/politics/06biden-repubs1/06biden-repubs1-moth.jpg" width="151"></media:content>
+      <media:credit>Tim Heitman/USA Today Sports, via Reuters</media:credit>
+      <media:description>Former President George W. Bush and his wife, Laura, in October. He will not support President Trump’s re-election.</media:description>
+    </item>
+    <item>
+      <title>Has ‘America First’ Become ‘Trump First’? Germans Wonder</title>
+      <link>https://www.nytimes.com/2020/06/06/world/europe/germany-troop-withdrawal-america.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/06/world/europe/germany-troop-withdrawal-america.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/06/world/europe/germany-troop-withdrawal-america.html" rel="standout"></atom:link>
+      <description>One week after Chancellor Angela Merkel told President Trump she would not attend the Group of 7 meeting he wanted to host, he decided to withdraw 9,500 troops from her country.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Sat, 06 Jun 2020 23:25:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/06/world/06germany-troops/06germany-troops-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>President Donald Trump and Chancellor Angela Merkel of Germany during a NATO meeting last year in Britain.</media:description>
+    </item>
+    <item>
+      <title>Protesters in Washington, D.C., Continue Call for Justice</title>
+      <link>https://www.nytimes.com/video/us/politics/100000007177962/washington-dc-protest-george-floyd.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/us/politics/100000007177962/washington-dc-protest-george-floyd.html</guid>
+      <atom:link href="https://www.nytimes.com/video/us/politics/100000007177962/washington-dc-protest-george-floyd.html" rel="standout"></atom:link>
+      <description>Peaceful protesters came together in the nation’s capital as another weekend of demonstrations unfolded across the country in response to the killing of George Floyd.</description>
+      <dc:creator>Emily Rhyne and Barbara Marcolini</dc:creator>
+      <pubDate>Sun, 07 Jun 2020 01:02:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Floyd, George (d 2020)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/06/us/06unrest-saturday-10/06unrest-saturday-10-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker/The New York Times</media:credit>
+      <media:description>Demonstrators in Washington on Saturday.</media:description>
     </item>
   </channel>
 </rss>
