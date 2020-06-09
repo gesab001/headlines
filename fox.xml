@@ -10,223 +10,227 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/clemsons-coach-dabo-swinney-racial-slur-incident-football-matters-t-shirt</guid>
-      <link>https://www.foxnews.com/sports/clemsons-coach-dabo-swinney-racial-slur-incident-football-matters-t-shirt</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/food-drink/russian-chefs-strip-lockdown-rules</guid>
+      <link>https://www.foxnews.com/food-drink/russian-chefs-strip-lockdown-rules</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/01/CoachSwinney.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/CoachSwinney.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Russian-Chefs-REUTERS.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Russian-Chefs-REUTERS.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/CoachSwinney.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">773f29bb-642c-5f46-891a-8f0ac0391b11</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/clemson-tigers</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-fb</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/south-carolina</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Russian-Chefs-REUTERS.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">40b9eefc-f95f-58d6-b614-c940f0a12938</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/food-drink/food/restaurants</category>
+            <category domain="foxnews.com/taxonomy">fox-news/lifestyle/celebrity-chefs</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                        <category domain="foxnews.com/section-path">fnc/food-drink</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Clemson's Dabo Swinney defends racial slur incident, explains 'Football Matters' shirt</title>
-      <description>Clemson football coach Dabo Swinney on Monday defended and addressed recent instances involving the program that painted it in a negative light this past week.</description>
-                  <dc:creator>David Aaro</dc:creator>
-                         <pubDate>Tue, 09 Jun 2020 07:04:02 GMT</pubDate>
+      <title>Russian chefs strip on social media to protest strict lockdown rules</title>
+      <description>That’s one way to get attention.</description>
+                  <dc:creator>Michael Hollan</dc:creator>
+                         <pubDate>Tue, 09 Jun 2020 18:32:23 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Michael Hollan</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/new-york-times-fiasco-media-bring-trump-model-to-racial-issues</guid>
-      <link>https://www.foxnews.com/media/new-york-times-fiasco-media-bring-trump-model-to-racial-issues</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/science/scientists-show-methods-to-inactivate-and-safely-study-sars-cov-2</guid>
+      <link>https://www.foxnews.com/science/scientists-show-methods-to-inactivate-and-safely-study-sars-cov-2</link>
                   <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94be3b13-b8a9-46a4-b0b9-54ae89ee9ed9/d42ca4b1-589a-424d-bf72-c5976d6d8beb/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/iStock-1208953647.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/iStock-1208953647.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/iStock-1208953647.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">df45f89a-57aa-50e1-a0c3-d82924594611</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/science</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Scientists show methods to inactivate and safely study SARS-CoV-2</title>
+      <description>Scientists have identified detailed methods for safely performing research on SARS-CoV-2, the virus that causes COVID-19.</description>
+                  <dc:creator>Christopher Carbone</dc:creator>
+                         <pubDate>Tue, 09 Jun 2020 18:25:33 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Christopher Carbone</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/major-georgia-companies-including-coca-cola-and-delta-call-for-hate-crime-legislation-in-wake-of-ahmaud-arbery-death</guid>
+      <link>https://www.foxnews.com/us/major-georgia-companies-including-coca-cola-and-delta-call-for-hate-crime-legislation-in-wake-of-ahmaud-arbery-death</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f27a42f8-bd39-4092-8a09-e117f0e5834c/9a596ee4-a346-4dba-9959-56ad74e3cf1d/1280x720/match/image.jpg" medium="image" isDefault="true" />
         <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
       </media:group>
       <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">95af5451-d309-5d4b-9223-1e6c5db94cf0</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/columns/media-buzz</category>
+            <category domain="foxnews.com/metadata/dc.identifier">4717d90c-e3c0-5490-b91f-941b475300e0</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/ahmaud-arbery</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/georgia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/minnesota</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Major Georgia companies including Coca-Cola, Delta call for hate crime legislation in wake of Ahmaud Arbery's death</title>
+      <description>Major Georgia corporations including Coca-Cola, Delta and Home Depot are calling on lawmakers to pass hate crime legislation in the wake of Ahmaud Arbery's death. </description>
+                  <dc:creator>Barnini Chakraborty</dc:creator>
+                         <pubDate>Tue, 09 Jun 2020 18:24:33 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Barnini Chakraborty</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/hoyer-supports-removal-of-confederate-statues-in-u-s-capitol-urges-immediate-removal-of-one-man-in-particular</guid>
+      <link>https://www.foxnews.com/politics/hoyer-supports-removal-of-confederate-statues-in-u-s-capitol-urges-immediate-removal-of-one-man-in-particular</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/rtr3bxo5.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/rtr3bxo5.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/rtr3bxo5.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ae48c7ab-6490-5726-b325-d958b4bdf551</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/house-of-representatives</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/house-of-representatives</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/house-of-representatives/democrats</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/judiciary/supreme-court</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Hoyer supports removal of Confederate statues in US Capitol, wants bust of judge taken down immediately</title>
+      <description>House Majority Leader Steny Hoyer on Tuesday backed efforts to remove statues in the U.S. Capitol of Confederate figures and eyed one bust in particular for immediate replacement.</description>
+                  <dc:creator>Marisa Schultz</dc:creator>
+                         <pubDate>Tue, 09 Jun 2020 18:23:26 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Marisa Schultz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/vandals-torch-american-flags-in-front-of-homes-near-sacramento-in-california</guid>
+      <link>https://www.foxnews.com/us/vandals-torch-american-flags-in-front-of-homes-near-sacramento-in-california</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Citrus-Heights-PD-FACEBOOK.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Citrus-Heights-PD-FACEBOOK.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Citrus-Heights-PD-FACEBOOK.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6cfae333-0ced-58af-9fbf-e68062c9ceb9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Vandals torch American flags in front of homes near Sacramento: report</title>
+      <description>Police in a California town were investigating acts of vandalism in which American flags and three towering Cypress trees were damaged after being set on fire.</description>
+                  <dc:creator>Robert Gearty</dc:creator>
+                         <pubDate>Tue, 09 Jun 2020 18:19:43 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Robert Gearty</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/cuomo-says-new-york-will-pass-most-aggressive-policing-reforms-in-the-country</guid>
+      <link>https://www.foxnews.com/politics/cuomo-says-new-york-will-pass-most-aggressive-policing-reforms-in-the-country</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d88c7bc9-39ad-4456-a402-2774c2106830/39f2299d-3894-4fff-a1a3-2e31a9107887/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">cebd49e3-d76b-571b-88e9-1cfa8e35383b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/andrew-cuomo</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Cuomo says New York will pass 'most aggressive' policing reforms in country</title>
+      <description>New York Gov. Andrew Cuomo vowed that his state will “pass the most aggressive” policing reforms in the country in the wake of the death of Minneapolis man George Floyd, who died in police custody last month.</description>
+                  <dc:creator>Brooke Singman</dc:creator>
+                         <pubDate>Tue, 09 Jun 2020 18:17:00 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brooke Singman</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/kt-mcfarland-flynn-case-judge-sullivan</guid>
+      <link>https://www.foxnews.com/media/kt-mcfarland-flynn-case-judge-sullivan</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/mcfarland.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/mcfarland.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/mcfarland.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1b677313-3469-511e-adde-df6707f53e8a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/americas-newsroom</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/fbi</category>
+            <category domain="foxnews.com/taxonomy">fox-news/news-events/russia-investigation</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>New York Times fiasco: Media bring Trump model to racial issues</title>
-      <description>The transformation of journalism that began with the political birth of Donald Trump has exploded into a full-blown crisis with the death of George Floyd.</description>
-                  <dc:creator>Howard Kurtz</dc:creator>
-                         <pubDate>Tue, 09 Jun 2020 06:57:48 GMT</pubDate>
+      <title>KT McFarland: 'If justice is served, General Flynn will be a free man'</title>
+      <description>Former Deputy National Security Adviser KT McFarland told “America’s Newsroom” on Tuesday that “if justice is served” former National Security Adviser Michael Flynn “will be a free man.”</description>
+                  <dc:creator>Talia Kaplan</dc:creator>
+                         <pubDate>Tue, 09 Jun 2020 18:14:48 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Howard Kurtz</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Talia Kaplan</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/breaching-whale-knocks-small-boat-out-of-the-water-off-new-jersey</guid>
-      <link>https://www.foxnews.com/us/breaching-whale-knocks-small-boat-out-of-the-water-off-new-jersey</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/los-angeles-police-investigating-lawyer-report-says</guid>
+      <link>https://www.foxnews.com/us/los-angeles-police-investigating-lawyer-report-says</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Whale_Seaside_Park.2e16d0ba.fill-735x490.png" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Whale_Seaside_Park.2e16d0ba.fill-735x490.png" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/03/iStock-LAPD.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/iStock-LAPD.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Whale_Seaside_Park.2e16d0ba.fill-735x490.png" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">9db4c60e-b52f-59d9-8de3-4a30e258da18</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-jersey</category>
-            <category domain="foxnews.com/taxonomy">fox-news/great-outdoors</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Breaching whale knocks small boat ‘out of the water’ off New Jersey</title>
-      <description>Two occupants of a small boat off the coast of New Jersey were knocked overboard on Monday after getting hit by what believed was humpback whale that breached the surface while apparently searching for food.</description>
-                  <dc:creator>Edmund DeMarche</dc:creator>
-                         <pubDate>Tue, 09 Jun 2020 06:56:13 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/mississippi-governor-repudiates-mask-shamers-supports-wearing-masks-in-public</guid>
-      <link>https://www.foxnews.com/us/mississippi-governor-repudiates-mask-shamers-supports-wearing-masks-in-public</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a18722b-2149-41e2-9115-38b56b56f0d6/4fd2432e-9ef8-4da3-9be0-8bc4e2437ec9/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">ad3f59cb-0599-576f-a922-e33872433220</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/mississippi</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Mississippi governor repudiates mask-shamers, supports wearing masks in public</title>
-      <description>Mississippi Gov. Tate Reeves said Monday that the state still faces danger from the coronavirus pandemic, and people should not harass or make fun of those who follow public health recommendations to wear masks in public.</description>
-                  <dc:creator>Emily Wagster Pettus</dc:creator>
-                         <pubDate>Tue, 09 Jun 2020 05:59:53 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Emily Wagster Pettus</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/california-teachers-union-calls-removal-school-police-report</guid>
-      <link>https://www.foxnews.com/us/california-teachers-union-calls-removal-school-police-report</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/LA-SCHOOL.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/LA-SCHOOL.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/LA-SCHOOL.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">d43afcdd-5bc9-5be8-a6a9-9dfb728c909b</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/education</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/iStock-LAPD.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3fb44556-23bc-5ed6-a6c1-2b6edbf259ff</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
             <category domain="foxnews.com/taxonomy">fox-news/us/los-angeles</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>California teachers union leaders call on removal of school police: report</title>
-      <description>Leaders of a Los Angeles teaching union said Monday they support a movement to eliminate the Los Angeles School Police Department, with the funds used to help support the mental health of students instead, according to a report.</description>
-                  <dc:creator>David Aaro</dc:creator>
-                         <pubDate>Tue, 09 Jun 2020 05:11:55 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/health/who-says-coronavirus-pandemic-far-from-over-as-world-sees-largest-daily-increase</guid>
-      <link>https://www.foxnews.com/health/who-says-coronavirus-pandemic-far-from-over-as-world-sees-largest-daily-increase</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7119bb81-6715-4852-9a60-ce68b0ed5e9d/36aeba91-d641-4bd7-9b1a-f9a9063562cd/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">e4bc5e90-987c-5989-929f-2203b377d262</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/health</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>WHO says coronavirus pandemic far from over as world sees largest daily increase</title>
-      <description>Tedros Adhanom Ghebreyesus, the World Health Organization’s director, said on Monday that there should be no sense of complacency amid the coronavirus outbreak and supported his claim by pointing out that there were 136,000 new cases on Sunday, the most so far.</description>
-                  <dc:creator>Edmund DeMarche</dc:creator>
-                         <pubDate>Tue, 09 Jun 2020 05:07:22 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/keanu-reeves-reveals-why-returned-the-matrix-franchise</guid>
-      <link>https://www.foxnews.com/entertainment/keanu-reeves-reveals-why-returned-the-matrix-franchise</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/06/keanu-reeves-toy-story2.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/keanu-reeves-toy-story2.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/keanu-reeves-toy-story2.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">ef070334-c4ed-5c20-b517-1714df3117c2</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/movies</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/action-adventure</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Keanu Reeves reveals why he returned to 'The Matrix' franchise: It 'resonated with me'</title>
-      <description>It wasn't difficult for Keanu Reeves to decide whether to return to "The Matrix" franchise.</description>
-                  <dc:creator>Nate Day</dc:creator>
-                         <pubDate>Tue, 09 Jun 2020 04:31:24 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/suspects-posing-as-cops-rob-manhattan-jewelry-store-of-150k-before-capture-report</guid>
-      <link>https://www.foxnews.com/us/suspects-posing-as-cops-rob-manhattan-jewelry-store-of-150k-before-capture-report</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Police-Tape-Line-iStock.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Police-Tape-Line-iStock.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Police-Tape-Line-iStock.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">c3c935d5-9764-5f8d-b364-470d6674bf6a</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Suspects posing as cops rob Manhattan jewelry store of $150K before capture: report</title>
-      <description>Two suspects robbed a jewelry store of more than $150,000 in a broad-daylight heist over the weekend while impersonating NYPD cops amid George Floyd protests raging in the city, federal prosecutors said Monday.</description>
-                  <dc:creator>Jorge Fitz-Gibbon</dc:creator>
-                         <pubDate>Tue, 09 Jun 2020 04:12:49 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Jorge Fitz-Gibbon</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/this-day-in-history-june-9</guid>
-      <link>https://www.foxnews.com/us/this-day-in-history-june-9</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/06/dept-vet-affairs.png" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/dept-vet-affairs.png" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/dept-vet-affairs.png" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">179bb845-3fbe-5baf-8be0-b568bac15907</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/this-day-in-history</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>This Day in History: June 9</title>
-      <description>The Senate confirms Warren Burger to be the new chief justice of the United States, succeeding Earl Warren. Secretariat becomes the first horse since 1948 to win the Triple Crown. Former Boston Red Sox slugger David Ortiz is shot.</description>
-                   <pubDate>Tue, 09 Jun 2020 04:00:46 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/court-orders-immediate-changes-minneapolis-police-department</guid>
-      <link>https://www.foxnews.com/us/court-orders-immediate-changes-minneapolis-police-department</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/MNprotest-cropped-1258am.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/MNprotest-cropped-1258am.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/MNprotest-cropped-1258am.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">9cf373b8-faab-5610-95b4-bede5fd93148</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/minnesota</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
             <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Court orders the implementation of immediate changes in Minneapolis Police Department</title>
-      <description>The Hennepin County Court has approved a proposed court order Monday that requires the Minneapolis Police Department to implement immediate structural changes, to protect local communities following the death of George Floyd.</description>
-                  <dc:creator>David Aaro</dc:creator>
-                         <pubDate>Tue, 09 Jun 2020 03:51:52 GMT</pubDate>
+      <title>Los Angeles police investigating lawyer who allegedly called for cops to be 'picked off'</title>
+      <description>The Los Angeles Police Department says it’s investigating a lawyer after he reportedly posted on Instagram that he would "defend to the death any African American who picked off a cop or two.”</description>
+                  <dc:creator>Greg Norman</dc:creator>
+                         <pubDate>Tue, 09 Jun 2020 18:14:28 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Greg Norman</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/patriots-aclu-racial-justice-director-talk-team</guid>
+      <link>https://www.foxnews.com/sports/patriots-aclu-racial-justice-director-talk-team</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/01/Bill-Belichick.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Bill-Belichick.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Bill-Belichick.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">23d55644-ab64-5fef-a334-bafec8ffd654</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-england-patriots</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Patriots bring in ACLU racial justice director to talk to team: report</title>
+      <description>New England Patriots coach Bill Belichick is not yet putting his focus onto Week 1 of the season.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Tue, 09 Jun 2020 18:08:19 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/science/viral-pictures-show-incredible-scenes-created-solely-by-cardboard</guid>
+      <link>https://www.foxnews.com/science/viral-pictures-show-incredible-scenes-created-solely-by-cardboard</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/sunset-selfies-526579-e1591723695763.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/sunset-selfies-526579-e1591723695763.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/sunset-selfies-526579-e1591723695763.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6d7b559b-ba96-5f53-9e79-1f70684bb911</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/tech/topics/viral</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/technologies/cameras</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/science</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Viral pictures show incredible scenes created solely by cardboard</title>
+      <description>Pictures taken by a photographer from Maine have gone viral after he used cardboard cutouts in front of the sun to create incredible scenes.</description>
+                  <dc:creator>Chris Ciaccia</dc:creator>
+                         <pubDate>Tue, 09 Jun 2020 17:55:19 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Chris Ciaccia</category>
                             </item>
       </channel>
 </rss>
