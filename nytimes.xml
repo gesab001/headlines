@@ -7,159 +7,21 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 27 Jun 2020 09:50:04 +0000</lastBuildDate>
-    <pubDate>Sat, 27 Jun 2020 09:50:04 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2020 23:20:04 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2020 23:20:04 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>A Debate Over Identity and Race Asks, Are African-Americans ‘Black’ or ‘black’?</title>
-      <link>https://www.nytimes.com/2020/06/26/us/black-african-american-style-debate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/black-african-american-style-debate.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/black-african-american-style-debate.html" rel="standout"></atom:link>
-      <description>The push to capitalize black to refer to African-Americans is far more than a typographical change.</description>
-      <dc:creator>John Eligon</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 13:31:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/25/us/25RACERELATED-atlanta/merlin_173657091_4c1255e7-f8be-42c6-8f82-efe12539d740-moth.jpg" width="151"></media:content>
-      <media:credit>Joshua Rashaad McFadden for The New York Times</media:credit>
-      <media:description>The prominence of the Black Lives Matter movement has helped reignite the debate over the capitalization of the word black. Above, protests continued last week following the killing by the police of Rayshard Brooks in Atlanta.</media:description>
-    </item>
-    <item>
-      <title>Many Latinos Couldn’t Stay Home. Now Covid Cases Are Soaring in their Communities.</title>
-      <link>https://www.nytimes.com/2020/06/26/us/corona-virus-latinos.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/corona-virus-latinos.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/corona-virus-latinos.html" rel="standout"></atom:link>
-      <description>Rates of coronavirus infection among Latinos have risen rapidly across the United States.</description>
-      <dc:creator>Shawn Hubler, Thomas Fuller, Anjali Singhvi and Juliette Love</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 00:26:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California, San Francisco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dinuba (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ruiz Food Products</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/27/us/00VIRUS-LATINOS-corozco/merlin_173647548_873e3640-1730-4a38-8d47-ee8409a3aa98-moth.jpg" width="151"></media:content>
-      <media:credit>Shawn Hubler/The New York Times</media:credit>
-      <media:description>&amp;ldquo;We&amp;rsquo;re the ones who are out in the work force,&amp;rdquo; said Cynthia Orozco, a 20-year-old high school tutor and civil engineering major at California State University, Fresno, who contracted the virus along with her mother, Graciela Ramirez, a machine operator at Ruiz Foods in Dinuba, Calif.</media:description>
-    </item>
-    <item>
-      <title>As Virus Surges, Younger People Account for ‘Disturbing’ Number of Cases</title>
-      <link>https://www.nytimes.com/2020/06/25/us/coronavirus-cases-young-people.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/25/us/coronavirus-cases-young-people.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/25/us/coronavirus-cases-young-people.html" rel="standout"></atom:link>
-      <description>People in their 20s, 30s and 40s account for a growing proportion of the cases in many places, raising fears that asymptomatic young people are helping to fuel the virus’s spread.</description>
-      <dc:creator>Julie Bosman and Sarah Mervosh</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 05:40:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/25/us/25VIRUS-YOUTH-fla/merlin_173924568_9f1e3875-2994-44cd-9462-06493ff51739-moth.jpg" width="151"></media:content>
-      <media:credit>Saul Martinez for The New York Times</media:credit>
-      <media:description>Swimmers at the beach on Thursday in Fort Lauderdale, Fla. The median age of Floridians testing positive for the coronavirus has dropped from 65 in March to 35 now, officials said. </media:description>
-    </item>
-    <item>
-      <title> Texas Governor Greg Abbott Pauses Reopening</title>
-      <link>https://www.nytimes.com/2020/06/25/us/texas-coronavirus-cases-reopening-Greg-Abbott.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/25/us/texas-coronavirus-cases-reopening-Greg-Abbott.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/25/us/texas-coronavirus-cases-reopening-Greg-Abbott.html" rel="standout"></atom:link>
-      <description>A growing number of states are pausing plans to reopen, amid rising case counts. But Gov. Greg Abbott of Texas said shutting back down was the “last thing we want to do.”</description>
-      <dc:creator>Manny Fernandez and Sarah Mervosh</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 13:47:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/26VIRUS-TEXAS-p1/25VIRUS-TEXAS-testing-moth.jpg" width="151"></media:content>
-      <media:credit>Callaghan O&#39;Hare for The New York Times</media:credit>
-      <media:description>Asia Anderson, 25, monitors the line at a drive-through coronavirus testing site at United Memorial Medical Center in Houston.</media:description>
-    </item>
-    <item>
-      <title>‘PizzaGate’ Conspiracy Theory Thrives Anew in the TikTok Era</title>
-      <link>https://www.nytimes.com/2020/06/27/technology/pizzagate-justin-bieber-qanon-tiktok.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/27/technology/pizzagate-justin-bieber-qanon-tiktok.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/27/technology/pizzagate-justin-bieber-qanon-tiktok.html" rel="standout"></atom:link>
-      <description>The false theory targeting Democrats, now fueled by QAnon and teenagers on TikTok, is entangling new targets like Justin Bieber.</description>
-      <dc:creator>Cecilia Kang and Sheera Frenkel</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 09:00:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Comet Ping Pong (Washington, DC, Restaurant)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alefantis, James (1974- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bieber, Justin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Podesta, Tony</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/28/business/28pizzagate-print10/00pizzagate1-moth.jpg" width="151"></media:content>
-      <media:credit>Justin T. Gellerson for The New York Times</media:credit>
-      <media:description>Hateful comments have surged on the social media pages of Comet Ping Pong, a pizza parlor in Washington that is at the center of the debunked PizzaGate conspiracy theory.</media:description>
-    </item>
-    <item>
-      <title>On Coronavirus, Americans Still Trust the Experts</title>
-      <link>https://www.nytimes.com/2020/06/27/upshot/coronavirus-americans-trust-experts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/27/upshot/coronavirus-americans-trust-experts.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/27/upshot/coronavirus-americans-trust-experts.html" rel="standout"></atom:link>
-      <description>But that trust may be tested in the months ahead.</description>
-      <dc:creator>Margot Sanger-Katz</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 09:00:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/upshot/00up-trust/00up-trust-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Sarah Silbiger</media:credit>
-      <media:description>Trust in Dr. Anthony Fauci is generally high, but there’s a partisan split, with 51 percent of Republicans trusting him compared with 81 percent of Democrats who do.</media:description>
-    </item>
-    <item>
-      <title>Black Trans Women Seek More Space in the Movement They Helped Start</title>
-      <link>https://www.nytimes.com/2020/06/27/us/politics/black-trans-lives-matter.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/27/us/politics/black-trans-lives-matter.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/27/us/politics/black-trans-lives-matter.html" rel="standout"></atom:link>
-      <description>At no point have black trans people shared fully in the gains of the L.G.B.T.Q. or racial justice movements. This may be changing.</description>
-      <dc:creator>Isabella Grullón Paz and Maggie Astor</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 09:00:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/28/us/politics/28trans-politics-p1/00trans-politics00-moth.jpg" width="151"></media:content>
-      <media:credit>Gioncarlo Valentine for The New York Times</media:credit>
-      <media:description>Nala Toussaint, a trans activist and organizer.</media:description>
-    </item>
-    <item>
-      <title>‘A True Disappointment’: How It Feels When Your First Pride Parade Is Canceled</title>
+      <title>‘A True Disappointment’: When Your First Pride March Is Canceled</title>
       <link>https://www.nytimes.com/2020/06/27/us/pride-parade-canceled-nyc-san-francisco.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/06/27/us/pride-parade-canceled-nyc-san-francisco.html</guid>
       <atom:link href="https://www.nytimes.com/2020/06/27/us/pride-parade-canceled-nyc-san-francisco.html" rel="standout"></atom:link>
       <description>The coronavirus has led to the canceling of the big gatherings that have defined Pride. For many, that means missing out, for now, on an important moment of visibility and acceptance.</description>
       <dc:creator>Pierre-Antoine Louis</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 09:00:22 +0000</pubDate>
+      <pubDate>Sat, 27 Jun 2020 20:16:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
@@ -168,657 +30,675 @@
       <media:description>The Pride March in New York last year celebrated the 50th anniversary of the Stonewall protests.</media:description>
     </item>
     <item>
-      <title>A Reckoning With Race to Ensure Diversity for America’s Face Abroad</title>
-      <link>https://www.nytimes.com/2020/06/27/us/politics/a-reckoning-with-race-to-ensure-diversity-for-americas-face-abroad.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/27/us/politics/a-reckoning-with-race-to-ensure-diversity-for-americas-face-abroad.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/27/us/politics/a-reckoning-with-race-to-ensure-diversity-for-americas-face-abroad.html" rel="standout"></atom:link>
-      <description>The national conversation about discrimination is overdue at the State Department, according to those who have been disparaged in a culture that favors “pale, male and Yale” diplomats.</description>
-      <dc:creator>Lara Jakes</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 09:00:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Foreign Service (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/28/us/politics/28dc-unrest-state-race-print1/00dc-unrest-state1-moth.jpg" width="151"></media:content>
-      <media:credit>John IV Branch for The New York Times</media:credit>
-      <media:description>Tianna Spears said she left the State Department after an embassy medical official told her that she had developed anxiety, depression and post-traumatic stress disorder.</media:description>
-    </item>
-    <item>
-      <title>How Trump and the Black Lives Matter Movement Changed White Voters’ Minds</title>
-      <link>https://www.nytimes.com/2020/06/27/us/politics/trump-biden-protests-polling.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/27/us/politics/trump-biden-protests-polling.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/27/us/politics/trump-biden-protests-polling.html" rel="standout"></atom:link>
-      <description>A majority of American voters support demonstrations on police brutality, and many see the president as ill-equipped on racial justice.</description>
-      <dc:creator>Astead W. Herndon and Dionne Searcey</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 09:00:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Floyd, George (d 2020)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/27/us/politics/27UNREST-POLL1/27UNREST-POLL1-moth.jpg" width="151"></media:content>
-      <media:credit>Diana Zeyneb Alhindawi for The New York Times</media:credit>
-      <media:description>Protesters marched through Columbus Circle in Manhattan on Juneteenth.</media:description>
-    </item>
-    <item>
-      <title>The Black Officer Who Detained George Floyd Had Pledged to Fix the Police</title>
-      <link>https://www.nytimes.com/2020/06/27/us/minneapolis-police-officer-kueng.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/27/us/minneapolis-police-officer-kueng.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/27/us/minneapolis-police-officer-kueng.html" rel="standout"></atom:link>
-      <description>Alex Kueng is one of four former officers accused of crimes in the killing of Mr. Floyd, which happened on his third shift. His decision to join the force had frayed friendships.</description>
-      <dc:creator>Kim Barker</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 09:00:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kueng, J Alexander</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Floyd, George (d 2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Minneapolis, Minn)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/12/us/unrest-kueng-promo/unrest-kueng-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Hennepin County Sheriff&#39;s Office, via Reuters</media:credit>
-    </item>
-    <item>
-      <title>Biden Still Wants to Close Guantánamo Prison</title>
-      <link>https://www.nytimes.com/2020/06/27/us/politics/biden-guantanamo-prison.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/27/us/politics/biden-guantanamo-prison.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/27/us/politics/biden-guantanamo-prison.html" rel="standout"></atom:link>
-      <description>The Obama administration ran into a wall of political opposition when it tried. The former vice president rarely brings up the topic and has yet to draw up a strategy but says he shares the goal.</description>
-      <dc:creator>Carol Rosenberg</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 09:00:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guantanamo Bay Naval Base (Cuba)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/27/us/politics/27dc-gitmo/27dc-gitmo-moth.jpg" width="151"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
-      <media:description>Former Vice President Joseph R. Biden Jr. rarely, if ever, brings up the topic of closing down Guantánamo Bay’s prison.</media:description>
-    </item>
-    <item>
-      <title>Obamacare Faces Unprecedented Test as Economy Sinks</title>
-      <link>https://www.nytimes.com/2020/06/27/health/coronavirus-obamacare-unemployment-health-coverage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/27/health/coronavirus-obamacare-unemployment-health-coverage.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/27/health/coronavirus-obamacare-unemployment-health-coverage.html" rel="standout"></atom:link>
-      <description>The battles over the health law have played out during a decade of continuous economic growth. How it performs as a safety net now may help determine its future.</description>
-      <dc:creator>Abby Goodnough and Reed Abelson</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 07:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Patient Protection and Affordable Care Act (2010)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/22/science/00VIRUS-UNINSURED1/00VIRUS-UNINSURED1-moth.jpg" width="151"></media:content>
-      <media:credit>Jacob Biba for The New York Times</media:credit>
-      <media:description>Morgan Childers, of Cullowhee, N.C., lost her employer-based insurance because of the pandemic, and lives with an autoimmune disorder whose monthly costs are in the thousands without insurance.</media:description>
-    </item>
-    <item>
-      <title>Trump Issues Executive Order Targeting Vandalism Against Monuments</title>
-      <link>https://www.nytimes.com/2020/06/26/us/politics/trump-monuments-executive-order.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/politics/trump-monuments-executive-order.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/politics/trump-monuments-executive-order.html" rel="standout"></atom:link>
-      <description>The order also threatens to withhold funding from local governments that fail to protect their own statues from vandals.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 02:19:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/politics/26dc-trump/merlin_173824434_c1acd490-2a10-4b1a-94cf-2b5fe7d372b7-moth.jpg" width="151"></media:content>
-      <media:credit>Drew Angerer/Getty Images</media:credit>
-      <media:description>Protesters near the White House failed this week to topple a statue of Andrew Jackson in Lafayette Square.</media:description>
-    </item>
-    <item>
-      <title>7 Killed in Crash in El Paso After Border Patrol Tried to Stop Car</title>
-      <link>https://www.nytimes.com/2020/06/26/us/el-paso-border-crash.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/el-paso-border-crash.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/el-paso-border-crash.html" rel="standout"></atom:link>
-      <description>The vehicle, which was carrying 10 people, had been pursued before it crashed into a semitrailer on private property, the authorities said.</description>
-      <dc:creator>Jenny Gross</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 00:44:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Paso (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/multimedia/26xp-chase-pix1/merlin_173923329_ed8beff6-5384-42be-bdbf-2631d4116300-moth.jpg" width="151"></media:content>
-      <media:credit>Briana Sanchez/The El Paso Times, via Associated Press</media:credit>
-      <media:description>Three people were seriously injured in the crash.</media:description>
-    </item>
-    <item>
-      <title>Leaders Re-examine U.S. Reopenings as Coronavirus Cases Hit Another Record</title>
-      <link>https://www.nytimes.com/2020/06/26/us/coronavirus-florida-texas-bars-closing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/coronavirus-florida-texas-bars-closing.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/coronavirus-florida-texas-bars-closing.html" rel="standout"></atom:link>
-      <description>Officials nationwide were rethinking their efforts to slow the virus, which the nation’s top infectious disease expert said were “not working.”</description>
-      <dc:creator>Patricia Mazzei, Sarah Mervosh and Shawn Hubler</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 04:12:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/28/us/28VIRUS-STATE-icehouse/28VIRUS-STATE-icehouse-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Callaghan O&#39;Hare for The New York Times</media:credit>
-      <media:description>Tasia Markantonis, the manager of West Alabama Ice House in Houston, closed a customer’s tab at noon Friday, when Texas bars had to close again because of the coronavirus.</media:description>
-    </item>
-    <item>
-      <title>3 Die in New Mexico After Drinking Hand Sanitizer, Officials Say</title>
-      <link>https://www.nytimes.com/2020/06/26/us/3-dead-drinking-hand-sanitizer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/3-dead-drinking-hand-sanitizer.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/3-dead-drinking-hand-sanitizer.html" rel="standout"></atom:link>
-      <description>A spokesman for the state’s Health Department said the cases were related to alcoholism.</description>
-      <dc:creator>Marie Fazio</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 00:31:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cleansers, Detergents and Soaps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hygiene and Cleanliness</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poisoning and Poisons</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/multimedia/26xp-virus-sanitizer-pix-sub/26xp-virus-sanitizer-pix-sub-moth.jpg" width="151"></media:content>
-      <media:credit>Seth Wenig/Associated Press</media:credit>
-      <media:description>Hand sanitizer is sometimes consumed for its high alcohol content.</media:description>
-    </item>
-    <item>
-      <title>Justice Dept. to Take Aim at Antigovernment Extremists</title>
-      <link>https://www.nytimes.com/2020/06/26/us/politics/justice-department-protests-violence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/politics/justice-department-protests-violence.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/politics/justice-department-protests-violence.html" rel="standout"></atom:link>
-      <description>The attorney general said that extremists on the far right and left who committed acts of violence during protests against police brutality will be treated like organized crime or terrorists.</description>
-      <dc:creator>Katie Benner</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 00:24:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antifa Movement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Attorneys</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carpenito, Craig</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/politics/26dc-justice/merlin_173084916_cc016be4-7e78-49cd-a75a-d42b567c269f-moth.jpg" width="151"></media:content>
-      <media:credit>Shawn Thew/EPA, via Shutterstock</media:credit>
-      <media:description>Attorney General William Barr, center, directed Justice Department officials to root out antigovernment extremism.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Briefing: What Happened Today</title>
-      <link>https://www.nytimes.com/2020/06/26/us/coronavirus-today.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/coronavirus-today.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/coronavirus-today.html" rel="standout"></atom:link>
-      <description>Dr. Anthony Fauci warned that outbreaks in the South and West are threatening to engulf the country.</description>
-      <dc:creator>Lara Takenaga and Jonathan Wolfe</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 23:46:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-    </item>
-    <item>
-      <title>Fact Checking Mike Pence on the Coronavirus Pandemic</title>
-      <link>https://www.nytimes.com/2020/06/26/us/politics/coronavirus-pence-fact-check.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/politics/coronavirus-pence-fact-check.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/politics/coronavirus-pence-fact-check.html" rel="standout"></atom:link>
-      <description>The vice president falsely claimed that increased testing “is generating” more cases, among other exaggerations and inaccurate claims.</description>
-      <dc:creator>Linda Qiu</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 02:03:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Johns Hopkins University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pence, Mike</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/politics/26dc-factcheck/merlin_173956890_a49c6bb4-6837-49bf-84e8-f86c03f39e8c-moth.jpg" width="151"></media:content>
-      <media:credit>Michael A. McCoy for The New York Times</media:credit>
-      <media:description>Vice President Mike Pence went beyond spin in the first coronavirus task force briefing in many weeks.</media:description>
-    </item>
-    <item>
-      <title>New Numbers Showing Coronavirus Spread Intrude on a White House in Denial</title>
-      <link>https://www.nytimes.com/2020/06/26/us/politics/trump-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/politics/trump-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/politics/trump-coronavirus.html" rel="standout"></atom:link>
-      <description>Both President Trump and Vice President Pence seem oblivious to the new chapter in the pandemic.</description>
-      <dc:creator>Michael D. Shear and Maggie Haberman</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 00:33:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Birx, Deborah L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pence, Mike</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tulsa (Okla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/politics/26dc-virus-trump1/26dc-virus-trump1-moth.jpg" width="151"></media:content>
-      <media:credit>Samuel Corum for The New York Times</media:credit>
-      <media:description>President Trump made no mention on Friday, during a business meeting at the White House, of the increase in Covid-19 cases around the country.</media:description>
-    </item>
-    <item>
-      <title>After Functioning for 28 Days, U.S. Election Regulator Will Be Powerless Again</title>
-      <link>https://www.nytimes.com/2020/06/26/us/federal-election-commission.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/federal-election-commission.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/federal-election-commission.html" rel="standout"></atom:link>
-      <description>A member of the Federal Election Commission said Friday that she was resigning, just weeks after a new member had joined the agency and restored its quorum.</description>
-      <dc:creator>Rebecca R. Ruiz</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 23:11:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Election Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hunter, Caroline C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trainor, James E III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weintraub, Ellen L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/politics/26fec/26fec-moth.jpg" width="151"></media:content>
-      <media:credit>Alex Wong/Getty Images</media:credit>
-      <media:description>Caroline C. Hunter’s departure will leave the Federal Election Commission with just three of six members.</media:description>
-    </item>
-    <item>
-      <title>Many Students Will Be in Classrooms Only Part of the Week This Fall</title>
-      <link>https://www.nytimes.com/2020/06/26/us/coronavirus-schools-reopen-fall.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/coronavirus-schools-reopen-fall.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/coronavirus-schools-reopen-fall.html" rel="standout"></atom:link>
-      <description>Some American school districts are beginning to announce hybrid schedules that include a mix of online and in-school learning, presenting a difficult challenge for working parents.</description>
-      <dc:creator>Dana Goldstein and Eliza Shapiro</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 02:50:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Learning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Blasio, Bill</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murphy, Philip D (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ector County (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fairfax County (Va)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marietta (Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seattle (Wash)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/28/us/26virus-schools01/26virus-schools01-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Julio Cortez/Associated Press</media:credit>
-      <media:description>Cherye Graves’s fourth-grade classroom at Eastside Elementary in Clinton, Miss., after students were forced to stay home in March during the coronavirus outbreak.</media:description>
-    </item>
-    <item>
-      <title>Who Gets Lifesaving Care? Tennessee Changes Rules After Federal Complaint</title>
-      <link>https://www.nytimes.com/2020/06/26/us/coronavirus-rationing-tennessee.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/coronavirus-rationing-tennessee.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/coronavirus-rationing-tennessee.html" rel="standout"></atom:link>
-      <description>Disability rights groups said state guidelines on who would, and who wouldn’t, receive coronavirus treatment during a shortage was discriminatory.</description>
-      <dc:creator>Sheri Fink</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 23:21:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ventilators (Medical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Severino, Roger</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/multimedia/26virus-rationing/26virus-rationing-moth.jpg" width="151"></media:content>
-      <media:credit>Mark Humphrey/Associated Press</media:credit>
-      <media:description>A patient was removed in March from a long-term care facility in Gallatin, Tenn., where many fell ill with Covid-19.</media:description>
-    </item>
-    <item>
-      <title>Appeals Court Rejects Trump’s Diversion of Military Funds for Border Wall</title>
-      <link>https://www.nytimes.com/2020/06/26/us/politics/trump-border-wall.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/politics/trump-border-wall.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/politics/trump-border-wall.html" rel="standout"></atom:link>
-      <description>An appeals court ruled that President Trump illegally diverted funding for his border wall without congressional approval, likely sending the issue to the Supreme Court.</description>
-      <dc:creator>Zolan Kanno-Youngs</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 22:05:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/politics/26dc-wall/26dc-wall-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump visiting a section of the border wall on Tuesday in San Luis, Ariz.</media:description>
-    </item>
-    <item>
-      <title>Bunn-O-Matic Shooting: 2 Dead, 1 Critically Wounded, Officials Say</title>
-      <link>https://www.nytimes.com/2020/06/26/us/springfield-bunnomatic-shooting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/springfield-bunnomatic-shooting.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/springfield-bunnomatic-shooting.html" rel="standout"></atom:link>
-      <description>The gunman was later found dead and the authorities were investigating a motive for the attack at the Bunn-O-Matic warehouse in Springfield, Ill.</description>
-      <dc:creator>Christopher Mele</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 00:00:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Springfield (Ill)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bunn-O-Matic Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Michael L (d 2020)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/politics/26xp-springfield/26xp-springfield-moth.jpg" width="151"></media:content>
-      <media:credit>Justin L. Fowler/The State Journal-Register, via Associated Press</media:credit>
-      <media:description>The victims were all workers at the company and those killed were white men, one in his mid-20s and another in his 60s, officials said.</media:description>
-    </item>
-    <item>
-      <title>Thomas Blanton, Who Bombed a Birmingham Church, Dies at 82</title>
-      <link>https://www.nytimes.com/2020/06/26/us/thomas-blanton-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/thomas-blanton-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/thomas-blanton-dead.html" rel="standout"></atom:link>
-      <description>He was the last survivor of three Klansmen who were convicted, years later, in the killing four black girls in 1963, a case that was a turning point in the civil rights struggle.</description>
-      <dc:creator>Neil Genzlinger</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 21:43:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanton, Thomas E Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ku Klux Klan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Birmingham (Ala)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/27/obituaries/27Blanton-obit2/merlin_10071975_b696ed1a-02be-4786-a1e1-90726dd7c8f5-moth.jpg" width="151"></media:content>
-      <media:credit>Associated Press</media:credit>
-      <media:description>Mr. Blanton after he was convicted on four counts of murder in 2001. He was give four consecutive life sentences and died in prison. </media:description>
-    </item>
-    <item>
-      <title>Supreme Court Turns Down Request to Allow All Texans to Vote by Mail</title>
-      <link>https://www.nytimes.com/2020/06/26/us/supreme-court-texas-vote-by-mail.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/supreme-court-texas-vote-by-mail.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/supreme-court-texas-vote-by-mail.html" rel="standout"></atom:link>
-      <description>Democrats in the state had urged the justices to reinstate a federal trial judge’s order based on the 26th Amendment, which bars voting discrimination based on age.</description>
-      <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 21:25:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Registration and Requirements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biery, Fred S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ho, James C (1973- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sotomayor, Sonia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/politics/26dc-scotus-vote/26dc-scotus-vote-moth.jpg" width="151"></media:content>
-      <media:credit>Tamir Kalifa for The New York Times</media:credit>
-      <media:description>An election clerk outside a polling place in Austin, Texas, before a primary election in March.</media:description>
-    </item>
-    <item>
-      <title>‘TikTok Grandma’ Who Helped Tank Trump Rally Now Works for Biden</title>
-      <link>https://www.nytimes.com/2020/06/26/technology/tiktok-grandma-trump-biden.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/technology/tiktok-grandma-trump-biden.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/technology/tiktok-grandma-trump-biden.html" rel="standout"></atom:link>
-      <description>Mary Jo Laupp, who made a viral TikTok video that disrupted a Trump campaign event, plans to create a “political hype house” to support Joe Biden.</description>
-      <dc:creator>Kellen Browning</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 21:10:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Laupp, Mary Jo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Biden Digital Coalition</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/business/26tiktokgrandma1-copy/26tiktokgrandma1-copy-moth.jpg" width="151"></media:content>
-      <media:description>Mary Jo Laupp, whose TikTok video urging people to reserve seats but not show up at a Trump rally went viral.</media:description>
-    </item>
-    <item>
-      <title>House Fails to Override Trump’s Veto Limiting Student Loan Debt Relief</title>
-      <link>https://www.nytimes.com/2020/06/26/us/politics/house-student-loan-debt-relief.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/politics/house-student-loan-debt-relief.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/politics/house-student-loan-debt-relief.html" rel="standout"></atom:link>
-      <description>Stringent new rules by Education Secretary Betsy DeVos are set to take effect on July 1 after the attempt to reverse them was defeated.</description>
-      <dc:creator>Luke Broadwater</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 04:31:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">For-Profit Schools</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <title>‘We Could Be Feeling This for the Next Decade’: Virus Hits College Towns</title>
+      <link>https://www.nytimes.com/2020/06/28/us/coronavirus-college-towns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/28/us/coronavirus-college-towns.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/28/us/coronavirus-college-towns.html" rel="standout"></atom:link>
+      <description>Opening bars and bringing back football teams have led to new outbreaks. Communities that evolved around campuses face potentially existential losses in population, jobs and revenue.</description>
+      <dc:creator>Shawn Hubler</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 20:16:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeVos, Elizabeth (1958- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/politics/26dc-studentloans/26dc-studentloans-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>Education Secretary Betsy DeVos’s changes raised the bar for borrower relief claims, requiring applicants to individually prove that a school knowingly misled them.</media:description>
-    </item>
-    <item>
-      <title>House Approves D.C. Statehood in Historic Vote</title>
-      <link>https://www.nytimes.com/2020/06/26/us/politics/dc-statehood-house-vote.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/politics/dc-statehood-house-vote.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/politics/dc-statehood-house-vote.html" rel="standout"></atom:link>
-      <description>It is the first time a chamber of Congress has approved establishing the nation’s capital as the 51st state. The measure is all but certain to die in the Republican-led Senate.</description>
-      <dc:creator>Emily Cochrane</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 22:34:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Norton, Eleanor Holmes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/politics/26dc-statehood/26dc-statehood-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker for The New York Times</media:credit>
-      <media:description>Speaker Nancy Pelosi during a news conference on Thursday about statehood for the District of Columbia.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football (College)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Davis (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ann Arbor (Mich)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Census</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ohio University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pennsylvania State University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California, Davis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ames (Iowa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amherst (Mass)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ithaca (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">State College (Pa)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/24/us/00virus-collegetowns01/00virus-collegetowns01-moth.jpg" width="151"></media:content>
+      <media:credit>Tommy Ly for The New York Times</media:credit>
+      <media:description>The nearly deserted campus of the University of California, Davis, this month.</media:description>
     </item>
     <item>
-      <title>Iraq Raids Iranian-Backed Militia Accused of Attacking U.S. Forces</title>
-      <link>https://www.nytimes.com/2020/06/26/world/middleeast/iraq-militia-iran-hezbollah.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/world/middleeast/iraq-militia-iran-hezbollah.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/world/middleeast/iraq-militia-iran-hezbollah.html" rel="standout"></atom:link>
-      <description>Iraqi forces detained 14 members of the group, Khataib Hezbollah, to send a message that “no one is above the law.”</description>
-      <dc:creator>Alissa J. Rubin</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 20:05:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Iraqi Army</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kataib Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kadhimi, Mustafa al-</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/world/26iraq/26iraq-moth.jpg" width="151"></media:content>
-      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
-      <media:description>Iraqi soldiers surveying the launch site of a rocket attack in January that killed an American contractor on a military base near Kirkuk. The United States blamed the Khataib Hezbollah militia for the attack.</media:description>
-    </item>
-    <item>
-      <title>Russia Secretly Offered Afghan Militants Bounties to Kill U.S. Troops, Intelligence Says</title>
-      <link>https://www.nytimes.com/2020/06/26/us/politics/russia-afghanistan-bounties.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/politics/russia-afghanistan-bounties.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/politics/russia-afghanistan-bounties.html" rel="standout"></atom:link>
-      <description>The Trump administration has been deliberating for months about what to do about a stunning intelligence assessment.</description>
-      <dc:creator>Charlie Savage, Eric Schmitt and Michael Schwirtz</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 05:44:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GRU (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Security Council</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/politics/26dc-intel1/26dc-intel1-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Jim Huylebroek for The New York Times</media:credit>
-      <media:description>American troops in Afghanistan have been the target of some Taliban operations backed by Russia, intelligence officials found.</media:description>
-    </item>
-    <item>
-      <title>Going Up? Not So Fast: Strict New Rules to Govern Elevator Culture</title>
-      <link>https://www.nytimes.com/2020/06/26/health/coronavirus-elevator-reopen.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/health/coronavirus-elevator-reopen.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/health/coronavirus-elevator-reopen.html" rel="standout"></atom:link>
-      <description>Small, crowded, enclosed spaces are petri dishes for the coronavirus. But in urban office buildings, elevators are a necessity, so companies are wrestling with how to make them safer.</description>
-      <dc:creator>Matt Richtel</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 06:17:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elevators and Escalators</category>
+      <title>Florida’s Covid Cases Up Fivefold in 2 Weeks: ‘The Numbers Are Scary’</title>
+      <link>https://www.nytimes.com/2020/06/28/us/coronavirus-florida-miami.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/28/us/coronavirus-florida-miami.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/28/us/coronavirus-florida-miami.html" rel="standout"></atom:link>
+      <description>A surge in coronavirus cases has prompted officials to prohibit alcohol sales in bars and close Miami beaches for the coming holiday. But will it be enough?</description>
+      <dc:creator>Frances Robles</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 13:56:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/23/science/00VIRUS-ELEVATORS1/00VIRUS-ELEVATORS1-moth.jpg" width="151"></media:content>
-      <media:credit>Tony Luong for The New York Times</media:credit>
-      <media:description>Two employees of Boston Properties demonstrated proper safe distancing in an elevator at the Prudential Center in Boston.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Miami (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Miami-Dade County (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/28/us/28VIRUS-FLORIDA-1/28VIRUS-FLORIDA-1-moth.jpg" width="151"></media:content>
+      <media:credit>Saul Martinez for The New York Times</media:credit>
+      <media:description>Miami on Saturday. On Saturday for the second straight day, Florida has crushed its record for new coronavirus cases.</media:description>
     </item>
     <item>
-      <title>‘Through Art, I Hope That We Can Make One Tulsa’</title>
-      <link>https://www.nytimes.com/2020/06/26/arts/design/tulsa-greenwood-artists.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/arts/design/tulsa-greenwood-artists.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/arts/design/tulsa-greenwood-artists.html" rel="standout"></atom:link>
-      <description>Talking with two organizers of the movement to reclaim the long-ignored history of Black Wall Street and the Greenwood district’s achievements.</description>
-      <dc:creator>Zachary Small</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 18:15:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <title>Mississippi Lawmakers Vote to Retire State Flag Rooted in the Confederacy</title>
+      <link>https://www.nytimes.com/2020/06/28/us/mississippi-flag-confederacy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/28/us/mississippi-flag-confederacy.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/28/us/mississippi-flag-confederacy.html" rel="standout"></atom:link>
+      <description>The flag, which has flown since 1894, is poised to come down, becoming yet another emblem of the Confederacy to be removed across the South.</description>
+      <dc:creator>Rick Rojas</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 00:49:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flags, Emblems and Insignia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lansana, Quraysh Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wortham, Jerica</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tulsa (Okla)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/24/arts/24TULSA-ART-COMBO/24TULSA-ART-COMBO-moth.jpg" width="151"></media:content>
-      <media:credit>Chris Creese for The New York Times</media:credit>
-      <media:description>Quraysh Ali Lansana, left, a poet and educator, and Jerica Wortham, project manager of the Greenwood Art Project, are among those trying to make sure the history of Tulsa, Okla., and Black Wall Street isn’t lost.</media:description>
-    </item>
-    <item>
-      <title>YouTube Personality Jenna Marbles Apologizes for Blackface Video</title>
-      <link>https://www.nytimes.com/2020/06/26/us/jenna-marbles-leaves-youtube.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/jenna-marbles-leaves-youtube.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/jenna-marbles-leaves-youtube.html" rel="standout"></atom:link>
-      <description>Jenna Mourey said she was ending her channel, which has more than 20 million subscribers, because of videos from 2011 of her impersonating Nicki Minaj and rapping lyrics about Asians.</description>
-      <dc:creator>Christine Hauser and Taylor Lorenz</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 16:46:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mourey, Jenna (Jenna Marbles)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Minaj, Nicki</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asian-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/multimedia/26xp-unrest-youtuber/26xp-unrest-youtuber-moth.jpg" width="151"></media:content>
-      <media:credit>Stephanie Diani for The New York Times</media:credit>
-      <media:description>The YouTube personality Jenna Mourey has been making videos for over a decade under the name Jenna Marbles. She apologized for several videos Thursday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reeves, Tate (1974- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Confederate States of America</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/28/us/28unrest-mississippiHFO-1/28unrest-mississippiHFO-1-moth.jpg" width="151"></media:content>
+      <media:credit>Rogelio V. Solis/Associated Press</media:credit>
+      <media:description>A Mississippi state flag at the Capitol in Jackson on Thursday.</media:description>
     </item>
     <item>
-      <title>Overlooked No More: Valerie Solanas, Radical Feminist Who Shot Andy Warhol</title>
-      <link>https://www.nytimes.com/2020/06/26/obituaries/valerie-solanas-overlooked.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/obituaries/valerie-solanas-overlooked.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/obituaries/valerie-solanas-overlooked.html" rel="standout"></atom:link>
-      <description>She made daring arguments in “SCUM Manifesto,” her case for a world without men. But her legacy as a writer and thinker was overshadowed by one violent act.</description>
-      <dc:creator>Bonnie Wertheim</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 03:17:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Solanas, Valerie</category>
+      <title>Madeline McWhinney Dale, Trailblazing Banker, Is Dead at 98</title>
+      <link>https://www.nytimes.com/2020/06/29/business/madeline-mcwhinney-dale-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/business/madeline-mcwhinney-dale-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/business/madeline-mcwhinney-dale-dead.html" rel="standout"></atom:link>
+      <description>She was the first female officer of the Federal Reserve Bank. Later, in another first, she ran a commercial bank largely owned and operated by women.</description>
+      <dc:creator>Steven Kurutz</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 21:54:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warhol, Andy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">SCUM Manifesto (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biographical Information</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/obituaries/29overlooked-solanas-3/00overlooked-solanas-3-moth.jpg" width="151"></media:content>
-      <media:credit>Fred W. McDarrah/Getty Images</media:credit>
-      <media:description>Valerie Solanas in the offices of The Village Voice in 1967, the year she published “SCUM Manifesto,” which was, in part, a call to arms for the coalition she was forming, the Society for Cutting Up Men.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McWhinney Dale, Madeline (1922-2020)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/25/obituaries/25McWhinney1/25McWhinney1-moth.jpg" width="151"></media:content>
+      <media:credit>Arthur Brower/The New York Times</media:credit>
+      <media:description>Madeline McWhinney Dale in an undated photo. In 1960, she became the first female officer of the Federal Reserve Bank.</media:description>
     </item>
     <item>
-      <title>How Cities Are Trying to Avert Gridlock After Coronavirus Lockdowns</title>
-      <link>https://www.nytimes.com/2020/06/26/climate/cities-cars-traffic-congestion.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/climate/cities-cars-traffic-congestion.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/climate/cities-cars-traffic-congestion.html" rel="standout"></atom:link>
-      <description>Officials are trying to prevent a return to urban gridlock and pollution as residents begin to travel again.</description>
-      <dc:creator>Somini Sengupta and Brad Plumer</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 21:16:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Congestion Pricing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subways</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sidewalks</category>
+      <title>Remdesivir, the First Coronavirus Drug, Gets a Price Tag</title>
+      <link>https://www.nytimes.com/2020/06/29/health/coronavirus-remdesivir-gilead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/health/coronavirus-remdesivir-gilead.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/health/coronavirus-remdesivir-gilead.html" rel="standout"></atom:link>
+      <description>Federal health officials and Gilead Sciences have settled on priority distribution to Americans — and nonnegotiable pricing.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 21:47:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Remdesivir (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AmerisourceBergen Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gilead Sciences Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/science/29VIRUS-REMDESIVIR1/29VIRUS-REMDESIVIR1-moth.jpg" width="151"></media:content>
+      <media:credit>Gilead Sciences, via Associated Press</media:credit>
+      <media:description>Rubber stoppers are fitted onto vials of remdesivir at a plant in the United States. Gilead Sciences and the federal government on Monday announced a plan for pricing and distributing the drug.</media:description>
+    </item>
+    <item>
+      <title>Texas Prosecutor Resigns Over Facebook Post About Nazi Germany</title>
+      <link>https://www.nytimes.com/2020/06/29/us/kaylynn-williford-harris-county-prosecutor-resign.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/kaylynn-williford-harris-county-prosecutor-resign.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/kaylynn-williford-harris-county-prosecutor-resign.html" rel="standout"></atom:link>
+      <description>The post, shared last week by Kaylynn Williford, was criticized for appearing to equate protesters against racism and police brutality with Nazis who “tore down statues.”</description>
+      <dc:creator>Jacey Fortin</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 21:04:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Harris County (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">District Attorneys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ogg, Kim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williford, Kaylynn</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/multimedia/29xp-williford/29xp-williford-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Steve Gonzales/Houston Chronicle, via Associated Press</media:credit>
+      <media:description>Kaylynn Williford in court last year. She resigned as a prosecutor with the District Attorney’s Office in Harris County, Texas, over a Facebook post that the office said was “inappropriate.”</media:description>
+    </item>
+    <item>
+      <title>Ruth Buchanan, Philanthropist and Hostess Extraordinaire, Is Dead at 101</title>
+      <link>https://www.nytimes.com/2020/06/29/us/ruth-buchanan-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/ruth-buchanan-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/ruth-buchanan-dead.html" rel="standout"></atom:link>
+      <description>She and her husband, an ambassador who later served as White House chief of protocol, presided over grand gatherings in Washington and Newport, R.I.</description>
+      <dc:creator>Robert D. McFadden</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 20:56:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dow Chemical Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buchanan, Ruth (1918-2020)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/obituaries/29Buchanan1/29Buchanan1-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+      <media:description>The heiress and philanthropist Ruth Buchanan in 1966. She said the woman in the mirror looked “a little like Medusa.” </media:description>
+    </item>
+    <item>
+      <title>Democrats Detail a Climate Agenda Tying Environment to Racial Justice</title>
+      <link>https://www.nytimes.com/2020/06/29/climate/house-democrats-climate-plan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/climate/house-democrats-climate-plan.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/climate/house-democrats-climate-plan.html" rel="standout"></atom:link>
+      <description>The policy road map, expected on Tuesday, could guide the party if it gains control of Congress and the White House in November.</description>
+      <dc:creator>Christopher Flavelle</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 20:23:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/climate/26CLI-TRANSPORTATION1/26CLI-TRANSPORTATION1-moth.jpg" width="151"></media:content>
-      <media:credit>Kham/Reuters</media:credit>
-      <media:description>Rush hour in Hanoi, Vietnam, last month as the country relaxed its nationwide lockdown.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Capture and Sequestration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Dioxide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/climate/29CLI-HOUSE/29CLI-HOUSE-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Greg Nash</media:credit>
+      <media:description>Rep. Kathy Castor, Democrat of Florida, during a House committee meeting last month.</media:description>
     </item>
     <item>
-      <title>Coronavirus Face Shields vs. Face Masks: Which Is Better?</title>
-      <link>https://www.nytimes.com/article/face-shield-mask-california-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/face-shield-mask-california-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/article/face-shield-mask-california-coronavirus.html" rel="standout"></atom:link>
-      <description>There are benefits to wearing face shields, but experts say there are limits to the amount of protection they can offer.</description>
-      <dc:creator>Marie Tae McDermott</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 01:44:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/26californiatoday-01/merlin_173895096_26d3c6d5-274e-4a29-8e31-c96ccd5db692-moth.jpg" width="151"></media:content>
-      <media:credit>Robyn Beck/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Face shields are commonly used by front-line health workers, but more people are looking at face shields as an added layer of protection.</media:description>
+      <title>5 BRs, Pool/Hot Tub, Mediterranean Vu; Too Far to Commute to Jerusalem</title>
+      <link>https://www.nytimes.com/2020/06/29/world/middleeast/israel-ambassador-residence-sale.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/world/middleeast/israel-ambassador-residence-sale.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/world/middleeast/israel-ambassador-residence-sale.html" rel="standout"></atom:link>
+      <description>The United States has put the ambassador to Israel’s Malibu-style seaside estate on the market. It can be yours for only $87 million.</description>
+      <dc:creator>David M. Halbfinger</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 20:26:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abramovich, Roman A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Friedman, David M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shapiro, Daniel B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jerusalem (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
     </item>
     <item>
-      <title>How Progressive Candidates of Color Are Building Winning Coalitions</title>
-      <link>https://www.nytimes.com/2020/06/26/us/politics/charles-booker-kentucky-jamaal-bowman.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/us/politics/charles-booker-kentucky-jamaal-bowman.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/us/politics/charles-booker-kentucky-jamaal-bowman.html" rel="standout"></atom:link>
-      <description>Candidates like Charles Booker and Jamaal Bowman are bringing together liberal white voters and voters of color, a dynamic seen this week in races in Kentucky and New York.</description>
-      <dc:creator>Giovanni Russonello</dc:creator>
-      <pubDate>Sat, 27 Jun 2020 01:20:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Reform</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <title>Abortion Rises as a Pivotal Issue for At-Risk Senate Republicans</title>
+      <link>https://www.nytimes.com/2020/06/29/us/politics/2020-senate-abortion-susan-collins.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/politics/2020-senate-abortion-susan-collins.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/politics/2020-senate-abortion-susan-collins.html" rel="standout"></atom:link>
+      <description>The Supreme Court’s rejection of a restrictive Louisiana abortion law, and Justice Brett M. Kavanaugh’s dissent, may create new challenges for Susan Collins and other Republican senators up for re-election.</description>
+      <dc:creator>Maggie Astor and Matt Stevens</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 23:05:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/us/politics/29abortion-campaign/29abortion-campaign-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker for The New York Times</media:credit>
+      <media:description>Senator Susan Collins, Republican of Maine, outside the Senate Chamber this month. The Supreme Court ruling on abortion has underscored what may be one of her biggest vulnerabilities.</media:description>
+    </item>
+    <item>
+      <title>Twitch Suspends Trump’s Channel for ‘Hateful Conduct’</title>
+      <link>https://www.nytimes.com/2020/06/29/technology/twitch-trump-suspension-hateful-conduct.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/technology/twitch-trump-suspension-hateful-conduct.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/technology/twitch-trump-suspension-hateful-conduct.html" rel="standout"></atom:link>
+      <description>The action appeared to be the first outright suspension of one of the president’s social media accounts.</description>
+      <dc:creator>Kellen Browning</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 22:09:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitch Interactive Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/business/29twitchtrump/merlin_166032078_7b7f0694-2106-4e72-abed-f5f55a39d880-moth.jpg" width="151"></media:content>
+      <media:credit>Elijah Nouvelage/Reuters</media:credit>
+      <media:description>Twitch, the livestreaming platform, said on Monday that it was suspending President Trump’s channel.</media:description>
+    </item>
+    <item>
+      <title>Trump Shares Video of Armed White Couple Confronting Protesters</title>
+      <link>https://www.nytimes.com/2020/06/29/us/politics/trump-white-couple-protesters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/politics/trump-white-couple-protesters.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/politics/trump-white-couple-protesters.html" rel="standout"></atom:link>
+      <description>A day after sharing on Twitter a video with a supporter yelling “white power,” the president retweeted a tense episode in St. Louis.</description>
+      <dc:creator>Annie Karni</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 22:27:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Louis (Mo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Booker, Charles (1984- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bowman, Jamaal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Engel, Eliot L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Mondaire (1987- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leger Fernandez, Teresa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Torres, Ritchie (1988- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/politics/26pollwatch/26pollwatch-moth.jpg" width="151"></media:content>
-      <media:credit>Pat Mcdonogh/Louisville Courier Journal, via Associated Press</media:credit>
-      <media:description>Charles Booker, a Democratic Senate candidate in Kentucky, prepared to vote at the Kentucky Expo Center in Louisville.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Reform</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/us/politics/29dc-trump/29dc-trump-moth.jpg" width="151"></media:content>
+      <media:credit>Samuel Corum for The New York Times</media:credit>
+      <media:description>In the past, President Trump has positioned himself as a strong defender of Second Amendment rights.</media:description>
     </item>
     <item>
-      <title>A Step Toward 51</title>
-      <link>https://www.nytimes.com/2020/06/26/briefing/dc-statehood-coronavirus-bubba-wallace-your-friday-briefing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/06/26/briefing/dc-statehood-coronavirus-bubba-wallace-your-friday-briefing.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/06/26/briefing/dc-statehood-coronavirus-bubba-wallace-your-friday-briefing.html" rel="standout"></atom:link>
+      <title>What to Do This Week</title>
+      <link>https://www.nytimes.com/2020/06/29/at-home/coronavirus-what-to-do-at-home-this-week.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/at-home/coronavirus-what-to-do-at-home-this-week.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/at-home/coronavirus-what-to-do-at-home-this-week.html" rel="standout"></atom:link>
+      <description>Start your summer reading, learn about leaping lemurs, and actually enjoy the fireworks this week.</description>
+      <dc:creator>Hilary Moss and Adriana Balsamo</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 17:23:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Public Library</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Little Fires Everywhere (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Little Fires Everywhere (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Witherspoon, Reese</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Washington, Kerry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lemurs</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/28/multimedia/28AH-CALENDAR-1/28AH-CALENDAR-1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Nadine Redlich</media:credit>
+    </item>
+    <item>
+      <title>How The Times Is Counting Every Coronavirus Case in the Country</title>
+      <link>https://www.nytimes.com/2020/06/29/insider/coronavirus-cases-new-york-times.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/insider/coronavirus-cases-new-york-times.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/insider/coronavirus-cases-new-york-times.html" rel="standout"></atom:link>
+      <description>The effort began with one reporter’s spreadsheet, and expanded with contributions from dozens of people with varying skill sets across the newsroom.</description>
+      <dc:creator>Sarah Bures</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 17:04:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/pageoneplus/29insider-tracking-promo/29insider-tracking-promo-moth-v3.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+      <media:description>A map showed where the number of coronavirus cases was slowing, steady or growing on June 25.</media:description>
+    </item>
+    <item>
+      <title>Reddit, Acting Against Hate Speech, Bans ‘The_Donald’ Subreddit</title>
+      <link>https://www.nytimes.com/2020/06/29/technology/reddit-hate-speech.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/technology/reddit-hate-speech.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/technology/reddit-hate-speech.html" rel="standout"></atom:link>
+      <description>The influential pro-Trump community broke the rules on harassment and targeting, said Reddit, which also banned other groups.</description>
+      <dc:creator>Mike Isaac</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 20:52:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reddit Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huffman, Steve (1983- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ohanian, Alexis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/business/29reddit/29reddit-moth.jpg" width="151"></media:content>
+      <media:credit>Pete Marovich for The New York Times</media:credit>
+      <media:description>“The_Donald” subreddit, now banned by Reddit, is home to more than 790,000 users who post memes, viral videos and supportive messages about President Trump.</media:description>
+    </item>
+    <item>
+      <title>Lawmakers Press for Answers on Russian Bounty Offers to Taliban to Kill U.S. Troops</title>
+      <link>https://www.nytimes.com/2020/06/29/us/politics/trump-russia-plot-afghanistan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/politics/trump-russia-plot-afghanistan.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/politics/trump-russia-plot-afghanistan.html" rel="standout"></atom:link>
+      <description>Democrats asked for Trump administration intelligence officials to brief lawmakers on what they knew about a suspected Russian plot.</description>
+      <dc:creator>Nicholas Fandos and Eric Schmitt</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 17:14:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Intelligence Estimates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Security Council</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the Director of National Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/us/politics/29dc-intel/29dc-intel-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>Speaker Nancy Pelosi requested that all members of the House be briefed on intelligence about a suspected Russian plot against U.S. troops.</media:description>
+    </item>
+    <item>
+      <title>The Supreme Court Stopped Anti-Abortion Momentum. For Now.</title>
+      <link>https://www.nytimes.com/2020/06/29/us/june-medical-supreme-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/june-medical-supreme-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/june-medical-supreme-court.html" rel="standout"></atom:link>
+      <description>The movement has a long pipeline of new cases that, if taken up by the Supreme Court, could present a more direct challenge to Roe v. Wade.</description>
+      <dc:creator>Sabrina Tavernise and Elizabeth Dias</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 22:28:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roe v Wade (Supreme Court Decision)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/us/29ABORTION-ANALYSIS/29ABORTION-ANALYSIS-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Lo Scalzo/EPA, via Shutterstock</media:credit>
+      <media:description>An anti-abortion protester reacted outside the Supreme Court after it struck down a contentious Louisiana state abortion law in Washington on Monday.</media:description>
+    </item>
+    <item>
+      <title>As Coronavirus Cases Surge, Families Struggle to Draw Boundaries</title>
+      <link>https://www.nytimes.com/2020/06/29/parenting/family-socially-distancing-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/parenting/family-socially-distancing-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/parenting/family-socially-distancing-coronavirus.html" rel="standout"></atom:link>
+      <description>States are rushing to reopen and parents are left to decide for themselves what is safe.</description>
+      <dc:creator>Christina Caron</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 16:38:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/multimedia/29par-virus-social-distancing1/29par-virus-social-distancing1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Charlotte Kesl for The New York Times</media:credit>
+      <media:description>Sophia Gholz, 39, of Jacksonville, Fla., with her son, Hunter Olson, 5. Gholz said her family has tried to avoid socializing outside with others during the pandemic.</media:description>
+    </item>
+    <item>
+      <title>Golden State Killer Cases: Joseph DeAngelo Pleads Guilty</title>
+      <link>https://www.nytimes.com/2020/06/29/us/golden-state-killer-joseph-deangelo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/golden-state-killer-joseph-deangelo.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/golden-state-killer-joseph-deangelo.html" rel="standout"></atom:link>
+      <description>The string of rapes and murders stretched back to the 1970s. On Monday, in a converted ballroom in Sacramento,  the former police officer admitted his guilt.</description>
+      <dc:creator>Heather Murphy and Tim Arango</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 22:37:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genealogy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forensic Science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sacramento (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeAngelo, Joseph James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/multimedia/29xp-goldenstate-update/29xp-goldenstate-update-moth.jpg" width="151"></media:content>
+      <media:credit>Fred Greaves/Reuters</media:credit>
+      <media:description>Joseph James DeAngelo, a former police officer, pleaded guilty on Monday to 13 murders attributed to the Golden State Killer.</media:description>
+    </item>
+    <item>
+      <title>Another Fatal Shooting in Seattle’s ‘CHOP’ Protest Zone</title>
+      <link>https://www.nytimes.com/2020/06/29/us/seattle-protests-CHOP-CHAZ-autonomous-zone.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/seattle-protests-CHOP-CHAZ-autonomous-zone.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/seattle-protests-CHOP-CHAZ-autonomous-zone.html" rel="standout"></atom:link>
+      <description>City officials have vowed to dismantle the free-protest area set up during anti-police demonstrations and retake the Capitol Hill police station. But worries of confrontation have delayed a resolution.</description>
+      <dc:creator>Kirk Johnson</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 21:10:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durkan, Jenny A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seattle (Wash)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/us/29unrest-seattle/29unrest-seattle-moth.jpg" width="151"></media:content>
+      <media:credit>Stephen Brashear/EPA, via Shutterstock</media:credit>
+      <media:description>The scene of a fatal shooting in the Capitol Hill Occupied Protest zone of Seattle on Monday.</media:description>
+    </item>
+    <item>
+      <title>Even the South Pole Is Warming, and Quickly, Scientists Say</title>
+      <link>https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/climate/south-pole-warming-climate-change.html" rel="standout"></atom:link>
+      <description>Surface air temperatures at the bottom of the world have risen three times faster than the global average since the 1990s.</description>
+      <dc:creator>Henry Fountain</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 15:16:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antarctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Pole</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Victoria University of Wellington</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/climate/29CLI-SOUTHPOLE2/29CLI-SOUTHPOLE2-moth.jpg" width="151"></media:content>
+      <media:credit>Vicki Beaver/Alamy</media:credit>
+      <media:description>The American buildings of the Amundsen-Scott South Pole Station.</media:description>
+    </item>
+    <item>
+      <title>In Court, Derek Chauvin’s Lawyers Say Officials Have Biased the Case</title>
+      <link>https://www.nytimes.com/2020/06/29/us/derek-chauvin-court-hearing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/derek-chauvin-court-hearing.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/derek-chauvin-court-hearing.html" rel="standout"></atom:link>
+      <description>The Minneapolis police chief recently described George Floyd’s death as murder. Lawyers for the four officers charged in the case say that may have biased potential jurors.</description>
+      <dc:creator>Tim Arango</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 21:02:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chauvin, Derek (1976- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Floyd, George (d 2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kueng, J Alexander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lane, Thomas (Minneapolis, Minn, Police Officer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thao, Tou</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/us/29UNREST-MINNEAPOLIS/29UNREST-MINNEAPOLIS-moth.jpg" width="151"></media:content>
+      <media:credit>Hennepin County Jail, via Getty Images</media:credit>
+      <media:description>From left, the former officers Derek Chauvin, Tou Thao, J. Alexander Kueng and Thomas Lane, who are charged in the killing of George Floyd in Minneapolis.</media:description>
+    </item>
+    <item>
+      <title>Supreme Court Lifts Limits on Trump’s Power to Fire Consumer Watchdog</title>
+      <link>https://www.nytimes.com/2020/06/29/us/politics/cfpb-supreme-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/politics/cfpb-supreme-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/politics/cfpb-supreme-court.html" rel="standout"></atom:link>
+      <description>The case concerning the Consumer Financial Protection Bureau was part of a politically charged battle over presidential authority.</description>
+      <dc:creator>Adam Liptak and Alan Rappeport</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 21:16:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Consumer Financial Protection Bureau</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dodd-Frank Wall Street Reform and Consumer Protection Act (2010)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mulvaney, Mick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kraninger, Kathy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/us/politics/00dc-scotus-cfpb/merlin_174038904_caa62fdb-d977-4c9a-97fa-fd88dcd787ad-moth.jpg" width="151"></media:content>
+      <media:credit>Patrick Semansky/Associated Press</media:credit>
+      <media:description>In the case the Supreme Court agreed to hear, both sides agreed that the bureau’s structure violated the Constitution.</media:description>
+    </item>
+    <item>
+      <title>Two Friends in Texas Were Tested for Coronavirus. One Bill Was $199. The Other? $6,408.</title>
+      <link>https://www.nytimes.com/2020/06/29/upshot/coronavirus-tests-unpredictable-prices.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/upshot/coronavirus-tests-unpredictable-prices.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/upshot/coronavirus-tests-unpredictable-prices.html" rel="standout"></atom:link>
+      <description>It’s an example of the unpredictable way health prices can vary for patients who receive identical care.</description>
+      <dc:creator>Sarah Kliff</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 15:49:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austin (Tex)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/upshot/29up-virus-testprices/29up-virus-testprices-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Inhea Kang for The New York Times</media:credit>
+      <media:description>As a precaution before a camping trip, Jimmy Harvey and Pam LeBlanc were tested for coronavirus at the same place in Austin. Their financial experiences, though, were very different.</media:description>
+    </item>
+    <item>
+      <title>Louisiana Abortion Law Struck Down by Supreme Court</title>
+      <link>https://www.nytimes.com/2020/06/29/us/supreme-court-abortion-louisiana.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/supreme-court-abortion-louisiana.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/supreme-court-abortion-louisiana.html" rel="standout"></atom:link>
+      <description>The case, over a state law requiring doctors performing abortions to have admitting privileges at nearby hospitals, is the first abortion ruling since two Trump appointees joined the court.</description>
+      <dc:creator>Adam Liptak</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 23:16:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/us/politics/29dc-scotus-abort-sub/merlin_174039858_2ff70bfc-a1d3-43df-bf80-a1c356e283b4-moth.jpg" width="151"></media:content>
+      <media:credit>Patrick Semansky/Associated Press</media:credit>
+      <media:description>Anti-abortion demonstrators in front of the Supreme Court on Monday in Washington.</media:description>
+    </item>
+    <item>
+      <title>Federal Executions Can Restart After Supreme Court Declines a Case</title>
+      <link>https://www.nytimes.com/2020/06/29/us/federal-executions-supreme-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/federal-executions-supreme-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/federal-executions-supreme-court.html" rel="standout"></atom:link>
+      <description>The move clears the way for the executions of four men in the coming months after a 17-year gap during which no inmate on death row for federal crimes was put to death.</description>
+      <dc:creator>Adam Liptak</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 20:49:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, Daniel Lewis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/us/politics/29dc-scotus-death/29dc-scotus-death-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago/Reuters</media:credit>
+      <media:description>Two Supreme Court Justices said they would have heard the case.</media:description>
+    </item>
+    <item>
+      <title>How the Pandemic Is Making It Tougher to Study Whales</title>
+      <link>https://www.nytimes.com/2020/06/29/us/coronavirus-sf-whales.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/coronavirus-sf-whales.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/coronavirus-sf-whales.html" rel="standout"></atom:link>
+      <description>Monday: Whales are dying at alarming rates, but the pandemic is keeping researchers away. Also: Gov. Gavin Newsom closes bars in some counties.</description>
+      <dc:creator>Michaela Vatcheva</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 16:38:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/us/29barscatoday/merlin_173940315_fd6b76db-25e7-47b2-9758-aefe9c11dfb2-moth.jpg" width="151"></media:content>
+      <media:credit>Bryan Denton for The New York Times</media:credit>
+      <media:description>Palm trees were reflected in the window of a restaurant in Santa Monica that has remained closed, with its tables and chairs stacked.</media:description>
+    </item>
+    <item>
+      <title>Pelosi on Trump and Russia: ‘This Is as Bad as it Gets’</title>
+      <link>https://www.nytimes.com/2020/06/29/us/politics/trump-pelosi-russia-racist-tweet.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/politics/trump-pelosi-russia-racist-tweet.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/politics/trump-pelosi-russia-racist-tweet.html" rel="standout"></atom:link>
+      <description>Russian meddling (in Afghanistan) and a racist retweet. This is your morning tip sheet.</description>
+      <dc:creator>Giovanni Russonello</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 11:03:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flynn, Michael T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>American Exceptionalism on the Virus</title>
+      <link>https://www.nytimes.com/2020/06/29/briefing/coronavirus-mississippi-new-england-patriots-your-monday-briefing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/briefing/coronavirus-mississippi-new-england-patriots-your-monday-briefing.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/briefing/coronavirus-mississippi-new-england-patriots-your-monday-briefing.html" rel="standout"></atom:link>
       <description>And what else you need to know today.</description>
       <dc:creator>David Leonhardt</dc:creator>
-      <pubDate>Fri, 26 Jun 2020 10:32:17 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/26ambriefing-promo/26ambriefing-dc-moth-v2.jpg" width="151"></media:content>
-      <media:credit>J. David Ake/Associated Press</media:credit>
-      <media:description>Washington at daybreak.</media:description>
+      <pubDate>Mon, 29 Jun 2020 10:35:45 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/world/29ambriefing-promo/29ambriefing-testing-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Wilfredo Lee/Associated Press</media:credit>
+      <media:description>Lines of cars wait at a coronavirus testing site in Miami Gardens, Fla.</media:description>
+    </item>
+    <item>
+      <title>Stock Market Live News and Updates</title>
+      <link>https://www.nytimes.com/2020/06/29/business/stock-market-today-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/business/stock-market-today-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/business/stock-market-today-coronavirus.html" rel="standout"></atom:link>
+      <description>The latest on stock market and business news during the coronavirus outbreak.</description>
+      <pubDate>Mon, 29 Jun 2020 22:53:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/10/business/markets-briefing-promo-image/markets-briefing-promo-image-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Trump’s Self-Inflicted Wound: Losing Swing Voters As He Plays to His Base</title>
+      <link>https://www.nytimes.com/2020/06/29/us/politics/trump-swing-voters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/politics/trump-swing-voters.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/politics/trump-swing-voters.html" rel="standout"></atom:link>
+      <description>The president’s support among bedrock Republicans is almost certainly not enough to win him a second term in the White House, as even some G.O.P. leaders concede.</description>
+      <dc:creator>Adam Nagourney</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 09:00:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/us/politics/29trumpbase/29trumpbase-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Supporters cheered as President Trump spoke at a rally this month in Tulsa, Okla.</media:description>
+    </item>
+    <item>
+      <title>Trump Is Running on the Courts Again. Should Biden Do the Same?</title>
+      <link>https://www.nytimes.com/2020/06/29/us/politics/supreme-court-trump-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/29/us/politics/supreme-court-trump-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/29/us/politics/supreme-court-trump-biden.html" rel="standout"></atom:link>
+      <description>President Trump’s promises to evangelicals on judges were a key part of shoring up support in 2016. Some Biden backers want to see him run on the courts this time, too.</description>
+      <dc:creator>Matt Flegenheimer</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 16:15:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/26/us/politics/00judges1/00judges1-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker/The New York Times</media:credit>
+      <media:description>President Trump won over wary conservative voters in 2016 by releasing a list of prospective Supreme Court justices. Progressives have suggested former Vice President Joseph R. Biden Jr. should do the same this year.</media:description>
+    </item>
+    <item>
+      <title>Bagged Salads Recalled After Hundreds Are Sickened in the Midwest</title>
+      <link>https://www.nytimes.com/2020/06/28/us/salad-recall-cyclospora-cdc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/28/us/salad-recall-cyclospora-cdc.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/28/us/salad-recall-cyclospora-cdc.html" rel="standout"></atom:link>
+      <description>The C.D.C. urged consumers in eight states to avoid four different salad kits produced by Fresh Express.</description>
+      <dc:creator>Aimee Ortiz</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 03:25:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Salads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hy-Vee Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Illinois</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iowa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Dakota</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/28/multimedia/28xp-lettuce-pix-sub/28xp-lettuce-pix-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Bengiveno/The New York Times</media:credit>
+      <media:description>More than 200 people reported getting sick after eating bagged salads, which were produced at a plant outside Chicago.</media:description>
+    </item>
+    <item>
+      <title>‘Feeling Like Death’: Inside a Houston Hospital Bracing for a Virus Peak</title>
+      <link>https://www.nytimes.com/2020/06/28/us/coronavirus-hospital-houston.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/28/us/coronavirus-hospital-houston.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/28/us/coronavirus-hospital-houston.html" rel="standout"></atom:link>
+      <description>As young patients fill new virus wards, Houston Methodist is calling nurses to work extra shifts and ramping up its testing efforts.</description>
+      <dc:creator>Sheri Fink</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 04:57:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harris Health System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Methodist Hospital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Harris County (Tex)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/29/world/29-VIRUS-HOUSTONHOSPITAL-01-PRINT/merlin_174009393_507e1263-afe9-4009-92e8-644119fe9b63-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Melissa Estrada, 37, receiving oxygen in a hospital room at Houston Methodist Hospital in Houston on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Mask Exemption Cards From the ‘Freedom to Breathe Agency’? They’re Fake</title>
+      <link>https://www.nytimes.com/2020/06/28/us/fake-face-mask-exemption-card-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/06/28/us/fake-face-mask-exemption-card-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/06/28/us/fake-face-mask-exemption-card-coronavirus.html" rel="standout"></atom:link>
+      <description>The group, which is selling the cards online, is not a real government organization, federal officials said.</description>
+      <dc:creator>Christina Morales</dc:creator>
+      <pubDate>Mon, 29 Jun 2020 00:25:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Americans With Disabilities Act</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Freedom to Breathe Agency</category>
     </item>
   </channel>
 </rss>
