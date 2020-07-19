@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 19 Jul 2020 05:57:05 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2020 05:57:05 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2020 19:00:04 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2020 19:00:04 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,12 +21,16 @@
       <atom:link href="https://www.nytimes.com/2020/07/18/us/portland-protests.html" rel="standout"></atom:link>
       <description>Rather than tamping down persistent protests in Portland, Ore., a militarized presence from federal officers seems to have re-energized them.</description>
       <dc:creator>Sergio Olmos, Mike Baker and Zolan Kanno-Youngs</dc:creator>
-      <pubDate>Sat, 18 Jul 2020 23:11:28 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2020 16:46:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portland (Ore)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wolf, Chad F</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Kate (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wheeler, Edward Tevis (1962- )</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/18/us/18unrest-portland-1/merlin_174697392_435eafd8-b9c5-4edf-a542-9107c1d8e866-moth.jpg" width="151"></media:content>
       <media:credit>Mason Trinca/Getty Images</media:credit>
       <media:description>Protesters at the Multnomah County Justice Center on Friday night.</media:description>
@@ -43,6 +47,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights Movement (1954-68)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/19/us/19lewis-activists-print1/merlin_174704760_5940e9c3-a784-4415-8251-d6b542e10807-moth.jpg" width="151"></media:content>
       <media:credit>Lynsey Weatherspoon for The New York Times</media:credit>
       <media:description>Mourners visit a mural of Representative John Lewis in downtown Atlanta.</media:description>
@@ -82,13 +89,140 @@
       <media:description>The Minneapolis Police Department’s Third Precinct station remained blocked off and empty on Friday. It was set on fire by protesters after George Floyd was killed in police custody.</media:description>
     </item>
     <item>
+      <title>As Trump Ignores Virus Crisis, Republicans Start to Contradict Him</title>
+      <link>https://www.nytimes.com/2020/07/19/us/politics/republicans-contradict-trump-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/19/us/politics/republicans-contradict-trump-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/19/us/politics/republicans-contradict-trump-coronavirus.html" rel="standout"></atom:link>
+      <description>President Trump continues to press for a quick return to life as usual, but Republicans who fear a rampaging disease and angry voters are increasingly going their own way.</description>
+      <dc:creator>Alexander Burns, Jonathan Martin and Maggie Haberman</dc:creator>
+      <pubDate>Sun, 19 Jul 2020 17:48:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/17/us/politics/00trump-virus1/00trump-virus1-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump did not wear a mask during a visit to Atlanta this week.</media:description>
+    </item>
+    <item>
+      <title>Dorothy Parker’s Ashes Could Be Moved. Again.</title>
+      <link>https://www.nytimes.com/2020/07/19/us/dorothy-parker-ashes-baltimore.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/19/us/dorothy-parker-ashes-baltimore.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/19/us/dorothy-parker-ashes-baltimore.html" rel="standout"></atom:link>
+      <description>The writer’s ashes may be disinterred when the N.A.A.C.P. moves its headquarters to Washington from Baltimore. But where should they go?</description>
+      <dc:creator>Jenny Gross</dc:creator>
+      <pubDate>Sun, 19 Jul 2020 17:39:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Assn for the Advancement of Colored People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parker, Dorothy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltimore (Md)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights Movement (1954-68)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wills and Estates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Algonquin Hotel (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Relocation of Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cremation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">King, Martin Luther Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/17/multimedia/17xp-parker-pix2/17xp-parker-pix2-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Dorothy Parker at work in 1941.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus Live Updates: Trump Calls Fauci ‘Alarmist&#39;</title>
+      <link>https://www.nytimes.com/2020/07/19/world/coronavirus-live-updates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/19/world/coronavirus-live-updates.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/19/world/coronavirus-live-updates.html" rel="standout"></atom:link>
+      <description>President Trump calls Dr. Anthony S. Fauci “a little bit of an alarmist.” The White House seeks to cut billions from Senate Republicans’ next relief bill. During lockdowns around the world, premature births have fallen.</description>
+      <pubDate>Sun, 19 Jul 2020 18:55:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>How Joe Biden&#39;s Strategy Could Help Him Win Wisconsin</title>
+      <link>https://www.nytimes.com/2020/07/19/us/politics/joe-biden-wisconsin-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/19/us/politics/joe-biden-wisconsin-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/19/us/politics/joe-biden-wisconsin-election.html" rel="standout"></atom:link>
+      <description>Mr. Biden is running a risk-averse campaign in states like Wisconsin, where a broad coalition of supporters is emerging. Even Republicans are noticing.</description>
+      <dc:creator>Astead W. Herndon</dc:creator>
+      <pubDate>Sun, 19 Jul 2020 09:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/17/us/politics/00wisconsin1/00wisconsin1-moth.jpg" width="151"></media:content>
+      <media:credit>Lauren Justice for The New York Times</media:credit>
+      <media:description>People cheered on the Independence Day parade in Friendship, Wis., this month. The village is located in one of the 22 Wisconsin counties that voted for President Trump after backing President Obama in 2012.</media:description>
+    </item>
+    <item>
+      <title>How Buying Beans Became a Political Statement</title>
+      <link>https://www.nytimes.com/2020/07/19/us/goya-trump-hispanic-vote.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/19/us/goya-trump-hispanic-vote.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/19/us/goya-trump-hispanic-vote.html" rel="standout"></atom:link>
+      <description>The boycott and counter-boycott of Goya comes as the major political parties seek to energize Hispanic support ahead of the 2020 election.</description>
+      <dc:creator>Farah Stockman, Kate Kelly and Jennifer Medina</dc:creator>
+      <pubDate>Sun, 19 Jul 2020 16:55:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Goya Foods Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Unanue, Robert I</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/19/us/19goya-print1-sub/18goya05-moth.jpg" width="151"></media:content>
+      <media:credit>Sergio Flores for The New York Times</media:credit>
+      <media:description>A Goya distribution center near Brookshire, Texas. A once-beloved brand became anathema in many Latino homes across the United States.</media:description>
+    </item>
+    <item>
+      <title>During Coronavirus Lockdowns, Some Doctors Wondered: Where Are the Preemies?</title>
+      <link>https://www.nytimes.com/2020/07/19/health/coronavirus-premature-birth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/19/health/coronavirus-premature-birth.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/19/health/coronavirus-premature-birth.html" rel="standout"></atom:link>
+      <description>Hospitals in several countries saw dips in premature births, which could be a starting point for future research.</description>
+      <dc:creator>Elizabeth Preston</dc:creator>
+      <pubDate>Sun, 19 Jul 2020 18:12:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Premature Babies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/21/science/17VIRUS-PREEMIES/17VIRUS-PREEMIES-moth.jpg" width="151"></media:content>
+      <media:credit>Hannah Mckay/Reuters</media:credit>
+      <media:description>A premature newborn at Burnley General Teaching Hospital in east Lancashire, England, in May. Doctors have noted a drop in preterm births during the lockdowns.</media:description>
+    </item>
+    <item>
+      <title>‘Demagogue’ Remembers a Vintage American Bully</title>
+      <link>https://www.nytimes.com/2020/07/19/books/demagogue-joseph-mccarthy-larry-tye-interview.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/19/books/demagogue-joseph-mccarthy-larry-tye-interview.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/19/books/demagogue-joseph-mccarthy-larry-tye-interview.html" rel="standout"></atom:link>
+      <description>Larry Tye talks about his new biography of Joseph McCarthy, the senator whose name is synonymous with reckless accusation and fear-mongering.</description>
+      <dc:creator>John Williams</dc:creator>
+      <pubDate>Sun, 19 Jul 2020 09:00:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tye, Larry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Joseph R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Demagogue: The Life and Long Shadow of Senator Joe McCarthy (Book)</category>
+    </item>
+    <item>
       <title>Roger Stone Uses Racial Slur on Radio Show</title>
       <link>https://www.nytimes.com/2020/07/19/us/politics/roger-stone-mo-kelly-slur.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/07/19/us/politics/roger-stone-mo-kelly-slur.html</guid>
       <atom:link href="https://www.nytimes.com/2020/07/19/us/politics/roger-stone-mo-kelly-slur.html" rel="standout"></atom:link>
       <description>Mr. Stone, while being questioned about the commutation of his sentence by President Trump, used a racial slur in referring to his interviewer, who is Black.</description>
       <dc:creator>Aimee Ortiz and Marie Fazio</dc:creator>
-      <pubDate>Sun, 19 Jul 2020 05:37:19 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2020 16:17:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stone, Roger J Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
@@ -126,7 +260,7 @@
       <atom:link href="https://www.nytimes.com/2020/07/18/us/coronavirus-john-lewis-lie-in-state-capitol.html" rel="standout"></atom:link>
       <description>More than 40 people have lain in state in the Capitol after their deaths. Some in Congress want the civil rights icon and 17-term congressman to receive the honor, even as the building remains closed to the public.</description>
       <dc:creator>Luke Broadwater</dc:creator>
-      <pubDate>Sun, 19 Jul 2020 01:39:40 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2020 17:19:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewis, John R</category>
@@ -142,7 +276,7 @@
       <atom:link href="https://www.nytimes.com/2020/07/18/us/politics/freedom-riders-john-lewis-work.html" rel="standout"></atom:link>
       <description>Representative John Lewis was among the 13 original Freedom Riders, who encountered violence and resistance as they rode buses across the South, challenging the nation’s segregation laws.</description>
       <dc:creator>Derrick Bryson Taylor</dc:creator>
-      <pubDate>Sat, 18 Jul 2020 22:51:44 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2020 16:08:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewis, John R</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights Movement (1954-68)</category>
@@ -234,180 +368,16 @@
       <atom:link href="https://www.nytimes.com/2020/07/18/world/americas/coronavirus-nicaragua-sandinistas.html" rel="standout"></atom:link>
       <description>The haphazard, politicized response to the pandemic by the country’s leaders has put the government’s own officials and supporters at particular risk.</description>
       <dc:creator>Frances Robles</dc:creator>
-      <pubDate>Sat, 18 Jul 2020 23:04:06 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2020 14:16:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ortega, Daniel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murillo, Rosario</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nicaragua</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sandinista National Liberation Front</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/19/world/18Virus-Nicaragua-1/merlin_174686124_7de850d7-4429-4e00-bf47-1248c6ca626a-moth.jpg" width="151"></media:content>
       <media:credit>Maynor Valenzuela/Agence France-Presse &amp;mdash; Getty Images</media:credit>
       <media:description> For the first time in its 41-year history, the Sandinista Revolution anniversary event will be held in the form of a virtual concert, in an implicit acknowledgment of the pandemic.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Live News and Updates</title>
-      <link>https://www.nytimes.com/2020/07/18/world/coronavirus-news.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/07/18/world/coronavirus-news.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/07/18/world/coronavirus-news.html" rel="standout"></atom:link>
-      <description>The resistance to a funding proposal drafted by Senate Republicans has angered several members of the president’s party on Capitol Hill. The F.D.A. has issued emergency approval for pooled testing, a method that allows for much faster tracking of new infections.</description>
-      <pubDate>Sun, 19 Jul 2020 04:40:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-moth.jpg" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Someone Tore Down a Union Army Statue in Saratoga Springs. Why?</title>
-      <link>https://www.nytimes.com/2020/07/18/us/union-statue-saratoga-springs-ny.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/07/18/us/union-statue-saratoga-springs-ny.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/07/18/us/union-statue-saratoga-springs-ny.html" rel="standout"></atom:link>
-      <description>The monument in a New York park was dedicated to men who volunteered to fight for the Union during the Civil War. It is unclear who toppled it, and for what reason.</description>
-      <dc:creator>Jacey Fortin and Bryan Pietsch</dc:creator>
-      <pubDate>Sat, 18 Jul 2020 11:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil War (US) (1861-65)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saratoga Springs (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
-    </item>
-    <item>
-      <title>California’s ‘Bear Whisperer’ Is Out of a Job</title>
-      <link>https://www.nytimes.com/2020/07/18/science/bear-whisperer-steve-searles.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/07/18/science/bear-whisperer-steve-searles.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/07/18/science/bear-whisperer-steve-searles.html" rel="standout"></atom:link>
-      <description>Steve Searles kept the bears in check in Mammoth Lakes, Calif., but quit his post after the coronavirus epidemic led to cuts in the town’s budget.</description>
-      <dc:creator>Jason Nark and Akasha Rabut</dc:creator>
-      <pubDate>Sat, 18 Jul 2020 09:00:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bears</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mammoth Lakes (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Searles, Steve (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/18/science/18SCI-BEARWHISPERER-promo/18SCI-BEARWHISPERER-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Akasha Rabut for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Mistrust of a Coronavirus Vaccine Could Imperil Widespread Immunity</title>
-      <link>https://www.nytimes.com/2020/07/18/health/coronavirus-anti-vaccine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/07/18/health/coronavirus-anti-vaccine.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/07/18/health/coronavirus-anti-vaccine.html" rel="standout"></atom:link>
-      <description>Billions are being poured into developing a shot, but the rapid timetable and President Trump’s cheerleading are creating a whole new group of vaccine-hesitant patients.</description>
-      <dc:creator>Jan Hoffman</dc:creator>
-      <pubDate>Sat, 18 Jul 2020 14:39:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="">Operation Warp Speed</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/19/science/00VIRUS-VAX-DOUBTS1/00VIRUS-VAX-DOUBTS1-moth.jpg" width="151"></media:content>
-      <media:credit>Rich Pedroncelli/Associated Press</media:credit>
-      <media:description>An anti-vaccination rally on the steps of California&amp;rsquo;s State Capitol in Sacramento last month.</media:description>
-    </item>
-    <item>
-      <title>A Covid-19 Lesson: Some Seriously Ill Patients Can Be Treated at Home</title>
-      <link>https://www.nytimes.com/2020/07/18/health/coronavirus-home-care.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/07/18/health/coronavirus-home-care.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/07/18/health/coronavirus-home-care.html" rel="standout"></atom:link>
-      <description>To ease pressure on hospitals, Northwell Health brought medical workers, oxygen tanks and intravenous equipment into patients’ homes. Now Florida is taking cues.</description>
-      <dc:creator>Roni Caryn Rabin</dc:creator>
-      <pubDate>Sat, 18 Jul 2020 09:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nursing and Nurses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telemedicine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Health Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicare</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Northwell Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Westbury (NY)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/15/science/00VIRUS-HOMECARE/00VIRUS-HOMECARE-moth.jpg" width="151"></media:content>
-      <media:credit>Johnny Milano for The New York Times</media:credit>
-      <media:description>When Joan Murray of Westbury, N.Y., a registered nurse, came down with Covid-19, she insisted on fighting the illness at home. “The last place I wanted to be was the hospital,” she said.</media:description>
-    </item>
-    <item>
-      <title>Why Trump’s Attacks on John Roberts Aren’t Working With Some Conservatives</title>
-      <link>https://www.nytimes.com/2020/07/18/us/politics/trump-john-roberts-indiana.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/07/18/us/politics/trump-john-roberts-indiana.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/07/18/us/politics/trump-john-roberts-indiana.html" rel="standout"></atom:link>
-      <description>The Supreme Court has faded somewhat in importance as frustration with the president grows, according to Republicans in the Indiana county where the chief justice grew up.</description>
-      <dc:creator>Elaina Plott</dc:creator>
-      <pubDate>Sat, 18 Jul 2020 17:54:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, John G Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indiana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">La Porte (Ind)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/19/us/politics/19roberts-voters-print2/00ROBERTS1-moth.jpg" width="151"></media:content>
-      <media:credit>Taylor Glascock for The New York Times</media:credit>
-      <media:description>Mitch Feikes outside his home in La Porte, Ind., where Chief Justice John G. Roberts Jr. attended high school.</media:description>
-    </item>
-    <item>
-      <title>Trump Promotes Caricature of What Conservatives Want</title>
-      <link>https://www.nytimes.com/2020/07/18/us/politics/trump-base.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/07/18/us/politics/trump-base.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/07/18/us/politics/trump-base.html" rel="standout"></atom:link>
-      <description>A series of events during his White House tenure has made clear that Mr. Trump views the voters he calls “my people” through the lens of what he imagines they like.</description>
-      <dc:creator>Maggie Haberman</dc:creator>
-      <pubDate>Sat, 18 Jul 2020 09:00:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/19/us/politics/19trump-memo-print1/18trump-memo1-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>Last month, following days of protests over racial justice, President Trump walked to a historic church near the White House to pose with a Bible.</media:description>
-    </item>
-    <item>
-      <title>Race Takes Center Stage as Rashida Tlaib Faces Primary Challenge</title>
-      <link>https://www.nytimes.com/2020/07/18/us/rashida-tlaib-brenda-jones-primary.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/07/18/us/rashida-tlaib-brenda-jones-primary.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/07/18/us/rashida-tlaib-brenda-jones-primary.html" rel="standout"></atom:link>
-      <description>Some of Detroit’s most prominent Black leaders are backing a challenger to Ms. Tlaib, a Palestinian-American who has gained celebrity status since winning her seat in 2018.</description>
-      <dc:creator>Luke Broadwater and Kathleen Gray</dc:creator>
-      <pubDate>Sat, 18 Jul 2020 15:41:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tlaib, Rashida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Brenda (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Conyers, John Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/19/us/politics/19dc-tlaib-print3/18dc-tlaib4-moth.jpg" width="151"></media:content>
-      <media:credit>Sylvia Jarrus for The New York Times</media:credit>
-      <media:description>Rep. Rashida Tlaib, Democrat of Michigan, is facing a bitter rematch in the Aug. 4 Democratic primary.</media:description>
-    </item>
-    <item>
-      <title>How PG&amp;E Is Racing to Improve Safety as Fire Season Approaches</title>
-      <link>https://www.nytimes.com/2020/07/18/business/energy-environment/pge-wildfire-california-summer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/07/18/business/energy-environment/pge-wildfire-california-summer.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/07/18/business/energy-environment/pge-wildfire-california-summer.html" rel="standout"></atom:link>
-      <description>The utility, which recently emerged from bankruptcy, is upgrading power lines, trimming trees and making other changes to prevent another big fire.</description>
-      <dc:creator>Ivan Penn and Jim Wilson</dc:creator>
-      <pubDate>Sat, 18 Jul 2020 07:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pacific Gas and Electric Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California Public Utilities Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Napa (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Calistoga (Calif)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/18/business/18utility1/18utility1-moth.jpg" width="151"></media:content>
-      <media:credit>Jim Wilson/The New York Times</media:credit>
-      <media:description>Crews are working across Pacific Gas &amp; Electric’s vast California service area to reduce the fire risk from its power equipment.</media:description>
     </item>
   </channel>
 </rss>
