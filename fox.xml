@@ -10,240 +10,212 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/lifestyle/americans-adventures-best-summer</guid>
-      <link>https://www.foxnews.com/lifestyle/americans-adventures-best-summer</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/mlb-returns-with-thrills-red-flags-remain-after-1st-weekend</guid>
+      <link>https://www.foxnews.com/sports/mlb-returns-with-thrills-red-flags-remain-after-1st-weekend</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/iStock-1179742816.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/iStock-1179742816.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Mr-Met2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Mr-Met2.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/iStock-1179742816.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">5393b8bc-893c-535d-aa6c-a2df0dccb4b7</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/great-outdoors/exploring</category>
-            <category domain="foxnews.com/taxonomy">fox-news/food-drink</category>
-            <category domain="foxnews.com/taxonomy">fox-news/food-drink/drinks/coffee</category>
-            <category domain="foxnews.com/taxonomy">fox-news/great-outdoors</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Mr-Met2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">589847f8-b8a5-564e-a10e-ae1bcae268fe</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/lifestyle</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Majority of Americans say 'spontaneous adventures' are the best part of summer, study claims</title>
-      <description>Two-thirds of Americans sadly think summer loses its magic as they get older, according to new research.</description>
-                   <pubDate>Sun, 26 Jul 2020 09:00:20 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">SWNS</category>
+      <title>MLB returns with thrills; red flags remain after 1st weekend</title>
+      <description>The World Series champion Washington Nationals stood six feet apart along the first baseline and watched as a banner commemorating their title was raised, then took a knee alongside the New York Yankees in a call for social justice.</description>
+                   <pubDate>Mon, 27 Jul 2020 09:10:39 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/opinion/coronavirus-faith-can-still-help-jim-daly</guid>
-      <link>https://www.foxnews.com/opinion/coronavirus-faith-can-still-help-jim-daly</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/united-chelsea-into-cl-bournemouth-watford-down-from-epl</guid>
+      <link>https://www.foxnews.com/sports/united-chelsea-into-cl-bournemouth-watford-down-from-epl</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/US-Religion-Survey-1.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/US-Religion-Survey-1.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Olivier-Giroud.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Olivier-Giroud.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/US-Religion-Survey-1.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">05dcea4d-c13b-5ce0-b121-199cea905965</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Olivier-Giroud.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8631e081-fb9c-50b9-a779-3c1bca5f0953</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/soccer</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>United, Chelsea into CL; Bournemouth, Watford down from EPL</title>
+      <description>Manchester United and Chelsea qualified for the Champions League at the expense of Leicester on a frantic final day of the Premier League season on Sunday, while Bournemouth and Watford were relegated to end five-year stays in the top flight.</description>
+                   <pubDate>Mon, 27 Jul 2020 09:06:59 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/miami-marlins-postpone-trip-home-amid-fear-of-virus-outbreak</guid>
+      <link>https://www.foxnews.com/sports/miami-marlins-postpone-trip-home-amid-fear-of-virus-outbreak</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Don-Mattingly.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Don-Mattingly.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Don-Mattingly.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8f1690b5-631b-5e38-9baf-548b5b55a9cc</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/miami-marlins</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Miami Marlins postpone trip home amid fear of virus outbreak</title>
+      <description>The Miami Marlins scratched right-hander Jose Urena from his scheduled start Sunday in Philadelphia and delayed their postgame trip home amid concerns about a possible coronavirus outbreak within the team.</description>
+                   <pubDate>Mon, 27 Jul 2020 09:03:43 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/portland-police-respond-to-reports-of-gunfire-at-courthouse-as-protests-continue-for-60th-consecutive-night</guid>
+      <link>https://www.foxnews.com/us/portland-police-respond-to-reports-of-gunfire-at-courthouse-as-protests-continue-for-60th-consecutive-night</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/FoxNewsletterPreorder.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/FoxNewsletterPreorder.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/FoxNewsletterPreorder.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">a2ebbe58-3fa1-5c03-8e63-05cd945befa6</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/columns/fox-news-first</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Portland police respond to reports of gunfire at courthouse as protests continue for 60th consecutive night</title>
+      <description />
+                   <pubDate>Mon, 27 Jul 2020 09:03:29 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/biden-democrat-sweep-november-destroy-country-liz-peek</guid>
+      <link>https://www.foxnews.com/opinion/biden-democrat-sweep-november-destroy-country-liz-peek</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/biden-schumer-pelosi-aoc-AP-Reuters.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/biden-schumer-pelosi-aoc-AP-Reuters.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/biden-schumer-pelosi-aoc-AP-Reuters.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">39e8a0ca-60a5-5015-8331-dc98daba78ae</category>
                   <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/faith-values</category>
-            <category domain="foxnews.com/taxonomy">fox-news/faith-values/faith</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/religion/christianity</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/religion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-senate-races</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-house-races</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/nancy-pelosi</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/opinion</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Jim Daly: Coronavirus pandemic continues on, but faith can still get us through</title>
-      <description>Faith is more critical than ever, lest we slip into a spiral of hopelessness and despair.</description>
-                  <dc:creator>Jim Daly</dc:creator>
-                         <pubDate>Sun, 26 Jul 2020 09:00:05 GMT</pubDate>
+      <title>Liz Peek: Biden-Democrat sweep in November would destroy country. Here's their plan</title>
+      <description>It is 100 days to the election, and Americans need to wake up to what a Democrat sweep might do to this country. </description>
+                  <dc:creator>Liz Peek</dc:creator>
+                         <pubDate>Mon, 27 Jul 2020 09:00:30 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Jim Daly</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Liz Peek</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/lifestyle/family-catches-mailman-playing-hopscotch-in-front-of-their-house</guid>
-      <link>https://www.foxnews.com/lifestyle/family-catches-mailman-playing-hopscotch-in-front-of-their-house</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/real-estate/summer-2020-backyard-4-popular-fire-pit-styles</guid>
+      <link>https://www.foxnews.com/real-estate/summer-2020-backyard-4-popular-fire-pit-styles</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/express-ive-del-547412.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/express-ive-del-547412.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/iStock-805033716.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/iStock-805033716.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/express-ive-del-547412.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">2569fbbd-3ccd-54c4-a8f6-637c7c0d267d</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/lifestyle/parenting/family</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/united-kingdom</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/iStock-805033716.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6304f98d-4dc2-542b-9ebf-68f044b30f5a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/house-and-home</category>
+            <category domain="foxnews.com/taxonomy">fox-news/lifestyle/real-estate</category>
+            <category domain="foxnews.com/taxonomy">fox-news/real-estate</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/real-estate</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Summer in the backyard: 4 popular fire pit styles to set up</title>
+      <description>There’s no place like home – especially during this unusual summer.</description>
+                  <dc:creator>Janine Puhak</dc:creator>
+                         <pubDate>Mon, 27 Jul 2020 09:00:15 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Janine Puhak</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/lifestyle/2020-celebrations-amid-coronavirus-pandemic-hosts-guests-poll</guid>
+      <link>https://www.foxnews.com/lifestyle/2020-celebrations-amid-coronavirus-pandemic-hosts-guests-poll</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/iStock-birthday-cake.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/iStock-birthday-cake.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/iStock-birthday-cake.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1a3658d1-f21d-5c31-bc5f-5e0b602de240</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/lifestyle</category>
+            <category domain="foxnews.com/taxonomy">fox-news/fitness-and-wellbeing</category>
+            <category domain="foxnews.com/taxonomy">fox-news/food-drink</category>
+            <category domain="foxnews.com/taxonomy">fox-news/house-and-home</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/lifestyle</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Family catches mailman playing hopscotch in front of their house</title>
-      <description>This mailman delivered some smiles.</description>
-                  <dc:creator>Michael Hollan</dc:creator>
-                         <pubDate>Sun, 26 Jul 2020 09:00:03 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Michael Hollan</category>
+      <title>For 2020 celebrations amid coronavirus pandemic, hosts must heed these steps to make guests comfortable: poll</title>
+      <description>Social distancing, face masks, temperature checks and individual servings of food topped the list.</description>
+                  <dc:creator>Zoya Gervis</dc:creator>
+                         <pubDate>Mon, 27 Jul 2020 09:00:04 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">SWNS</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Zoya Gervis</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/biden-dems-will-have-scaled-back-made-for-tv-convention-dncs-perez-says</guid>
-      <link>https://www.foxnews.com/politics/biden-dems-will-have-scaled-back-made-for-tv-convention-dncs-perez-says</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/rangers-kluber-lasts-1-inning-in-1st-start-in-15-months</guid>
+      <link>https://www.foxnews.com/sports/rangers-kluber-lasts-1-inning-in-1st-start-in-15-months</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/biden-newsletter-xx.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/biden-newsletter-xx.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Corey-Kluber.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Corey-Kluber.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/biden-newsletter-xx.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">abea8300-a8e8-5f54-bdf8-bfca602c91e2</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/politics/elections/democratic-convention</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Corey-Kluber.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">adb7b706-69c2-5bab-82d2-a107c5c63342</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/texas-rangers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Biden, Dems will have scaled-back 'made for TV' convention, DNC boss says</title>
-      <description>Democratic National Committee Chairman Tom Perez said Friday that the Democratic National Convention will still be held in Milwaukee next month -- but it will be scaled down and mostly virtual.  </description>
-                  <dc:creator>Brie Stimson</dc:creator>
-                         <pubDate>Sun, 26 Jul 2020 07:30:51 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/hurricane-hanna-weakens-to-tropical-storm-after-causing-pier-collapse-reports</guid>
-      <link>https://www.foxnews.com/us/hurricane-hanna-weakens-to-tropical-storm-after-causing-pier-collapse-reports</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/AP20207837787411.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20207837787411.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20207837787411.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">6cb28aae-e92d-5ce4-bd7e-97508bfcf5b8</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/disasters/hurricanes-typhoons</category>
-            <category domain="foxnews.com/taxonomy">fox-news/weather</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/texas</category>
-            <category domain="foxnews.com/taxonomy">fox-news/science/planet-earth/natural-disasters</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/floods</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Hurricane Hanna weakens to tropical storm after causing pier collapse: reports</title>
-      <description>Hurricane Hanna made a furious entry into southern Texas on Saturday but by early Sunday had weakened to a tropical storm as it moved inland.</description>
-                  <dc:creator>Dom Calicchio</dc:creator>
-                         <pubDate>Sun, 26 Jul 2020 07:00:53 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/greg-gutfeld-says-dem-run-cities-should-fix-own-problems-let-the-mob-govern-them</guid>
-      <link>https://www.foxnews.com/media/greg-gutfeld-says-dem-run-cities-should-fix-own-problems-let-the-mob-govern-them</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2332e81f-ae91-4bda-9ebc-e0f13172441a/d35c88b9-c5fc-4f95-a96f-0c75e88809dd/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">25d699e6-b32e-5cb3-a0b7-febac78d6454</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/shows/the-greg-gutfeld-show</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-protests</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/environment/cities</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/portland</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Greg Gutfeld says Dem-run cities should fix own problems: 'Let the mob' govern them</title>
-      <description>How should President Trump solve the problem of rioting and lawlessness in many of America's big cities? He should simply let liberal leaders deal with the problem on their own, Greg Gutfeld said Saturday.</description>
-                  <dc:creator>Victor Garcia</dc:creator>
-                         <pubDate>Sun, 26 Jul 2020 05:21:50 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Victor Garcia</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/kevin-mccarthy-dems-failing-on-china-virus-riots-thats-why-we-need-trump</guid>
-      <link>https://www.foxnews.com/media/kevin-mccarthy-dems-failing-on-china-virus-riots-thats-why-we-need-trump</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b79538db-883f-4108-b0e9-a8e3014a6e29/4cc2a824-913a-42a8-aa7c-0dae55aad2f7/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">f5e04564-a072-537b-857e-f1fe33c61fce</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/shows/justice-with-judge-jeanine</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/kevin-mccarthy</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/house-of-representatives</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Kevin McCarthy: Dems failing on China, virus, riots -- 'That's why we need Trump'</title>
-      <description>"The Democrats have a China problem," according to House Minority Leader Kevin McCarthy, R-Calif., who appeared on "Watters' World" on Saturday.</description>
-                  <dc:creator>Victor Garcia</dc:creator>
-                         <pubDate>Sun, 26 Jul 2020 04:49:25 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Victor Garcia</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/ben-shapiro-lefts-blame-the-system-narrative-aimed-at-erasing-us-history-culture</guid>
-      <link>https://www.foxnews.com/media/ben-shapiro-lefts-blame-the-system-narrative-aimed-at-erasing-us-history-culture</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3cc7440-71ec-4ff7-84e5-0ffd9fe46eb3/736f2365-d994-4453-b212-930f0c13be65/1280x720/match/image.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">8c1f3eae-8593-5d92-8bf7-a41a8af71639</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/shows/watters-world</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-protests</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Ben Shapiro: Left's 'Blame the system' narrative aimed at erasing US history, culture</title>
-      <description>Conservative commentator Ben Shapiro weighed in Saturday on the violence and lawlessness in major American cities and criticized Democratic presidential nominee Joe Biden, saying he's ran his campaign like a "dead person."</description>
-                  <dc:creator>Victor Garcia</dc:creator>
-                         <pubDate>Sun, 26 Jul 2020 04:19:12 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Victor Garcia</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/this-day-in-history-july-26</guid>
-      <link>https://www.foxnews.com/us/this-day-in-history-july-26</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/05/FBI-Building-Getty.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/FBI-Building-Getty.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/FBI-Building-Getty.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">1a60fb6a-d57a-59c5-a46b-12d453914215</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/this-day-in-history</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>This Day in History: July 26</title>
-      <description>U.S. Attorney General Charles J. Bonaparte orders the creation of a force of special agents that was a forerunner of the FBI.</description>
-                   <pubDate>Sun, 26 Jul 2020 04:00:06 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+      <title>Rangers' Kluber lasts 1 inning in 1st start in 15 months</title>
+      <description>Corey Kluber's Texas debut lasted just one inning.</description>
+                   <pubDate>Mon, 27 Jul 2020 08:59:24 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/baltimore-pro-police-crowd-attends-walkaway-rally-at-citys-war-memorial</guid>
-      <link>https://www.foxnews.com/us/baltimore-pro-police-crowd-attends-walkaway-rally-at-citys-war-memorial</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/indians-carrasco-wins-first-start-since-leukemia-diagnosis</guid>
+      <link>https://www.foxnews.com/sports/indians-carrasco-wins-first-start-since-leukemia-diagnosis</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/05/baltimore-police-BPD.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/baltimore-police-BPD.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Carlos-Carassco2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Carlos-Carassco2.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/baltimore-police-BPD.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">e6d65baf-23b2-51e7-808f-7d7ad27af998</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/topic/baltimore-crime-and-corruption</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/maryland</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-protests</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Carlos-Carassco2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">4d00aec4-c713-50a8-8648-13f4661a413e</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/cleveland-indians</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Baltimore pro-police crowd attends #WalkAway rally at city's war memorial</title>
-      <description>A crowd of people who support local police gathered for a rally Saturday at the Baltimore War Memorial.</description>
-                  <dc:creator>Dom Calicchio</dc:creator>
-                         <pubDate>Sun, 26 Jul 2020 03:48:32 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
-                            </item>
+      <title>Indians' Carrasco wins first start since leukemia diagnosis</title>
+      <description>Carlos Carrasco looked toward home plate and clutched the ball in his right hand before firing a 95 mph fastball on the game's first pitch.</description>
+                   <pubDate>Mon, 27 Jul 2020 08:54:28 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/college-basketball-stuck-in-holding-pattern-during-pandemic</guid>
+      <link>https://www.foxnews.com/sports/college-basketball-stuck-in-holding-pattern-during-pandemic</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/NCAA-logo2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/NCAA-logo2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/NCAA-logo2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">09295d5a-e263-5937-866c-f71dc999002c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-bk</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>College basketball stuck in holding pattern during pandemic</title>
+      <description>Baseball has begun its coronavirus-delayed season with limited long-distance travel and no fans in the stands.</description>
+                   <pubDate>Mon, 27 Jul 2020 08:51:34 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
       </channel>
 </rss>
