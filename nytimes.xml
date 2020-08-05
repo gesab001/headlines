@@ -7,161 +7,432 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Aug 2020 22:42:17 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2020 22:42:17 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2020 20:25:18 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2020 20:25:18 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>Isaias Live Updates: Tornadoes Are a Threat as Storm Charges North</title>
-      <link>https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html" rel="standout"></atom:link>
-      <description>At least two people were killed after a tornado touched down in Bertie County, N.C., and caused significant damage to a neighborhood there.</description>
-      <pubDate>Tue, 04 Aug 2020 20:56:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mid-Atlantic States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/04/us/4hpstorm1/4hpstorm1-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Matt Slocum/Associated Press</media:credit>
-      <media:description>A Philadelphia police officer rushes to help a stranded motorist during Tropical Storm Isaias, Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Distrust of the Minneapolis Police, and Also the Effort to Defund Them</title>
-      <link>https://www.nytimes.com/2020/08/04/us/minneapolis-defund-police.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/04/us/minneapolis-defund-police.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/04/us/minneapolis-defund-police.html" rel="standout"></atom:link>
-      <description>Residents on Minneapolis’s North Side, which has a majority Black population, have mixed opinions on the City Council’s effort to significantly reduce the police force.</description>
-      <dc:creator>John Eligon</dc:creator>
-      <pubDate>Tue, 04 Aug 2020 09:00:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Reform</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Minneapolis, Minn)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/03/us/00blackdefund-03/00blackdefund-03-moth.jpg" width="151"></media:content>
-      <media:credit>Nina Robinson for The New York Times</media:credit>
-      <media:description>Kentrell Grimes with his 2-year-old son, Kentrell Jr. “How can you defund the police and then bring another group to police?” Mr. Grimes said.</media:description>
-    </item>
-    <item>
-      <title>A Historic Supreme Court Ruling Upends Courts in Oklahoma</title>
-      <link>https://www.nytimes.com/2020/08/03/us/Supreme-court-Oklahoma-tribal-land-ruling.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/03/us/Supreme-court-Oklahoma-tribal-land-ruling.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/03/us/Supreme-court-Oklahoma-tribal-land-ruling.html" rel="standout"></atom:link>
-      <description>Local prosecutors are referring criminal cases to the federal and tribal courts, which are now flooded with new cases.</description>
-      <dc:creator>Jack Healy</dc:creator>
-      <pubDate>Tue, 04 Aug 2020 14:10:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cherokee Indians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Muscogee (Creek) Nation (Okumlgee, Okla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stitt, Kevin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tulsa (Okla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Criminal Justice</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lipp, Kelsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kunzweiler, Stephen A</category>
-    </item>
-    <item>
-      <title>Schools Debate Closing as Students and Staff Test Positive</title>
-      <link>https://www.nytimes.com/2020/08/03/us/school-closing-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/03/us/school-closing-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/03/us/school-closing-coronavirus.html" rel="standout"></atom:link>
-      <description>As schools in the South and the Midwest reopen this week, officials must decide what steps to take as staff members and students test positive.</description>
-      <dc:creator>Sarah Mervosh and Shawn Hubler</dc:creator>
-      <pubDate>Tue, 04 Aug 2020 03:57:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indiana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <title>If Public Schools Are Closed, Should Private Schools Have to Follow?</title>
+      <link>https://www.nytimes.com/2020/08/05/us/schools-reopening-private-public.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/us/schools-reopening-private-public.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/us/schools-reopening-private-public.html" rel="standout"></atom:link>
+      <description>A dispute in Maryland over whether prestigious private schools can teach in person during the coronavirus pandemic highlights a national divide.</description>
+      <dc:creator>Simon Romero, Giulia McDonnell Nieto del Rio and Patricia Mazzei</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 09:00:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/03/us/03VIRUS-SCHOOLS-corinth/merlin_175033581_42fb4b24-0f58-473e-b4ff-1626dbdbfce8-moth.jpg" width="151"></media:content>
-      <media:credit>Adam Robison/The Northeast Mississippi Daily Journal, via Associated Press</media:credit>
-      <media:description>At least three students at Corinth High School in northern Mississippi have tested positive for the coronavirus since school resumed last week, and about 40 are in quarantine.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hogan, Lawrence J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montgomery County (Md)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maryland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/05/us/05VIRUS-SCHOOLS-philips/merlin_138525426_13d7ff76-2b94-4bfb-b84f-f6102769be0f-moth.jpg" width="151"></media:content>
+      <media:credit>Elise Amendola/Associated Press</media:credit>
+      <media:description>Several of the country’s most elite boarding schools, including Phillips Academy in Andover, Mass., say they plan to reopen this fall. </media:description>
     </item>
     <item>
-      <title>Isaias Unleashes Floods and Tornadoes as It Pummels the Atlantic Coast</title>
-      <link>https://www.nytimes.com/2020/08/04/us/hurricane-isaias-updates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/04/us/hurricane-isaias-updates.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/04/us/hurricane-isaias-updates.html" rel="standout"></atom:link>
-      <description>Officials warned residents to stay out of harm’s way as at least two people were killed by tornadoes, and two others from fallen trees. Millions were left without power.</description>
-      <dc:creator>Michael Venutolo-Mantovani and Rick Rojas</dc:creator>
-      <pubDate>Tue, 04 Aug 2020 22:08:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mid-Atlantic States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cooper, Roy A</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/04/us/04isaias-01/04isaias-01-moth.jpg" width="151"></media:content>
-      <media:credit>Johnny Milano for The New York Times</media:credit>
-      <media:description>High winds raked Long Beach, N.Y., on Tuesday as Tropical Storm Isaias moved through the region.</media:description>
+      <title>‘It’s Like Having No Testing’: Coronavirus Test Results Are Still Delayed</title>
+      <link>https://www.nytimes.com/2020/08/04/us/virus-testing-delays.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/04/us/virus-testing-delays.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/04/us/virus-testing-delays.html" rel="standout"></atom:link>
+      <description>A shortage of chemicals needed to test for the virus is part of what is slowing turnaround times.</description>
+      <dc:creator>Sarah Mervosh and Manny Fernandez</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 12:55:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Becton Dickinson &amp; Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Quest Diagnostics Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Laboratory Corporation of America Holdings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Quidel Corporation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/04/us/04VIRUS-TESTING-mass/04VIRUS-TESTING-mass-moth.jpg" width="151"></media:content>
+      <media:credit>David Goldman/Associated Press</media:credit>
+      <media:description>Lengthy turnaround times for coronavirus test results have hampered the U.S. response to the pandemic.</media:description>
     </item>
     <item>
-      <title>Trump Signs Landmark Land Conservation Bill</title>
-      <link>https://www.nytimes.com/2020/08/04/us/politics/trump-land-conservation-bill.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/04/us/politics/trump-land-conservation-bill.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/04/us/politics/trump-land-conservation-bill.html" rel="standout"></atom:link>
-      <description>The bipartisan Great American Outdoors Act guarantees funding for federal land use efforts. The president claimed credit for Republicans.</description>
-      <dc:creator>Annie Karni</dc:creator>
-      <pubDate>Tue, 04 Aug 2020 21:34:44 +0000</pubDate>
+      <title>With Census Count Finishing Early, Fears of a Skewed Tally Rise</title>
+      <link>https://www.nytimes.com/2020/08/04/us/2020-census-ending-early.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/04/us/2020-census-ending-early.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/04/us/2020-census-ending-early.html" rel="standout"></atom:link>
+      <description>With 60 million households still uncounted, the bureau said it would wrap up the survey a month early. Critics called it a bald move to politicize the count in favor of Republicans.</description>
+      <dc:creator>Michael Wines and Richard Fausset</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 01:44:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Census</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Census Bureau</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Land and Water Conservation Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parks and Other Recreation Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yosemite National Park (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pebble Mine (Bristol Bay, Alaska)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewis, John R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Daines, Steve</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gardner, Cory S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ayers, Nick (1982- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/04/us/politics/04dc-conserve/04dc-conserve-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>“From an environmental standpoint and from just the beauty of our country standpoint, there hasn’t been anything like this since Teddy Roosevelt, I suspect,” President Trump said at a bill-signing ceremony at the White House on Tuesday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/04/us/04CENUS/merlin_175075221_67d12f76-904e-4011-838b-bb8359329694-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Harnik/Associated Press</media:credit>
+      <media:description>Steven Dillingham, the director of the Census Bureau, which is under criticism for moving up a deadline to count hard-to-reach residents.</media:description>
     </item>
     <item>
-      <title>Lawsuit Demands Sign Language at White House Virus Briefings</title>
-      <link>https://www.nytimes.com/2020/08/04/us/politics/asl-interpreter-lawsuit-coronavirus-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/04/us/politics/asl-interpreter-lawsuit-coronavirus-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/04/us/politics/asl-interpreter-lawsuit-coronavirus-trump.html" rel="standout"></atom:link>
-      <description>The lack of American Sign Language interpreters at coronavirus briefings violates the First Amendment, the National Association of the Deaf says.</description>
-      <dc:creator>Aimee Ortiz</dc:creator>
-      <pubDate>Tue, 04 Aug 2020 20:24:13 +0000</pubDate>
+      <title>‘Like a Horror Movie&#39;: A Small Texas Border Hospital Battles the Coronavirus</title>
+      <link>https://www.nytimes.com/2020/08/04/us/texas-coronavirus-rio-grande-valley-starr-county.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/04/us/texas-coronavirus-rio-grande-valley-starr-county.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/04/us/texas-coronavirus-rio-grande-valley-starr-county.html" rel="standout"></atom:link>
+      <description>The hospital in Starr County, Texas, had no I.C.U. at all, and only one doctor on duty for each shift. Then the coronavirus began surging through the Rio Grande Valley.</description>
+      <dc:creator>Edgar Sandoval</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 14:18:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deafness</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sign Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Assn of the Deaf</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nursing and Nurses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio Grande Valley (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio Grande City (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starr County Memorial Hospital (Rio Grande City, Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Starr County (Tex)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/04/us/04virus-ruraltexas/merlin_175264749_b521b6a7-6869-418b-bba4-07ec27cae42c-moth.jpg" width="151"></media:content>
+      <media:credit>Christopher Lee for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Hiroshima 75th Anniversary: Preserving Survivors’ Message of Peace</title>
+      <link>https://www.nytimes.com/2020/08/05/world/asia/hiroshima-japan-75th-anniversary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/world/asia/hiroshima-japan-75th-anniversary.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/world/asia/hiroshima-japan-75th-anniversary.html" rel="standout"></atom:link>
+      <description>Hibakusha, as they are known in Japan, will be a diminished presence at a memorial event because of advancing age and the coronavirus.</description>
+      <dc:creator>Ben Dooley and Hisako Ueno</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 20:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hiroshima Peace Memorial Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hiroshima (Japan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/05/world/05hiroshima-1/05hiroshima-1-moth.jpg" width="151"></media:content>
+      <media:credit>Dai Kurokawa/EPA, via Shutterstock</media:credit>
+      <media:description>The Hiroshima Peace Memorial Museum in Japan on Wednesday. The hibakusha, who now average 83 in age, have put a human face on the cost of nuclear war.</media:description>
+    </item>
+    <item>
+      <title>F.B.I. Searches Jake Paul’s California Home</title>
+      <link>https://www.nytimes.com/2020/08/05/us/jake-paul-fbi-raid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/us/jake-paul-fbi-raid.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/us/jake-paul-fbi-raid.html" rel="standout"></atom:link>
+      <description>A SWAT team was used to enter the YouTube star’s mansion in Calabasas, northwest of Los Angeles, on Wednesday, an F.B.I. spokeswoman said.</description>
+      <dc:creator>Derrick Bryson Taylor and Taylor Lorenz</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 19:52:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul, Jake (1997- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Calabasas (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/05/multimedia/05xp-paul/05xp-paul-moth.jpg" width="151"></media:content>
+      <media:credit>Jake Michaels for The New York Times</media:credit>
+      <media:description>Jake Paul is best known for his brash personality and using controversy to draw viewers to YouTube, where he has more than 20 million followers.</media:description>
+    </item>
+    <item>
+      <title>Lincoln Library Cancels Exhibition Over Racial Sensitivity Concerns</title>
+      <link>https://www.nytimes.com/2020/08/05/arts/design/lincoln-library-cancels-exhibition-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/arts/design/lincoln-library-cancels-exhibition-race.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/arts/design/lincoln-library-cancels-exhibition-race.html" rel="standout"></atom:link>
+      <description>The library, in Springfield, Ill., said Black community leaders who previewed it feared parts of the traveling exhibition, created 15 years ago, were outdated and lacked context.</description>
+      <dc:creator>Sarah Bahr</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 19:29:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Spy Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lincoln, Abraham, Presidential Library and Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Spies, Traitors, Saboteurs: Fear and Freedom in America (Exhibit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ku Klux Klan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libraries and Librarians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Illinois</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/arts/05lincoln/05lincoln-moth.jpg" width="151"></media:content>
+      <media:credit>via Abraham Lincoln Presidential Library and Museum </media:credit>
+      <media:description>The Abraham Lincoln Presidential Library and Museum decided to cancel a touring exhibition on domestic terrorism because they found the displays outdated and insensitive.</media:description>
+    </item>
+    <item>
+      <title>Woman Sues Takeoff, Member of Migos, Accusing Him of Rape</title>
+      <link>https://www.nytimes.com/2020/08/05/arts/music/takeoff-migos-rape-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/arts/music/takeoff-migos-rape-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/arts/music/takeoff-migos-rape-lawsuit.html" rel="standout"></atom:link>
+      <description>The civil complaint, filed in Los Angeles, accuses Takeoff, one of three members of the hip-hop group, of assaulting the woman during a house party in June.</description>
+      <dc:creator>Melena Ryzik and Joe Coscarelli</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 20:03:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Translation and Interpreters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Migos (Music Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Los Angeles, Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takeoff (Rapper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durel, D J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rahmani, Neama</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/05/arts/05migos-item/05migos-item-moth.jpg" width="151"></media:content>
+      <media:credit>Kevin Winter/Getty Images</media:credit>
+      <media:description>Takeoff, one of the three members of Migos, is accused in a lawsuit of having sexually assaulted a woman during a house party in June.</media:description>
+    </item>
+    <item>
+      <title>Another Inspector General Resigns Amid Questions About Pompeo</title>
+      <link>https://www.nytimes.com/2020/08/05/us/politics/inspector-general-pompeo-state.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/us/politics/inspector-general-pompeo-state.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/us/politics/inspector-general-pompeo-state.html" rel="standout"></atom:link>
+      <description>Stephen J. Akard became the State Department’s internal watchdog after his predecessor was fired by President Trump at the urging of Secretary of State Mike Pompeo, who has been under investigation.</description>
+      <dc:creator>Pranshu Verma and Edward Wong</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 20:17:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Linick, Steve A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pence, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inspectors General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/04/us/4xp-interpreter/4xp-interpreter-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump’s coronavirus briefings, which he suspended in April and revived this month, do not include an American Sign Language interpreter.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Susan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Akard, Stephen J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/05/us/politics/05dc-state-IG/05dc-state-IG-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Greg Nash</media:credit>
+      <media:description>Secretary of State Mike Pompeo has come under scrutiny by the department’s inspector general.</media:description>
+    </item>
+    <item>
+      <title>Aurora Police Chief Apologizes After Officers Handcuff Children on the Ground</title>
+      <link>https://www.nytimes.com/2020/08/05/us/aurora-police-black-family.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/us/aurora-police-black-family.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/us/aurora-police-black-family.html" rel="standout"></atom:link>
+      <description>A widely shared video shows four children, two of them handcuffed, on the ground in a parking lot. Chief Vanessa Wilson said the Colorado city would offer therapy to the children.</description>
+      <dc:creator>Christine Hauser</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 18:10:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aurora (Colo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McClain, Elijah (d 2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/05/multimedia/05-xp-aurora/05-xp-aurora-moth.jpg" width="151"></media:content>
+      <media:credit>Philip B. Poston/Sentinel Colorado, via Associated Press</media:credit>
+      <media:description> Chief Vanessa Wilson of the Aurora Police Department in July. She said this week that officers made a mistake during a stop, possibly because of confusion over a stolen vehicle report.</media:description>
+    </item>
+    <item>
+      <title>Peanut Butter and Ranch Dressing: What Americans Abroad Miss From Home</title>
+      <link>https://www.nytimes.com/2020/08/05/style/american-comfort-foods-peanut-butter-ranch-dressing-hot-cheetos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/style/american-comfort-foods-peanut-butter-ranch-dressing-hot-cheetos.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/style/american-comfort-foods-peanut-butter-ranch-dressing-hot-cheetos.html" rel="standout"></atom:link>
+      <description>With virus cases in the United States rising and international travel curtailed, many Americans do not know when they will be able to reunite with home and the comforts they associate with it.</description>
+      <dc:creator>Valeriya Safronova</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 16:48:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Americans Abroad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/fashion/05HOME-COMFORTSArt/05HOME-COMFORTSArt-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Yazmin Butcher</media:credit>
+    </item>
+    <item>
+      <title>Rashida Tlaib Cruises to Victory in Michigan Primary Rematch</title>
+      <link>https://www.nytimes.com/2020/08/05/us/politics/rashida-tlaib-primary-results.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/us/politics/rashida-tlaib-primary-results.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/us/politics/rashida-tlaib-primary-results.html" rel="standout"></atom:link>
+      <description>The first-term Michigan representative, part of a group of liberal congresswomen of color, widened her margin of victory against a Democratic opponent who first challenged her in 2018.</description>
+      <dc:creator>Luke Broadwater</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 17:22:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2018)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Brenda (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tlaib, Rashida</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/04/us/politics/00DC-TLAIB/00DC-TLAIB-moth.jpg" width="151"></media:content>
+      <media:credit>Rebecca Cook/Reuters</media:credit>
+      <media:description>Representative Rashida Tlaib of Michigan at a rally protesting racial inequality after the killing of George Floyd. Ms. Tlaib won a Democratic primary held Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Meet Some of the Latinos Entering the University of California</title>
+      <link>https://www.nytimes.com/2020/08/05/us/university-california-latino-students.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/us/university-california-latino-students.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/us/university-california-latino-students.html" rel="standout"></atom:link>
+      <description>Wednesday: Latinos were the largest group of Californians admitted to the university’s freshman class. Also: A deeper look at the life of Representative Karen Bass.</description>
+      <dc:creator>Jill Cowan</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 12:53:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/21/us/05calcatoday/21cal-state-moth.jpg" width="151"></media:content>
+      <media:credit>Jeff Chiu/Associated Press</media:credit>
+      <media:description>For the first time in the U.C. system’s history, Chicano or Latino students made up the greatest share of Californians admitted to the freshman class.</media:description>
+    </item>
+    <item>
+      <title>2020 Election Live Updates: Biden Will Skip Milwaukee Convention and Accept Nomination in Delaware</title>
+      <link>https://www.nytimes.com/2020/08/05/us/elections/biden-vs-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/us/elections/biden-vs-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/us/elections/biden-vs-trump.html" rel="standout"></atom:link>
+      <description>Democrats announced that their convention would be almost entirely virtual, citing coronavirus concerns. In primary races, progressives triumphed and a polarizing Republican fell.</description>
+      <pubDate>Wed, 05 Aug 2020 20:25:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/13/us/politics/elections-briefing-promo-image/elections-briefing-promo-image-moth-v2.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Mail Voting’s Latest Test</title>
+      <link>https://www.nytimes.com/2020/08/05/us/politics/mail-voting-primaries.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/us/politics/mail-voting-primaries.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/us/politics/mail-voting-primaries.html" rel="standout"></atom:link>
+      <description>Kris Kobach falls, and Cori Bush rises: This is your morning tip sheet.</description>
+      <dc:creator>Giovanni Russonello</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 11:02:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, Cori</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kobach, Kris W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+    </item>
+    <item>
+      <title>Who Gets Counted?</title>
+      <link>https://www.nytimes.com/2020/08/05/briefing/beirut-isaias-cori-bush-your-wednesday-briefing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/briefing/beirut-isaias-cori-bush-your-wednesday-briefing.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/briefing/beirut-isaias-cori-bush-your-wednesday-briefing.html" rel="standout"></atom:link>
+      <description>And what else you need to know today.</description>
+      <dc:creator>Sanam Yar and Ian Prasad Philbrick</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 11:24:56 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/04/us/5ambriefing-promo/5ambriefing-census-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Bebeto Matthews/Associated Press</media:credit>
+      <media:description>Times Square in Manhattan last year.</media:description>
+    </item>
+    <item>
+      <title>Biden Announces $280 Million Fall Ad Buy Across 15 States</title>
+      <link>https://www.nytimes.com/2020/08/05/us/politics/biden-campaign-advertising.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/us/politics/biden-campaign-advertising.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/us/politics/biden-campaign-advertising.html" rel="standout"></atom:link>
+      <description>By far the biggest reservation of the 2020 race by either campaign, it is a sign of the swift turnabout in Joe Biden’s finances since he became the presumptive Democratic nominee.</description>
+      <dc:creator>Shane Goldmacher and Katie Glueck</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 09:30:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/05/us/politics/05biden-ads/merlin_174804486_8f365271-85c9-492d-ae80-1426e67e6d10-moth.jpg" width="151"></media:content>
+      <media:credit>Hannah Yoon for The New York Times</media:credit>
+      <media:description>Former Vice President Joseph R. Biden Jr.’s campaign will expand its ad buy to include 10 states that President Trump carried in 2016.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus Live Updates: Chicago Schools Will Start the Academic Year Remotely</title>
+      <link>https://www.nytimes.com/2020/08/05/world/coronavirus-covid-19.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/world/coronavirus-covid-19.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/world/coronavirus-covid-19.html" rel="standout"></atom:link>
+      <description>Six states have entered a pact to reduce testing times. About one-third of Afghanistan’s population, or roughly 10 million people, have probably been infected by the coronavirus and recovered, its health ministry said.</description>
+      <pubDate>Wed, 05 Aug 2020 20:09:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Tennessee Republicans, Once Moderate and Genteel, Turn Toxic in the Trump Era</title>
+      <link>https://www.nytimes.com/2020/08/05/us/politics/tennnessee-trump-republican-party.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/us/politics/tennnessee-trump-republican-party.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/us/politics/tennnessee-trump-republican-party.html" rel="standout"></atom:link>
+      <description>In the Senate primary race to replace Lamar Alexander, two candidates are fighting to see who can better emulate the president. It isn’t pretty.</description>
+      <dc:creator>Elaina Plott</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 13:06:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alexander, Lamar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hagerty, William F</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sethi, Manny</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/05/us/politics/05Tennessee-setup1/merlin_167994702_e8b15a64-a188-4458-98a5-871c7fc17e9f-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Humphrey/Associated Press</media:credit>
+      <media:description>Bill Hagerty has made President Trump’s endorsement the centerpiece of his Senate campaign.</media:description>
+    </item>
+    <item>
+      <title>See for Yourself: How Airplanes Are Cleaned Today</title>
+      <link>https://www.nytimes.com/2020/08/05/travel/coronavirus-airplane-cleaning.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/travel/coronavirus-airplane-cleaning.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/travel/coronavirus-airplane-cleaning.html" rel="standout"></atom:link>
+      <description>Airlines are fine-tuning their cleaning procedures — where they clean, how frequently and with which tools. This is what the new processes look like.</description>
+      <dc:creator>Mike Arnot and Stefano Ukmar</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 09:01:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cleansers, Detergents and Soaps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delta Air Lines Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">JetBlue Airways Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Southwest Airlines Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hygiene and Cleanliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy International Airport (Queens, NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/05/travel/05travel-planes-promo/05travel-planes-video-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Stefano Ukmar for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Do You Want to Be a Vaccine Volunteer?</title>
+      <link>https://www.nytimes.com/2020/08/05/health/volunteer-coronavirus-vaccine-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/health/volunteer-coronavirus-vaccine-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/health/volunteer-coronavirus-vaccine-trial.html" rel="standout"></atom:link>
+      <description>How do you sign up for a trial? Who is eligible? Will you be paid? Could an experimental shot protect you? Could you get sick? Who covers the costs if you do? Here’s what you need to know.</description>
+      <dc:creator>Heather Murphy</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 13:54:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immune System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Placebos</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/31/multimedia/00xp-virus-volunteer-pix/00xp-virus-volunteer-pix-moth.jpg" width="151"></media:content>
+      <media:credit>Hans Pennink/Associated Press</media:credit>
+      <media:description>Melissa Harting of Binghamton, N.Y., volunteered to receive a coronavirus vaccine as part of a Phase 3 trial by the National Institutes of Health.</media:description>
+    </item>
+    <item>
+      <title>Cori Bush Defeats William Lacy Clay in a Show of Progressive Might</title>
+      <link>https://www.nytimes.com/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html" rel="standout"></atom:link>
+      <description>The upset of the veteran congressman from St. Louis sent tremors though the Democratic establishment in Missouri and Washington, D.C.</description>
+      <dc:creator>Nicholas Fandos</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 04:56:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Green New Deal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Democrats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bowman, Jamaal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, Cori</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clay, William Lacy Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Engel, Eliot L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Louis (Mo)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/04/us/politics/04dc-missouri/04dc-missouri-moth.jpg" width="151"></media:content>
+      <media:credit>Michael B. Thomas/Getty Images</media:credit>
+      <media:description>If elected to the House in November, Cori Bush would be the first Black woman to represent Missouri in Congress. </media:description>
+    </item>
+    <item>
+      <title>Another Man Used Covid Relief Money to Buy a Lamborghini, Prosecutors Say</title>
+      <link>https://www.nytimes.com/2020/08/04/us/lamborghini-coronavirus-stimulus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/04/us/lamborghini-coronavirus-stimulus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/04/us/lamborghini-coronavirus-stimulus.html" rel="standout"></atom:link>
+      <description>A Houston man who received more than $1.6 million bought a 2019 Lamborghini Urus, prosecutors said. Last week, a Miami man bought a Lamborghini Huracán, according to the authorities.</description>
+      <dc:creator>Azi Paybarah</dc:creator>
+      <pubDate>Wed, 05 Aug 2020 12:52:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Automobili Lamborghini SpA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Price, Lee III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hines, David T</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/04/world/4xp-lamborghini/4xp-lamborghini-moth.jpg" width="151"></media:content>
+      <media:credit>Sascha Steinbach/EPA, via Shutterstock</media:credit>
+      <media:description>A Lamborghini Urus at a car show in Frankfurt in 2019. The authorities say a Texas man spent $233,337.60 on a Urus using pandemic relief money.</media:description>
     </item>
   </channel>
 </rss>
