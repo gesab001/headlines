@@ -10,230 +10,242 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/twins-miguel-sano-loud-home-run-pirates</guid>
-      <link>https://www.foxnews.com/sports/twins-miguel-sano-loud-home-run-pirates</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/ohio-gov-dewine-tests-negative-covid-19-hours-testing-positive</guid>
+      <link>https://www.foxnews.com/us/ohio-gov-dewine-tests-negative-covid-19-hours-testing-positive</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Miguel-Sano.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Miguel-Sano.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20219693679260.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20219693679260.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Miguel-Sano.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">01ff2654-a89b-5ed1-8e54-3b5a1ebdeb9f</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/minnesota-twins</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/pittsburgh-pirates</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20219693679260.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3f340049-5e39-5d10-8cb0-6790cd05f809</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/mike-dewine</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/ohio</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Ohio Gov. DeWine tests negative for COVID-19 hours after testing positive</title>
+      <description>Ohio Gov. Mike DeWine tested negative for COVID-19 on Thursday just hours after testing positive earlier in the day before he was set to greet President Trump at the Cleveland airport, according to a statement by the governor's office.</description>
+                  <dc:creator>David Aaro</dc:creator>
+                         <pubDate>Fri, 07 Aug 2020 04:49:53 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/aclu-push-to-release-50000-prison-inmates</guid>
+      <link>https://www.foxnews.com/us/aclu-push-to-release-50000-prison-inmates</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/GettyImages-San-Quentin-State-Prison.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/GettyImages-San-Quentin-State-Prison.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/GettyImages-San-Quentin-State-Prison.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ad6da009-ad99-5ae8-8950-14fc9f39b71b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/iowa</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local/governors</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/bernie-sanders</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>ACLU launches push to free 50,000 inmates from US prisons in response to 'systemic injustice'</title>
+      <description>The American Civil Liberties Union (ACLU) is launching a multi-year effort to win the release of tens of thousands of prisoners by lobbying governors to grant mass clemency as a remedy to "systemic injustice."</description>
+                  <dc:creator>Sam Dorman</dc:creator>
+                         <pubDate>Fri, 07 Aug 2020 04:48:02 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Sam Dorman</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/guacamole-maker-mishap-in-ny-state-kills-former-mayor-injures-2-others-report</guid>
+      <link>https://www.foxnews.com/us/guacamole-maker-mishap-in-ny-state-kills-former-mayor-injures-2-others-report</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/may.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/may.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/may.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">09f8e82d-5181-5235-8ef1-be414de4abd9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/education/college</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local</category>
+            <category domain="foxnews.com/taxonomy">fox-news/newsedge/business</category>
+            <category domain="foxnews.com/taxonomy">fox-news/food-drink/food</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Guacamole-maker mishap in NY state kills former mayor, injures 2 others: report</title>
+      <description>A 67-year-old businessman and former mayor was killed and two others hurt Wednesday morning when a food processor being tested for guacamole production exploded in Schenectady in upstate New York.</description>
+                  <dc:creator>Brie Stimson</dc:creator>
+                         <pubDate>Fri, 07 Aug 2020 04:39:30 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/massachusetts-bail-fund-helps-free-sex-offender-who-now-faces-new-allegations</guid>
+      <link>https://www.foxnews.com/us/massachusetts-bail-fund-helps-free-sex-offender-who-now-faces-new-allegations</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/5dd801f0-shawn-mcclinton-1596745984.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/5dd801f0-shawn-mcclinton-1596745984.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/5dd801f0-shawn-mcclinton-1596745984.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8288fe68-d0a3-58da-bf4f-39a43d616e10</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/massachusetts</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Massachusetts Bail Fund helps free sex offender who now faces new allegations</title>
+      <description />
+                  <dc:creator>Edmund DeMarche</dc:creator>
+                         <pubDate>Fri, 07 Aug 2020 04:31:09 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/chris-bedford-america-closer-mob-rule</guid>
+      <link>https://www.foxnews.com/media/chris-bedford-america-closer-mob-rule</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Tucker-Carlson-Chris-Bedford-FOX.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Tucker-Carlson-Chris-Bedford-FOX.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Tucker-Carlson-Chris-Bedford-FOX.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d2b482b7-b598-5720-9e7b-9a1d292e332a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/tucker-carlson-tonight</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>The Federalist editor warns divided America is 'moving closer and closer to mob rule'</title>
+      <description>America is missing the fierce patriotism possessed by other nations, including China, while acquiring tendencies it should hate, The Federalist Senior Editor Chris Bedford told Fox News’ “Tucker Carlson Tonight" Thursday.</description>
+                  <dc:creator>Angelica Stabile</dc:creator>
+                         <pubDate>Fri, 07 Aug 2020 04:17:02 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Angelica Stabile</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/mlbs-houston-astros-cancel-national-anthem-singer-accused-of-molesting-minor-report</guid>
+      <link>https://www.foxnews.com/sports/mlbs-houston-astros-cancel-national-anthem-singer-accused-of-molesting-minor-report</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Harris-County-Jail.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Harris-County-Jail.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Harris-County-Jail.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e8fa117a-6598-590f-8318-cf8ef57f0ee4</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/houston-astros</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/texas</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/sex-crimes</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Twins' Miguel Sano smacks loud home run vs. Pirates: 'That one ... broke left field'</title>
-      <description>The Minnesota Twins slugger hit a three-run home run in the first inning against the Pittsburgh Pirates on Thursday.</description>
-                  <dc:creator>Ryan Gaydos</dc:creator>
-                         <pubDate>Thu, 06 Aug 2020 18:46:10 GMT</pubDate>
+      <title>MLB's Houston Astros cancel national anthem singer accused of molesting minor: report</title>
+      <description>The Houston Astros, in the wake of their highly publicized cheating scandal, are now distancing themselves from a prospective national anthem singer after learning he has been accused of sexually assaulting a minor, according to a report.</description>
+                  <dc:creator>David Aaro</dc:creator>
+                         <pubDate>Fri, 07 Aug 2020 04:12:29 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/what-happens-if-theres-no-clear-winner</guid>
-      <link>https://www.foxnews.com/politics/what-happens-if-theres-no-clear-winner</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/nra-lawsuit-new-york-cuomo-de-blasio</guid>
+      <link>https://www.foxnews.com/media/nra-lawsuit-new-york-cuomo-de-blasio</link>
                   <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3877fbf0-ca1f-46d1-8203-3df076964434/1c42d20f-152b-4db3-aa74-557c5ea3f9eb/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/image-45.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image-45.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image-45.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1ce165c7-c1de-5146-844c-32d0dac29b3e</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/tucker-carlson-tonight</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/second-amendment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/andrew-cuomo</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/bill-de-blasio</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Seth Barron rips NY AG's NRA suit as 'diversion attempt' to distract from 'bad ideas' of Cuomo, de Blasio</title>
+      <description>New York Attorney General Letitia James' lawsuit against the National Rifle Association (NRA) is an "electorally based attack" meant to distract from New York City's rise in violent crime, City Journal associate editor Seth Barron told "Tucker Carlson Tonight" Thursday.</description>
+                  <dc:creator>Victor Garcia</dc:creator>
+                         <pubDate>Fri, 07 Aug 2020 04:05:32 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Victor Garcia</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/this-day-in-history-aug-7</guid>
+      <link>https://www.foxnews.com/us/this-day-in-history-aug-7</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/GoreTicketAP.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/GoreTicketAP.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/GoreTicketAP.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1a54f5d1-c98e-5889-9a90-fb4128e2c458</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/this-day-in-history</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>This Day in History: August 7</title>
+      <description>Gen. George Washington creates the Order of the Purple Heart. The U.S. Department of War is established by Congress.</description>
+                   <pubDate>Fri, 07 Aug 2020 04:00:10 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/joe-bidens-thinking-muddled-by-racist-concepts-ohio-republican-claims</guid>
+      <link>https://www.foxnews.com/politics/joe-bidens-thinking-muddled-by-racist-concepts-ohio-republican-claims</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99f2bda1-a856-43c4-970c-0d6fcce1ce5b/00e77032-3476-4ae1-ac07-93e2dca65831/1280x720/match/image.jpg" medium="image" isDefault="true" />
         <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
       </media:group>
       <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">7b7a93bf-afd9-55e6-a417-e0a0e5e00349</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/columns/fox-news-halftime-report</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>What happens if there’s no clear winner?</title>
-      <description>Our Founders and the Constitution contemplated the possibility of contested elections.</description>
-                  <dc:creator>Chris Stirewalt</dc:creator>
-                         <pubDate>Thu, 06 Aug 2020 18:43:10 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Chris Stirewalt</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/tech/air-force-and-navy-air-launch-icbm</guid>
-      <link>https://www.foxnews.com/tech/air-force-and-navy-air-launch-icbm</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AirForceNavyICBM.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AirForceNavyICBM.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AirForceNavyICBM.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">5f0f6d12-cd94-5e8a-b413-241bbcb7a9ff</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/military/air-force</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/us-navy</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/armed-forces</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/tech</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Air Force and Navy air-launch ICBM</title>
-      <description>U.S. nuclear triad exist to ensure a decisive retaliatory strike.</description>
-                  <dc:creator>Kris Osborn</dc:creator>
-                         <pubDate>Thu, 06 Aug 2020 18:34:49 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Warrior Maven</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Kris Osborn</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/washingtons-dwayne-haskins-joe-burrow-qb-osu</guid>
-      <link>https://www.foxnews.com/sports/washingtons-dwayne-haskins-joe-burrow-qb-osu</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Dwayne-Haskins-Joe-Burrow-AP.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Dwayne-Haskins-Joe-Burrow-AP.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Dwayne-Haskins-Joe-Burrow-AP.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">ca559f6a-294d-511e-b49f-ec862b38dd7b</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/joe-burrow</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/lsu-tigers</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/ohio-state-buckeyes</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/washington-redskins</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-fb</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Washington's Dwayne Haskins recalls battle with Joe Burrow for starting QB job at Ohio State</title>
-      <description>Joe Burrow may have had the best year of any college quarterback but before his quick rise to fame at LSU where he earned a national championship, was awarded the Heisman Trophy and was eventually selected  No.1 overall in the 2020 NFL Draft, he was battling it out at Ohio State for the starting job -- and lost. </description>
-                  <dc:creator>Paulina Dedaj</dc:creator>
-                         <pubDate>Thu, 06 Aug 2020 18:33:54 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Paulina Dedaj</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/biden-trump-prosecution-2020-justice</guid>
-      <link>https://www.foxnews.com/politics/biden-trump-prosecution-2020-justice</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/BIDEN-TRUMP-NEWSLETTER-SPLIT.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/BIDEN-TRUMP-NEWSLETTER-SPLIT.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/BIDEN-TRUMP-NEWSLETTER-SPLIT.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">136c866c-4796-5edd-93eb-55786c0361b9</category>
+            <category domain="foxnews.com/metadata/dc.identifier">8ccec564-db3e-51fe-9b4f-ac996714a46b</category>
                   <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
             <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/ohio</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Biden wouldn't block Trump's prosecution if the Justice Department pursued it</title>
-      <description>Joe Biden said Thursday that he would not block an attempt from the Justice Department to prosecute President Trump if Trump were to lose in November.</description>
-                  <dc:creator>Audrey Conklin</dc:creator>
-                         <pubDate>Thu, 06 Aug 2020 18:31:15 GMT</pubDate>
+      <title>Joe Biden’s thinking muddled by ‘racist concepts,’ Ohio Republican claims</title>
+      <description>Joe Biden’s “racist concepts” may be to blame for recent controversial statements the presumptive Democratic presidential nominee made about the nation’s Black and Latino communities, an Ohio Republican says.</description>
+                  <dc:creator>Dom Calicchio</dc:creator>
+                         <pubDate>Fri, 07 Aug 2020 03:53:09 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Audrey Conklin</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/ari-fleischer-ny-suing-nra</guid>
-      <link>https://www.foxnews.com/politics/ari-fleischer-ny-suing-nra</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/meghan-mccain-blasts-daily-beast-biden-trump</guid>
+      <link>https://www.foxnews.com/media/meghan-mccain-blasts-daily-beast-biden-trump</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/fleischer.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/fleischer.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Meghan-Daily-Beast.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Meghan-Daily-Beast.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/fleischer.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">aaaecc23-489d-542c-ba5a-d9a505a948eb</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/shows/outnumbered-overtime</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/second-amendment</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>New York suing to dissolve NRA is 'one of the dumbest mistakes' you can make in election year: Ari Fleischer</title>
-      <description>The New York attorney general is “one of the most partisan figures,” said Fox News contributor Ari Fleischer on Thursday, as he criticized Letitia James' move to try to dissolve the National Rifle Association.</description>
-                  <dc:creator>Joshua Nelson</dc:creator>
-                         <pubDate>Thu, 06 Aug 2020 18:23:05 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Joshua Nelson</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/brian-hook-iran-elliot-abrams</guid>
-      <link>https://www.foxnews.com/politics/brian-hook-iran-elliot-abrams</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20208504079604.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20208504079604.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20208504079604.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">543db757-7982-5389-afbd-bd5a59a863ae</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy/state-department</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/iran</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/defense/threats</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Brian Hook, US special envoy for Iran, to step down; Elliott Abrams to take post</title>
-      <description>Brian Hook, the U.S. special representative for Iran, is leaving his post, the State Department announced Thursday, just as the Trump administration is attempting to rally the international community to extend a soon-to-expire arms embargo on the regime in Tehran.</description>
-                  <dc:creator>Adam Shaw</dc:creator>
-                         <pubDate>Thu, 06 Aug 2020 18:14:29 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Adam Shaw</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/sally-yates-hearing-john-kennedy</guid>
-      <link>https://www.foxnews.com/politics/sally-yates-hearing-john-kennedy</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/694b1c59-yates.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/694b1c59-yates.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/694b1c59-yates.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">392b145a-a73b-57f3-b3be-25a1f30a4849</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/topic/fox-news-radio</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Sen. Kennedy: What I learned from Sally Yates hearing is that 'she doesn't want to answer the questions'</title>
-      <description>Former Deputy Attorney General Sally Yates did not want to answer questions or admit to her negligence in the Russia probe during the Senate Judiciary Committee hearing yesterday, said Republican Sen. John Kennedy on Thursday.</description>
-                  <dc:creator>Joshua Nelson</dc:creator>
-                         <pubDate>Thu, 06 Aug 2020 18:13:26 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Joshua Nelson</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/opinion/sally-yates-phone-call-flynn-kt-mcfarland</guid>
-      <link>https://www.foxnews.com/opinion/sally-yates-phone-call-flynn-kt-mcfarland</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/yates.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/yates.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/yates.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">4b7854c0-634e-5521-b6d0-6d6581d46bd0</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
-            <category domain="foxnews.com/taxonomy">fox-news/news-events/russia-investigation</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/barack-obama</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Meghan-Daily-Beast.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c5c4ae52-da21-5603-ba6b-8a9903bd35c9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/meghan-mccain</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
             <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/companies/twitter</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/the-view</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>KT McFarland: What Sally Yates got wrong about my phone call with Flynn</title>
-      <description>Sally Yates spoke this week with great conviction about a phone call I had with the National Security Adviser-designate General Flynn.</description>
-                  <dc:creator>K.T. McFarland</dc:creator>
-                         <pubDate>Thu, 06 Aug 2020 18:06:51 GMT</pubDate>
+      <title>Meghan McCain bashes Daily Beast for headline suggesting she could vote for Trump over Biden</title>
+      <description>"The View" co-host Meghan McCain had a blistering response to a Daily Beast headline suggesting she could vote for President Trump in November despite McCain's previous vows that she would never support the current commander-in-chief. </description>
+                  <dc:creator>Joseph Wulfsohn</dc:creator>
+                         <pubDate>Fri, 07 Aug 2020 03:39:46 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">K.T. McFarland</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/world/paraguay-lagoon-purple-color-pollution</guid>
-      <link>https://www.foxnews.com/world/paraguay-lagoon-purple-color-pollution</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/cerro-lagoon-1.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/cerro-lagoon-1.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/cerro-lagoon-1.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">eb70519b-357b-58e9-a7c3-1e2c14bf2e4a</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/latin-america</category>
-            <category domain="foxnews.com/taxonomy">fox-news/odd-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/environment</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/world</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Scientists puzzled after Paraguayan lagoon turns purple on one side, remains blue on other</title>
-      <description>Scientists in Paraguay have been investigating how one side of the divided Cerro Lagoon turned purple and began emitting a foul odor months ago, while the other side has remained blue.</description>
-                  <dc:creator>Stephen Sorace</dc:creator>
-                         <pubDate>Thu, 06 Aug 2020 18:02:22 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Stephen Sorace</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Joseph Wulfsohn</category>
                             </item>
       </channel>
 </rss>

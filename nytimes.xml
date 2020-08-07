@@ -7,21 +7,42 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Aug 2020 19:00:06 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Aug 2020 19:00:06 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2020 05:13:22 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2020 05:13:22 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
+      <title>‘I Was a Little Scared’: Inside America’s Reopening Schools</title>
+      <link>https://www.nytimes.com/2020/08/06/us/coronavirus-students.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/coronavirus-students.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/us/coronavirus-students.html" rel="standout"></atom:link>
+      <description>In their first week back, students have faced altered classrooms and emergency quarantines. Here’s what they say school is like in the age of Covid-19.</description>
+      <dc:creator>Adam Wren and Dan Levin</dc:creator>
+      <pubDate>Fri, 07 Aug 2020 00:49:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Paulding High School (Dallas, Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/06virus-students1/06virus-students1-moth.jpg" width="151"></media:content>
+      <media:credit>Liz Wright</media:credit>
+      <media:description>Kennedy Heim, a volleyball player in Elwood, Ind., on her first day of high school. She tested positive for the coronavirus this week.</media:description>
+    </item>
+    <item>
       <title>The Unique U.S. Failure to Control the Virus</title>
-      <link>https://www.nytimes.com/2020/08/06/us/united-states-failure-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/united-states-failure-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/06/us/united-states-failure-coronavirus.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2020/08/06/us/coronavirus-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/coronavirus-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/us/coronavirus-us.html" rel="standout"></atom:link>
       <description>Slowing the coronavirus has been especially difficult for the United States because of its tradition of prioritizing individualism and missteps by the Trump administration.</description>
       <dc:creator>David Leonhardt and Lauren Leatherby</dc:creator>
-      <pubDate>Thu, 06 Aug 2020 18:54:49 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2020 22:31:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
@@ -32,7 +53,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/06VIRUS-STANDSALONE/merlin_175302816_430501a4-06cb-4fe2-90fb-9feb9be002bd-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/07/us/07VIRUS-STANDSALONE-P1/merlin_175302816_430501a4-06cb-4fe2-90fb-9feb9be002bd-moth.jpg" width="151"></media:content>
       <media:credit>Daniel Acker for The New York Times</media:credit>
       <media:description>A socially distant view of the Chicago River. Normal activities may be more difficult in the United States than in any other affluent country.</media:description>
     </item>
@@ -60,35 +81,316 @@
       <link>https://www.nytimes.com/2020/08/06/us/sturgis-motorcyle-rally-coronavirus.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/sturgis-motorcyle-rally-coronavirus.html</guid>
       <atom:link href="https://www.nytimes.com/2020/08/06/us/sturgis-motorcyle-rally-coronavirus.html" rel="standout"></atom:link>
-      <description>The annual Sturgis Motorcycle Rally may attract 250,000 people despite an uptick in South Dakota’s coronavirus cases.</description>
+      <description>The annual Sturgis Motorcycle Rally may attract 250,000 people even though South Dakota’s coronavirus cases have been rising.</description>
       <dc:creator>Mark Walker</dc:creator>
-      <pubDate>Thu, 06 Aug 2020 18:13:11 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2020 19:51:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Motorcycles, Motor Bikes and Motorscooters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sturgis (SD)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/06VIRUS-STURGIS/merlin_142104999_60de4029-fcaf-4476-857b-72c51c99cea7-moth.jpg" width="151"></media:content>
       <media:credit>Benjamin Rasmussen for The New York Times</media:credit>
-      <media:description>Bikers and bikes pack the town of Sturgis, S.D., at the annual Sturgis Motorcyle Rally in 2018.</media:description>
+      <media:description>Sturgis, S.D., has hosted a large motorcycle rally since 1938. Some city officials are upset that the annual festivities are starting on Friday despite a pandemic.</media:description>
     </item>
     <item>
-      <title>If Public Schools Are Closed, Should Private Schools Have to Follow?</title>
-      <link>https://www.nytimes.com/2020/08/05/us/schools-reopening-private-public.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/05/us/schools-reopening-private-public.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/05/us/schools-reopening-private-public.html" rel="standout"></atom:link>
-      <description>A dispute in Maryland over whether prestigious private schools can teach in person during the coronavirus pandemic highlights a national divide.</description>
-      <dc:creator>Simon Romero, Giulia McDonnell Nieto del Rio and Patricia Mazzei</dc:creator>
-      <pubDate>Thu, 06 Aug 2020 18:12:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <title>Arson Suspected in Denver Fire That Killed 5 From Senegal</title>
+      <link>https://www.nytimes.com/2020/08/06/us/Senegal-family-Colorado-fire-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/Senegal-family-Colorado-fire-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/us/Senegal-family-Colorado-fire-deaths.html" rel="standout"></atom:link>
+      <description>Three adults and two children from the same family died in the early-morning house fire in Denver, the authorities said.</description>
+      <dc:creator>Neil Vigdor and Azi Paybarah</dc:creator>
+      <pubDate>Fri, 07 Aug 2020 03:46:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sall, Macky</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denver (Colo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Senegal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/multimedia/06xp-fatalfire/merlin_175358904_69fbf18b-c490-47c1-a1d4-a6667ac2bfaa-moth.jpg" width="151"></media:content>
+      <media:credit>Thomas Peipert/Associated Press</media:credit>
+      <media:description>A homicide investigation is underway in a fatal house fire in northeast Denver, according to officials, who said that early indications pointed to foul play.</media:description>
+    </item>
+    <item>
+      <title>Bill Hagerty Wins Tough Tennessee Primary With Trump’s Endorsement</title>
+      <link>https://www.nytimes.com/2020/08/06/us/politics/tennessee-senate-primary-hagerty.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/politics/tennessee-senate-primary-hagerty.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/us/politics/tennessee-senate-primary-hagerty.html" rel="standout"></atom:link>
+      <description>The fractious race to replace the outgoing Lamar Alexander signified an end to the moderate tenor that has long defined Tennessee Republicanism.</description>
+      <dc:creator>Elaina Plott</dc:creator>
+      <pubDate>Fri, 07 Aug 2020 02:38:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hagerty, William F</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sethi, Manny</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alexander, Lamar</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/politics/06hagerty-wins/06hagerty-wins-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Humphrey/Associated Press</media:credit>
+      <media:description>Bill Hagerty, who was endorsed by President Trump, won the primary to scceed the retiring Senator Lamar Alexander on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Judge Dismisses G.O.P. Suit to End Proxy Voting in House During Pandemic</title>
+      <link>https://www.nytimes.com/2020/08/06/us/politics/house-proxy-voting-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/politics/house-proxy-voting-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/us/politics/house-proxy-voting-coronavirus.html" rel="standout"></atom:link>
+      <description>A federal judge ruled that the Constitution protected the right of the House of Representatives to make its own rules.</description>
+      <dc:creator>Luke Broadwater</dc:creator>
+      <pubDate>Fri, 07 Aug 2020 01:11:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Kevin (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/politics/06dc-proxyvoting/06dc-proxyvoting-moth.jpg" width="151"></media:content>
+      <media:credit>Stefani Reynolds for The New York Times</media:credit>
+      <media:description>The ruling comes as Congress, which has continued to meet during the pandemic, is drawing new scrutiny over its lack of consistent virus safety protocols. </media:description>
+    </item>
+    <item>
+      <title>Trump, Facing Headwinds in Ohio, Talks Up Economy in Campaign Swing</title>
+      <link>https://www.nytimes.com/2020/08/06/us/politics/trump-economy-ohio.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/politics/trump-economy-ohio.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/us/politics/trump-economy-ohio.html" rel="standout"></atom:link>
+      <description>The president came into 2020 considering the state a lock, but his performance in managing the pandemic and delivering on his promises from four years ago could put it in play.</description>
+      <dc:creator>Maggie Haberman</dc:creator>
+      <pubDate>Fri, 07 Aug 2020 02:32:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeWine, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/politics/06dc-trump/06dc-trump-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker for The New York Times</media:credit>
+      <media:description>President Trump on Thursday at a Whirlpool factory in Clyde, Ohio, where he delivered a winding series of remarks.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus Briefing: What Happened Today</title>
+      <link>https://www.nytimes.com/2020/08/06/us/coronavirus-today.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/coronavirus-today.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/us/coronavirus-today.html" rel="standout"></atom:link>
+      <description>A resurgence of coronavirus cases in the European Union is setting off fears of a second wave.</description>
+      <dc:creator>Lara Takenaga and Jonathan Wolfe</dc:creator>
+      <pubDate>Thu, 06 Aug 2020 23:22:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v697.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Elizabeth Warren on Child Care in a Pandemic</title>
+      <link>https://www.nytimes.com/2020/08/06/us/politics/elizabeth-warren-child-care.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/politics/elizabeth-warren-child-care.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/us/politics/elizabeth-warren-child-care.html" rel="standout"></atom:link>
+      <description>The senator says child care is crucial for bringing the economy back: “Women continue to have to manage it all.”</description>
+      <dc:creator>Lisa Lerer</dc:creator>
+      <pubDate>Thu, 06 Aug 2020 23:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warren, Elizabeth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/politics/06onpolitics-pm/06onpolitics-pm-moth.jpg" width="151"></media:content>
+      <media:credit>Jordan Gale for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Homeland Security Chief Defends Deployments in Portland</title>
+      <link>https://www.nytimes.com/2020/08/06/us/politics/homeland-security-portland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/politics/homeland-security-portland.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/us/politics/homeland-security-portland.html" rel="standout"></atom:link>
+      <description>Chad F. Wolf, the agency’s acting secretary, told a Senate committee that tactical agents would remain in Oregon until the local police proved they could protect federal property.</description>
+      <dc:creator>Zolan Kanno-Youngs</dc:creator>
+      <pubDate>Thu, 06 Aug 2020 22:53:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wolf, Chad F</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portland (Ore)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Homeland Security and Governmental Affairs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/politics/06dc-unrest-dhs/06dc-unrest-dhs-moth.jpg" width="151"></media:content>
+      <media:credit>Gabriella Demczuk for The New York Times</media:credit>
+      <media:description>Senate Democrats questioned Chad F. Wolf, the acting secretary of homeland security, about the tactics of federal agents in Portland, Ore.</media:description>
+    </item>
+    <item>
+      <title>The Latest U.S. Tool to Fight Election Meddling: Text Messages</title>
+      <link>https://www.nytimes.com/2020/08/06/us/politics/election-meddling-texts-russia-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/politics/election-meddling-texts-russia-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/us/politics/election-meddling-texts-russia-iran.html" rel="standout"></atom:link>
+      <description>Washington sent offers to cellphones in Russia and Iran of rewards of up to $10 million for information on hackers trying to attack American voting systems.</description>
+      <dc:creator>Julian E. Barnes</dc:creator>
+      <pubDate>Thu, 06 Aug 2020 23:49:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Text Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cellular Telephones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/politics/06dc-intel-hack/06dc-intel-hack-moth.jpg" width="151"></media:content>
+      <media:credit>C.B. Schmelter/Chattanooga Times Free Press, via Associated Press</media:credit>
+      <media:description>A polling site in Tennessee on Thursday. The Trump administration is seeking to publicize rewards for information about people trying to attack American voting systems.</media:description>
+    </item>
+    <item>
+      <title>At the Census Bureau, a Technical Memo Raises Alarms Over Politics</title>
+      <link>https://www.nytimes.com/2020/08/06/us/2020-census-undocumented-immigrants.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/2020-census-undocumented-immigrants.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/us/2020-census-undocumented-immigrants.html" rel="standout"></atom:link>
+      <description>A directive orders experts to find ways to tally undocumented residents. Some fear the end result will be a skewed allotment of seats in the House of Representatives.</description>
+      <dc:creator>Michael Wines</dc:creator>
+      <pubDate>Fri, 07 Aug 2020 03:51:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Census</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Census Bureau</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cogley, Nathaniel T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Korzeniewski, Adam</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/06census/06census-moth.jpg" width="151"></media:content>
+      <media:credit>Mandel Ngan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A census rally outside the Supreme Court last year. Experts inside and outside the Census Bureau fear that the Trump administration wants to tailor population figures for maximum political benefit.</media:description>
+    </item>
+    <item>
+      <title>The Coronavirus Is New, but Your Immune System Might Still Recognize It</title>
+      <link>https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html" rel="standout"></atom:link>
+      <description>Some people carry immune cells called T cells that can capitalize on the virus’s resemblance to other members of its family tree.</description>
+      <dc:creator>Katherine J. Wu</dc:creator>
+      <pubDate>Thu, 06 Aug 2020 21:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immune System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/science/06VIRUS-CROSS-REACTIVE1/merlin_175379085_78b2b3e8-142e-42c8-a9a1-d1d49b9a539c-moth.jpg" width="151"></media:content>
+      <media:credit>Science Source</media:credit>
+      <media:description>A colorized scanning electron micrograph of a human T cell. Encounters with other coronaviruses may prime the immune system to fight the virus that causes Covid-19.</media:description>
+    </item>
+    <item>
+      <title>For Three Suffragists, a Monument Well Past Due</title>
+      <link>https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html" rel="standout"></atom:link>
+      <description>Central Park will soon unveil its first sculpture depicting nonfictional female figures. “The fact that nobody even noticed that women were missing in Central Park — what does that say about the invisibility of women?”</description>
+      <dc:creator>Alisha Haridasani Gupta</dc:creator>
+      <pubDate>Thu, 06 Aug 2020 22:33:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sculpture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteenth Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parks and Other Recreation Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anthony, Susan B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stanton, Elizabeth Cady</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truth, Sojourner</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="">2020 Suffrage</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/07/arts/06suffragist-statue1/merlin_175219929_4754839c-537e-4f93-91f4-7f93819ef33b-moth.jpg" width="151"></media:content>
+      <media:credit>Yael Malka for The New York Times</media:credit>
+      <media:description>The sculptor Meredith Bergmann is putting the finishing touches on her suffragist sculpture, slated to be presented in Central Park on Aug. 26. It will be the park’s first — and so far only — monument honoring nonfictional women.</media:description>
+    </item>
+    <item>
+      <title>Why Influencers Won’t Stop Partying Anytime Soon</title>
+      <link>https://www.nytimes.com/2020/08/06/style/influencer-parties-jake-paul-tana-mongeau-thomas-petrou-hype-house.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/style/influencer-parties-jake-paul-tana-mongeau-thomas-petrou-hype-house.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/style/influencer-parties-jake-paul-tana-mongeau-thomas-petrou-hype-house.html" rel="standout"></atom:link>
+      <description>Creators in Los Angeles say that hosting and posting about big social gatherings is part of their job, coronavirus or no.</description>
+      <dc:creator>Taylor Lorenz</dc:creator>
+      <pubDate>Thu, 06 Aug 2020 20:18:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garcetti, Eric M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul, Jake (1997- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parties (Social)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/09/fashion/06INFLUENCER-PARTIES-tana-mongeau/06INFLUENCER-PARTIES-tana-mongeau-moth.jpg" width="151"></media:content>
+      <media:credit>Johannes Eisele/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>Tana Mongeau shared a public apology for attending a large, creator-filled birthday party at the Hype House in July.</media:description>
+    </item>
+    <item>
+      <title>With Old Allies Turning Against Her, Birx Presses On Against the Coronavirus</title>
+      <link>https://www.nytimes.com/2020/08/06/us/politics/birx-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/politics/birx-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/us/politics/birx-coronavirus.html" rel="standout"></atom:link>
+      <description>Dr. Deborah L. Birx, the White House coronavirus response coordinator, has found herself a woman without a country, denounced by Democrats and called “pathetic” by the president.</description>
+      <dc:creator>Sheryl Gay Stolberg</dc:creator>
+      <pubDate>Thu, 06 Aug 2020 19:42:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Birx, Deborah L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/politics/06dc-virus-birx01/06dc-virus-birx01-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Dr. Deborah Birx’s defenders, and even her critics, say she is in a difficult spot, serving a mercurial president who has shown little regard for science.</media:description>
+    </item>
+    <item>
+      <title>A 4th Presidential Debate? Commission Says No to Trump</title>
+      <link>https://www.nytimes.com/2020/08/06/us/politics/presidential-debates-trump-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/politics/presidential-debates-trump-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/us/politics/presidential-debates-trump-biden.html" rel="standout"></atom:link>
+      <description>The Trump campaign had argued that the current schedule would render the debates useless to the many Americans who will vote by mail before they take place.</description>
+      <dc:creator>Matt Stevens</dc:creator>
+      <pubDate>Thu, 06 Aug 2020 21:35:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Debates (Political)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/politics/06debates/06debates-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker for The New York Times</media:credit>
+      <media:description>President Trump had asked for changes to the debate schedule, a request Joe Biden’s campaign had dismissed.</media:description>
+    </item>
+    <item>
+      <title>‘The Photo Does Not Look Good’: Georgia School’s Crowded Halls Go Viral</title>
+      <link>https://www.nytimes.com/2020/08/06/us/north-paulding-high-school-coronavirus-georgia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/north-paulding-high-school-coronavirus-georgia.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/us/north-paulding-high-school-coronavirus-georgia.html" rel="standout"></atom:link>
+      <description>A student was suspended for five days for posting images of packed hallways at North Paulding High School, her mother said.</description>
+      <dc:creator>Giulia McDonnell Nieto del Rio</dc:creator>
+      <pubDate>Thu, 06 Aug 2020 20:10:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hogan, Lawrence J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montgomery County (Md)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maryland</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/05/us/05VIRUS-SCHOOLS-philips/merlin_138525426_13d7ff76-2b94-4bfb-b84f-f6102769be0f-moth.jpg" width="151"></media:content>
-      <media:credit>Elise Amendola/Associated Press</media:credit>
-      <media:description>Several of the country’s most elite boarding schools, including Phillips Academy in Andover, Mass., say they plan to reopen this fall. </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dallas (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paulding County School District</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Paulding High School (Dallas, Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/06virus-hallway/06virus-hallway-moth.jpg" width="151"></media:content>
+      <media:credit>Hannah Watters, via Associated Press</media:credit>
+      <media:description>A crowded hallway at North Paulding High School in Dallas, Ga., on Tuesday.</media:description>
     </item>
     <item>
       <title>Michelle Obama Says She Is Dealing With ‘Low-Grade Depression’</title>
@@ -109,19 +411,20 @@
       <media:description>Michelle Obama said she had benefited from keeping a routine, including exercise, getting fresh air and having a regular dinner time.</media:description>
     </item>
     <item>
-      <title>Gov. Mike DeWine of Ohio Tests Positive for Coronavirus</title>
+      <title>Gov. Mike DeWine of Ohio Tests Positive, Then Negative, for Coronavirus</title>
       <link>https://www.nytimes.com/2020/08/06/us/mike-dewine-coronavirus.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/us/mike-dewine-coronavirus.html</guid>
       <atom:link href="https://www.nytimes.com/2020/08/06/us/mike-dewine-coronavirus.html" rel="standout"></atom:link>
-      <description>The governor, who has been a leading voice among Republicans in warning of the dangers of the virus, tested positive while being screened to greet President Trump in Cleveland.</description>
+      <description>The governor said he felt confident in the results of a negative test that was taken hours after he tested positive while being screened to greet President Trump.</description>
       <dc:creator>Sarah Mervosh</dc:creator>
-      <pubDate>Thu, 06 Aug 2020 17:28:35 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2020 03:59:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeWine, Mike</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/06virus-dewine/merlin_175382577_4f5513ba-95da-40b1-bb46-ed17204928a1-moth.jpg" width="151"></media:content>
       <media:credit>John Minchillo/Associated Press</media:credit>
-      <media:description>Gov. Mike DeWine of Ohio tested positive for coronavirus, but was not experiencing any symptoms, his office said.</media:description>
+      <media:description>The initial positive test came as a surprise to Gov. Mike DeWine of Ohio, who said he had a headache but no other symptoms. </media:description>
     </item>
     <item>
       <title>Toy Cars and Crop Tops: Can Wacky U.S.P.S. Store Merch Save the Struggling Postal Service?</title>
@@ -144,7 +447,7 @@
       <atom:link href="https://www.nytimes.com/2020/08/06/climate/hurricanes-noaa-prediction.html" rel="standout"></atom:link>
       <description>Scientists at NOAA updated their prediction for the 2020 hurricane season, and now expect as many as 25 named storms.</description>
       <dc:creator>Henry Fountain</dc:creator>
-      <pubDate>Thu, 06 Aug 2020 16:55:02 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2020 20:15:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
@@ -164,7 +467,7 @@
       <atom:link href="https://www.nytimes.com/2020/08/06/us/politics/iran-us-brian-hook.html" rel="standout"></atom:link>
       <description>The exit of Brian Hook, the State Department’s special envoy for Iran, most likely rules out nuclear diplomacy with Tehran before November.</description>
       <dc:creator>David E. Sanger and Michael Crowley</dc:creator>
-      <pubDate>Thu, 06 Aug 2020 16:35:45 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2020 21:21:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -205,11 +508,18 @@
       <atom:link href="https://www.nytimes.com/2020/08/06/us/ny-nra-lawsuit-letitia-james.html" rel="standout"></atom:link>
       <description>Letitia James seeks to dissolve the National Rifle Association, which was founded in New York, amid corruption allegations.</description>
       <dc:creator>Danny Hakim</dc:creator>
-      <pubDate>Thu, 06 Aug 2020 17:53:09 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2020 22:56:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rifle Assn</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, Letitia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">LaPierre, Wayne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">John Frazer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Josh Powell</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Phillips, Wilson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Evasion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/multimedia/06NRA/06NRA-moth.jpg" width="151"></media:content>
       <media:credit>Mike Segar/Reuters</media:credit>
       <media:description>The New York attorney general, Letitia James, also sued four current or former top N.R.A. leaders, seeking tens of millions of dollars in restitution.</media:description>
@@ -221,7 +531,7 @@
       <atom:link href="https://www.nytimes.com/2020/08/06/health/coronavirus-asymptomatic-transmission.html" rel="standout"></atom:link>
       <description>Researchers in South Korea found that roughly 30 percent of those infected never develop symptoms yet probably spread the virus.</description>
       <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Thu, 06 Aug 2020 15:28:09 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2020 21:06:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
