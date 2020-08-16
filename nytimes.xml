@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 15 Aug 2020 21:11:03 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Aug 2020 21:11:03 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2020 23:00:04 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2020 23:00:04 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,15 +21,17 @@
       <atom:link href="https://www.nytimes.com/2020/08/15/us/post-office-vote-by-mail.html" rel="standout"></atom:link>
       <description>President Trump’s furious objection to mail-in balloting and a new Trump-allied postmaster general are raising fears about the election and the Postal Service.</description>
       <dc:creator>Luke Broadwater, Jack Healy, Michael D. Shear and Hailey Fuchs</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 19:16:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Postal Service and Post Offices</category>
+      <pubDate>Sun, 16 Aug 2020 19:23:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Postal Service (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Postal Service and Post Offices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Postal Service (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeJoy, Louis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Darby (Pa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/us/politics/15postoffice-promo/15postoffice-promo-moth.jpg" width="151"></media:content>
       <media:credit>Michelle Gustafson for The New York Times</media:credit>
     </item>
@@ -40,13 +42,14 @@
       <atom:link href="https://www.nytimes.com/2020/08/15/us/coronavirus-testing-decrease.html" rel="standout"></atom:link>
       <description>For the first time during the pandemic, the United States saw a downward trend in the number of coronavirus tests conducted each day.</description>
       <dc:creator>Sarah Mervosh, Nicholas Bogel-Burroughs and Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 20:25:42 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2020 16:50:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Contact Tracing (Public Health)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giroir, Brett P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/13/us/00VIRUS-TESTING-1/00VIRUS-TESTING-1-moth.jpg" width="151"></media:content>
       <media:credit>Philip Cheung for The New York Times</media:credit>
       <media:description>A testing site in Los Angeles on Thursday. The number of tests being conducted daily in the area is down from earlier peaks this summer.</media:description>
@@ -59,12 +62,14 @@
       <description>Devastating windstorms just before harvest were the last thing that Iowa farmers needed.</description>
       <dc:creator>Will Wright</dc:creator>
       <pubDate>Sat, 15 Aug 2020 15:46:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iowa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soybeans</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Corn</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soybeans</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/us/14IOWA-1-sub/merlin_175593246_44580aef-bc41-4dc1-9346-2758deb2b17e-moth.jpg" width="151"></media:content>
       <media:credit>Daniel Acker/Getty Images</media:credit>
       <media:description>Corn plants after a storm in Tama, Iowa. State officials estimate that as many as 14 million acres of farmland — more than a third of the state’s total farmland — were damaged. </media:description>
@@ -77,485 +82,445 @@
       <description>Her parents’ arrival to Berkeley as young graduate students was the beginning of a historic wave of immigration from outside Europe that would change the United States in ways its leaders never imagined.</description>
       <dc:creator>Sabrina Tavernise</dc:creator>
       <pubDate>Sat, 15 Aug 2020 17:00:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vice Presidents and Vice Presidency (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hashmi, Ghazala</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Indian-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Jamaican-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vice Presidents and Vice Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hashmi, Ghazala</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/us/00HARRIS-SECONDGEN/00HARRIS-SECONDGEN-moth.jpg" width="151"></media:content>
       <media:credit>Erin Schaff/The New York Times</media:credit>
       <media:description>In California, where Kamala Harris grew up and the state she now represents in the Senate, about half of all children come from immigrant homes. </media:description>
     </item>
     <item>
-      <title>The &#39;Basketball Cop&#39; Was a Hero in One Video. Another Told a Different Story.</title>
-      <link>https://www.nytimes.com/2020/08/15/us/politics/basketball-cop-gainesville-police.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/politics/basketball-cop-gainesville-police.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/15/us/politics/basketball-cop-gainesville-police.html" rel="standout"></atom:link>
-      <description>Bobby White was celebrated as the “Basketball Cop” after millions saw a video of him shooting hoops with local teenagers. A recording from two years earlier shows him throwing a young Black man on the hood of his car during an arrest.</description>
-      <dc:creator>Nicholas Casey</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 19:36:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gainesville (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <title>Scientists See Signs of Lasting Immunity to Covid-19, Even After Mild Infections</title>
+      <link>https://www.nytimes.com/2020/08/16/health/coronavirus-immunity-antibodies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/health/coronavirus-immunity-antibodies.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/health/coronavirus-immunity-antibodies.html" rel="standout"></atom:link>
+      <description>New research indicates that human immune system cells are storing information about the coronavirus so they can fight it off again.</description>
+      <dc:creator>Katherine J. Wu</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 21:40:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immune System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antibodies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cell (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/business/00virus-memory/merlin_174837078_0a274a5c-a5d6-4ea1-bc87-47e8841b25fd-moth.jpg" width="151"></media:content>
+      <media:credit>Joe Raedle/Getty Images</media:credit>
+      <media:description>Medical workers taking a blood test for antibodies in Miami Lakes, Fla., in July.</media:description>
     </item>
     <item>
-      <title>Bald Eagle Sends Government Drone Into Lake Michigan</title>
-      <link>https://www.nytimes.com/2020/08/15/us/bald-eagle-attacks-drone.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/bald-eagle-attacks-drone.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/15/us/bald-eagle-attacks-drone.html" rel="standout"></atom:link>
-      <description>A Michigan state environmental agency, which is abbreviated E.G.L.E., lost a $950 drone in the aerial battle.</description>
-      <dc:creator>Bryan Pietsch</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 17:35:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Upper Peninsula (Mich)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bald Eagles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Michigan Department of Environment, Great Lakes, and Energy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/multimedia/15xp-eagle-pix/15xp-eagle-pix-moth.jpg" width="151"></media:content>
-      <media:credit>Scott Mason/The Winchester Star, via Associated Press</media:credit>
-      <media:description>The drone, done in by the eagle, fell at a speed of 20.4 miles per hour, according to flight records it sent in its final moments.</media:description>
+      <title>Fire Tornadoes Reported in Northern California Wildfire</title>
+      <link>https://www.nytimes.com/2020/08/16/us/loyalton-fire-tornado.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/us/loyalton-fire-tornado.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/us/loyalton-fire-tornado.html" rel="standout"></atom:link>
+      <description>The National Weather Service issued an unusual warning on Saturday about the possibility of “a fire-induced tornado.”</description>
+      <dc:creator>Allyson Waller</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 21:38:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Loyalton (Calif)</category>
+      <category domain="">Fire tornado</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/multimedia/16xp-fire-tornado-pix/16xp-fire-tornado-pix-moth.jpg" width="151"></media:content>
+      <media:credit>Katelynn Hewlett, via Reuters</media:credit>
+      <media:description>A funnel in the Loyalton Fire in California on Saturday. Fire tornadoes spawn in a combination of extreme heat from fire, turbulent winds and uneven terrain, a meteorologist said.</media:description>
     </item>
     <item>
-      <title>Trump Campaign Makes Huge Digital Ad Buy During Democratic Convention</title>
-      <link>https://www.nytimes.com/2020/08/15/us/politics/trump-campaign-ads-dnc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/politics/trump-campaign-ads-dnc.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/15/us/politics/trump-campaign-ads-dnc.html" rel="standout"></atom:link>
-      <description>The Trump campaign is trying to make sure that Mr. Trump’s message will be almost impossible to miss even during the Democrats’ biggest week.</description>
-      <dc:creator>Nick Corasaniti and Maggie Haberman</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 18:02:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+      <title>Who is Louis DeJoy?</title>
+      <link>https://www.nytimes.com/article/general-louis-dejoy-postmaster.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/general-louis-dejoy-postmaster.html</guid>
+      <atom:link href="https://www.nytimes.com/article/general-louis-dejoy-postmaster.html" rel="standout"></atom:link>
+      <description>The official at the center of the controversy over the Postal Service is a major Trump donor with a career in logistics.</description>
+      <dc:creator>Lucy Tompkins</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 20:39:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Postal Service and Post Offices</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Postal Service (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeJoy, Louis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/us/15trump-ads/15trump-ads-moth.jpg" width="151"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
-      <media:description>President Trump talked to reporters in Morristown, N.J., on Friday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greensboro (NC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/us/16WHOIS-LOUISDEJOY-1/16WHOIS-LOUISDEJOY-1-moth.jpg" width="151"></media:content>
+      <media:credit>Carolyn Kaster/Associated Press</media:credit>
+      <media:description>Postmaster General Louis DeJoy, left, on Capitol Hill in August.</media:description>
     </item>
     <item>
-      <title>An expected guilty plea in the review of the Russia inquiry pleases Trump.</title>
-      <link>https://www.nytimes.com/2020/08/15/us/elections/an-expected-guilty-plea-in-the-review-of-the-russia-inquiry-pleases-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/elections/an-expected-guilty-plea-in-the-review-of-the-russia-inquiry-pleases-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/15/us/elections/an-expected-guilty-plea-in-the-review-of-the-russia-inquiry-pleases-trump.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Adam Goldman</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 13:37:04 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/multimedia/15elections-briefing-trump-FBI/merlin_175730409_c3af7bd5-fb4d-4ba0-a86b-f528396ab98c-moth.jpg" width="151"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
-      <media:description>President Trump promoted news of the pending plea agreement as evidence that the investigation of Russian interference in the 2016 election was illegitimate.</media:description>
-    </item>
-    <item>
-      <title>The Postal Service warns states it may not meet mail-in ballot deadlines.</title>
-      <link>https://www.nytimes.com/2020/08/15/us/elections/the-postal-service-warns-states-it-may-not-meet-mail-in-ballot-deadlines.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/elections/the-postal-service-warns-states-it-may-not-meet-mail-in-ballot-deadlines.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/15/us/elections/the-postal-service-warns-states-it-may-not-meet-mail-in-ballot-deadlines.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Luke Broadwater, Hailey Fuchs and Nick Corasaniti</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 14:19:24 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/briefing/15-election-briefing-post-office/14pmbriefing-us-ss-slide-6JFZ-moth.jpg" width="151"></media:content>
-      <media:credit>Matt Rourke/Associated Press</media:credit>
-      <media:description>The Postal Service warned multiple states that their mail-in ballot windows were too short to guarantee timely delivery.</media:description>
-    </item>
-    <item>
-      <title>Trump refrains from disavowing QAnon conspiracy.</title>
-      <link>https://www.nytimes.com/2020/08/15/us/elections/trump-refrains-from-disavowing-qanon-conspiracy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/elections/trump-refrains-from-disavowing-qanon-conspiracy.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/15/us/elections/trump-refrains-from-disavowing-qanon-conspiracy.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Annie Karni</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 15:05:52 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/us/politics/14-live-chao-1440/merlin_160635537_dd26ae79-719c-4972-9a3f-12114337048d-moth.jpg" width="151"></media:content>
-      <media:credit>Tom Brenner for The New York Times</media:credit>
-      <media:description>A QAnon rally near the White House in 2019.</media:description>
-    </item>
-    <item>
-      <title>Trump Ads Attack Biden Through Deceptive Editing and Hyperbole</title>
-      <link>https://www.nytimes.com/2020/08/15/us/politics/trump-campaign-ads-biden.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/politics/trump-campaign-ads-biden.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/15/us/politics/trump-campaign-ads-biden.html" rel="standout"></atom:link>
-      <description>We reviewed all of the Trump campaign’s television ads since June. Two-thirds contained clearly misleading claims or videos.</description>
-      <dc:creator>Linda Qiu</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 13:43:55 +0000</pubDate>
+      <title>Milwaukee’s Lost Mega-Event: ‘It’s the Ghost Convention Now’</title>
+      <link>https://www.nytimes.com/2020/08/16/us/politics/democrats-convention-milwaukee-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/us/politics/democrats-convention-milwaukee-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/us/politics/democrats-convention-milwaukee-biden.html" rel="standout"></atom:link>
+      <description>The Democratic convention starts Monday. But none of the leading participants will be in Milwaukee, the host city. Hotels there were closed and the bars of America’s most beer-loving city were eerily barren.</description>
+      <dc:creator>Astead W. Herndon and Reid J. Epstein</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 22:22:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Reform</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Taxes (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Cuts and Jobs Act (2017)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Charter Schools</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/us/15dc-factcheck/15dc-factcheck-moth.jpg" width="151"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>President Trump during an unscheduled stop last month in Bedminster, N.J. His campaign’s ads throughout much of June and July have focused on activists’ calls to defund the police with hyperbolic warnings about the ramifications.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic National Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barrett, Tom (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lasry, Marc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Perez, Thomas E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milwaukee (Wis)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/us/politics/16dem-convention-1/merlin_175784250_a60b4068-325d-4ee6-8e39-6ebea459ab27-moth.jpg" width="151"></media:content>
+      <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
+      <media:description>The Democratic National Convention is advertised at the Miller High Life Theater in Milwaukee on Sunday.</media:description>
     </item>
     <item>
-      <title>Coronavirus Live News and Updates</title>
-      <link>https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html" rel="standout"></atom:link>
-      <description>Mitt Romney blasts President Trump’s handling of pandemic. Many U.S. cities fear a public transit “death spiral.” Brazil’s extensive outbreak makes it a good vaccine testing ground.</description>
-      <pubDate>Sat, 15 Aug 2020 20:32:32 +0000</pubDate>
+      <title>Cincinnati Shooting Leaves 2 Dead and 9 Wounded, Police Say  </title>
+      <link>https://www.nytimes.com/2020/08/16/us/cincinnati-shootings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/us/cincinnati-shootings.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/us/cincinnati-shootings.html" rel="standout"></atom:link>
+      <description>It was the deadliest of four shootings late Saturday and early on Sunday. Officials said the episodes were unrelated and a motive remained unknown.</description>
+      <dc:creator>Bryan Pietsch</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 18:39:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cincinnati (Ohio)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robert Rogers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jaquiez Grant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Antonio Blair</category>
+    </item>
+    <item>
+      <title>Pelosi to Recall House for Postal Service Vote as Democrats Press for DeJoy to Testify</title>
+      <link>https://www.nytimes.com/2020/08/16/us/politics/coronavirus-postal-service-stimulus-bill.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/us/politics/coronavirus-postal-service-stimulus-bill.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/us/politics/coronavirus-postal-service-stimulus-bill.html" rel="standout"></atom:link>
+      <description>The House will cut short its summer recess to consider legislation that would counter changes at the Postal Service that critics say undermine casting ballots by mail.</description>
+      <dc:creator>Emily Cochrane and Catie Edmondson</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 21:07:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Postal Service and Post Offices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Postal Service (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeJoy, Louis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stimulus (Economic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meadows, Mark R (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/us/politics/16dc-postal/merlin_175699260_8bdf490a-64a7-49ed-9198-d6a2d4275e42-moth.jpg" width="151"></media:content>
+      <media:credit>Michelle Gustafson for The New York Times</media:credit>
+      <media:description>A mail delivery truck outside the post office in Darby, Pa. A series of changes enacted by Louis DeJoy, the postmaster general and a Trump megadonor, have resulted in increasing delays in delivery.</media:description>
+    </item>
+    <item>
+      <title>Fearing a ‘Twindemic,’ Health Experts Push Urgently for Flu Shots</title>
+      <link>https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/health/coronavirus-flu-vaccine-twindemic.html" rel="standout"></atom:link>
+      <description>There’s no vaccine for Covid-19, but there’s one for influenza. With the season’s first doses now shipping, officials are struggling over how to get people to take it.</description>
+      <dc:creator>Jan Hoffman</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 22:53:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/13/science/00VIRUS-FLU2/00VIRUS-FLU2-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Joshua Bright for The New York Times</media:credit>
+      <media:description>A flu patient awaited treatment in a surge tent outside the emergency room of Lehigh Valley Hospital in Pennsylvania during the 2017-18 flu season.</media:description>
+    </item>
+    <item>
+      <title>Looming Fee Increase Could Thwart Many U.S. Citizenship Applications</title>
+      <link>https://www.nytimes.com/2020/08/16/us/politics/us-citizenship-fee-increase.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/us/politics/us-citizenship-fee-increase.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/us/politics/us-citizenship-fee-increase.html" rel="standout"></atom:link>
+      <description>The Trump administration is planning a sharp increase in the cost of naturalization this fall. Critics say it is part of a pattern intended to discourage immigration from poor nations.</description>
+      <dc:creator>Hailey Fuchs</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 16:51:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citizenship and Immigration Services (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cuccinelli, Kenneth T II</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/multimedia/16dc-immigration-fee-1/16dc-immigration-fee-1-moth.jpg" width="151"></media:content>
+      <media:credit>Mario Tama/Getty Images</media:credit>
+      <media:description>A newly naturalized citizen celebrated after a drive-in ceremony in Santa Ana, Calif., last month. The Trump administration plans to raise application fees by more than 80 percent in October.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Policies Are a Boon to the Super Rich. So Where Are All the Seven-Figure Checks?</title>
+      <link>https://www.nytimes.com/2020/08/16/us/politics/trumps-campaign-big-donors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/us/politics/trumps-campaign-big-donors.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/us/politics/trumps-campaign-big-donors.html" rel="standout"></atom:link>
+      <description>Only a small fraction of the president’s top donors from 2016 have given as much to his re-election effort.</description>
+      <dc:creator>Glenn Thrush, Rebecca R. Ruiz and Karen Yourish</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 19:21:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">America First Action</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">America First Policies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMahon, Linda E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mellon, Timothy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/06/us/politics/00TrumpBigDonors/00TrumpBigDonors-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>President Trump has collected huge numbers of small donations online, but he lacks robust support from wealthy Republicans.</media:description>
+    </item>
+    <item>
+      <title>Dr. Jay Galst, a Specialist in Eyes and Coins, Dies at 69</title>
+      <link>https://www.nytimes.com/2020/08/16/obituaries/dr-jay-galst-dead-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/obituaries/dr-jay-galst-dead-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/obituaries/dr-jay-galst-dead-coronavirus.html" rel="standout"></atom:link>
+      <description>An ophthalmologist with a numismatic hobby, he combined those interests in an unusual book. He died of the novel coronavirus.</description>
+      <dc:creator>Neil Genzlinger</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 14:40:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Galst, Jay M (1950-2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Numismatics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eyes and Eyesight</category>
+      <category domain="">ophthalmology</category>
+    </item>
+    <item>
+      <title>Demonstrators plan a second protest at the postmaster general’s home.</title>
+      <link>https://www.nytimes.com/2020/08/16/us/elections/demonstrators-plan-a-second-protest-at-the-postmaster-generals-home.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/us/elections/demonstrators-plan-a-second-protest-at-the-postmaster-generals-home.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/us/elections/demonstrators-plan-a-second-protest-at-the-postmaster-generals-home.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Aishvarya Kavi</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 16:34:52 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/business/15elections-post-video/merlin_175749588_93a369af-a611-4652-88f7-472694cf0692-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Lo Scalzo/EPA, via Shutterstock</media:credit>
+    </item>
+    <item>
+      <title>A New York police union endorses Trump.</title>
+      <link>https://www.nytimes.com/2020/08/16/us/elections/a-new-york-police-union-endorses-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/us/elections/a-new-york-police-union-endorses-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/us/elections/a-new-york-police-union-endorses-trump.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Matt Stevens</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 13:03:10 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/business/15elections-briefing-NJ/merlin_175728324_2986d662-9e79-4e92-9594-500720ccd520-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>President Trump speaking to the City of New York Police Benevolent Association in Bedminster, N.J., on Friday.</media:description>
+    </item>
+    <item>
+      <title>A New Jersey congressman is calling for an investigation into the postal crisis.</title>
+      <link>https://www.nytimes.com/2020/08/16/us/elections/a-new-jersey-congressman-is-calling-for-an-investigation-into-the-postal-crisis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/us/elections/a-new-jersey-congressman-is-calling-for-an-investigation-into-the-postal-crisis.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/us/elections/a-new-jersey-congressman-is-calling-for-an-investigation-into-the-postal-crisis.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Michael Levenson</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 13:03:10 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/us/politics/15elections-pascrell/15elections-pascrell-moth.jpg" width="151"></media:content>
+      <media:credit>T.J. Kirkpatrick for The New York Times</media:credit>
+      <media:description>Rep. Bill Pascrell Jr. of New Jersey.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus News: Strong Immunity May Follow Even Mild Cases</title>
+      <link>https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/world/coronavirus-covid-19.html" rel="standout"></atom:link>
+      <description>A California heat wave and power cuts create a pandemic quandary. And the C.D.C. is developing a plan for vaccine distribution.</description>
+      <pubDate>Sun, 16 Aug 2020 22:39:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-moth.jpg" width="151"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
-      <title>Public Transit Cuts Felt Deepest in Low-Income Areas</title>
-      <link>https://www.nytimes.com/2020/08/15/us/virus-transit-congress.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/virus-transit-congress.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/15/us/virus-transit-congress.html" rel="standout"></atom:link>
-      <description>As the pandemic wreaks havoc on public transit systems across the country, experts say it is low-income residents, people of color and essential workers bearing the brunt.</description>
-      <dc:creator>Pranshu Verma</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 09:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subways</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Public Transit Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schumer, Charles E</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/us/politics/15dc-virus-transit3-sub/15dc-virus-transit3-sub-moth.jpg" width="151"></media:content>
-      <media:credit>Annie Flanagan for The New York Times</media:credit>
-      <media:description>Ms. Red boarding the bus on Friday in extremely hot weather. A six-mile trip to the grocery store, which used to take an hour, sometimes takes close to three.</media:description>
-    </item>
-    <item>
-      <title>As Colleges Move Classes Online, Families Rebel Against the Cost</title>
-      <link>https://www.nytimes.com/2020/08/15/us/covid-college-tuition.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/covid-college-tuition.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/15/us/covid-college-tuition.html" rel="standout"></atom:link>
-      <description>Schools face rising demands for tuition rebates, increased aid and leaves of absence as students ask if college is becoming “glorified Skype.”</description>
-      <dc:creator>Shawn Hubler</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 18:15:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Financial Aid (Education)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tuition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chapman University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feldman, David H</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/us/00virus-tuition/00virus-tuition-moth.jpg" width="151"></media:content>
-      <media:credit>Sanjay Suchak for The New York Times</media:credit>
-      <media:description>The empty campus of the University of Virginia in Charlottesville, Va. The school is among a host of colleges that plan to hold all or most of their classes online this fall.</media:description>
-    </item>
-    <item>
-      <title>Stay Entertained At Home with Bach, Beowulf and a  Bee Aficionado</title>
-      <link>https://www.nytimes.com/2020/08/15/at-home/coronavirus-things-to-do-this-week.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/at-home/coronavirus-things-to-do-this-week.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/15/at-home/coronavirus-things-to-do-this-week.html" rel="standout"></atom:link>
-      <description>Check out emerging New York photographers, stitch up a suffragist’s portrait and liven up your lunch break with a digital dance party.</description>
-      <dc:creator>Adriana Balsamo</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 09:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Beowulf (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bach, Johann Sebastian</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Finish the Fight!: The Brave and Revolutionary Women Who Fought for the Right to Vote (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chambers, Veronica</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wells, Ida B</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guston, Philip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Chanel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Studio Museum in Harlem</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ulmer, Mikaila A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sutter, Wendy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/at-home/16-ah-cal-embroidery/16-ah-stress-04-moth.jpg" width="151"></media:content>
-      <media:credit>Elena Xausa</media:credit>
-    </item>
-    <item>
-      <title>Kamala Harris Changes the Race While Trump Tells on Himself</title>
-      <link>https://www.nytimes.com/2020/08/15/us/politics/trump-biden-kamala.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/politics/trump-biden-kamala.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/15/us/politics/trump-biden-kamala.html" rel="standout"></atom:link>
-      <description>There were surprises this week that weren’t entirely shocking: Ms. Harris joined Joe Biden’s ticket and President Trump resurrected birtherism. Here’s what to make of the last week in politics.</description>
-      <dc:creator>Annie Karni and Astead W. Herndon</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 12:39:28 +0000</pubDate>
+      <title>How Biden Could Learn From Conor Lamb’s Victory in Trump Country</title>
+      <link>https://www.nytimes.com/2020/08/16/us/politics/joe-biden-conor-lamb-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/us/politics/joe-biden-conor-lamb-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/us/politics/joe-biden-conor-lamb-trump.html" rel="standout"></atom:link>
+      <description>Throughout his campaign, Joe Biden has repeatedly returned to the same themes and strategies that supported Mr. Lamb to a surprise victory in a district that Donald Trump carried by about 20 points in 2016.</description>
+      <dc:creator>Reid J. Epstein</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 18:39:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lamb, Conor J (1984- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/us/politics/16lamb-biden1/16lamb-biden1-moth.jpg" width="151"></media:content>
+      <media:credit>Ross Mantle for The New York Times</media:credit>
+      <media:description>Representative Conor Lamb won a surprise victory in a 2018 special election in a district that President Trump carried by about 20 points in 2016.</media:description>
+    </item>
+    <item>
+      <title>Turning Grief for a Hidden Past Into a Healing Space</title>
+      <link>https://www.nytimes.com/2020/08/16/arts/design/university-of-virginia-enslaved-laborers-memorial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/arts/design/university-of-virginia-enslaved-laborers-memorial.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/arts/design/university-of-virginia-enslaved-laborers-memorial.html" rel="standout"></atom:link>
+      <description>The University of Virginia in Charlottesville, designed by Thomas Jefferson, was built by enslaved people. The Memorial to Enslaved Laborers acknowledges that long-suppressed history.</description>
+      <dc:creator>Holland Cotter</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 13:11:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Virginia</category>
+      <category domain="">Memorial to Enslaved Laborers (University of Virginia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jefferson, Thomas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Charlottesville (Va)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/13/arts/13uva-gibbons-promo-charlottesvilleq-copy/13uva-gibbons-promo-charlottesvilleq-copy-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Sanjay Suchak for The New York Times</media:credit>
+      <media:description>The name of Isabella Gibbons, an enslaved woman who lived and worked at the University of Virginia and became a teacher.</media:description>
+    </item>
+    <item>
+      <title>Why A &#34;Hidden&#34; Trump Vote Can&#39;t Explain His Bad Poll Numbers</title>
+      <link>https://www.nytimes.com/2020/08/16/us/politics/trump-polls.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/us/politics/trump-polls.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/us/politics/trump-polls.html" rel="standout"></atom:link>
+      <description>Republicans insist that millions of Americans want to vote for Trump but won’t admit it. Polling experts tell a different story.</description>
+      <dc:creator>Jeremy W. Peters</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 09:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/us/politics/16hiddenvoters1/merlin_174874272_fe09fa4e-99df-4d02-9c82-d14e07aed569-moth.jpg" width="151"></media:content>
+      <media:credit>Travis Dove for The New York Times</media:credit>
+      <media:description>A Republican canvasser visited Tiffany Blythe in Mooresville, N.C., last month.</media:description>
+    </item>
+    <item>
+      <title>A Virginia House Candidate Campaigns by Attacking ‘a Man Dressed as a Woman’</title>
+      <link>https://www.nytimes.com/2020/08/16/us/politics/lgbt-bob-good-congress-va.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/us/politics/lgbt-bob-good-congress-va.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/us/politics/lgbt-bob-good-congress-va.html" rel="standout"></atom:link>
+      <description>As Bob Good, an opponent of same-sex marriage, tries to rally Republicans with attacks on transgender rights, Democrats see an opening in the G.O.P.-held district.</description>
+      <dc:creator>Stephanie Saul</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 20:11:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Webb, Cameron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Good, Bob (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/us/politics/15moments-01/15moments-01-moth.jpg" width="151"></media:content>
-      <media:credit>Michelle V. Agins/The New York Times</media:credit>
-      <media:description>Senator Kamala Harris with Joseph R. Biden Jr., signing documents to receive the Democratic nomination for vice president and president.</media:description>
-    </item>
-    <item>
-      <title>3 Mississippi Police Officers Charged With Murder of Black Man</title>
-      <link>https://www.nytimes.com/2020/08/14/us/jackson-mississippi-police-murder.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/us/jackson-mississippi-police-murder.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/14/us/jackson-mississippi-police-murder.html" rel="standout"></atom:link>
-      <description>A grand jury indictment accused the officers of pulling George Robinson, 62, from his car in Jackson, Miss., last year, slamming him headfirst into the pavement, and striking and kicking him in the head and the chest.</description>
-      <dc:creator>Michael Levenson and Marie Fazio</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 02:39:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/multimedia/16xp-mississippi1-print/14xp-mississippi2x-moth.jpg" width="151"></media:content>
-      <media:credit>Courtesy of family</media:credit>
-      <media:description>George Robinson, second from right, died after an encounter with the police in Jackson, Miss., in 2019. Three officers have been indicted on murder charges.</media:description>
-    </item>
-    <item>
-      <title>Vanessa Guillen Is Memorialized at Texas Service</title>
-      <link>https://www.nytimes.com/2020/08/14/us/vanessa-guillen-fort-hood-funeral.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/us/vanessa-guillen-fort-hood-funeral.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/14/us/vanessa-guillen-fort-hood-funeral.html" rel="standout"></atom:link>
-      <description>The family of the Army specialist, whose remains were recovered after being reported missing for months from Fort Hood in Texas, remembered her on Friday at a service at her high school.</description>
-      <dc:creator>Christina Morales</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 01:33:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guillen, Vanessa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fort Hood (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Army</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/multimedia/14xp-guillen1/14xp-guillen1-moth.jpg" width="151"></media:content>
-      <media:credit>Adrees Latif/Reuters</media:credit>
-      <media:description>Soldiers carried the casket of U.S. Army Specialist Vanessa Guillen at her memorial and public viewing at Cesar E. Chavez High School in Houston, on Friday.</media:description>
-    </item>
-    <item>
-      <title>USPS and Mail-In Ballots: States Warned It May Not Meet Deadlines</title>
-      <link>https://www.nytimes.com/2020/08/14/us/politics/usps-vote-mail.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/us/politics/usps-vote-mail.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/14/us/politics/usps-vote-mail.html" rel="standout"></atom:link>
-      <description>The agency suggested allowing at least 15 days to request a ballot, fueling further criticism that it was making it harder to vote during the pandemic.</description>
-      <dc:creator>Luke Broadwater, Hailey Fuchs and Nick Corasaniti</dc:creator>
-      <pubDate>Fri, 14 Aug 2020 23:42:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Postal Service (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Postal Service and Post Offices</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Riggleman, Denver</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeJoy, Louis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/us/politics/14dc-postal/14dc-postal-moth.jpg" width="151"></media:content>
-      <media:credit>Ruth Fremson/The New York Times</media:credit>
-      <media:description>Kamisha Baseden processing mail-in ballots during the primary this month in Renton, Wash.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/us/politics/00good/00good-moth.jpg" width="151"></media:content>
+      <media:credit>Amy Friedenberger/The Roanoke Times, via Associated Press</media:credit>
+      <media:description>After ousting a Republican incumbent, Bob Good will face the Democratic candidate, Cameron Webb, in the general election.</media:description>
     </item>
     <item>
-      <title>Yale Decision: Justice Dept. Ruling Stings Students</title>
-      <link>https://www.nytimes.com/2020/08/14/us/yale-asian-american-discrimination.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/us/yale-asian-american-discrimination.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/14/us/yale-asian-american-discrimination.html" rel="standout"></atom:link>
-      <description>The Trump administration’s charge that the university discriminates against Asian-American applicants was disputed by many Asian-American students and others.</description>
-      <dc:creator>Anemona Hartocollis and Giulia McDonnell Nieto del Rio</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 00:13:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affirmative Action</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ivy League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of North Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yale University</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/us/14YALE/14YALE-moth.jpg" width="151"></media:content>
-      <media:credit>Craig Warga/Bloomberg</media:credit>
-      <media:description>The Justice Department demanded on Thursday that Yale University, in New Haven, Conn., stop considering race as part of its admissions process.</media:description>
+      <title>Rapid Testing is at Parties, Concerts and Hotels. Social Distance Still Required.</title>
+      <link>https://www.nytimes.com/2020/08/16/style/does-rapid-covid-testing-work-weddings-parties.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/16/style/does-rapid-covid-testing-work-weddings-parties.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/16/style/does-rapid-covid-testing-work-weddings-parties.html" rel="standout"></atom:link>
+      <description>Determined to proceed with parties and events this summer, hosts are adding screenings at the door. But such measures are hardly a guarantee of safety, medical experts warn.</description>
+      <dc:creator>Alyson Krueger</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 07:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parties (Social)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Suffolk County (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hamptons (NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/fashion/15RAPIDTESTING-PARTIES2/15RAPIDTESTING-PARTIES2-moth.jpg" width="151"></media:content>
+      <media:credit>Joe Carrotta for The New York Times</media:credit>
+      <media:description>Rite of nasal passage: Amanda Seekamp, who is in charge of guest relations at the Surf Lodge in Montauk, N.Y.., gets a rapid test from Dr. Seth Gordon, a private doctor working in Montauk.</media:description>
     </item>
     <item>
-      <title>TeleTracking Technologies, Firm Running Coronavirus Database, Refuses to Answer Senators&#39; Questions</title>
-      <link>https://www.nytimes.com/2020/08/14/us/politics/teletracking-technologies-coronavirus-senators.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/us/politics/teletracking-technologies-coronavirus-senators.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/14/us/politics/teletracking-technologies-coronavirus-senators.html" rel="standout"></atom:link>
-      <description>A private technology company that gathers data for a coronavirus database said a nondisclosure agreement with the Trump administration blocks it from discussing its $10.2 million contract.</description>
-      <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 13:30:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TeleTracking Technologies Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronic Health Records</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nondisclosure Agreements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <title>Trump Says He’ll Look Into a Pardon for Edward Snowden</title>
+      <link>https://www.nytimes.com/2020/08/15/us/politics/trump-snowden-esper.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/politics/trump-snowden-esper.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/us/politics/trump-snowden-esper.html" rel="standout"></atom:link>
+      <description>The remarks seemed to be a shift for President Trump, who repeatedly called Mr. Snowden a “traitor” and “spy who should be executed” in the years before his election.</description>
+      <dc:creator>Aishvarya Kavi</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 04:36:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/us/politics/14dc-virus-data/14dc-virus-data-moth.jpg" width="151"></media:content>
-      <media:credit>Rick Bowmer/Associated Press</media:credit>
-      <media:description>A list of confirmed Covid-19 cases at the county health department in Salt Lake City. Hospitals were ordered abruptly to stop reporting coronavirus patient data to the Centers for Disease Control and Prevention and instead send it to TeleTracking Technologies, a private company.</media:description>
-    </item>
-    <item>
-      <title>How Apple’s 30% App Store Cut Became a Boon and a Headache</title>
-      <link>https://www.nytimes.com/2020/08/14/technology/apple-app-store-epic-games-fortnite.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/technology/apple-app-store-epic-games-fortnite.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/14/technology/apple-app-store-epic-games-fortnite.html" rel="standout"></atom:link>
-      <description>App makers like the game company Epic and the music service Spotify are challenging Apple’s right to a large cut of their sales. Regulators have taken notice.</description>
-      <dc:creator>Jack Nicas</dc:creator>
-      <pubDate>Fri, 14 Aug 2020 22:21:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Epic Games</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Fortnite (Video Game)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spotify</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Commerce and Payments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/business/14JPfortnite-print/14fortnite2-moth.jpg" width="151"></media:content>
-      <media:credit>Haruka Sakaguchi for The New York Times</media:credit>
-      <media:description>Apple’s take from apps sold in its App Store has become a major part of the company&amp;rsquo;s business in recent years.</media:description>
-    </item>
-    <item>
-      <title>Expecting at the National Zoo: Washington Hopes to Gain a Baby Panda</title>
-      <link>https://www.nytimes.com/2020/08/14/us/national-zoo-panda-pregnant.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/us/national-zoo-panda-pregnant.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/14/us/national-zoo-panda-pregnant.html" rel="standout"></atom:link>
-      <description>Mei Xiang, a 22-year-old giant panda, has “tissue consistent with fetal development” and could deliver in a few days, according to the zoo.</description>
-      <dc:creator>Aimee Ortiz</dc:creator>
-      <pubDate>Fri, 14 Aug 2020 22:31:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoos</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pandas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neiffer, Donald Leroy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/reader-center/14-panda-baby/14-panda-baby-moth.jpg" width="151"></media:content>
-      <media:credit>Smithsonian’s National Zoo</media:credit>
-      <media:description> Mei Xiang has given birth to three surviving cubs, who all live in China.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Briefing: What Happened Today</title>
-      <link>https://www.nytimes.com/2020/08/14/us/coronavirus-today.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/us/coronavirus-today.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/14/us/coronavirus-today.html" rel="standout"></atom:link>
-      <description>Hollywood film production is restarting with elaborate precautions to protect the cast and crew.</description>
-      <dc:creator>Lara Takenaga and Jonathan Wolfe</dc:creator>
-      <pubDate>Fri, 14 Aug 2020 22:04:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v720.png" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Senators Criticize Guantánamo Prison Coronavirus Plan</title>
-      <link>https://www.nytimes.com/2020/08/14/us/politics/senators-criticize-guantanamo-prison-coronavirus-plan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/us/politics/senators-criticize-guantanamo-prison-coronavirus-plan.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/14/us/politics/senators-criticize-guantanamo-prison-coronavirus-plan.html" rel="standout"></atom:link>
-      <description>After a report from the Pentagon, Democrats questioned whether there was enough capacity to help either detainees or their guards if an outbreak occurs.</description>
-      <dc:creator>Carol Rosenberg</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 00:46:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Committee of the Red Cross</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Armed Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warren, Elizabeth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reed, Jack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Security Agency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Esper, Mark T</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/us/politics/14dc-virus-gitmo/14dc-virus-gitmo-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>A hospital room at Guantánamo Bay includes a shackle point in the floor and an arrow pointing to Mecca. By law, detainees must receive all their medical care on the base.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Snowden, Edward J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump National Golf Club (Bedminster, NJ)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/us/politics/15dc-trump-snowden/merlin_110133607_34264a1a-f9e4-4ad4-8704-974a9860e614-moth.jpg" width="151"></media:content>
+      <media:credit>Kayana Szymczak for The New York Times</media:credit>
+      <media:description>Edward Snowden spoke at M.I.T. from exile in Moscow in 2016.</media:description>
     </item>
     <item>
-      <title>President Trump Visits Younger Brother, Robert, in NY Hospital</title>
-      <link>https://www.nytimes.com/2020/08/14/us/politics/robert-s-trump-hospital.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/us/politics/robert-s-trump-hospital.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/14/us/politics/robert-s-trump-hospital.html" rel="standout"></atom:link>
-      <description>Robert S. Trump, the Trump family’s unofficial spokesman and consigliere, is said to be gravely ill.</description>
+      <title>Robert Trump, the President’s Younger Brother, Dies at 71</title>
+      <link>https://www.nytimes.com/2020/08/15/us/politics/robert-s-trump-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/politics/robert-s-trump-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/us/politics/robert-s-trump-dead.html" rel="standout"></atom:link>
+      <description>A loyal spokesman for the family, he shunned the spotlight and had “zero sense of entitlement.”</description>
       <dc:creator>Annie Karni</dc:creator>
-      <pubDate>Fri, 14 Aug 2020 22:06:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York-Presbyterian Hospital</category>
+      <pubDate>Sun, 16 Aug 2020 15:34:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Robert S (1948- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Robert S (1948- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Fred C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/us/politics/14dc-roberttrump/14dc-roberttrump-moth.jpg" width="151"></media:content>
-      <media:credit>Damon Winter/The New York Times</media:credit>
-      <media:description>Donald J. Trump with his younger brother, Robert S. Trump, on election night in 2016 in New York. </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Mary L</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/obituaries/00RobTrump-obit-pix1/00RobTrump-obit-pix1-moth.jpg" width="151"></media:content>
+      <media:credit>Diane Bondaress/Associated Press</media:credit>
+      <media:description>Robert Trump, left, with the future president at a society event in 1999.</media:description>
     </item>
     <item>
-      <title>SAG-AFTRA Members Complain of Changes in Health Insurance</title>
-      <link>https://www.nytimes.com/2020/08/14/arts/television/sag-actors-health-insurance.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/arts/television/sag-actors-health-insurance.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/14/arts/television/sag-actors-health-insurance.html" rel="standout"></atom:link>
-      <description>The American union for professional film and TV actors told members on Wednesday that it would tighten eligibility requirements and raise premiums. A petition opposing the move has been started.</description>
-      <dc:creator>Sarah Bahr</dc:creator>
-      <pubDate>Sat, 15 Aug 2020 13:56:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Federation of Television and Radio Artists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SAG-AFTRA</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Screen Actors Guild</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/arts/14actor-insurance1/14actor-insurance1-moth.jpg" width="151"></media:content>
-      <media:credit>Robyn Beck/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The trustees of the plan “have taken a difficult but necessary action to address financial deficits,” the Screen Actors Guild-American Federation of Television and Radio Artists Health Plan said in a statement.</media:description>
+      <title>9/11 Light Tribute to Shine After All, Officials Say</title>
+      <link>https://www.nytimes.com/2020/08/15/nyregion/towers-light-2020.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/nyregion/towers-light-2020.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/nyregion/towers-light-2020.html" rel="standout"></atom:link>
+      <description>The National September 11 Memorial &amp; Museum had said the display would have to be canceled because of the coronavirus pandemic.</description>
+      <dc:creator>Aimee Ortiz</dc:creator>
+      <pubDate>Sun, 16 Aug 2020 15:49:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Trade Center (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National September 11 Memorial and Museum</category>
+      <category domain="">Tribute in Lights</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/multimedia/15xp-911-light-tribute-2/merlin_87223102_f6e7a4db-d348-4e15-9632-e36e62c7331d-moth.jpg" width="151"></media:content>
+      <media:credit>Kirsten Luce for The New York Times</media:credit>
+      <media:description>The tribute features 88 specially made lights used to create the projections that tower over the city until dawn on Sept. 12. </media:description>
     </item>
     <item>
-      <title>U.S. Companies Vie for Funds in Race to Build Rare Earths Industry</title>
-      <link>https://www.nytimes.com/2020/08/14/us/politics/rare-earths-american-companies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/us/politics/rare-earths-american-companies.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/14/us/politics/rare-earths-american-companies.html" rel="standout"></atom:link>
-      <description>The Trump administration is encouraging development of a domestic industry to produce critical metals now dominated by Chinese companies, but few players show clear long-term promise.</description>
-      <dc:creator>Zach Montague</dc:creator>
-      <pubDate>Fri, 14 Aug 2020 21:29:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rare Earths</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Production Act</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rare Element Resources Limited</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cruz, Ted</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/22/us/politics/00dc-rareearths1/00dc-rareearths1-moth.jpg" width="151"></media:content>
-      <media:credit>Steve Marcus/Reuters</media:credit>
-      <media:description>MP Materials’ mine in Mountain Pass, Calif., is the only operational rare earth mine in the United States.</media:description>
-    </item>
-    <item>
-      <title>Federal Court Rules California&#39;s Ban on High-Capacity Magazines Violates 2nd Amendment</title>
-      <link>https://www.nytimes.com/2020/08/14/us/california-magazines-ban.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/us/california-magazines-ban.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/14/us/california-magazines-ban.html" rel="standout"></atom:link>
-      <description>Supporters of tougher gun laws called the ruling a dangerous infringement on the ability of states to protect their residents from mass shootings.</description>
-      <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Fri, 14 Aug 2020 21:15:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appeals Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rifle Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Becerra, Xavier</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Donohue, John J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynn, Barbara M G</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/multimedia/14xp-gunban1/14xp-gunban1-moth.jpg" width="151"></media:content>
-      <media:credit>Rich Pedroncelli/Associated Press</media:credit>
-      <media:description>California’s ban on magazines that hold more than 10 bullets “is so sweeping that half of all magazines in America are now unlawful to own in California,” Judge Kenneth K. Lee wrote.</media:description>
+      <title>Georgia Trooper Is Charged in Fatal Shooting of Black Driver</title>
+      <link>https://www.nytimes.com/2020/08/15/us/georgia-state-trooper-charged-murder.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/georgia-state-trooper-charged-murder.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/us/georgia-state-trooper-charged-murder.html" rel="standout"></atom:link>
+      <description>The trooper, who is white, was fired and charged with murder a week after the killing, which happened after the driver had been pulled over for having a broken taillight, the authorities said.</description>
+      <dc:creator>Allyson Waller</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 23:39:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sylvania (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewis, Julian Edward Roosevelt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thompson, Jacob G</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/multimedia/15xp-georgia-trooper-pix/15xp-georgia-trooper-pix-moth.jpg" width="151"></media:content>
+      <media:credit>Georgia Department of Public Safety, via Associated Press</media:credit>
+      <media:description>Jacob G. Thompson, who had been a Georgia state trooper since 2013, was fired and charged with felony murder and aggravated assault on Friday.</media:description>
     </item>
   </channel>
 </rss>
