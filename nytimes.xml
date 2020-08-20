@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2020 10:25:12 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2020 10:25:12 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2020 19:00:03 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2020 19:00:03 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -22,11 +22,13 @@
       <description>Some die-hard Democratic delegates long for an in-person event. “It feels so lonesome when you don’t have all the crowds,” said an 89-year-old convention veteran.</description>
       <dc:creator>Miriam Jordan</dc:creator>
       <pubDate>Wed, 19 Aug 2020 22:02:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wyman, Rosalind W</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wyman, Rosalind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/19DIEHARD-DEM/merlin_175905813_226c8cd4-4685-4b8c-9647-08d0c2eaf1c4-moth.jpg" width="151"></media:content>
       <media:credit>David Walter Banks for The New York Times</media:credit>
       <media:description>At Rosalind Wyman’s house in Los Angeles, the Democratic National Convention is blaring from television sets in four rooms. “I have it so that I won’t miss anything,” she said.</media:description>
@@ -78,15 +80,357 @@
       <atom:link href="https://www.nytimes.com/2020/08/19/us/california-wildfires-photos.html" rel="standout"></atom:link>
       <description>Photographers are on the ground capturing the fast-moving fires that are spreading across the state.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 19 Aug 2020 23:46:15 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2020 18:10:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Napa (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vacaville (Calif)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/19fire-photos09/19fire-photos09-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/20fire-photos01alt/20fire-photos01alt-moth.jpg" width="151"></media:content>
       <media:credit>Max Whittaker for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Group at Center of Bannon Indictment Used Private Funds to Build Border Wall</title>
+      <link>https://www.nytimes.com/2020/08/20/us/politics/bannon-we-build-the-wall.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/politics/bannon-we-build-the-wall.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/politics/bannon-we-build-the-wall.html" rel="standout"></atom:link>
+      <description>The criminal charges were the latest twist for We Build the Wall, which had drawn praise from top Homeland Security officials while causing controversy over its construction methods.</description>
+      <dc:creator>Zolan Kanno-Youngs and Stephanie Saul</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 18:58:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kolfage, Brian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">We Build the Wall</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public-Private Sector Cooperation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Border Patrol (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kobach, Kris W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/politics/20dc-borderwall1/20dc-borderwall1-moth.jpg" width="151"></media:content>
+      <media:credit>Jose Luis Gonzalez/Reuters</media:credit>
+      <media:description>A section of the border barrier funded by the private group We Build The Wall under construction last year in Sunland Park, N.M.</media:description>
+    </item>
+    <item>
+      <title>Top Republican National Security Officials Say They Will Vote for Biden</title>
+      <link>https://www.nytimes.com/2020/08/20/us/politics/republican-national-security-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/politics/republican-national-security-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/politics/republican-national-security-biden.html" rel="standout"></atom:link>
+      <description>In a letter released hours before Joe Biden is set to deliver his nomination acceptance speech, over 70 senior officials called President Trump “unfit to lead” and outlined their support for his opponent.</description>
+      <dc:creator>David E. Sanger</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 18:27:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/politics/20SECURITY-POLITICS/merlin_14006701_4b837bb1-5ff6-4e29-a24c-8e7b1e0eb3af-moth.jpg" width="151"></media:content>
+      <media:credit>Larry Downing/Reuters</media:credit>
+      <media:description>Among the signatories are former officials like John Negroponte, left, the former director of national intelligence, and General Michael Hayden, who served as director of the Central Intelligence Agency and the National Security Agency.</media:description>
+    </item>
+    <item>
+      <title>MGM Remakes Orion Pictures to Tell More Inclusive Stories</title>
+      <link>https://www.nytimes.com/2020/08/20/business/media/mgm-orion-pictures-alana-mayo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/business/media/mgm-orion-pictures-alana-mayo.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/business/media/mgm-orion-pictures-alana-mayo.html" rel="standout"></atom:link>
+      <description>The 36-year-old producer Alana Mayo will lead the division, which will release two or three films a year and focus exclusively on underrepresented filmmakers.</description>
+      <dc:creator>Brooks Barnes</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 18:31:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mayo, Alana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Orion Pictures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metro-Goldwyn-Mayer Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/18/business/18mgm-1/18mgm-1-moth.jpg" width="151"></media:content>
+      <media:credit>Aaron J. Thornton/Getty Images for Essence</media:credit>
+      <media:description>“Who gets to say ‘yes’ is massively important,” said Alana Mayo, second from right, who will lead Orion Pictures. </media:description>
+    </item>
+    <item>
+      <title>New Measures Aim to Boost Vaccine Rates for Flu and Children’s Shots</title>
+      <link>https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/health/coronavirus-flu-vaccine.html" rel="standout"></atom:link>
+      <description>Pharmacists may now vaccinate young children under a new federal emergency rule aimed at helping families who missed well-child visits during the pandemic.</description>
+      <dc:creator>Jan Hoffman</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 18:22:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Academy of Pediatrics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Massachusetts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/science/20VIRUS-FLU/20VIRUS-FLU-moth.jpg" width="151"></media:content>
+      <media:credit>Bryan R. Smith/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Signs advertised free flu shots outside a drugstore in Manhattan this week.</media:description>
+    </item>
+    <item>
+      <title>Norman Carlson, Forceful Head of U.S. Prisons, Dies at 86</title>
+      <link>https://www.nytimes.com/2020/08/20/us/norman-carlson-forceful-head-of-us-prisons-dies-at-86.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/norman-carlson-forceful-head-of-us-prisons-dies-at-86.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/norman-carlson-forceful-head-of-us-prisons-dies-at-86.html" rel="standout"></atom:link>
+      <description>He created the model for today’s super-maximum security prisons and oversaw a near doubling of federal facilities. He also insisted on cleanliness and decent food.</description>
+      <dc:creator>Katharine Q. Seelye</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 17:13:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Prisons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carlson, Norman A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Penitentiary Administrative Maximum Facility</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/18/obituaries/18Carlson/18Carlson-moth.jpg" width="151"></media:content>
+      <media:credit>Roger Strong/The New York Times</media:credit>
+      <media:description>Norman Carlson, left, outside the federal prison in Danbury, Conn., in 1977. He instituted a federal policy of zero-tolerance for the abuse of prisoners by guards. </media:description>
+    </item>
+    <item>
+      <title>Trump Meets With Iraqi Leader Amid Negotiations Over U.S. Troop Levels</title>
+      <link>https://www.nytimes.com/2020/08/20/us/politics/trump-iraqi-prime-minister.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/politics/trump-iraqi-prime-minister.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/politics/trump-iraqi-prime-minister.html" rel="standout"></atom:link>
+      <description>Prime Minister Mustafa al-Kadhimi’s visit to the White House is largely focused on negotiations, which started in May, on resetting the United States military mission in Iraq.</description>
+      <dc:creator>Katie Rogers and Eric Schmitt</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 17:40:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kadhimi, Mustafa al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/politics/20dc-prexy/20dc-prexy-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker for The New York Times</media:credit>
+      <media:description>President Trump meeting with Mustafa al-Kadhimi, the prime minister of Iraq, in the Oval Office on Thursday, where Mr. Trump reiterated his desire to remove U.S. troops from the region.</media:description>
+    </item>
+    <item>
+      <title>Vacationing Israeli Teen Says She Was Gang-Raped, Shocking the Nation</title>
+      <link>https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/world/middleeast/israel-girl-gang-raped-eilat.html" rel="standout"></atom:link>
+      <description>One of the accused has said that as many as 30 men took part in the attack at a hotel in the Red Sea resort city of Eilat.</description>
+      <dc:creator>David M. Halbfinger</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 18:29:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eilat (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/world/20eilat-rape/20eilat-rape-moth.jpg" width="151"></media:content>
+      <media:credit>Artur Widak/NurPhoto, via Getty Images</media:credit>
+      <media:description>The teen was on a three-day trip to Eilat, a resort town in southern Israel.</media:description>
+    </item>
+    <item>
+      <title>Uber and Lyft Threaten to Shut Down in California</title>
+      <link>https://www.nytimes.com/2020/08/20/technology/uber-lyft-california-shutdown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/technology/uber-lyft-california-shutdown.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/technology/uber-lyft-california-shutdown.html" rel="standout"></atom:link>
+      <description>The companies, under legal pressure to reclassify their drivers as employees, said they would halt rides unless an appeals court gives them permission to continue.</description>
+      <dc:creator>Kate Conger</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 16:33:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freelancing, Self-Employment and Independent Contracting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lyft Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Eats</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/business/20rideshutdown/20rideshutdown-moth.jpg" width="151"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Uber and Lyft could suspend ride-hailing services throughout California on Thursday night.</media:description>
+    </item>
+    <item>
+      <title>The Phantom-Limb Democratic Convention</title>
+      <link>https://www.nytimes.com/2020/08/20/us/politics/democratic-convention-milwaukee.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/politics/democratic-convention-milwaukee.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/politics/democratic-convention-milwaukee.html" rel="standout"></atom:link>
+      <description>Milwaukee is the titular site of the Democratic National Convention, defined less by what is happening inside the Wisconsin Center than what is not.</description>
+      <dc:creator>Mark Leibovich</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 16:16:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milwaukee (Wis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/politics/20Milwaukee1/merlin_175841697_1a6f2e87-8546-4ae8-a41e-d854d5886752-moth.jpg" width="151"></media:content>
+      <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
+      <media:description>Michelle Obama’s pre-recorded speech played on a television inside the Wisconsin Center, where the Democratic National Convention was anchored this week.</media:description>
+    </item>
+    <item>
+      <title>Who Is David C. Williams? A Postal Service Overseer Who Resigned</title>
+      <link>https://www.nytimes.com/2020/08/20/us/politics/david-williams-postal-service.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/politics/david-williams-postal-service.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/politics/david-williams-postal-service.html" rel="standout"></atom:link>
+      <description>Mr. Williams, who will testify before lawmakers about the U.S. Postal Service on Thursday, is expected to allege efforts by the Trump administration to undermine the agency.</description>
+      <dc:creator>Catie Edmondson</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 16:04:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, David C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Congressional Progressive Caucus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Postal Service (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Postal Service and Post Offices</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/politics/20dc-williams/20dc-williams-moth.jpg" width="151"></media:content>
+      <media:credit>Carolyn Kaster/Associated Press</media:credit>
+      <media:description>David C. Williams, the former Postal Service inspector general, has spent four decades in Washington providing oversight of federal agencies.</media:description>
+    </item>
+    <item>
+      <title>Stephen F. Williams, U.S. Appeals Court Judge, Dies at 83</title>
+      <link>https://www.nytimes.com/2020/08/20/obituaries/stephen-f-williams-dead-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/obituaries/stephen-f-williams-dead-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/obituaries/stephen-f-williams-dead-coronavirus.html" rel="standout"></atom:link>
+      <description>A Reagan appointee, he served on the District of Columbia bench for three decades. He died of the coronavirus.</description>
+      <dc:creator>Sam Roberts</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 15:26:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appeals Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Stephen F</category>
+    </item>
+    <item>
+      <title>An ‘Unprecedented’ Effort to Stop the Coronavirus in Nursing Homes</title>
+      <link>https://www.nytimes.com/2020/08/20/health/coronavirus-nursing-homes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/health/coronavirus-nursing-homes.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/health/coronavirus-nursing-homes.html" rel="standout"></atom:link>
+      <description>Researchers are testing an experimental drug to halt sudden outbreaks. The trial may bring a new type of treatment for the virus.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 15:30:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nursing Homes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antibodies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eli Lilly and Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Illinois</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/science/20VIRUS-NURSINGHOMES1/20VIRUS-NURSINGHOMES1-moth.jpg" width="151"></media:content>
+      <media:credit>Jordan Gale for The New York Times</media:credit>
+      <media:description>Heartland Health Care Center in Moline, Ill., was the first facility to participate in a large clinical trial of a drug that may protect residents from infection with the coronavirus.</media:description>
+    </item>
+    <item>
+      <title>More than 300 Fires Burning in California, including Solano, Napa, Sonoma Counties</title>
+      <link>https://www.nytimes.com/2020/08/20/us/california-vacaville-complex-fire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/california-vacaville-complex-fire.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/california-vacaville-complex-fire.html" rel="standout"></atom:link>
+      <description>Thursday: California in August has tested the limits of things that can go wrong at once. Also: Californians at the Democratic National Convention.</description>
+      <dc:creator>Jill Cowan</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 17:06:44 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/fire-vid-alt/fire-vid-alt-moth.jpg" width="151"></media:content>
+      <media:credit>Max Whittaker for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>California Fires Live Updates: Thousands of Homes in Danger</title>
+      <link>https://www.nytimes.com/2020/08/20/us/northern-california-wildfires.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/northern-california-wildfires.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/northern-california-wildfires.html" rel="standout"></atom:link>
+      <description>Thousands of people have fled their homes amid a grueling heat wave, the coronavirus pandemic and air thick with smoke.</description>
+      <pubDate>Thu, 20 Aug 2020 18:20:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cal Fire</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sonoma County (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vacaville (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Solano County (Calif)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/fire-vid-alt/fire-vid-alt-moth.jpg" width="151"></media:content>
+      <media:credit>Max Whittaker for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>This is the speech Biden has prepared for his entire life.</title>
+      <link>https://www.nytimes.com/2020/08/20/us/elections/this-is-the-speech-biden-has-prepared-for-his-entire-life.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/elections/this-is-the-speech-biden-has-prepared-for-his-entire-life.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/elections/this-is-the-speech-biden-has-prepared-for-his-entire-life.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Katie Glueck and Matt Flegenheimer</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 13:10:44 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/politics/20live-biden/20orator-01-moth.jpg" width="151"></media:content>
+      <media:credit>Courtland Wells for The New York Times</media:credit>
+      <media:description>Joseph R. Biden Jr. will give the most important — and probably most surreal — address of his career to close out the final night of the Democratic National Convention.</media:description>
+    </item>
+    <item>
+      <title>Convention speakers celebrated women’s progress and noted there’s more to be made.</title>
+      <link>https://www.nytimes.com/2020/08/20/us/elections/convention-speakers-celebrated-womens-progress-and-noted-theres-more-to-be-made.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/elections/convention-speakers-celebrated-womens-progress-and-noted-theres-more-to-be-made.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/elections/convention-speakers-celebrated-womens-progress-and-noted-theres-more-to-be-made.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Rebecca R. Ruiz</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 12:30:15 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/politics/20-live-suffrage/20-live-suffrage-moth.jpg" width="151"></media:content>
+      <media:credit>Elizabeth Frantz for The New York Times</media:credit>
+      <media:description>Senator Kamala Harris, accepting the vice-presidential nomination, started her speech by making note of the anniversary of the 19th Amendment.</media:description>
+    </item>
+    <item>
+      <title>Trump phone calls add to lingering questions about Russian interference in 2016.</title>
+      <link>https://www.nytimes.com/2020/08/20/us/elections/trump-phone-calls-add-to-lingering-questions-about-russian-interference-in-2016.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/elections/trump-phone-calls-add-to-lingering-questions-about-russian-interference-in-2016.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/elections/trump-phone-calls-add-to-lingering-questions-about-russian-interference-in-2016.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Julian E. Barnes</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 12:01:36 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/politics/20-live-russia-trump/20-live-russia-trump-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump knew of and discussed stolen Democratic emails at critical points late in his 2016 campaign for the White House, according to a Senate Intelligence Committee report. </media:description>
+    </item>
+    <item>
+      <title>Election concerns persist despite Louis DeJoy’s move to halt postal changes.</title>
+      <link>https://www.nytimes.com/2020/08/20/us/elections/election-concerns-persist-despite-louis-dejoys-move-to-halt-postal-changes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/elections/election-concerns-persist-despite-louis-dejoys-move-to-halt-postal-changes.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/elections/election-concerns-persist-despite-louis-dejoys-move-to-halt-postal-changes.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Emily Cochrane, Hailey Fuchs, Kenneth P. Vogel and Jessica Silver-Greenberg</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 12:01:35 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19-live-postal-1909/19-live-postal-1909-moth.jpg" width="151"></media:content>
+      <media:credit>Scott McIntyre for The New York Times</media:credit>
+      <media:description>An election official dropped a voter’s mail-in ballot in an official drop box for Florida’s primary election in Doral, Fla., on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>The Night of the Coalition</title>
+      <link>https://www.nytimes.com/2020/08/20/us/politics/democratic-convention-voters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/politics/democratic-convention-voters.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/politics/democratic-convention-voters.html" rel="standout"></atom:link>
+      <description>As Kamala Harris accepted the vice-presidential nomination, the voters who power the modern Democratic Party were the night’s focus.</description>
+      <dc:creator>Nick Corasaniti</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 11:09:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/politics/20onpolitics-am/20onpolitics-am-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Senator Kamala Harris accepting the vice-presidential nomination in Wilmington, Del.</media:description>
+    </item>
+    <item>
+      <title>California vs. Ride-share Companies</title>
+      <link>https://www.nytimes.com/2020/08/20/briefing/kamala-harris-california-aleksei-navalny-your-thursday-briefing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/briefing/kamala-harris-california-aleksei-navalny-your-thursday-briefing.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/briefing/kamala-harris-california-aleksei-navalny-your-thursday-briefing.html" rel="standout"></atom:link>
+      <description>And what else you need to know today.</description>
+      <dc:creator>Sanam Yar and Ian Prasad Philbrick</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 18:32:18 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/20ambriefing-promo/20ambriefing-gigecon-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Don Emmert/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Lyft logo on the Nasdaq office screen in Times Square in New York last year.</media:description>
+    </item>
+    <item>
+      <title> Covid-19 News: Live Updates</title>
+      <link>https://www.nytimes.com/2020/08/20/world/covid-19-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/world/covid-19-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/world/covid-19-coronavirus.html" rel="standout"></atom:link>
+      <description>Overburdened health care specialists are finding themselves on the front lines as schools reopen. India’s crisis is now spreading to the hinterlands along its southern coastline.</description>
+      <pubDate>Thu, 20 Aug 2020 18:25:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>For Japanese-Americans, Housing Injustices Outlived Internment</title>
@@ -95,7 +439,7 @@
       <atom:link href="https://www.nytimes.com/2020/08/20/magazine/japanese-internment-end-wwii-trailer-parks.html" rel="standout"></atom:link>
       <description>In 1945, thousands were released from internment camps. But they couldn’t return to the world they had left.</description>
       <dc:creator>Bradford Pearson</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 09:00:31 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2020 12:11:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Japanese-Americans</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
@@ -125,7 +469,7 @@
       <atom:link href="https://www.nytimes.com/2020/08/20/health/pediatrics-medicine-racial-discrimination.html" rel="standout"></atom:link>
       <description>The American Academy of Pediatrics recently joined other prominent medical organizations in confronting its history of discrimination.</description>
       <dc:creator>Emma Goldberg</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 09:00:22 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2020 16:12:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
@@ -150,7 +494,7 @@
       <atom:link href="https://www.nytimes.com/2020/08/20/travel/airplanes-coronavirus.html" rel="standout"></atom:link>
       <description>As passengers cautiously return to air travel, there are a few issues worth considering — from middle-seat policies to questions about virus transmission on airlines.</description>
       <dc:creator>Elaine Glusac</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 09:00:22 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2020 15:30:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
@@ -171,18 +515,19 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/politics/20Video-Takeaways1/20Video-Takeaways1-moth.jpg" width="151"></media:content>
       <media:credit>Erin Schaff/The New York Times</media:credit>
       <media:description>Senator Kamala Harris is joined by Former Vice President Joseph R. Biden Jr. after accepting the Democratic nomination for Vice President at the Chase Center in Wilmington, Del.</media:description>
     </item>
     <item>
-      <title>How to Watch the Democratic National Convention</title>
-      <link>https://www.nytimes.com/2020/08/20/us/politics/how-to-watch-the-democratic-national-convention.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/politics/how-to-watch-the-democratic-national-convention.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/20/us/politics/how-to-watch-the-democratic-national-convention.html" rel="standout"></atom:link>
+      <title>DNC Schedule: Biden&#39;s Speech, Stream, Start Time</title>
+      <link>https://www.nytimes.com/2020/08/20/us/politics/dnc-schedule.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/politics/dnc-schedule.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/politics/dnc-schedule.html" rel="standout"></atom:link>
       <description>Joe Biden will finally take the stage Thursday night, as will several of his former primary opponents.</description>
       <dc:creator>Maggie Astor</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 09:00:18 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2020 12:33:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/politics/20biden-pic/20biden-pic-moth.jpg" width="151"></media:content>
@@ -196,7 +541,7 @@
       <atom:link href="https://www.nytimes.com/2020/08/20/us/politics/democratic-convention-womens-suffrage.html" rel="standout"></atom:link>
       <description>With Kamala Harris accepting her nomination, Nancy Pelosi, Hillary Clinton and others lauded the advancement of women in the political process, but said there was still much ground to be covered.</description>
       <dc:creator>Rebecca R. Ruiz</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 09:00:18 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2020 12:27:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteenth Amendment (US Constitution)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
@@ -214,7 +559,7 @@
       <atom:link href="https://www.nytimes.com/2020/08/20/us/immigration-daca-dreamers-employers.html" rel="standout"></atom:link>
       <description>President Trump hopes to end DACA, which has granted employment authorization to thousands of young immigrants. Already, some large employers are refusing to hire them.</description>
       <dc:creator>Miriam Jordan</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 09:00:12 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2020 14:19:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deferred Action for Childhood Arrivals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
@@ -233,16 +578,32 @@
       <description>Twelve years after he left the Senate, a President Biden would find a Capitol that is far more partisan and less open to deal-making than the one that shaped his views of legislating.</description>
       <dc:creator>Jonathan Martin and Carl Hulse</dc:creator>
       <pubDate>Thu, 20 Aug 2020 07:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Filibusters and Debate Curbs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19BIDENCONGRESS1/19BIDENCONGRESS1-moth.jpg" width="151"></media:content>
       <media:credit>Zach Gibson/The New York Times</media:credit>
       <media:description>Joseph R. Biden Jr., who served in the Senate for 36 years, would arrive in the White House with the most high-level legislative experience of any president since Lyndon B. Johnson.</media:description>
+    </item>
+    <item>
+      <title>The Speech Joe Biden Has Been Preparing For His Entire Life</title>
+      <link>https://www.nytimes.com/2020/08/20/us/politics/joe-biden-convention-speech.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/politics/joe-biden-convention-speech.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/20/us/politics/joe-biden-convention-speech.html" rel="standout"></atom:link>
+      <description>Some of it is familiar, after almost 50 years in politics. Some of it, like delivering such a momentous address to a virtual crowd, will be new.</description>
+      <dc:creator>Katie Glueck and Matt Flegenheimer</dc:creator>
+      <pubDate>Thu, 20 Aug 2020 16:33:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/politics/20orator-01/20orator-01-moth.jpg" width="151"></media:content>
+      <media:credit>Courtland Wells for The New York Times</media:credit>
+      <media:description>Joseph R. Biden Jr. will give the most important — and probably most surreal — address of his career.</media:description>
     </item>
     <item>
       <title>‘He Stiffed Our Party’: Bloomberg Doubts Resurface Before D.N.C. Speech</title>
@@ -251,7 +612,7 @@
       <atom:link href="https://www.nytimes.com/2020/08/20/us/politics/michael-bloomberg-dnc.html" rel="standout"></atom:link>
       <description>Michael Bloomberg’s appearance on the final night of the Democratic convention has reignited questions about his pledge to throw his fortune behind the effort to defeat President Trump.</description>
       <dc:creator>Rebecca R. Ruiz</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 07:00:13 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2020 13:26:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
@@ -262,36 +623,20 @@
       <media:description>Michael R. Bloomberg has transferred money to the Democratic Party and donated to progressive groups, but has not given directly to Joseph R. Biden Jr.</media:description>
     </item>
     <item>
-      <title>The Speech Joe Biden Has Been Preparing For His Entire Life</title>
-      <link>https://www.nytimes.com/2020/08/20/us/politics/joe-biden-convention-speech.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/20/us/politics/joe-biden-convention-speech.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/20/us/politics/joe-biden-convention-speech.html" rel="standout"></atom:link>
-      <description>Some of it is familiar, after almost 50 years in politics. Some of it, like delivering such a momentous address to a virtual crowd, will be new.</description>
-      <dc:creator>Katie Glueck and Matt Flegenheimer</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 07:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/politics/20orator-01/20orator-01-moth.jpg" width="151"></media:content>
-      <media:credit>Courtland Wells for The New York Times</media:credit>
-      <media:description>Joseph R. Biden Jr. will give the most important — and probably most surreal — address of his career.</media:description>
-    </item>
-    <item>
       <title>Highlights From the Democratic National Convention: Night 3</title>
       <link>https://www.nytimes.com/video/us/politics/100000007297733/democratic-national-convention-highlights.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/video/us/politics/100000007297733/democratic-national-convention-highlights.html</guid>
       <atom:link href="https://www.nytimes.com/video/us/politics/100000007297733/democratic-national-convention-highlights.html" rel="standout"></atom:link>
       <description>Kamala Harris made history in accepting her official nomination for the vice presidency: She became the first woman of color to join a major party’s national ticket.</description>
       <dc:creator>Nilo Tabrizy and Dmitriy Khavin</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 06:55:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vice Presidents and Vice Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <pubDate>Thu, 20 Aug 2020 13:39:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/19/us/politics/19vid-dnc-highlights-1/19vid-dnc-highlights-1-moth.jpg" width="151"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vice Presidents and Vice Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/19/us/politics/19vid-dnc-highlights-1/19vid-dnc-highlights-1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Erin Schaff/The New York Times</media:credit>
     </item>
     <item>
@@ -302,19 +647,16 @@
       <description>Senator Kamala Harris became the first woman of color on a major party ticket, while former President Barack Obama condemned President Trump by name and issued a grim warning about the durability of American democracy.</description>
       <dc:creator>Astead W. Herndon and Lisa Lerer</dc:creator>
       <pubDate>Thu, 20 Aug 2020 05:31:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milwaukee (Wis)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/19/us/politics/19vid-dnc-highlights-1/19vid-dnc-highlights-1-moth.jpg" width="151"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/19/us/politics/19vid-dnc-highlights-1/19vid-dnc-highlights-1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Erin Schaff/The New York Times</media:credit>
     </item>
     <item>
@@ -342,14 +684,14 @@
       <atom:link href="https://www.nytimes.com/2020/08/19/sports/baseball/reds-thom-brennaman-homophobic-slur.html" rel="standout"></atom:link>
       <description>The announcer, Thom Brennaman, apologized for his remarks, and said, “I don’t know if I’m going to be putting on this headset again.”</description>
       <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 04:44:37 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2020 15:08:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox Sports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cincinnati Reds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brennaman, Thom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Major League Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/multimedia/19xp-brennaman/19xp-brennaman-moth.jpg" width="151"></media:content>
       <media:credit>John Minchillo/Associated Press</media:credit>
       <media:description>Thom Brennaman, broadcaster for the Cincinnati Reds, apologized on Wednesday night for using a homophobic slur. “I am very, very sorry and I beg for your forgiveness,” he said.</media:description>
@@ -361,7 +703,7 @@
       <atom:link href="https://www.nytimes.com/2020/08/19/us/politics/obama-speech.html" rel="standout"></atom:link>
       <description>The very future of our democracy is at stake, former President Barack Obama said Wednesday night, imploring voters to oust President Trump.</description>
       <dc:creator>Stephanie Saul</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 04:54:18 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2020 11:03:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
@@ -381,377 +723,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19-live-mohamed-1751/19-live-mohamed-1751-moth.jpg" width="151"></media:content>
       <media:credit>Pete Marovich for The New York Times</media:credit>
       <media:description>Senator Sherrod Brown of Ohio helped introduce a segment on the pandemic and the economy during the Democratic National Convention on Wednesday. </media:description>
-    </item>
-    <item>
-      <title>Trump on QAnon Followers: &#39;These Are People That Love Our Country&#39;</title>
-      <link>https://www.nytimes.com/2020/08/19/us/politics/trump-qanon-conspiracy-theories.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/politics/trump-qanon-conspiracy-theories.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/politics/trump-qanon-conspiracy-theories.html" rel="standout"></atom:link>
-      <description>When asked, the president did not question the truth behind the claims of the QAnon conspiracy movement. Instead, he offered his help.</description>
-      <dc:creator>Katie Rogers and Kevin Roose</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 03:02:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">QAnon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greene, Marjorie Taylor (1974- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McEnany, Kayleigh</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19dc-trumpq/19dc-trumpq-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description> At a news conference on Wednesday, President Trump embraced proponents of the QAnon conspiracy theory.</media:description>
-    </item>
-    <item>
-      <title>Michigan to Pay $600 Million to Victims of Flint Water Crisis</title>
-      <link>https://www.nytimes.com/2020/08/19/us/flint-water-crisis-settlement.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/flint-water-crisis-settlement.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/flint-water-crisis-settlement.html" rel="standout"></atom:link>
-      <description>Residents were left ill and relying on bottled water. Health officials said the effects on children were most concerning.</description>
-      <dc:creator>Julie Bosman</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 01:33:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Flint (Mich)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lead</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/00FLINT/merlin_144836721_383f7d05-6cd0-44a1-b84c-adbdeef01060-moth.jpg" width="151"></media:content>
-      <media:credit>Brittany Greeson for The New York Times</media:credit>
-      <media:description>A volunteer loading bottled water into a car in Flint, Mich., in 2018. After city officials switched the water supply, residents began feeling ill and experiencing skin rashes.</media:description>
-    </item>
-    <item>
-      <title>Bryce Hall, TikTok Influencer, Has Power Shut Off by Los Angeles</title>
-      <link>https://www.nytimes.com/2020/08/19/style/la-party-power-cut-tiktok.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/style/la-party-power-cut-tiktok.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/style/la-party-power-cut-tiktok.html" rel="standout"></atom:link>
-      <description>This month, Mayor Eric Garcetti said that Angelenos who violated the city’s guidelines on gatherings during a health crisis would have their water and power turned off. Today, he followed through.</description>
-      <dc:creator>Taylor Lorenz</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 03:28:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parties (Social)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Los Angeles, Calif)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/fashion/19VIRUS-INFLUENCERS-1/19VIRUS-INFLUENCERS-1-moth.jpg" width="151"></media:content>
-      <media:credit>Gotpap/Bauer-Griffin, via GC Images</media:credit>
-      <media:description>Bryce Hall, a resident of a Los Angeles mansion where the power was cut on Wednesday. Mayor Eric Garcetti announced on Aug. 5 that the city would be shutting off the utilities at any address found to be hosting large gatherings. </media:description>
-    </item>
-    <item>
-      <title>Kamala Harris Accepts V.P. Nomination at the Democratic National Convention</title>
-      <link>https://www.nytimes.com/2020/08/19/us/politics/kamala-harris-dnc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/politics/kamala-harris-dnc.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/politics/kamala-harris-dnc.html" rel="standout"></atom:link>
-      <description>As a barrier-breaking candidate, and as the running mate to a 77-year-old, Ms. Harris arrives at the Democratic convention carrying an extraordinary set of hopes and expectations from party members.</description>
-      <dc:creator>Adam Nagourney and Katie Glueck</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 05:53:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vice Presidents and Vice Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19dems-assess-top/19dems-assess-top-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
-      <media:description>Senator Kamala Harris, a former prosecutor and relatively moderate Democrat, will have to navigate complex political terrain as Joseph R. Biden Jr.’s running mate.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Briefing: What Happened Today</title>
-      <link>https://www.nytimes.com/2020/08/19/us/coronavirus-today.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/coronavirus-today.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/coronavirus-today.html" rel="standout"></atom:link>
-      <description>An outbreak among the crew of a fishing boat spared the only three members with antibodies.</description>
-      <dc:creator>Jonathan Wolfe</dc:creator>
-      <pubDate>Wed, 19 Aug 2020 23:44:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v729.png" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>California Endures Fires, Blackouts, a Heat Wave and a Pandemic</title>
-      <link>https://www.nytimes.com/2020/08/19/us/california-heatwave-blackouts-wildfires.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/california-heatwave-blackouts-wildfires.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/california-heatwave-blackouts-wildfires.html" rel="standout"></atom:link>
-      <description>The nation’s most-populated state is facing multiple crises, including 23 major wildfires raging while the daily death toll from the coronavirus is above 100.</description>
-      <dc:creator>Thomas Fuller</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 00:58:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vacaville (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lightning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/19wildfires-1/merlin_175905363_40013fe4-4d2f-4df1-9495-3734fa4e4e46-moth.jpg" width="151"></media:content>
-      <media:credit>Max Whittaker for The New York Times</media:credit>
-      <media:description>The wildfires threatening Vacaville, Calif., have destroyed more than 50 homes and are threatening nearly 2,000 more buildings, the authorities said.</media:description>
-    </item>
-    <item>
-      <title>What to Know About Night 3 of The Democratic National Convention</title>
-      <link>https://www.nytimes.com/2020/08/19/us/politics/dnc-live.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/politics/dnc-live.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/politics/dnc-live.html" rel="standout"></atom:link>
-      <description>Ms. Harris’s prime-time speech will introduce her to the broader American electorate, while Mr. Obama and Elizabeth Warren, two of the best known voices on policy, are expected to highlight the Democratic Party’s aims.</description>
-      <dc:creator>Alexander Burns</dc:creator>
-      <pubDate>Wed, 19 Aug 2020 23:09:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vice Presidents and Vice Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warren, Elizabeth</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19whattowatch/19whattowatch-moth.jpg" width="151"></media:content>
-      <media:credit>Michelle V. Agins/The New York Times</media:credit>
-      <media:description>Senator Kamala Harris of California will accept the nomination for Vice President on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Barr Disavows Death Penalty for Two ISIS ‘Beatles’ if Britain Shares Evidence</title>
-      <link>https://www.nytimes.com/2020/08/19/us/politics/barr-death-penalty-isis-beatles.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/politics/barr-death-penalty-isis-beatles.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/politics/barr-death-penalty-isis-beatles.html" rel="standout"></atom:link>
-      <description>But the attorney general also threatened to turn the detainees over to Iraq if the British government and court system do not comply by Oct. 15.</description>
-      <dc:creator>Charlie Savage</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 04:06:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elsheikh, El Shafee</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Foley, Diane</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Foley, James (1973-2014)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kotey, Alexanda</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19dc-isis-beatles/19dc-isis-beatles-moth.jpg" width="151"></media:content>
-      <media:credit>Hussein Malla/Associated Press</media:credit>
-      <media:description>Alexanda Kotey, left, and El Shafee Elsheikh are Britons who made up half of a brutal Islamic State cell nicknamed the “Beatles.”</media:description>
-    </item>
-    <item>
-      <title>Trump Phone Calls Add to Lingering Questions About Russian Interference</title>
-      <link>https://www.nytimes.com/2020/08/19/us/politics/trump-stone-investigation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/politics/trump-stone-investigation.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/politics/trump-stone-investigation.html" rel="standout"></atom:link>
-      <description>A Senate committee went further than the Mueller report on key points about Russia’s election sabotage operations and the Trump campaign.</description>
-      <dc:creator>Julian E. Barnes</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 00:35:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WikiLeaks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stone, Roger J Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19dc-intel/19dc-intel-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>A Senate report said Donald J. Trump knew of and discussed stolen Democratic emails at key points in his 2016 election campaign.</media:description>
-    </item>
-    <item>
-      <title>The convention ‘feels so lonesome’ without the crowds, says the longest-serving member of the D.N.C.</title>
-      <link>https://www.nytimes.com/2020/08/19/us/elections/the-convention-feels-so-lonesome-without-the-crowds-says-the-longest-serving-member-of-the-dnc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/elections/the-convention-feels-so-lonesome-without-the-crowds-says-the-longest-serving-member-of-the-dnc.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/elections/the-convention-feels-so-lonesome-without-the-crowds-says-the-longest-serving-member-of-the-dnc.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Miriam Jordan</dc:creator>
-      <pubDate>Wed, 19 Aug 2020 22:50:49 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/19DIEHARD-DEM/merlin_175905813_226c8cd4-4685-4b8c-9647-08d0c2eaf1c4-moth.jpg" width="151"></media:content>
-      <media:credit>David Walter Banks for The New York Times</media:credit>
-      <media:description>At Rosalind Wyman’s house in Los Angeles, the Democratic National Convention is blaring from television sets in four rooms. “I have it so that I won’t miss anything,” she said.</media:description>
-    </item>
-    <item>
-      <title>Trump speaks positively about conspiracy theorists who believe in QAnon.</title>
-      <link>https://www.nytimes.com/2020/08/19/us/elections/trump-speaks-positively-about-conspiracy-theorists-who-believe-in-qanon.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/elections/trump-speaks-positively-about-conspiracy-theorists-who-believe-in-qanon.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/elections/trump-speaks-positively-about-conspiracy-theorists-who-believe-in-qanon.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Wed, 19 Aug 2020 22:42:21 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19-live-trump-1823/19-live-trump-1823-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker for The New York Times</media:credit>
-      <media:description>“I don’t know much about the movement, other than I understand they like me very much, which I appreciate,” President Trump said of QAnon believers.</media:description>
-    </item>
-    <item>
-      <title>Flashback/Flash-Forward</title>
-      <link>https://www.nytimes.com/2020/08/19/us/politics/flashback-flash-forward.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/politics/flashback-flash-forward.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/politics/flashback-flash-forward.html" rel="standout"></atom:link>
-      <description>Hillary Clinton’s D.N.C. appearance tonight is a reminder of how the party has changed since 2016.</description>
-      <dc:creator>Giovanni Russonello</dc:creator>
-      <pubDate>Wed, 19 Aug 2020 22:20:02 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19onpolitics-pm/19onpolitics-pm-moth.jpg" width="151"></media:content>
-      <media:credit>Sam Hodgson for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Three in Masks Sought in Denver House Fire That Killed Five</title>
-      <link>https://www.nytimes.com/2020/08/19/us/denver-fire-arson.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/denver-fire-arson.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/denver-fire-arson.html" rel="standout"></atom:link>
-      <description>Detectives hope that a chilling picture of people in dark hoods and white masks leads them to those who set fire to a house this month, killing five members of a Senegalese family.</description>
-      <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Wed, 19 Aug 2020 22:11:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denver (Colo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Senegal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diol, Djibril</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diol, Adia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diol, Khadija</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diol, Hassan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hawa Baye</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/multimedia/19xp-denverfire2/19xp-denverfire2-moth.jpg" width="151"></media:content>
-      <media:credit>Denver Police Department</media:credit>
-      <media:description>Detectives are hoping to identify the three people pictured here in connection with the fatal fire.</media:description>
-    </item>
-    <item>
-      <title>U.S. Suspends Bilateral Agreements With Hong Kong, Escalating Tensions With China</title>
-      <link>https://www.nytimes.com/2020/08/19/us/politics/trump-china-hong-kong.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/politics/trump-china-hong-kong.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/politics/trump-china-hong-kong.html" rel="standout"></atom:link>
-      <description>The actions are part of the Trump administration’s broader efforts to punish China for its attempts to stifle political dissent in Hong Kong.</description>
-      <dc:creator>Pranshu Verma</dc:creator>
-      <pubDate>Wed, 19 Aug 2020 21:40:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extradition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WeChat (Mobile App)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lam, Carrie (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19dc-diplo-hk/19dc-diplo-hk-moth.jpg" width="151"></media:content>
-      <media:credit>Vincent Yu/Associated Press</media:credit>
-      <media:description>The three agreements cover the transfer of fugitives and convicted prisoners as well as reciprocal tax exemptions on income from international shipping.</media:description>
-    </item>
-    <item>
-      <title>Ex-F.B.I. Lawyer Pleads Guilty to Doctoring Email in Russia Inquiry</title>
-      <link>https://www.nytimes.com/2020/08/19/us/politics/kevin-clinesmith-guilty.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/politics/kevin-clinesmith-guilty.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/politics/kevin-clinesmith-guilty.html" rel="standout"></atom:link>
-      <description>The former official admitted that he had intentionally inserted words into the text of the email, which discussed past relations between the C.I.A. and Carter Page, the former Trump campaign adviser.</description>
-      <dc:creator>Charlie Savage</dc:creator>
-      <pubDate>Wed, 19 Aug 2020 21:18:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinesmith, Kevin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Mail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wiretapping and Other Eavesdropping Devices and Methods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Page, Carter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boasberg, James E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Horowitz, Michael E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19dc-clinesmith/19dc-clinesmith-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>The F.B.I. headquarters in Washington. The case of Kevin E. Clinesmith, who worked with the agency’s Trump-Russia investigation team, has drawn heightened political attention.</media:description>
-    </item>
-    <item>
-      <title>In virtual caucus meetings, Biden and Harris reach out to voters of color.</title>
-      <link>https://www.nytimes.com/2020/08/19/us/elections/in-virtual-caucus-meetings-biden-and-harris-reach-out-to-voters-of-color.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/elections/in-virtual-caucus-meetings-biden-and-harris-reach-out-to-voters-of-color.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/elections/in-virtual-caucus-meetings-biden-and-harris-reach-out-to-voters-of-color.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Matt Stevens</dc:creator>
-      <pubDate>Wed, 19 Aug 2020 21:18:06 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19-live-stevens-1452/19-live-stevens-1452-moth.jpg" width="151"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
-      <media:description>Joseph R. Biden Jr. drew on the legacy of Representative John Lewis in his D.N.C. Black Caucus remarks.</media:description>
-    </item>
-    <item>
-      <title>Kansas Democrat, 19, Who Admitted to Revenge Porn, Ekes Out Primary Win</title>
-      <link>https://www.nytimes.com/2020/08/19/us/politics/aaron-coleman-kansas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/politics/aaron-coleman-kansas.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/politics/aaron-coleman-kansas.html" rel="standout"></atom:link>
-      <description>Aaron Coleman defeated a seven-term incumbent for a state House seat by 14 votes, alarming Democrats who worry he will hurt other candidates in the general election.</description>
-      <dc:creator>Maria Cramer</dc:creator>
-      <pubDate>Wed, 19 Aug 2020 21:09:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wyandotte County (Kan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/18/multimedia/18xp-kansas/18xp-kansas-moth.jpg" width="151"></media:content>
-      <media:credit>Aaron Coleman via, Youtube</media:credit>
-      <media:description>Aaron Coleman, 19, narrowly won a Democratic primary for a seat in the Kansas Legislature. His acknowledgement that he harassed girls online when he was in middle school has alarmed state Democrats.</media:description>
-    </item>
-    <item>
-      <title>The Trump campaign&#39;s latest YouTube ads have been seen 40 million times.</title>
-      <link>https://www.nytimes.com/2020/08/19/us/elections/the-trump-campaigns-latest-youtube-ads-have-been-seen-40-million-times.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/elections/the-trump-campaigns-latest-youtube-ads-have-been-seen-40-million-times.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/elections/the-trump-campaigns-latest-youtube-ads-have-been-seen-40-million-times.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Nick Corasaniti</dc:creator>
-      <pubDate>Wed, 19 Aug 2020 20:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ratings for the virtual convention held steady on its second, less-starry night.</title>
-      <link>https://www.nytimes.com/2020/08/19/us/elections/ratings-for-the-virtual-convention-held-steady-on-its-second-less-starry-night.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/elections/ratings-for-the-virtual-convention-held-steady-on-its-second-less-starry-night.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/elections/ratings-for-the-virtual-convention-held-steady-on-its-second-less-starry-night.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Michael M. Grynbaum</dc:creator>
-      <pubDate>Wed, 19 Aug 2020 23:06:24 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19-live-dncratings/19-live-dncratings-moth.jpg" width="151"></media:content>
-      <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
-      <media:description>A screen in the Wisconsin Center broadcasts the announcement of Joseph R. Biden Jr., as the Democratic presidential nomination on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Obama Returns to the DNC With a Chance to Rescue His Legacy From Trump</title>
-      <link>https://www.nytimes.com/2020/08/19/us/politics/barack-obama-dnc-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/politics/barack-obama-dnc-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/politics/barack-obama-dnc-trump.html" rel="standout"></atom:link>
-      <description>After four years watching his achievements being dismantled, he has almost as much at stake as his party’s nominee, Joe Biden, does.</description>
-      <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 05:12:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/us/politics/19obama1/19obama1-moth.jpg" width="151"></media:content>
-      <media:credit>Stephen Crowley/The New York Times</media:credit>
-      <media:description>Former President Barack Obama’s determination to see President Trump defeated may be as powerful, or even more so, than his desire to elevate Joseph R. Biden Jr.</media:description>
-    </item>
-    <item>
-      <title>In Convention Speech, Kamala Harris Tests America’s Relationship to Women in Power</title>
-      <link>https://www.nytimes.com/2020/08/19/us/politics/vice-president-kamala-harris-palin-ferraro.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/politics/vice-president-kamala-harris-palin-ferraro.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/politics/vice-president-kamala-harris-palin-ferraro.html" rel="standout"></atom:link>
-      <description>The vice-presidential pick lifts a mirror to the would-be president, and the voters they are trying to win over.</description>
-      <dc:creator>Amanda Hess</dc:creator>
-      <pubDate>Thu, 20 Aug 2020 05:34:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/us/politics/20hess3/merlin_137423850_e5d70a7c-a801-45c1-aecd-499fed8febcb-moth.jpg" width="151"></media:content>
-      <media:credit>Sara Krulwich/The New York Times</media:credit>
-      <media:description>When Walter Mondale tapped Geraldine Ferraro to be his running mate in 1984, she was judged as the most interesting thing about him.</media:description>
-    </item>
-    <item>
-      <title>The Democrats approved a platform setting out the party’s agenda.</title>
-      <link>https://www.nytimes.com/2020/08/19/us/elections/the-democrats-approved-a-platform-setting-out-the-partys-agenda.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/19/us/elections/the-democrats-approved-a-platform-setting-out-the-partys-agenda.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/19/us/elections/the-democrats-approved-a-platform-setting-out-the-partys-agenda.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Sydney Ember and Matt Stevens</dc:creator>
-      <pubDate>Wed, 19 Aug 2020 19:49:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
