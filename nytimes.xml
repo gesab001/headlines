@@ -7,102 +7,46 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 27 Aug 2020 02:41:00 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Aug 2020 02:41:00 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2020 03:30:03 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2020 03:30:03 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>Hurricane Laura Strengthens to Near Category 5: Live Updates</title>
-      <link>https://www.nytimes.com/2020/08/26/us/hurricane-laura-update.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/hurricane-laura-update.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/hurricane-laura-update.html" rel="standout"></atom:link>
-      <description>The hurricane, now with 150 mile-per-hour winds, is projected to make landfall late Wednesday or early Thursday near the Texas-Louisiana border.</description>
-      <pubDate>Thu, 27 Aug 2020 02:27:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf Coast (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/26storm-briefing-1/merlin_176200857_4adebda7-22c5-4b95-a637-6df615c3ed8d-moth.jpg" width="151"></media:content>
-      <media:credit>William Widmer for The New York Times</media:credit>
-      <media:description>Residents gathered at the Burton Complex, an event center in Lake Charles, La., for assistance with evacuation.</media:description>
-    </item>
-    <item>
-      <title>Kenosha Shootings: Two Killed and One Injured in Chaotic Night</title>
-      <link>https://www.nytimes.com/2020/08/26/us/kenosha-shooting-protests-jacob-blake.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/kenosha-shooting-protests-jacob-blake.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/kenosha-shooting-protests-jacob-blake.html" rel="standout"></atom:link>
-      <description>Protesters have poured into the Wisconsin city’s streets after the shooting of Jacob Blake, a Black father who was partially paralyzed after a white officer fired at him in front of his children.</description>
-      <dc:creator>Julie Bosman and Sarah Mervosh</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 02:31:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <title>Kenosha Shooting: NBA Cancels Thursday&#39;s Games</title>
+      <link>https://www.nytimes.com/2020/08/27/us/kenosha-shooting-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/kenosha-shooting-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/kenosha-shooting-protests.html" rel="standout"></atom:link>
+      <description>The teams were among 14 Major League Baseball squads that chose not to play on Thursday as protests over the shooting of Jacob Blake continued.</description>
+      <pubDate>Fri, 28 Aug 2020 03:29:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenosha (Wis)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Reform</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/26hpkenosha/26hpkenosha-moth.jpg" width="151"></media:content>
-      <media:credit>Stephen Maturen/Reuters</media:credit>
-      <media:description>Aftermath following unrest in Kenosha, Wis., after the police shooting of Jacob Blake, a Black resident.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/27kenosha-briefing-mets/merlin_176257953_e2c31aeb-5784-4c03-8e36-a6d00ea481b2-moth.jpg" width="151"></media:content>
+      <media:credit>Brad Penner/USA Today Sports, via Reuters</media:credit>
+      <media:description>New York Mets third baseman J.D. Davis, left, and first baseman Dominic Smith walked off the field in protest before a scheduled game against the Miami Marlins on Thursday.</media:description>
     </item>
     <item>
-      <title>New Virus Hot Spots: U.S. Islands from Hawaii to Puerto Rico</title>
-      <link>https://www.nytimes.com/2020/08/25/us/coronavirus-guam-virgin-islands-hawaii-puerto-rico.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/25/us/coronavirus-guam-virgin-islands-hawaii-puerto-rico.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/25/us/coronavirus-guam-virgin-islands-hawaii-puerto-rico.html" rel="standout"></atom:link>
-      <description>U.S. islands in the Caribbean and the Pacific have growing cases of the coronavirus, which can spike even in places far removed from urban centers when controls are relaxed.</description>
-      <dc:creator>Simon Romero and Patricia Mazzei</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 00:37:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contact Tracing (Public Health)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virgin Islands (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">American Samoa</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/25/us/25VIRUS-ISLANDS-pr/merlin_175687299_8237293d-af03-4368-937d-3d299fbe9d3a-moth.jpg" width="151"></media:content>
-      <media:credit>Erika P. Rodriguez for The New York Times</media:credit>
-      <media:description>A banner in San Juan, P.R., asks visitors to keep noise down, wear a mask and throw garbage in bins.</media:description>
-    </item>
-    <item>
-      <title>Jerry Falwell Jr.’s Departure Brings Relief on Liberty University’s Campus</title>
-      <link>https://www.nytimes.com/2020/08/25/us/falwell-resigns-liberty-university.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/25/us/falwell-resigns-liberty-university.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/25/us/falwell-resigns-liberty-university.html" rel="standout"></atom:link>
-      <description>“We almost had a monarchy,” said one of many students who said they supported Mr. Falwell’s exit.</description>
-      <dc:creator>Ruth Graham</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 02:59:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberty University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Falwell, Jerry Jr (1962- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Granda, Giancarlo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/25/us/25falwell/25falwell-moth.jpg" width="151"></media:content>
-      <media:credit>Jonathan Drake/Reuters</media:credit>
-      <media:description>Jerry Falwell Jr. resigned from his position as president of Liberty University on Tuesday. He suggested he was happy to move on.</media:description>
-    </item>
-    <item>
-      <title>Forecasters Issue Dire Warnings for Hurricane Laura</title>
-      <link>https://www.nytimes.com/2020/08/26/us/hurricane-laura-path-louisiana.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/hurricane-laura-path-louisiana.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/hurricane-laura-path-louisiana.html" rel="standout"></atom:link>
-      <description>Winds of about 150 miles per hour and a storm surge that meteorologists are calling “unsurvivable” are expected to barrage the Louisiana and Texas coasts as it makes landfall.</description>
-      <dc:creator>Rick Rojas, Chelsea Brasted and Giulia McDonnell Nieto del Rio</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 01:08:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <title>Hurricane Laura Live News and Updates</title>
+      <link>https://www.nytimes.com/2020/08/27/us/hurricane-laura-update.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/hurricane-laura-update.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/hurricane-laura-update.html" rel="standout"></atom:link>
+      <description>After landfall overnight with 150 m.p.h. winds, Laura ripped northward. Officials confirmed at least six deaths tied to the storm, and hundreds of thousands of people have lost power.</description>
+      <pubDate>Fri, 28 Aug 2020 02:50:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Laura (2020)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf Coast (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/26storms-1/merlin_176200761_98e501ee-a3d3-45c3-996e-fcf116d529f5-moth.jpg" width="151"></media:content>
-      <media:credit>William Widmer for The New York Times</media:credit>
-      <media:description>Evacuees get their temperature taken at the Burton Complex, an event center in Lake Charles, La.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/video/27covervid-hurricane-laura-2/27covervid-hurricane-laura-2-moth.png" width="151"></media:content>
+      <media:credit>Javier Fernandez for The New York Times</media:credit>
     </item>
     <item>
       <title>How Chaos in Kenosha Is Already Swaying Some Voters in Wisconsin</title>
@@ -111,295 +55,30 @@
       <atom:link href="https://www.nytimes.com/2020/08/26/us/kenosha-wisconsin-trump.html" rel="standout"></atom:link>
       <description>As residents see fires and looting, some worry that local Democratic leaders are failing to keep control of the situation.</description>
       <dc:creator>Sabrina Tavernise and Ellen Almer Durston</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 01:05:58 +0000</pubDate>
+      <pubDate>Thu, 27 Aug 2020 20:15:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenosha (Wis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Looting (Crime)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenosha (Wis)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Evers, Tony (1951- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/26KENOSHA-TRUMP/merlin_176166567_35684049-1a29-4cc9-a2fc-d232ce4bcfaf-moth.jpg" width="151"></media:content>
       <media:credit>Alyssa Schukar for The New York Times</media:credit>
-      <media:description>A worker prepared to cover the windows of a damaged business in Kenosha, Wis., on Tuesday. The shooting of an unarmed Black man by the city’s police led to protests.</media:description>
-    </item>
-    <item>
-      <title>DNA Evidence Exonerates Man in 1983 Rape and Killing, Prosecutors Say</title>
-      <link>https://www.nytimes.com/2020/08/26/us/robert-duboise-wrongful-conviction.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/robert-duboise-wrongful-conviction.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/robert-duboise-wrongful-conviction.html" rel="standout"></atom:link>
-      <description>Prosecutors in Hillsborough County, Fla., said Robert DuBoise, 55, had been wrongfully convicted. On Wednesday, they moved to free him after he spent 37 years behind bars.</description>
-      <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 00:27:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">False Arrests, Convictions and Imprisonments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forensic Science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Innocence Project</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hillsborough County (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DuBoise, Robert</category>
-    </item>
-    <item>
-      <title>Live Updates: Jacob Blake Had Knife at Time of Police Shooting, Officials Say</title>
-      <link>https://www.nytimes.com/2020/08/26/us/kenosha-protests-jacob-blake-kyle-rittenhouse.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/kenosha-protests-jacob-blake-kyle-rittenhouse.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/kenosha-protests-jacob-blake-kyle-rittenhouse.html" rel="standout"></atom:link>
-      <description>Wisconsin’s attorney general also identified the Kenosha officer who shot Mr. Blake multiple times as Rusten Sheskey, a seven-year veteran.</description>
-      <pubDate>Thu, 27 Aug 2020 01:52:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Reform</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Milwaukee Bucks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Orlando Magic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Guard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Floyd, George (d 2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, LeBron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rittenhouse, Kyle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenosha (Wis)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/briefing/26kenosha-brief-slide-66YY/26kenosha-brief-slide-66YY-moth.jpg" width="151"></media:content>
-      <media:credit>Stephen Maturen/Reuters</media:credit>
-      <media:description>Wisconsin Attorney General Josh Kaul during a news conference about the police shooting of Jacob Blake, a Black man, in Kenosha, Wis., on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Sailor Investigated for Arson in U.S.S. Bonhomme Richard Fire</title>
-      <link>https://www.nytimes.com/2020/08/26/us/bonhomme-richard-arson-fire.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/bonhomme-richard-arson-fire.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/bonhomme-richard-arson-fire.html" rel="standout"></atom:link>
-      <description>It took four days to extinguish the July fire on the U.S.S. Bonhomme Richard, which rendered the ship inoperative.</description>
-      <dc:creator>Eric Schmitt and John Ismay</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 00:59:17 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/lens/26bonhomme-pic/26bonhomme-pic-moth.jpg" width="151"></media:content>
-      <media:credit>Sean M. Haffey/Getty Images</media:credit>
-      <media:description>The U.S.S. Bonhomme Richard burned at Naval Base San Diego in July.</media:description>
-    </item>
-    <item>
-      <title>How Trump’s Convention Has Become a Crucial Play for the Suburbs</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/rnc-trump-character.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/rnc-trump-character.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/rnc-trump-character.html" rel="standout"></atom:link>
-      <description>Conciliatory messages at the Republican convention were an acknowledgment by the president’s campaign that appealing to his right-wing base will not be enough to win re-election.</description>
-      <dc:creator>Jeremy W. Peters, Annie Karni and Nick Corasaniti</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 02:27:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suburbs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26trump-image1/26trump-image1-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>Voter opinions about President Trump have been remarkably impervious to the good and bad news about him, fluctuating little since he took office.</media:description>
-    </item>
-    <item>
-      <title>The Harsh Reality Behind Trump’s Reality Show</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/trump-reality-show.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/trump-reality-show.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/trump-reality-show.html" rel="standout"></atom:link>
-      <description>Night 2 of the R.N.C. took a more conciliatory tone, in contradiction to his actual policies.</description>
-      <dc:creator>Giovanni Russonello</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 23:45:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26onpolitics-pm/26onpolitics-pm-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump took part in a naturalization ceremony at the White House that was aired on Tuesday during the convention.</media:description>
-    </item>
-    <item>
-      <title>Trump Takes Night Off From Anti-Immigrant Talk to Swear In U.S. Citizens</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/trump-naturalization-ceremony-rnc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/trump-naturalization-ceremony-rnc.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/trump-naturalization-ceremony-rnc.html" rel="standout"></atom:link>
-      <description>Five new American citizens were stunned to be naturalized at a White House ceremony during the Republican National Convention. Some said they did not know they were being broadcast until friends called to tell them.</description>
-      <dc:creator>Zolan Kanno-Youngs and Michael D. Shear</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 00:58:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citizenship and Immigration Services (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26dc-citizenship/26dc-citizenship-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>Salih Abdul Samad, center, and other new American citizens celebrating with their families after a naturalization ceremony at the White House on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Three Charged With Leaking Movies as Part of Global Piracy Ring</title>
-      <link>https://www.nytimes.com/2020/08/26/business/media/piracy-ring-movies-internet.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/business/media/piracy-ring-movies-internet.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/business/media/piracy-ring-movies-internet.html" rel="standout"></atom:link>
-      <description>U.S. officials said members of the Sparks Group, an elite piracy network, fraudulently obtained and distributed movies ahead of release dates.</description>
-      <dc:creator>Jacey Fortin</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 23:33:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TorrentFreak</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">George Bridi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jonatan Correa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Umar Ahmad</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sparks Group</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/multimedia/26xp-piracy/26xp-piracy-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Kelly/Reuters</media:credit>
-      <media:description>The U.S. Attorney’s Office in New York said Wednesday that an American and a British man had been arrested and that a third person, a Norwegian, was being sought.</media:description>
-    </item>
-    <item>
-      <title>Top U.S. Officials Told C.D.C. to Soften Coronavirus Testing Guidelines</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/coronavirus-testing-trump-cdc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/coronavirus-testing-trump-cdc.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/coronavirus-testing-trump-cdc.html" rel="standout"></atom:link>
-      <description>The Centers for Disease Control and Prevention abruptly changed its recommendations, saying people without Covid-19 symptoms should not get tested.</description>
-      <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 01:24:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giroir, Brett P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26dc-virus-cdc1/26dc-virus-cdc1-moth.jpg" width="151"></media:content>
-      <media:credit>Chris Creese for The New York Times</media:credit>
-      <media:description>Nurses administered coronavirus tests at a drive-through site in Tulsa, Okla., last month.</media:description>
-    </item>
-    <item>
-      <title>Brother of Impeachment Witness Says His Firing Was a Whistle-Blower Reprisal</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/yevgeny-vindman-whistleblower-complaint.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/yevgeny-vindman-whistleblower-complaint.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/yevgeny-vindman-whistleblower-complaint.html" rel="standout"></atom:link>
-      <description>Yevgeny Vindman, Alexander S. Vindman’s brother, says he was fired in retaliation for his role in the impeachment inquiry and for raising ethics and legal concerns about the national security adviser.</description>
-      <dc:creator>Nicholas Fandos</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 01:10:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vindman, Yevgeny</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Security Council</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">O&#39;Brien, Robert C (1952- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vindman, Alexander S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whistle-Blowers</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26dc-vindman/26dc-vindman-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>Lt. Col. Yevgeny Vindman, the twin brother of Lt. Col. Alexander S. Vindman, who testified in the impeachment inquiry, repeatedly raised concerns about Robert C. O’Brien, the national security adviser.</media:description>
-    </item>
-    <item>
-      <title>Justice Dept. Executes Lezmond Mitchell, a Native American Man Convicted of Murder</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/lezmond-mitchell-executed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/lezmond-mitchell-executed.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/lezmond-mitchell-executed.html" rel="standout"></atom:link>
-      <description>It was the fourth time this summer the Trump administration has carried out the death penalty. The case had raised issues of tribal sovereignty.</description>
-      <dc:creator>Hailey Fuchs</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 01:58:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Navajo Indians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mitchell, Lezmond</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26dc-execute/26dc-execute-moth.jpg" width="151"></media:content>
-      <media:credit>Michael Conroy/Associated Press</media:credit>
-      <media:description>The federal prison in Terre Haute, Ind., where Lezmond Mitchell was executed on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>White House Dismisses Questions of Whether Convention Events Broke Anti-Corruption Law</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/hatch-act-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/hatch-act-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/hatch-act-trump.html" rel="standout"></atom:link>
-      <description>The law is aimed at preventing public officials from using their power for partisan political activity.</description>
-      <dc:creator>Charlie Savage</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 00:11:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hatch Act (1939)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Office of Special Counsel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meadows, Mark R (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Melania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wolf, Chad F</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26dc-hatch/26dc-hatch-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump attended a naturalization ceremony performed at the White House and broadcast as part of the Republican National Convention.</media:description>
-    </item>
-    <item>
-      <title>Impeachment, once seen as the battle of a generation, has vanished from the political landscape.</title>
-      <link>https://www.nytimes.com/2020/08/26/us/elections/impeachment-once-seen-as-the-battle-of-a-generation-has-vanished-from-the-political-landscape.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/elections/impeachment-once-seen-as-the-battle-of-a-generation-has-vanished-from-the-political-landscape.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/elections/impeachment-once-seen-as-the-battle-of-a-generation-has-vanished-from-the-political-landscape.html" rel="standout"></atom:link>
-      <description>Six months after President Trump’s Senate trial, what was once seen as the battle of a generation has essentially vanished from the political landscape, all but unmentioned at either party’s convention.</description>
-      <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 23:09:38 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/25/us/politics/25dc-impeach/25dc-impeach-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>The national conversation is now being dominated by issues that were barely on the radar screen when President Trump’s trial ended.</media:description>
-    </item>
-    <item>
-      <title>Coronavirus Briefing: What Happened Today</title>
-      <link>https://www.nytimes.com/2020/08/26/us/coronavirus-today.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/coronavirus-today.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/coronavirus-today.html" rel="standout"></atom:link>
-      <description>New York City residents are preparing for a possible resurgence in the fall.</description>
-      <dc:creator>Lara Takenaga and Jonathan Wolfe</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 22:59:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v744.png" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Intelligence Officials See No Foreign Effort to Undermine Mail-In Voting</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/mail-in-voting-foreign-intervention.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/mail-in-voting-foreign-intervention.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/mail-in-voting-foreign-intervention.html" rel="standout"></atom:link>
-      <description>Their assessment contradicted part of President Trump’s attacks on absentee voting.</description>
-      <dc:creator>Julian E. Barnes</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 21:57:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the Director of National Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26dc-electionsecurity/26dc-electionsecurity-moth.jpg" width="151"></media:content>
-      <media:credit>Ruth Fremson/The New York Times</media:credit>
-      <media:description>Sorting ballots for a primary in Renton, Wash., this month. President Trump has warned without evidence that mail-in voting makes fraud easier.</media:description>
+      <media:description>Covering the windows of a damaged business in Kenosha on Tuesday, where protests over the shooting of Jacob Blake gave way to looting in some instances.</media:description>
     </item>
     <item>
       <title>‘2020 Can Go to Hell’: The Story Behind the Viral Fire Photo That Said It All</title>
       <link>https://www.nytimes.com/2020/08/26/us/california-wildfires-lake-berryessa.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/california-wildfires-lake-berryessa.html</guid>
       <atom:link href="https://www.nytimes.com/2020/08/26/us/california-wildfires-lake-berryessa.html" rel="standout"></atom:link>
-      <description>Pandemic, unemployment, wildfire — Lake Berryessa, Calif., has seen it all this year. A photo from town that evoked the trauma of 2020 sped across the internet. Here, though, it was real life.</description>
+      <description>Pandemic, unemployment, wildfire — Lake Berryessa, Calif., has seen it all this year. A photo from the town that evoked the trauma of 2020 sped across the internet. Here, though, it was real life.</description>
       <dc:creator>Jack Healy</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 21:25:47 +0000</pubDate>
+      <pubDate>Thu, 27 Aug 2020 05:28:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
@@ -410,443 +89,704 @@
       <media:description>Chris Lacombe looked over the remains of his home, which was destroyed by the L.N.U. Lightning Complex, in Spanish Flat, Calif.</media:description>
     </item>
     <item>
-      <title>Anthony Martignetti (‘Anthony!’), Who Raced Home for Spaghetti, Dies at 63</title>
-      <link>https://www.nytimes.com/2020/08/26/arts/television/anthony-martignetti-dead-at-63-played-boy-in-Prince-spaghetti-commercial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/arts/television/anthony-martignetti-dead-at-63-played-boy-in-Prince-spaghetti-commercial.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/arts/television/anthony-martignetti-dead-at-63-played-boy-in-Prince-spaghetti-commercial.html" rel="standout"></atom:link>
-      <description>He was a 12-year-old Italian immigrant when a classic TV commercial for Prince, the Boston pasta company, gave him a lasting identity.</description>
-      <dc:creator>Sam Roberts</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 21:20:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martignetti, Anthony (1957-2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Italian-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fiumara, Mary (1927-2016)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boston (Mass)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Prince (Riviana Foods Inc)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/obituaries/26Martignetti1/26Martignetti1-moth.jpg" width="151"></media:content>
-      <media:description>Anthony Martignetti was 12 when he appeared in a TV commercial playing a boy in Boston’s Little Italy hungry for a plate of spaghetti.</media:description>
-    </item>
-    <item>
-      <title>RNC What to Watch For: Two of Trump’s Most Faithful Allies Will Headline</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/republican-national-convention-guide.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/republican-national-convention-guide.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/republican-national-convention-guide.html" rel="standout"></atom:link>
-      <description>Vice President Mike Pence and Kellyanne Conway, President Trump’s former campaign manager and longtime adviser, will speak during tonight’s convention.</description>
-      <dc:creator>Astead W. Herndon</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 23:40:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Conway, Kellyanne</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ernst, Joni</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pence, Karen (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pence, Mike</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zeldin, Lee M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Lara (1982- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26rnc-whattowatch1/26rnc-whattowatch1-moth.jpg" width="151"></media:content>
-      <media:credit>Travis Dove for The New York Times</media:credit>
-      <media:description>Vice President Mike Pence will speak from Fort McHenry in Baltimore on Wednesday, the third night of the Republican convention.</media:description>
-    </item>
-    <item>
-      <title>Did President Trump Violate the Hatch Act at the R.N.C.?</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/hatch-act-trump-rnc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/hatch-act-trump-rnc.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/hatch-act-trump-rnc.html" rel="standout"></atom:link>
-      <description>The law, which prohibits federal employees from engaging in political activities while on the job, has rarely led to the firing of political appointees.</description>
-      <dc:creator>Zach Montague</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 01:18:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hatch Act (1939)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26dc-hatch-explainer/26dc-hatch-explainer-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump and Melania Trump, the first lady, leaving the White House Rose Garden after she gave a speech at the Republican National Convention on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>After rolling back transgender protections, the Trump campaign is courting the L.G.B.T.Q. vote.</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/after-rolling-back-transgender-protections-the-trump-campaign-is-courting-the-lgbtq-vote.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/after-rolling-back-transgender-protections-the-trump-campaign-is-courting-the-lgbtq-vote.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/after-rolling-back-transgender-protections-the-trump-campaign-is-courting-the-lgbtq-vote.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Maggie Haberman</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 20:04:56 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/26elections-briefing-trump-lgbtq/26trump-lgbtq-2-moth.jpg" width="151"></media:content>
-      <media:credit>Odd Anderson/AFP, via Getty Images.</media:credit>
-      <media:description>Richard Grenell, the gay former U.S. ambassador to Germany, is expected to speak at the Republican National Convention on Wednesday night.</media:description>
-    </item>
-    <item>
-      <title>TV ratings rise on G.O.P.’s second night.</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/tv-ratings-rise-on-gops-second-night.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/tv-ratings-rise-on-gops-second-night.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/tv-ratings-rise-on-gops-second-night.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Michael M. Grynbaum</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 23:21:40 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26elections-live-ratings/26elections-live-ratings-moth.jpg" width="151"></media:content>
-      <media:credit>Pete Marovich for The New York Times</media:credit>
-      <media:description>Eric Trump, President Trump’s son, at Mellon Auditorium in Washington, D.C., on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>U.S. Flood Strategy Shifts to ‘Unavoidable’ Relocation of Entire Neighborhoods</title>
-      <link>https://www.nytimes.com/2020/08/26/climate/flooding-relocation-managed-retreat.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/climate/flooding-relocation-managed-retreat.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/climate/flooding-relocation-managed-retreat.html" rel="standout"></atom:link>
-      <description>Using tax dollars to move whole communities out of flood zones, an idea long dismissed as radical, is swiftly becoming policy, marking a new and more disruptive phase of climate change.</description>
-      <dc:creator>Christopher Flavelle</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 23:08:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eminent Domain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Army Corps of Engineers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Housing and Urban Development Department</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/20/climate/00-CLI-MOVING1/00-CLI-MOVING1-moth.jpg" width="151"></media:content>
-      <media:credit>Calla Kessler for The New York Times</media:credit>
-      <media:description>An empty lot near Oakwood Beach on Staten Island, where flooded homes have been bought and demolished by the government.</media:description>
-    </item>
-    <item>
-      <title>Family of Fort Hood Soldier Found Dead Demands Congress Investigate</title>
-      <link>https://www.nytimes.com/2020/08/26/us/elder-fernandes-ft-hood-missing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/elder-fernandes-ft-hood-missing.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/elder-fernandes-ft-hood-missing.html" rel="standout"></atom:link>
-      <description>The police said there was no sign of foul play after they found a body, believed to be that of Sgt. Elder N. Fernandes, about 30 miles from the base in Central Texas.</description>
-      <dc:creator>Allyson Waller</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 01:39:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Army</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fort Hood (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guillen, Vanessa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fernandes, Elder N</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/22/multimedia/22xp-forthood-pix1/22xp-forthood-pix1-moth.jpg" width="151"></media:content>
-      <media:credit>Christopher Lee for The New York Times</media:credit>
-      <media:description>The death has brought renewed scrutiny of Fort Hood, a sprawling Army complex in Texas. Several soldiers stationed there, including Specialist Vanessa Guillen, have died this year.</media:description>
-    </item>
-    <item>
-      <title>Ted Cruz Didn’t Get an RNC Invite. He Still Has Plenty to Say</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/ted-cruz-rnc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/ted-cruz-rnc.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/ted-cruz-rnc.html" rel="standout"></atom:link>
-      <description>In 2016, the Texas senator addressed his fellow Republicans but declined to explicitly endorse Donald Trump. One close Senate race and many conciliatory public comments later, he is on the sidelines this year.</description>
-      <dc:creator>Matt Flegenheimer</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 00:38:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cruz, Ted</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26cruz-1/26cruz-1-moth.jpg" width="151"></media:content>
-      <media:credit>Erin Scott for The New York Times</media:credit>
-      <media:description>Senator Ted Cruz on Capitol Hill in March. Mr. Cruz was not asked to speak at this year’s Republican National Convention.</media:description>
-    </item>
-    <item>
-      <title>Flood and Sacrifice: How an Old Convent Could Help Save New Orleans</title>
-      <link>https://www.nytimes.com/2020/08/26/us/new-orleans-nuns-hurricane-laura-flood.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/new-orleans-nuns-hurricane-laura-flood.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/new-orleans-nuns-hurricane-laura-flood.html" rel="standout"></atom:link>
-      <description>A group of nuns in New Orleans is offering up its flooded former convent site to help protect the city during future such disasters.</description>
-      <dc:creator>Matthew Teague</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 19:24:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Orleans (La)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuns</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wetlands</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <title>Hurricane Laura Carves Destructive Path Across Louisiana</title>
+      <link>https://www.nytimes.com/2020/08/27/us/hurricane-laura-damage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/hurricane-laura-damage.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/hurricane-laura-damage.html" rel="standout"></atom:link>
+      <description>Although the storm surge was less than projected, Laura was responsible for at least six deaths and extensive property damage.</description>
+      <dc:creator>Rick Rojas, Manny Fernandez and Richard Fausset</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 02:51:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Laura (2020)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/21/us/00nuns-01/00nuns-01-moth.jpg" width="151"></media:content>
-      <media:credit>Abdul Aziz for The New York Times</media:credit>
-      <media:description>The Sisters of St. Joseph are using the ruins of their motherhouse, which was flooded during Hurricane Katrina, to create one of the country’s largest urban wetlands. </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/27hurricane-1/merlin_176246829_e7281277-42d7-4a7a-aab2-842e190700e4-moth.jpg" width="151"></media:content>
+      <media:credit>Matthew Busch for The New York Times</media:credit>
+      <media:description>In coastal Cameron Parish, La., search-and-rescue helicopters flew low over Holly Beach on Thursday.</media:description>
     </item>
     <item>
-      <title>After Three Years of Attacking L.G.B.T.Q. Rights, Trump Suddenly Tries Outreach</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/trump-lgbtq-rights.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/trump-lgbtq-rights.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/trump-lgbtq-rights.html" rel="standout"></atom:link>
-      <description>L.G.B.T.Q. advocates say the president has tried to divide their coalition by targeting transgender people in policy rollbacks.</description>
-      <dc:creator>Maggie Haberman</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 21:33:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grenell, Richard</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26trump-lgbtq-1/26trump-lgbtq-1-moth.jpg" width="151"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
-      <media:description>President Trump in Bedminster, N.J., in August. Mr. Trump’s advisers are suddenly talking about L.G.B.T.Q. people as they scramble to find new voter support. </media:description>
-    </item>
-    <item>
-      <title>Schools Reopening: Parents in New York City Are Stressed</title>
-      <link>https://www.nytimes.com/2020/08/26/us/germany-nyc-school-reopening.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/germany-nyc-school-reopening.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/germany-nyc-school-reopening.html" rel="standout"></atom:link>
-      <description>Plus, new data on outbreaks at college campuses.</description>
-      <dc:creator>Amelia Nierenberg and Adam Pasick</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 16:58:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/24/opinion/24goldberg1/24goldberg1-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Jeenah Moon</media:credit>
-      <media:description>Students’ desks met distancing rules at a Brooklyn school. It is uncertain whether New York City schools will open on Sept. 10 as scheduled.</media:description>
-    </item>
-    <item>
-      <title>Sarah Turney Sought Justice on TikTok. Now Her Father Is Charged With Homicide.</title>
-      <link>https://www.nytimes.com/2020/08/26/us/alissa-turney-update.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/alissa-turney-update.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/alissa-turney-update.html" rel="standout"></atom:link>
-      <description>Alissa Turney disappeared in 2001, when she was 17. Her younger sister, Sarah Turney, has been investigating the case on social media.</description>
-      <dc:creator>Jacey Fortin</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 16:58:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Phoenix, Ariz)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sarah Turney</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alissa Turney</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Michael Turney</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/25/multimedia/25xp-tiktokmurder/25xp-tiktokmurder-moth.jpg" width="151"></media:content>
-      <media:description>Investigators initially thought Alissa Turney, seen here at 16, might have run away from home.</media:description>
-    </item>
-    <item>
-      <title>Border Officials Weighed Deploying Migrant ‘Heat Ray’ Ahead of Midterms</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/trump-campaign-immigration.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/trump-campaign-immigration.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/trump-campaign-immigration.html" rel="standout"></atom:link>
-      <description>Even as the Republican convention tries to soften President Trump’s image, he has made it clear that the extreme immigration policies of his first four years will be central to his re-election pitch.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 00:50:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2018)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26dc-immigration1/26dc-immigration1-moth.jpg" width="151"></media:content>
-      <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
-      <media:description>A group of men who were deported from the United States arriving last month at a migrant shelter in Nogales, Mexico.</media:description>
-    </item>
-    <item>
-      <title>Ancestry Promises Holocaust Records Will Be Free</title>
-      <link>https://www.nytimes.com/2020/08/26/arts/ancestry-holocaust-records.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/arts/ancestry-holocaust-records.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/arts/ancestry-holocaust-records.html" rel="standout"></atom:link>
-      <description>The U.S.C. Shoah Foundation has partnered with the genealogy giant, and an initial rollout faced a glitch. But some survivor families don’t want their histories public.</description>
-      <dc:creator>Adam Popescu</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 18:08:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genealogy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ancestry.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shoah Foundation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spielberg, Steven</category>
-      <category domain="">Arolsen Archives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klara Firestone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Renee Firestone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stephen D. Smith</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Quinton Atkinson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tamar Weinberg</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libraries and Librarians</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/25/arts/00shoah3/merlin_175942404_7074efee-61a8-4b5a-8e96-84c10b1c86e5-moth.jpg" width="151"></media:content>
-      <media:credit>Michelle Groskopf for The New York Times</media:credit>
-      <media:description>Renee and Klara Firestone, mother and daughter, with family photos. Renee Firestone has shared her testimony with the Shoah Foundation and the two have been involved with the organization for decades.</media:description>
-    </item>
-    <item>
-      <title>President Trump used the White House as a game show set, our TV critic writes.</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/president-trump-used-the-white-house-as-a-game-show-set-our-tv-critic-writes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/president-trump-used-the-white-house-as-a-game-show-set-our-tv-critic-writes.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/president-trump-used-the-white-house-as-a-game-show-set-our-tv-critic-writes.html" rel="standout"></atom:link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2020 16:20:40 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26elections-briefing-tv/26elections-briefing-tv-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>Footage of a naturalization ceremony conducted at the White House was used in the Republican convention’s Tuesday night broadcast.</media:description>
-    </item>
-    <item>
-      <title>Stephanie Bice won a G.O.P. runoff to challenge the only Democrat in Oklahoma’s congressional delegation.</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/stephanie-bice-won-a-gop-runoff-to-challenge-the-only-democrat-in-oklahomas-congressional-delegation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/stephanie-bice-won-a-gop-runoff-to-challenge-the-only-democrat-in-oklahomas-congressional-delegation.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/stephanie-bice-won-a-gop-runoff-to-challenge-the-only-democrat-in-oklahomas-congressional-delegation.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Emily Cochrane</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 16:00:45 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/26live-bice/merlin_176185149_1084497c-8f72-4e8e-a1e9-339e770c8718-moth.jpg" width="151"></media:content>
-      <media:credit>Sarah Phipps/The Oklahoman, via Associated Press</media:credit>
-      <media:description>Stephanie Bice, an Oklahoma state senator, entering her watch party to give a speech after winning a runoff election for a U.S. House seat on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Biden is selling hand sanitizer with his Covid-19 plan printed on it.</title>
-      <link>https://www.nytimes.com/2020/08/26/us/politics/biden-is-selling-hand-sanitizer-with-his-covid-19-plan-printed-on-it.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/politics/biden-is-selling-hand-sanitizer-with-his-covid-19-plan-printed-on-it.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/politics/biden-is-selling-hand-sanitizer-with-his-covid-19-plan-printed-on-it.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Shane Goldmacher</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 15:50:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Woman May Have Been Cured of H.I.V. Without Medical Treatment</title>
-      <link>https://www.nytimes.com/2020/08/26/health/hiv-cure.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/health/hiv-cure.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/health/hiv-cure.html" rel="standout"></atom:link>
-      <description>In dozens of other patients who suppress the virus without drugs, it seems to have been cornered in parts of the genome where it cannot reproduce, scientists reported.</description>
-      <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 22:06:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immune System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bone Marrow</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transplants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/science/26HIV/26HIV-moth.jpg" width="151"></media:content>
-      <media:credit>NIAID</media:credit>
-      <media:description>A colored scanning electron micrograph of a human T-cell, blue and green, infected with H.I.V., yellow. Even among viruses, H.I.V. is particularly wily and difficult to eradicate, inserting itself into the human genome and tricking the cell’s machinery into making copies.</media:description>
-    </item>
-    <item>
-      <title>Naturalization ceremony provides a moment of cognitive dissonance with Trump’s immigration stance.</title>
-      <link>https://www.nytimes.com/2020/08/26/us/elections/naturalization-ceremony-provides-a-moment-of-cognitive-dissonance-with-trumps-immigration-stance.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/elections/naturalization-ceremony-provides-a-moment-of-cognitive-dissonance-with-trumps-immigration-stance.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/elections/naturalization-ceremony-provides-a-moment-of-cognitive-dissonance-with-trumps-immigration-stance.html" rel="standout"></atom:link>
-      <description>The willingness to use the trappings of presidential power during a campaign convention was a stunning departure from the past.</description>
-      <dc:creator>Michael D. Shear and Neil Vigdor</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 21:55:12 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/25/us/25dc-trump/25dc-trump-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump participating in a naturalization ceremony at the White House on Tuesday evening during the Republican National Convention.</media:description>
-    </item>
-    <item>
-      <title>11 Female Voices, From Age 13 to 110, on Why the Vote Matters</title>
-      <link>https://www.nytimes.com/2020/08/26/us/voting-meaning-women-suffrage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/voting-meaning-women-suffrage.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/voting-meaning-women-suffrage.html" rel="standout"></atom:link>
-      <description>“Your right.” “A duty.” “A very sacred act.” A century after suffrage, women reflect on what it means to them.</description>
-      <dc:creator>Jennifer Harlan, Alisha Haridasani Gupta and Nicole Rifkin</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 18:24:17 +0000</pubDate>
-      <category domain="">2020 Suffrage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteenth Amendment (US Constitution)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Copeny, Mari</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marshall, Kiara</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ferrera, America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lakshmi, Padma</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Louis-Dreyfus, Julia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCain, Cindy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">King, Billie Jean</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Albright, Madeleine K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">White, Betty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Replansky, Naomi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tompson, Ruthie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Flint (Mich)</category>
-    </item>
-    <item>
-      <title>Republican women in Arizona could play a pivotal role in an unusual battleground.</title>
-      <link>https://www.nytimes.com/2020/08/26/us/elections/republican-women-in-arizona-could-play-a-pivotal-role-in-an-unusual-battleground.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/elections/republican-women-in-arizona-could-play-a-pivotal-role-in-an-unusual-battleground.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/elections/republican-women-in-arizona-could-play-a-pivotal-role-in-an-unusual-battleground.html" rel="standout"></atom:link>
-      <description>Led by a firebrand loyalist, the state party has lurched to the right under President Trump. That has turned off some Republicans, and Arizona suddenly appears in play for Democrats.</description>
-      <dc:creator>Elaina Plott</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 15:43:42 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/24/us/politics/00gopwomen-arizona1/00gopwomen-arizona1-moth.jpg" width="151"></media:content>
-      <media:credit>Ross D. Franklin/Associated Press</media:credit>
-      <media:description>Kelli Ward, the chairwoman of the Arizona Republican Party, is a Trump loyalist who resembles the kind of voter toward whom the party is devoting its resources. </media:description>
-    </item>
-    <item>
-      <title>Peaceful Marches and Armored Vehicles: Scenes From Kenosha Protests</title>
-      <link>https://www.nytimes.com/video/us/100000007308488/kenosha-protests-video.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/us/100000007308488/kenosha-protests-video.html</guid>
-      <atom:link href="https://www.nytimes.com/video/us/100000007308488/kenosha-protests-video.html" rel="standout"></atom:link>
-      <description>Unrest in Kenosha, Wis., continued after the police shooting of Jacob Blake, a Black resident. Peaceful demonstrations earlier in the day gave way to chaos as law enforcement faced off with protesters.</description>
-      <dc:creator>Erik Ljung, Katie G. Nelson and McKenzie Marshall</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 21:27:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenosha (Wis)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <title>Suspect in Kenosha Killings Lionized the Police</title>
+      <link>https://www.nytimes.com/2020/08/27/us/kyle-rittenhouse-kenosha.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/kyle-rittenhouse-kenosha.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/kyle-rittenhouse-kenosha.html" rel="standout"></atom:link>
+      <description>Kyle Rittenhouse, accused of killing two people during protests of a police shooting, faces six criminal counts. His social media accounts showed strong support for officers.</description>
+      <dc:creator>Neil MacFarquhar</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 01:42:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/26hpkenosha/26hpkenosha-moth.jpg" width="151"></media:content>
-      <media:credit>Stephen Maturen/Reuters</media:credit>
-      <media:description>Aftermath following unrest in Kenosha, Wis., after the police shooting of Jacob Blake, a Black resident.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rittenhouse, Kyle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenosha (Wis)</category>
+      <category domain="">Blue Lives Matter</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/27KENOSHA-RITTENHOUSE-2/27KENOSHA-RITTENHOUSE-2-moth.jpg" width="151"></media:content>
+      <media:credit>Pat Nabong/Chicago Sun-Times, via Associated Press</media:credit>
+      <media:description>Kyle Rittenhouse is accused of killing two people during a protest in Kenosha, Wis., on Tuesday. Earlier in the day, he was among volunteers cleaning graffiti off a school.</media:description>
     </item>
     <item>
-      <title>Trump keeps bending and breaking presidential norms. It will be easier for his successors to do the same.</title>
-      <link>https://www.nytimes.com/2020/08/26/us/elections/trump-keeps-bending-and-breaking-presidential-norms-it-will-be-easier-for-his-successors-to-do-the-same.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/elections/trump-keeps-bending-and-breaking-presidential-norms-it-will-be-easier-for-his-successors-to-do-the-same.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/elections/trump-keeps-bending-and-breaking-presidential-norms-it-will-be-easier-for-his-successors-to-do-the-same.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Jonathan Martin</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 14:04:58 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/25/us/25live-rebpubs/25live-rebpubs-moth.jpg" width="151"></media:content>
-      <media:credit>Travis Dove for The New York Times</media:credit>
-      <media:description>In Charlotte, N.C., a hotel lobby TV broadcast coverage of the Republican National Convention on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Here’s how to watch Night 3 of the Republican convention, and who’s speaking.</title>
-      <link>https://www.nytimes.com/2020/08/26/us/elections/heres-how-to-watch-night-3-of-the-republican-convention-and-whos-speaking.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/elections/heres-how-to-watch-night-3-of-the-republican-convention-and-whos-speaking.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/elections/heres-how-to-watch-night-3-of-the-republican-convention-and-whos-speaking.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Maggie Astor and Maggie Haberman</dc:creator>
-      <pubDate>Thu, 27 Aug 2020 00:30:01 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26rnc-howtowatch/26rnc-howtowatch-moth.jpg" width="151"></media:content>
+      <title>Trump Heads Into General Election Leading a Party He Has Transformed</title>
+      <link>https://www.nytimes.com/2020/08/27/us/politics/republican-national-convention-recap.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/politics/republican-national-convention-recap.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/politics/republican-national-convention-recap.html" rel="standout"></atom:link>
+      <description>After three days of law-and-order rhetoric at the Republican convention, President Trump was ready to make a determined push to change the subject from the coronavirus and to mark Joseph R. Biden Jr. as a willing partner of the far left.</description>
+      <dc:creator>Alexander Burns and Maggie Haberman</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 02:34:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Debt (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenosha (Wis)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27repubs-ledeall1/27repubs-ledeall1-moth.jpg" width="151"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>Eric Trump’s speech was shown in the Rose Garden of the White House on Tuesday, before Melania Trump spoke from the garden itself. </media:description>
+      <media:description>President Trump has made appearances every night of the convention, and many of his family members have made speeches. </media:description>
     </item>
     <item>
-      <title>Night 1 of the R.N.C. was filled with foreboding. Night 2 was about softening the portrait of Trump.</title>
-      <link>https://www.nytimes.com/2020/08/26/us/elections/night-1-of-the-rnc-was-filled-with-foreboding-night-2-was-about-softening-the-portrait-of-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/elections/night-1-of-the-rnc-was-filled-with-foreboding-night-2-was-about-softening-the-portrait-of-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/elections/night-1-of-the-rnc-was-filled-with-foreboding-night-2-was-about-softening-the-portrait-of-trump.html" rel="standout"></atom:link>
-      <description>In an abrupt swerve from the dire tone of the convention’s first night, President Trump staged a grab-bag of gauzy events and personal testimonials aimed at female and minority voters. His program blurred the lines between campaigning and governing.</description>
-      <dc:creator>Alexander Burns and Jonathan Martin</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 17:45:09 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26-live-repubs-ledeal-swap/26-live-repubs-ledeal-swap-moth.jpg" width="151"></media:content>
+      <title>Instead of Evolving as President, Trump Has Bent the Job to His Will</title>
+      <link>https://www.nytimes.com/2020/08/27/us/politics/donald-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/politics/donald-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/politics/donald-trump.html" rel="standout"></atom:link>
+      <description>In a 40-minute phone call this week, Mr. Trump struggled to describe how he has changed in office. “I think I’ve just become more guarded than I was four years ago,” he said.</description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 03:12:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Impeachment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jordan, Jim (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Ivanka</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Westerhout, Madeleine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27dc-trump-profile1/27dc-trump-profile1-moth.jpg" width="151"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>First Lady Melania Trump delivered her Convention speech from the Rose Garden of the White House on Tuesday.</media:description>
+      <media:description>President Trump heads into the fall campaign with a striking blend of braggadocio and grievance.</media:description>
     </item>
     <item>
-      <title>Republican convention speakers tried to recast Trump as an inclusive leader.</title>
-      <link>https://www.nytimes.com/2020/08/26/us/elections/republican-convention-speakers-tried-to-recast-trump-as-an-inclusive-leader.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/26/us/elections/republican-convention-speakers-tried-to-recast-trump-as-an-inclusive-leader.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/26/us/elections/republican-convention-speakers-tried-to-recast-trump-as-an-inclusive-leader.html" rel="standout"></atom:link>
+      <title>C.D.C.’s ‘Clarification’ on Coronavirus Testing Offers More Confusion</title>
+      <link>https://www.nytimes.com/2020/08/27/us/politics/trump-coronavirus-testing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/politics/trump-coronavirus-testing.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/politics/trump-coronavirus-testing.html" rel="standout"></atom:link>
+      <description>After saying that those exposed to the virus need not get tested, the agency’s director clarified that “testing may be considered” for those people.</description>
+      <dc:creator>Sheryl Gay Stolberg</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 01:52:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Redfield, Robert R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/27dc-cdc/27dc-cdc-moth.jpg" width="151"></media:content>
+      <media:credit>Stefani Reynolds for The New York Times</media:credit>
+      <media:description>Robert R. Redfield, the director of the Centers for Disease Control and Prevention, sought to clarify the agency’s recommendations regarding testing.</media:description>
+    </item>
+    <item>
+      <title>N.B.A. ‘Boycott’ or Strike: What’s the Difference?</title>
+      <link>https://www.nytimes.com/2020/08/27/us/difference-boycott-strike-nba.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/difference-boycott-strike-nba.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/difference-boycott-strike-nba.html" rel="standout"></atom:link>
+      <description>Professional athletes in several leagues protested racial injustice by refusing to play on Wednesday, leaving fans with some legal questions. We asked the experts.</description>
+      <dc:creator>Derrick Bryson Taylor</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 00:09:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boycotts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lockouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/multimedia/27xp-boycott-pix/27xp-boycott-pix-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Ashley Landis</media:credit>
+      <media:description>The Milwaukee Bucks refused to participate in an N.B.A. playoff game on Wednesday, setting off a protest that spread to other leagues.</media:description>
+    </item>
+    <item>
+      <title>The World Outside</title>
+      <link>https://www.nytimes.com/2020/08/27/us/politics/the-world-outside.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/politics/the-world-outside.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/politics/the-world-outside.html" rel="standout"></atom:link>
+      <description>Beyond the R.N.C.’s walls, things haven’t slowed down.</description>
+      <dc:creator>Giovanni Russonello</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 23:15:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27onpolitics-pm/merlin_176188128_e389132c-2257-4abc-b380-6ec98f3dbeca-moth.jpg" width="151"></media:content>
+      <media:credit>Alyssa Schukar for The New York Times</media:credit>
+      <media:description>Black Lives Matter supporters during demonstrations following the police shooting of Jacob Blake in Kenosha, Wis.</media:description>
+    </item>
+    <item>
+      <title>Despite the virus, Trump will speak in front of a large crowd, seated closely together on the South Lawn.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/despite-the-virus-trump-will-speak-in-front-of-a-large-crowd-seated-closely-together-on-the-south-lawn.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/despite-the-virus-trump-will-speak-in-front-of-a-large-crowd-seated-closely-together-on-the-south-lawn.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/despite-the-virus-trump-will-speak-in-front-of-a-large-crowd-seated-closely-together-on-the-south-lawn.html" rel="standout"></atom:link>
       <description></description>
-      <dc:creator>Lisa Lerer and Sydney Ember</dc:creator>
-      <pubDate>Wed, 26 Aug 2020 14:01:24 +0000</pubDate>
+      <dc:creator>Michael D. Shear</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 00:35:25 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27briefing-live-southlawn/27briefing-live-southlawn-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Workers set up for President Trump’s speech on the South Lawn of the White House.</media:description>
+    </item>
+    <item>
+      <title>How to Help Hurricane Laura Victims</title>
+      <link>https://www.nytimes.com/2020/08/27/us/hurricane-laura-how-to-help.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/hurricane-laura-how-to-help.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/hurricane-laura-how-to-help.html" rel="standout"></atom:link>
+      <description>These organizations are providing relief in Texas and Louisiana, and tips on how to evaluate charities.</description>
+      <dc:creator>Concepción de León</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 00:48:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Laura (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf Coast (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/multimedia/27xp-howtohelplaura-pix/27xp-howtohelplaura-pix-moth.jpg" width="151"></media:content>
+      <media:credit>Joe Raedle/Getty Images</media:credit>
+      <media:description>Latasha Myles and Howard Anderson surveyed damage to their living room, where they were sitting when winds from Hurricane Laura ripped the roof off their home in Lake Charles, La., at about 2:30 a.m. on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus Briefing: What Happened Today</title>
+      <link>https://www.nytimes.com/2020/08/27/us/coronavirus-briefing-what-happened-today.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/coronavirus-briefing-what-happened-today.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/coronavirus-briefing-what-happened-today.html" rel="standout"></atom:link>
+      <description>Hurricane Laura tore through part of the U.S. already struggling with the pandemic.</description>
+      <dc:creator>Jonathan Wolfe and Lara Takenaga</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 22:16:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Laura (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v744.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Is Ivanka Trump Going to Change Anyone’s Mind?</title>
+      <link>https://www.nytimes.com/2020/08/27/us/politics/ivanka-trump-rnc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/politics/ivanka-trump-rnc.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/politics/ivanka-trump-rnc.html" rel="standout"></atom:link>
+      <description>Four years ago, the would-be first daughter was seen by some to have the power to persuade moderate women voters and to rein in her own father’s impulses. A lot is different now.</description>
+      <dc:creator>Elaina Plott</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 02:27:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Ivanka</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27ivankatrump3/27ivankatrump3-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker/The New York Times</media:credit>
+      <media:description>Ivanka Trump, the president’s eldest daughter, declared that she is a “proud Trump Republican” this year, removing guesswork that she was trying to have a moderating influence on her father’s conservative positions.</media:description>
+    </item>
+    <item>
+      <title>RNC What to Watch For: President Trump, Ivanka Trump, Dana White to Speak</title>
+      <link>https://www.nytimes.com/2020/08/27/us/politics/republican-national-convention-guide.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/politics/republican-national-convention-guide.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/politics/republican-national-convention-guide.html" rel="standout"></atom:link>
+      <description>On the final night of the Republican National Convention, President Trump will deliver his acceptance speech from the White House’s South Lawn. He’s expected to deliver a blistering denunciation of his rival, Joe Biden.</description>
+      <dc:creator>Lisa Lerer</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 00:30:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Ivanka</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">White, Dana (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27rnc-whattowatch/merlin_176230119_3ee4c180-1424-40a5-95ba-1d38154e5674-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>The South Lawn of the White House, where President Trump will make his speech accepting the Republican renomination on Thursday.</media:description>
+    </item>
+    <item>
+      <title>No Bushes, Reagans, Cheneys or McCains: Who Is Missing at Trump’s R.N.C.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/politics/trump-rnc-missing-former-presidents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/politics/trump-rnc-missing-former-presidents.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/politics/trump-rnc-missing-former-presidents.html" rel="standout"></atom:link>
+      <description>The old guard that led the Republican Party from 1980 until 2016 has been conspicuously absent from this year’s convention, representing the final signature on the party’s bitter divorce.</description>
+      <dc:creator>Adam Nagourney</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 01:13:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reagan, Ronald Wilson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27gop-missing-1/27gop-missing-1-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump and Melania Trump at Fort McHenry in Baltimore on Wednesday for the Republican convention. Many former party leaders have not been invited, or have stayed away.  </media:description>
+    </item>
+    <item>
+      <title>‘Do Not Vote for My Dad’: When Families Disagree on Politics</title>
+      <link>https://www.nytimes.com/2020/08/27/us/family-politics-children-democrat-republican.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/family-politics-children-democrat-republican.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/family-politics-children-democrat-republican.html" rel="standout"></atom:link>
+      <description>Conventional wisdom has long held that the most powerful political influence on any child are the parents. New research suggests otherwise.</description>
+      <dc:creator>Emma Goldberg</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 22:45:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+    </item>
+    <item>
+      <title>Hurricane Laura Topples Confederate Statue That Survived Protests</title>
+      <link>https://www.nytimes.com/2020/08/27/us/hurricane-laura-confederate-statue.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/hurricane-laura-confederate-statue.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/hurricane-laura-confederate-statue.html" rel="standout"></atom:link>
+      <description>Officials voted two weeks ago to keep the monument on courthouse property in Lake Charles, La., but Hurricane Laura toppled its statue from the base.</description>
+      <dc:creator>Lucy Tompkins</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 22:22:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Laura (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Confederate States of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Charles (La.)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/27storm-statue-1/merlin_176244330_d8c16c99-a4f8-479a-a315-f3b7d2675b4d-moth.jpg" width="151"></media:content>
+      <media:credit>William Widmer for The New York Times</media:credit>
+      <media:description>Hurricane Laura damaged the South’s Defenders Memorial Monument, which has toppled in other storms but always been restored. Critics hope this time will be different.</media:description>
+    </item>
+    <item>
+      <title>Officer Implicated in Kenosha Shooting Is on the Department’s Bike Squad</title>
+      <link>https://www.nytimes.com/2020/08/27/us/kenosha-police-officer-rusten-sheskey.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/kenosha-police-officer-rusten-sheskey.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/kenosha-police-officer-rusten-sheskey.html" rel="standout"></atom:link>
+      <description>A seven-year veteran, Rusten Sheskey has said he sees the value of doing “public relations” on the job.</description>
+      <dc:creator>Richard A. Oppel Jr.</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 22:04:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheskey, Rusten (Kenosha, Wis, Police Officer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenosha (Wis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/27KENOSHA-SHESKEY/merlin_176244048_cb19d897-c079-4775-bc27-5d4a14774642-moth.jpg" width="151"></media:content>
+      <media:credit>Brian Passino/The Kenosha News, via Associated Press</media:credit>
+      <media:description>Officer Rusten Sheskey of the Kenosha Police Department.</media:description>
+    </item>
+    <item>
+      <title>Rudy Giuliani, who went from America’s mayor to the president’s personal lawyer, will speak Thursday night.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/rudy-giuliani-who-went-from-americas-mayor-to-the-presidents-personal-lawyer-will-speak-thursday-night.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/rudy-giuliani-who-went-from-americas-mayor-to-the-presidents-personal-lawyer-will-speak-thursday-night.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/rudy-giuliani-who-went-from-americas-mayor-to-the-presidents-personal-lawyer-will-speak-thursday-night.html" rel="standout"></atom:link>
+      <description></description>
+      <pubDate>Fri, 28 Aug 2020 01:36:56 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27elections-briefing-giuliani-swap/27elections-briefing-giuliani-swap-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Rudy Giuliani talking to reporters at the White House in July. Mr. Giuliani will speak during a prime slot at the Republican National Convention on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Laura Hits Petrochemical Region, and a Factory Goes Up in Flames</title>
+      <link>https://www.nytimes.com/2020/08/27/climate/hurricane-laura-fire-pollution.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/climate/hurricane-laura-fire-pollution.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/climate/hurricane-laura-fire-pollution.html" rel="standout"></atom:link>
+      <description>The hurricane rolled over a coast studded with oil, gas and chemical plants. Other storms have caused the release of toxic substances, often affecting minority communities.</description>
+      <dc:creator>John Schwartz and Hiroko Tabuchi</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 22:03:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Laura (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sasol Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Port Arthur (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/28/climate/28CLI-STORM-POLLUTION1-copy/27CLI-STORM-POLLUTION1-moth.jpg" width="151"></media:content>
+      <media:credit>Photo by William Widmer for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>White House Wants Companies to Foot Payroll Tax Bill for Workers</title>
+      <link>https://www.nytimes.com/2020/08/27/us/politics/trump-payroll-tax-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/politics/trump-payroll-tax-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/politics/trump-payroll-tax-coronavirus.html" rel="standout"></atom:link>
+      <description>The Treasury Department has not been willing to issue guidance making it clear that companies will be on the hook for deferred taxes, further delaying crucial information for businesses.</description>
+      <dc:creator>Alan Rappeport</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 20:59:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Taxes (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Payroll Tax</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/28/business/27dc-virus-payrolltax1-print/merlin_175492752_6a3adee2-2e0e-4fb3-ad24-43395cd1ab5a-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker for The New York Times</media:credit>
+      <media:description>President Trump&amp;rsquo;s executive order to defer payroll taxes has prompted a debate within the administration over who should ultimately pay.</media:description>
+    </item>
+    <item>
+      <title>The pandemic has curbed new voter registrations, but a study suggests a reason for hope.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/the-pandemic-has-curbed-new-voter-registrations-but-a-study-suggests-a-reason-for-hope.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/the-pandemic-has-curbed-new-voter-registrations-but-a-study-suggests-a-reason-for-hope.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/the-pandemic-has-curbed-new-voter-registrations-but-a-study-suggests-a-reason-for-hope.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Michael Wines</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 20:34:11 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27elections-briefing-voting/27elections-briefing-voting-moth.jpg" width="151"></media:content>
+      <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
+      <media:description>New voter registrations have plummeted this year, thanks to the coronavirus pandemic, despite heightened interest in the election.</media:description>
+    </item>
+    <item>
+      <title>Biden Says Trump Is ‘Rooting for More Violence’ Amid Kenosha Unrest</title>
+      <link>https://www.nytimes.com/2020/08/27/us/politics/biden-kamala-harris-speech-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/politics/biden-kamala-harris-speech-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/politics/biden-kamala-harris-speech-trump.html" rel="standout"></atom:link>
+      <description>As Republicans sensed a political opportunity, the Democratic nominee sought to turn attention back to the pandemic and highlighted the president’s tendency to inflame volatile situations.</description>
+      <dc:creator>Katie Glueck, Thomas Kaplan and Reid J. Epstein</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 20:21:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26-live-assess-2347/26-live-assess-2347-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27biden-harris-lede-swap/27biden-harris-lede-swap-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Joseph R. Biden Jr. on Thursday criticized the president’s response to the unrest in Kenosha, Wis.: “And what’s he doing? He’s kept pouring gasoline on the fire.” </media:description>
+    </item>
+    <item>
+      <title>Israeli Officer Need Not Have Shot Autistic Palestinian, Commander Says</title>
+      <link>https://www.nytimes.com/2020/08/27/world/middleeast/israel-police-shooting-palestinian-autism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/world/middleeast/israel-police-shooting-palestinian-autism.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/world/middleeast/israel-police-shooting-palestinian-autism.html" rel="standout"></atom:link>
+      <description>The commander testified that the man his partner killed, Iyad al-Hallaq, was not resisting and posed no danger, in a case that ignited protests against police brutality.</description>
+      <dc:creator>David M. Halbfinger and Adam Rasgon</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 20:49:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jerusalem (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/world/27israel-police/27israel-police-moth.jpg" width="151"></media:content>
+      <media:credit>Wisam Hashlamoun/Anadolu Agency, via Getty Images</media:credit>
+      <media:description>A mural for Iyad al-Hallaq, who was killed by an Israeli policeman while on his way to school in May.</media:description>
+    </item>
+    <item>
+      <title>Jared Kushner, a real estate scion, says boycotting N.B.A. players have the ‘luxury’ to ‘take a night off from work.’</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/jared-kushner-a-real-estate-scion-says-boycotting-nba-players-have-the-luxury-to-take-a-night-off-from-work.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/jared-kushner-a-real-estate-scion-says-boycotting-nba-players-have-the-luxury-to-take-a-night-off-from-work.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/jared-kushner-a-real-estate-scion-says-boycotting-nba-players-have-the-luxury-to-take-a-night-off-from-work.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Neil Vigdor</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 00:34:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>R.N.C. Skims Over Trump’s ‘Unfinished Business’ in Foreign Policy</title>
+      <link>https://www.nytimes.com/2020/08/27/us/politics/trump-foreign-policy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/politics/trump-foreign-policy.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/politics/trump-foreign-policy.html" rel="standout"></atom:link>
+      <description>From Iran to North Korea, President Trump has failed to achieve many of his stated foreign policy goals. He is asking for a second term to get them done.</description>
+      <dc:creator>Michael Crowley</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 22:47:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Targeted Killings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27dc-trump-fp1/27dc-trump-fp1-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>President Trump is making a pitch that he requires a second term to make good on his grandest foreign policy ambitions. </media:description>
+    </item>
+    <item>
+      <title>The R.N.C.’s TV ratings declined on the third night, lagging the D.N.C.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/the-rncs-tv-ratings-declined-on-the-third-night-lagging-the-dnc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/the-rncs-tv-ratings-declined-on-the-third-night-lagging-the-dnc.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/the-rncs-tv-ratings-declined-on-the-third-night-lagging-the-dnc.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Michael M. Grynbaum</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 22:22:04 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27elections-ratings-swap/27elections-ratings-swap-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>The third night of the Republican convention drew about 17.3 million live TV viewers.</media:description>
+    </item>
+    <item>
+      <title>Bush’s ethics lawyer calls for an investigation of Pompeo’s R.N.C. speech.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/bushs-ethics-lawyer-calls-for-an-investigation-of-pompeos-rnc-speech.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/bushs-ethics-lawyer-calls-for-an-investigation-of-pompeos-rnc-speech.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/bushs-ethics-lawyer-calls-for-an-investigation-of-pompeos-rnc-speech.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Lara Jakes</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 20:24:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Trump’s Gilded Beltway, Rudy Giuliani Finds a Potent Reward: Relevance</title>
+      <link>https://www.nytimes.com/2020/08/27/us/politics/trump-washington-giuliani.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/politics/trump-washington-giuliani.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/politics/trump-washington-giuliani.html" rel="standout"></atom:link>
+      <description>No one has seized the chance for a second act under President Trump with more gusto than Mr. Giuliani, whose epic career of ups and downs, feuds and outrages, has made him in some ways the quintessential creature of Trump’s Washington.</description>
+      <dc:creator>Mark Leibovich</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 00:34:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuliani, Rudolph W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27giulian5/27giulian5-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Rudy Giuliani talking to reporters at the White House in July. Mr. Giuliani, who has had a career of ups and downs, will speak during a prime slot at the Republican National Convention on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Conway says the more violence erupts, ‘the better it is’ for Trump’s re-election prospects.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/conway-says-the-more-violence-erupts-the-better-it-is-for-trumps-re-election-prospects.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/conway-says-the-more-violence-erupts-the-better-it-is-for-trumps-re-election-prospects.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/conway-says-the-more-violence-erupts-the-better-it-is-for-trumps-re-election-prospects.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Neil Vigdor</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 00:35:59 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27live-conway/merlin_176214846_74e30687-716e-4225-9808-212eb3fa6e0c-moth.jpg" width="151"></media:content>
       <media:credit>Pete Marovich for The New York Times</media:credit>
-      <media:description>“This is a fight for freedom versus oppression,” said Tiffany Trump, the president’s younger daughter on a night in which Republicans sought to portray President Trump as a protector.</media:description>
+      <media:description>Kellyanne Conway, President Trump’s counselor and his 2016 campaign manager, addressed the Republican convention on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Deceptive robocalls try to frighten Detroit residents about voting by mail.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/deceptive-robocalls-try-to-frighten-detroit-residents-about-voting-by-mail.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/deceptive-robocalls-try-to-frighten-detroit-residents-about-voting-by-mail.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/deceptive-robocalls-try-to-frighten-detroit-residents-about-voting-by-mail.html" rel="standout"></atom:link>
+      <description>The calls suggest that voting-by-mail exposes personal information, a lie, in what officials said was an apparent effort to suppress vote</description>
+      <dc:creator>Stephanie Saul</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 20:59:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reopened Schools Find Health Risks in Water After Covid-19 Lockdowns</title>
+      <link>https://www.nytimes.com/2020/08/27/health/covid-schools-legionnaires-disease.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/health/covid-schools-legionnaires-disease.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/health/covid-schools-legionnaires-disease.html" rel="standout"></atom:link>
+      <description>A number of schools found the bacteria that causes Legionnaires’ disease in their water, and experts say more should expect to see it.</description>
+      <dc:creator>Max Horberry</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 22:13:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legionnaires&#39; Disease</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plumbing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interscholastic Athletics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dayton (Ohio)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pittsburgh (Pa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/science/27VIRUS-SCHOOLS/27VIRUS-SCHOOLS-moth.jpg" width="151"></media:content>
+      <media:credit>Frederic J. Brown/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Experts worry that water was left to stagnate in plumbing during lockdown, and that schools don’t have plans or effective guidance for dealing with the effects of prolonged shutdowns.</media:description>
+    </item>
+    <item>
+      <title>Trump will appear at a live ‘town hall’ with undecided voters on ABC next month.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/trump-will-appear-at-a-live-town-hall-with-undecided-voters-on-abc-next-month.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/trump-will-appear-at-a-live-town-hall-with-undecided-voters-on-abc-next-month.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/trump-will-appear-at-a-live-town-hall-with-undecided-voters-on-abc-next-month.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Michael M. Grynbaum</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 17:08:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dennis Williams, Former U.A.W. Leader, Is Accused of Conspiracy</title>
+      <link>https://www.nytimes.com/2020/08/27/business/uaw-dennis-williams.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/business/uaw-dennis-williams.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/business/uaw-dennis-williams.html" rel="standout"></atom:link>
+      <description>The ex-president of the United Auto Workers was charged with using union funds for personal expenses. The case is part of a long federal investigation.</description>
+      <dc:creator>Neal E. Boudette and Noam Scheiber</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 21:40:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Automobile Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Dennis (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embezzlement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Gary (1956- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/business/27uaw1/27uaw1-moth.jpg" width="151"></media:content>
+      <media:credit>Rebecca Cook/Reuters</media:credit>
+      <media:description>Federal prosecutors have accused Dennis Williams, a former president of the United Auto Workers, of using union funds to pay for personal expenses.</media:description>
+    </item>
+    <item>
+      <title>Citing Kenosha, a Wisconsin college cancels plans for Pence to deliver its commencement address.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/citing-kenosha-a-wisconsin-college-cancels-plans-for-pence-to-deliver-its-commencement-address.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/citing-kenosha-a-wisconsin-college-cancels-plans-for-pence-to-deliver-its-commencement-address.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/citing-kenosha-a-wisconsin-college-cancels-plans-for-pence-to-deliver-its-commencement-address.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Michael Cooper</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 23:41:55 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27elections-pencecollege/27elections-pencecollege-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Vice President Mike Pence delivering his speech to the Republican convention from Fort McHenry in Baltimore on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Pelosi says Biden should not debate Trump. Biden disagrees.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/pelosi-says-biden-should-not-debate-trump-biden-disagrees.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/pelosi-says-biden-should-not-debate-trump-biden-disagrees.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/pelosi-says-biden-should-not-debate-trump-biden-disagrees.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Nicholas Fandos, Emily Cochrane, Thomas Kaplan and Michael Cooper</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 22:19:49 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27live-briefing-biden/merlin_175972269_6a0e5606-5f9e-44b5-a238-2d5dcc07aaab-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Joseph R. Biden Jr. said, “He’s rooting for more violence, not less, and is clear about that. And what’s he doing? He’s kept pouring gasoline on the fire. This happens to be Donald Trump’s America.”</media:description>
+    </item>
+    <item>
+      <title>Here’s What America’s Covid-Era Classrooms Look Like</title>
+      <link>https://www.nytimes.com/2020/08/27/education/coronavirus-schools-classrooms-teachers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/education/coronavirus-schools-classrooms-teachers.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/education/coronavirus-schools-classrooms-teachers.html" rel="standout"></atom:link>
+      <description>We asked educators to show us how they are preparing their classrooms to teach amid the coronavirus.</description>
+      <dc:creator>Hannah Wise</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 17:35:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+    </item>
+    <item>
+      <title>Here’s how to watch as the convention wraps up.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/heres-how-to-watch-as-the-convention-wraps-up.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/heres-how-to-watch-as-the-convention-wraps-up.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/heres-how-to-watch-as-the-convention-wraps-up.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Maggie Astor</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 00:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Michigan’s Upper Peninsula, cracks emerge in a pro-Trump wall.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/in-michigans-upper-peninsula-cracks-emerge-in-a-pro-trump-wall.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/in-michigans-upper-peninsula-cracks-emerge-in-a-pro-trump-wall.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/in-michigans-upper-peninsula-cracks-emerge-in-a-pro-trump-wall.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Kathleen Gray</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 15:24:42 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/28/us/politics/28michigan-trump3/26michigan-trump3-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Kirkland for The New York Times</media:credit>
+      <media:description>Rod Nelson, a retired C.E.O. of Mackinac Straits Health, is a lifelong Republican. But he will be voting for Joseph R. Biden Jr., the Democratic nominee, this year.</media:description>
+    </item>
+    <item>
+      <title>Dozens of former McCain and Romney staff members back Biden.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/dozens-of-former-mccain-and-romney-staff-members-back-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/dozens-of-former-mccain-and-romney-staff-members-back-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/dozens-of-former-mccain-and-romney-staff-members-back-biden.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Jonathan Martin and Neil Vigdor</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 15:57:44 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2018/08/25/us/politics/27live-election-mccain/25dc-mccain-moth.jpg" width="151"></media:content>
+      <media:credit>Zach Gibson for The New York Times</media:credit>
+      <media:description>Senator John McCain at the Capitol in 2017.</media:description>
+    </item>
+    <item>
+      <title>Ted Cruz didn’t get a convention invite, but he still has plenty to say.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/ted-cruz-didnt-get-a-convention-invite-but-he-still-has-plenty-to-say.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/ted-cruz-didnt-get-a-convention-invite-but-he-still-has-plenty-to-say.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/ted-cruz-didnt-get-a-convention-invite-but-he-still-has-plenty-to-say.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Matt Flegenheimer</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 14:25:30 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27elections-briefing-majerol-26-23-22/27elections-briefing-majerol-26-23-22-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>Senator Ted Cruz, who is not an R.N.C. speaker, is sticking with his ideological conservatism.</media:description>
+    </item>
+    <item>
+      <title>Hurricane Laura in Pictures</title>
+      <link>https://www.nytimes.com/2020/08/27/us/hurricane-laura-photos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/hurricane-laura-photos.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/hurricane-laura-photos.html" rel="standout"></atom:link>
+      <description>Photographers are on the ground in Texas and Louisiana documenting the damage from the storm.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 28 Aug 2020 02:31:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Laura (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/27laura-photos22/merlin_176246808_3545ba70-87f3-47bc-bc84-ce292db763a2-moth.jpg" width="151"></media:content>
+      <media:credit>Matthew Busch for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The G.O.P. argues that only Trump can stop the chaos. But he’s already in charge.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/the-gop-argues-that-only-trump-can-stop-the-chaos-but-hes-already-in-charge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/the-gop-argues-that-only-trump-can-stop-the-chaos-but-hes-already-in-charge.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/the-gop-argues-that-only-trump-can-stop-the-chaos-but-hes-already-in-charge.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Matt Flegenheimer and Katie Glueck</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 14:00:32 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26repubs-ledeall-pence1-copy/26repubs-ledeall-pence1-copy-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Vice President Mike Pence said Wednesday that “we will have law and order on the streets of this country for every American of every race and creed and color.”</media:description>
+    </item>
+    <item>
+      <title>‘At no time before have voters faced a clearer choice,’ Trump will say in his convention address.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/at-no-time-before-have-voters-faced-a-clearer-choice-trump-will-say-in-his-convention-address.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/at-no-time-before-have-voters-faced-a-clearer-choice-trump-will-say-in-his-convention-address.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/at-no-time-before-have-voters-faced-a-clearer-choice-trump-will-say-in-his-convention-address.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Michael Cooper and Adam Nagourney</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 21:54:20 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27live-trumprelect/merlin_176230137_1276dc8b-08c3-47b6-a836-118d98d5ee4c-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>President Trump will accept the Republican nomination from the South Lawn of the White House on Thursday. </media:description>
+    </item>
+    <item>
+      <title>Some of the immigrants Trump naturalized on Tuesday didn’t know they were being broadcast.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/some-of-the-immigrants-trump-naturalized-on-tuesday-didnt-know-they-were-being-broadcast.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/some-of-the-immigrants-trump-naturalized-on-tuesday-didnt-know-they-were-being-broadcast.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/some-of-the-immigrants-trump-naturalized-on-tuesday-didnt-know-they-were-being-broadcast.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Zolan Kanno-Youngs and Michael D. Shear</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 14:00:33 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/26/us/politics/26trump-image1-copy/26trump-image1-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Donald Trump takes part in a US Naturalizations Ceremony at the White House.</media:description>
+    </item>
+    <item>
+      <title>How Trump’s convention has become a crucial play for the suburbs.</title>
+      <link>https://www.nytimes.com/2020/08/27/us/elections/how-trumps-convention-has-become-a-crucial-play-for-the-suburbs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/27/us/elections/how-trumps-convention-has-become-a-crucial-play-for-the-suburbs.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/27/us/elections/how-trumps-convention-has-become-a-crucial-play-for-the-suburbs.html" rel="standout"></atom:link>
+      <description>Conciliatory messages at the Republican convention were an acknowledgment by the president’s campaign that appealing to his right-wing base will not be enough to win re-election.</description>
+      <dc:creator>Jeremy W. Peters, Annie Karni and Nick Corasaniti</dc:creator>
+      <pubDate>Thu, 27 Aug 2020 14:00:32 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/politics/27elections-trump-image-suburbs/27elections-trump-image-suburbs-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Voter opinions about President Trump have been remarkably impervious to the good and bad news about him, fluctuating little since he took office.</media:description>
     </item>
   </channel>
 </rss>
