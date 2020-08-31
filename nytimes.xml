@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 31 Aug 2020 02:55:51 +0000</lastBuildDate>
-    <pubDate>Mon, 31 Aug 2020 02:55:51 +0000</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2020 22:14:08 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2020 22:14:08 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,13 +21,13 @@
       <atom:link href="https://www.nytimes.com/2020/08/30/us/colleges-coronavirus-research.html" rel="standout"></atom:link>
       <description>Universities are pioneering technology that could help society combat the pandemic.</description>
       <dc:creator>Matt Richtel</dc:creator>
-      <pubDate>Sun, 30 Aug 2020 07:00:13 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2020 15:45:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Contact Tracing (Public Health)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rochester Institute of Technology</category>
@@ -44,8 +44,6 @@
       <description>The Kentucky attorney general called the report a “critical piece” of the case, but he did not say what light it sheds on the fatal police shooting of a 26-year-old Black woman in her home.</description>
       <dc:creator>Melina Delkic and Lucy Tompkins</dc:creator>
       <pubDate>Sun, 30 Aug 2020 20:10:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Taylor, Breonna (1993-2020)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cameron, Daniel J (1985- )</category>
@@ -88,7 +86,7 @@
       <atom:link href="https://www.nytimes.com/2020/08/30/us/portland-shooting-protests.html" rel="standout"></atom:link>
       <description>A fatal shooting after clashes in Portland came on the heels of the shooting deaths of two people during confrontations in Kenosha, Wis., earlier in the week.</description>
       <dc:creator>Mike Baker, Thomas Kaplan and Shane Goldmacher</dc:creator>
-      <pubDate>Mon, 31 Aug 2020 02:40:24 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2020 03:21:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portland (Ore)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
@@ -99,9 +97,394 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenosha (Wis)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patriot Prayer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/30/us/30UNREST-PORTLAND-CAMPAIGN-1/30UNREST-PORTLAND-CAMPAIGN-1-moth.jpg" width="151"></media:content>
       <media:credit>Mason Trinca for The New York Times</media:credit>
-      <media:description>A man affiliated with a right-wing group was shot and killed on Saturday in Portland, Ore., where a large group of supporters of President Trump traveled in a caravan through the downtown area and clashed with protesters.</media:description>
+      <media:description>A man affiliated with a right-wing group was shot and killed on Saturday in Portland, Ore., where supporters of President Trump traveled in a caravan through the downtown area and clashed with protesters.</media:description>
+    </item>
+    <item>
+      <title>E.P.A. Relaxes Rules Limiting Toxic Waste From Coal Plants</title>
+      <link>https://www.nytimes.com/2020/08/31/climate/trump-coal-plants.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/climate/trump-coal-plants.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/climate/trump-coal-plants.html" rel="standout"></atom:link>
+      <description>The agency weakened Obama-era rules meant to keep metals and other pollution out of rivers and streams, saving industry tens of millions of dollars.</description>
+      <dc:creator>Lisa Friedman</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 22:09:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/31/climate/31CLI-COAL1/31CLI-COAL1-moth.jpg" width="151"></media:content>
+      <media:credit>George Frey/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The new rule scaled back the types of wastewater treatment technologies that utilities must install.</media:description>
+    </item>
+    <item>
+      <title>TikTok Deal Faces Complications as U.S. and China Ratchet Up Tit-for-Tat</title>
+      <link>https://www.nytimes.com/2020/08/31/technology/tiktok-export-us-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/technology/tiktok-export-us-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/technology/tiktok-export-us-china.html" rel="standout"></atom:link>
+      <description>China’s new export rules, which could delay or scuttle a sale of TikTok, have further turned giant companies into pawns in a geopolitical struggle.</description>
+      <dc:creator>Mike Isaac and Ana Swanson</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 21:58:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/29/business/00tiktok/00tiktok-moth.jpg" width="151"></media:content>
+      <media:credit>Joe Melhuish</media:credit>
+    </item>
+    <item>
+      <title>Liberty Will Investigate University’s Operations Under Jerry Falwell Jr.</title>
+      <link>https://www.nytimes.com/2020/08/31/us/liberty-jerry-falwell-investigation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/liberty-jerry-falwell-investigation.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/liberty-jerry-falwell-investigation.html" rel="standout"></atom:link>
+      <description>The board of trustees said an independent forensic firm would look into all facets of Liberty’s operations, including “financial, real estate and legal matters,” while Mr. Falwell was president.</description>
+      <dc:creator>Ruth Graham</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 21:51:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberty University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Falwell, Jerry Jr (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Granda, Giancarlo</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/31/us/31FALWELL/31FALWELL-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Wong/Getty Images</media:credit>
+      <media:description>Jerry Falwell Jr., who had served as Liberty’s president and chancellor since 2007, resigned last week in the wake of a sex scandal.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus Briefing: What Happened Today</title>
+      <link>https://www.nytimes.com/2020/08/31/us/coronavirus-today.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/coronavirus-today.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/coronavirus-today.html" rel="standout"></atom:link>
+      <description>Campus outbreaks are beginning to infect surrounding communities.</description>
+      <dc:creator>Jonathan Wolfe and Lara Takenaga</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 21:50:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v744.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>In Speech, Biden Confronts Trump on Safety: &#39;He Can&#39;t Stop the Violence&#39;</title>
+      <link>https://www.nytimes.com/2020/08/31/us/politics/biden-speech-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/politics/biden-speech-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/politics/biden-speech-trump.html" rel="standout"></atom:link>
+      <description>In a blistering speech, Joe Biden charged that crises “have kept multiplying” under President Trump’s watch. It was an effort to refocus the spotlight on the incumbent after a week of Republican attacks.</description>
+      <dc:creator>Katie Glueck</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 21:23:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/31/us/politics/31vid-biden-clip2/31vid-biden-clip2-moth.jpg" width="151"></media:content>
+      <media:credit>Amr Alfiky/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>At the W.N.B.A., the Fight for Racial Justice Goes Way Back</title>
+      <link>https://www.nytimes.com/2020/08/31/us/WNBA-say-her-name-racism-sexism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/WNBA-say-her-name-racism-sexism.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/WNBA-say-her-name-racism-sexism.html" rel="standout"></atom:link>
+      <description>“It’s like basketball: Preparation shows, and we’ve been prepared for this moment,” says New York Liberty guard Layshia Clarendon.</description>
+      <dc:creator>Alexandra E. Petri</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 20:58:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s National Basketball Assn</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/28/us/28ihw-wnba9/28ihw-wnba9-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Julio Aguilar/Getty Images</media:credit>
+      <media:description>The Washington Mystics wore white T-shirts that spelled out Jacob Blake on the front and featured illustrations of seven bullet holes on the back. The team was protesting the police shooting of a Black man in Kenosha, Wis., during the W.N.B.A. postponement announcement on Wednesday at Feld Entertainment Center  in Palmetto, Fla. </media:description>
+    </item>
+    <item>
+      <title>Federal Government Relaxes Rules on Feeding Low-Income Students</title>
+      <link>https://www.nytimes.com/2020/08/31/us/schools-food-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/schools-food-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/schools-food-coronavirus.html" rel="standout"></atom:link>
+      <description>Under pressure from Congress, the Agriculture Department agreed to extend special rules making it easier for schools to provide subsidized meals, but only through December.</description>
+      <dc:creator>Kate Taylor</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 20:38:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lunch and Breakfast Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Perdue, Sonny</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/28/us/00virus-schoollunch01/00virus-schoollunch01-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <media:description>When schools closed their doors in March, the Agriculture Department issued waivers allowing districts to give a free meal to any child 18 or younger.</media:description>
+    </item>
+    <item>
+      <title>Ron Jeremy Is Charged With Sexually Assaulting 13 More Women</title>
+      <link>https://www.nytimes.com/2020/08/31/movies/ron-jeremy-sexual-assault-charges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/movies/ron-jeremy-sexual-assault-charges.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/movies/ron-jeremy-sexual-assault-charges.html" rel="standout"></atom:link>
+      <description>The new charges brought by the Los Angeles County District Attorney’s office against the pornographic film star bring the total number of alleged victims to 17.</description>
+      <dc:creator>Julia Jacobs</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 19:35:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jeremy, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goldfarb, Stuart U</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/31/arts/31ronjeremy-item/31ronjeremy-item-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Robert Gauthier/EPA, via Shutterstock</media:credit>
+      <media:description>The actor Ron Jeremy, appearing for his arraignment in Los Angeles in June. On Monday he was charged with additional counts of sexual assault.</media:description>
+    </item>
+    <item>
+      <title>Court Denies Flynn’s Bid to End Case and Renews Fight Over McGahn Subpoena</title>
+      <link>https://www.nytimes.com/2020/08/31/us/politics/michael-flynn-appeals-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/politics/michael-flynn-appeals-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/politics/michael-flynn-appeals-court.html" rel="standout"></atom:link>
+      <description>Two cases touching on the Trump-Russia investigation are dividing the Court of Appeals for the District of Columbia Circuit.</description>
+      <dc:creator>Charlie Savage</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 21:15:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flynn, Michael T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Emmet G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/31/us/politics/31dc-flynn-swap/31dc-flynn-swap-moth.jpg" width="151"></media:content>
+      <media:credit>Tom Brenner for The New York Times</media:credit>
+      <media:description>Michael T. Flynn twice pleaded guilty to lying to the F.B.I.</media:description>
+    </item>
+    <item>
+      <title>The wheels come off the school bus industry</title>
+      <link>https://www.nytimes.com/2020/08/31/us/coronvairus-school-bus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/coronvairus-school-bus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/coronvairus-school-bus.html" rel="standout"></atom:link>
+      <description>And students in Britain and New Jersey are facing a particularly uncertain start to the year.</description>
+      <dc:creator>Amelia Nierenberg and Adam Pasick</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 16:03:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chico (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/28/us/politics/28dc-virus-schoolbus/28dc-virus-schoolbus-moth.jpg" width="151"></media:content>
+      <media:credit>Lauren Lancaster for The New York Times</media:credit>
+      <media:description>Glenn Every said the school bus company he owns has lost $750,000 because of the pandemic.</media:description>
+    </item>
+    <item>
+      <title>Twitter flags a video shared by Steve Scalise that manipulated Ady Barkan’s interview with Biden.</title>
+      <link>https://www.nytimes.com/2020/08/31/us/elections/twitter-flags-a-video-shared-by-steve-scalise-that-manipulated-ady-barkans-interview-with-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/elections/twitter-flags-a-video-shared-by-steve-scalise-that-manipulated-ady-barkans-interview-with-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/elections/twitter-flags-a-video-shared-by-steve-scalise-that-manipulated-ady-barkans-interview-with-biden.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Matt Stevens and Thomas Kaplan</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 20:22:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/31/us/31live-barkin/merlin_144261183_8aa25c4e-cbc4-44dc-b867-0d349f2a6627-moth.jpg" width="151"></media:content>
+      <media:credit>T.J. Kirkpatrick for The New York Times</media:credit>
+      <media:description>Representative Steve Scalise released a video that doctored the words of the activist Ady Barkan, center, in an interview with Joseph R. Biden Jr.</media:description>
+    </item>
+    <item>
+      <title>China&#39;s Exports Are Surging Despite Tariffs and Coronavirus</title>
+      <link>https://www.nytimes.com/2020/08/31/business/trumps-tariffs-coronavirus-china-exports.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/business/trumps-tariffs-coronavirus-china-exports.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/business/trumps-tariffs-coronavirus-china-exports.html" rel="standout"></atom:link>
+      <description>Chinese companies account for a greater share of goods sold abroad, showing their tremendous strength despite mounting challenges.</description>
+      <dc:creator>Keith Bradsher</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 22:13:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/29/business/29China-Exports-1/00China-Exports-1-moth.jpg" width="151"></media:content>
+      <media:credit>Andrea Verdelli for The New York Times</media:credit>
+      <media:description>Workers assembling saunas at Hongyuan Furniture, a manufacturer in Guangzhou, China.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus in California: The State&#39;s Plan for Reopening</title>
+      <link>https://www.nytimes.com/2020/08/31/us/california-coronavirus-reopening.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/california-coronavirus-reopening.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/california-coronavirus-reopening.html" rel="standout"></atom:link>
+      <description>Monday: Here’s what you need to know about California’s second big reopening plan. Also: Eviction legislation; and Chadwick Boseman.</description>
+      <dc:creator>Jill Cowan</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 12:42:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/31/us/31saloncatoday/merlin_176329767_d5e47879-9ea9-4cc0-8e62-dfd67ac24181-moth.jpg" width="151"></media:content>
+      <media:credit>Gregory Bull/Associated Press</media:credit>
+      <media:description>Corinne Lam and her husband, Anthony Lam, carried a chair in from an outside area as they prepared to receive clients back inside their salon Friday in San Diego.</media:description>
+    </item>
+    <item>
+      <title>Facing national unrest, Biden confronts both a challenge and an opportunity.</title>
+      <link>https://www.nytimes.com/2020/08/31/us/elections/facing-national-unrest-biden-confronts-both-a-challenge-and-an-opportunity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/elections/facing-national-unrest-biden-confronts-both-a-challenge-and-an-opportunity.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/elections/facing-national-unrest-biden-confronts-both-a-challenge-and-an-opportunity.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Adam Nagourney and Shane Goldmacher</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 15:39:05 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/31/us/31live-challenges/merlin_175972029_fc6d5115-8b3d-4f92-89f5-9bd75e81d903-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Joe Biden accepted the Democratic nomination for president at the Chase Center in Wilmington, Del.</media:description>
+    </item>
+    <item>
+      <title>The Portland shooting amplified tensions in the presidential race.</title>
+      <link>https://www.nytimes.com/2020/08/31/us/elections/the-portland-shooting-amplified-tensions-in-the-presidential-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/elections/the-portland-shooting-amplified-tensions-in-the-presidential-race.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/elections/the-portland-shooting-amplified-tensions-in-the-presidential-race.html" rel="standout"></atom:link>
+      <description>A fatal shooting after clashes in Portland came on the heels of the shooting deaths of two people during confrontations in Kenosha, Wis., earlier in the week.</description>
+      <dc:creator>Mike Baker, Thomas Kaplan and Shane Goldmacher</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 18:25:39 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/30/us/30UNREST-PORTLAND-CAMPAIGN-1/30UNREST-PORTLAND-CAMPAIGN-1-moth.jpg" width="151"></media:content>
+      <media:credit>Mason Trinca for The New York Times</media:credit>
+      <media:description>A man affiliated with a right-wing group was shot and killed on Saturday in Portland, Ore., where supporters of President Trump traveled in a caravan through the downtown area and clashed with protesters.</media:description>
+    </item>
+    <item>
+      <title>An advocacy group’s ‘Unbossed Women’s Agenda’ would help Black domestic workers.</title>
+      <link>https://www.nytimes.com/2020/08/31/us/elections/an-advocacy-groups-unbossed-womens-agenda-would-help-black-domestic-workers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/elections/an-advocacy-groups-unbossed-womens-agenda-would-help-black-domestic-workers.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/elections/an-advocacy-groups-unbossed-womens-agenda-would-help-black-domestic-workers.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Isabella Grullón Paz</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 12:26:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>A shift on election briefings to Congress could create an information gap for voters.</title>
+      <link>https://www.nytimes.com/2020/08/31/us/elections/a-shift-on-election-briefings-to-congress-could-create-an-information-gap-for-voters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/elections/a-shift-on-election-briefings-to-congress-could-create-an-information-gap-for-voters.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/elections/a-shift-on-election-briefings-to-congress-could-create-an-information-gap-for-voters.html" rel="standout"></atom:link>
+      <description>The elimination of in-person election security briefings to Congress could leave the public with a diminished understanding of the threats facing the election as it enters a critical phase.</description>
+      <dc:creator>David E. Sanger and Julian E. Barnes</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 18:41:10 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/30/us/politics/30dc-intel/30dc-intel-moth.jpg" width="151"></media:content>
+      <media:credit>Gabriella Demczuk for The New York Times</media:credit>
+      <media:description>John Ratcliffe, the director of national intelligence, said he wanted to stop “a pandemic of information being leaked out of the intelligence community.”</media:description>
+    </item>
+    <item>
+      <title>Street Violence Hangs Over the Campaign</title>
+      <link>https://www.nytimes.com/2020/08/31/us/politics/portland-2020-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/politics/portland-2020-race.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/politics/portland-2020-race.html" rel="standout"></atom:link>
+      <description>Killings in Oregon and Wisconsin reverberate in the 2020 race: This is your morning tip sheet.</description>
+      <dc:creator>Giovanni Russonello</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 11:00:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portland (Ore)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>The Rush to Polling Judgment</title>
+      <link>https://www.nytimes.com/2020/08/31/briefing/trump-portland-coronavirus-your-monday-briefing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/briefing/trump-portland-coronavirus-your-monday-briefing.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/briefing/trump-portland-coronavirus-your-monday-briefing.html" rel="standout"></atom:link>
+      <description>And what else you need to know today.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 10:45:25 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/31/us/31ambriefing-promo/31ambriefing-election-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Erik Branch for The New York Times</media:credit>
+      <media:description>A polling station in Louisville in June.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus News: Live Updates</title>
+      <link>https://www.nytimes.com/2020/08/31/world/covid-19-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/world/covid-19-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/world/covid-19-coronavirus.html" rel="standout"></atom:link>
+      <description>India now has the world’s third-highest death toll, and movie theaters in New Jersey can open Friday at reduced capacity.</description>
+      <pubDate>Mon, 31 Aug 2020 21:13:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>In Massachusetts, Markey Outflanks Kennedy by Running as Bold Insurgent</title>
+      <link>https://www.nytimes.com/2020/08/31/us/markey-kennedy-massachusetts-senate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/markey-kennedy-massachusetts-senate.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/markey-kennedy-massachusetts-senate.html" rel="standout"></atom:link>
+      <description>Edward Markey, 74, entered Congress before Joseph Kennedy III was born. But in their Senate race he has harnessed the energy of Alexandria Ocasio-Cortez and the ascendant left, much to Mr. Kennedy’s frustration.</description>
+      <dc:creator>Jonathan Martin</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 13:35:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Green New Deal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frank, Barney</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Joseph P III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markey, Edward J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boston (Mass)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/31/us/politics/31mass-senate6/31mass-senate6-moth.jpg" width="151"></media:content>
+      <media:credit>David Degner for The New York Times</media:credit>
+      <media:description>Senator Edward J. Markey, who has rebranded himself as an avatar of the millennial left, last week in Revere, Mass.</media:description>
+    </item>
+    <item>
+      <title>A Vow of Silence, a Cabin in the Woods, a Terrible Wildfire</title>
+      <link>https://www.nytimes.com/2020/08/31/us/fires-california-monk-tad-jones-last-chance-santa-cruz.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/fires-california-monk-tad-jones-last-chance-santa-cruz.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/fires-california-monk-tad-jones-last-chance-santa-cruz.html" rel="standout"></atom:link>
+      <description>If anyone could outsmart a wildfire, it would seem to be Tad Jones, who lived for decades in a California forest, more a friend of nature than of man.</description>
+      <dc:creator>Thomas Fuller and Nicholas Bogel-Burroughs</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 13:58:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Big Basin Redwoods State Park (California)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+    </item>
+    <item>
+      <title>The Few, the Proud, the White: The Marine Corps Balks at Promoting Generals of Color</title>
+      <link>https://www.nytimes.com/2020/08/31/us/politics/marines-race-general.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/31/us/politics/marines-race-general.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/31/us/politics/marines-race-general.html" rel="standout"></atom:link>
+      <description>A respected, combat-tested Black colonel has been passed over three times for promotion to brigadier general. What does his fate say about the Corps?</description>
+      <dc:creator>Helene Cooper</dc:creator>
+      <pubDate>Mon, 31 Aug 2020 21:53:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Allen, John R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amos, James F</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Charles Q Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Esper, Mark T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mattis, James N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nakasone, Paul M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spencer, Richard V</category>
+    </item>
+    <item>
+      <title>The Runway Lights Failed, So Villagers Used Their Headlights to Aid an Airlift</title>
+      <link>https://www.nytimes.com/2020/08/30/us/Lifemed-alaska-flight-runway-landing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/30/us/Lifemed-alaska-flight-runway-landing.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/30/us/Lifemed-alaska-flight-runway-landing.html" rel="standout"></atom:link>
+      <description>A child was waiting to be flown to Anchorage, but the pilot of a LifeMed Alaska flight could not see the runway at the airport in Igiugig, Alaska, officials said.</description>
+      <pubDate>Mon, 31 Aug 2020 03:41:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlifts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">All-Terrain Vehicles (ATV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Anchorage (Alaska)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/30/multimedia/30xp-runway-lights-pix/30xp-runway-lights-pix-moth.jpg" width="151"></media:content>
+      <media:credit>Ida Nelson</media:credit>
+      <media:description>Trucks, cars and ATVs helped illuminate a runway in Igiugig, Alaska, so a medical evacuation plane could land on Friday night.</media:description>
     </item>
     <item>
       <title>Stories of 2020: Five Lives Caught in a Year of Upheaval and Pain</title>
@@ -118,345 +501,14 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Milwaukee Bucks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Orlando Magic</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boseman, Chadwick</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/30/us/30dc-crises-1/merlin_176268288_ff4d1d9f-45a9-4387-b44c-cbd3ab80ca5d-moth.jpg" width="151"></media:content>
       <media:credit>Erin Schaff/The New York Times</media:credit>
       <media:description>As fireworks crowned the renomination of President Trump at the Republican National Convention last week, protesters loomed outside the White House, a sign of a divisive election to come.</media:description>
-    </item>
-    <item>
-      <title>Shift on Election Briefings Could Create an Information Gap for Voters</title>
-      <link>https://www.nytimes.com/2020/08/30/us/politics/2020-election-security-briefings.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/30/us/politics/2020-election-security-briefings.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/30/us/politics/2020-election-security-briefings.html" rel="standout"></atom:link>
-      <description>The elimination of in-person election security briefings to Congress could leave the public with a diminished understanding of the threats facing the election as it enters a critical phase.</description>
-      <dc:creator>David E. Sanger and Julian E. Barnes</dc:creator>
-      <pubDate>Sun, 30 Aug 2020 21:57:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the Director of National Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ratcliffe, John Lee (1965- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/30/us/politics/30dc-intel/30dc-intel-moth.jpg" width="151"></media:content>
-      <media:credit>Gabriella Demczuk for The New York Times</media:credit>
-      <media:description>John Ratcliffe, the director of national intelligence, said he wanted to stop “a pandemic of information being leaked out of the intelligence community.”</media:description>
-    </item>
-    <item>
-      <title>Trump Embraces Fringe Theories on Protests and the Coronavirus</title>
-      <link>https://www.nytimes.com/2020/08/30/us/politics/trump-protests-violence-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/30/us/politics/trump-protests-violence-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/30/us/politics/trump-protests-violence-coronavirus.html" rel="standout"></atom:link>
-      <description>In a Twitter barrage, the president advanced conspiracy theories claiming that protests are an organized coup and that the virus death toll is inflated. He also reposted a call to imprison New York’s governor.</description>
-      <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Sun, 30 Aug 2020 22:51:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portland (Ore)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/30/us/politics/30dc-trump/30dc-trump-moth.jpg" width="151"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>President Trump’s Twitter blast over the weekend included embracing a supporter charged with murder and threatening to use force against demonstrators outside the White House.</media:description>
-    </item>
-    <item>
-      <title>Big Oil Is in Trouble. Its Plan: Flood Africa With Plastic.</title>
-      <link>https://www.nytimes.com/2020/08/30/climate/oil-kenya-africa-plastics-trade.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/30/climate/oil-kenya-africa-plastics-trade.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/30/climate/oil-kenya-africa-plastics-trade.html" rel="standout"></atom:link>
-      <description>Faced with plunging profits and a climate crisis that threatens fossil fuels, the industry is demanding a trade deal that weakens Kenya’s rules on plastics and on imports of American trash.</description>
-      <dc:creator>Hiroko Tabuchi, Michael Corkery and Carlos Mureithi</dc:creator>
-      <pubDate>Mon, 31 Aug 2020 01:45:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plastics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plastic Bags</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemicals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Chemistry Council</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Center for International Environmental Law</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Basel Action Network</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/11/climate/00CLI-PLASTIC-fader4/00CLI-PLASTIC-fader4-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Khadija M. Farah for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>What Happened in the Portland Shooting</title>
-      <link>https://www.nytimes.com/2020/08/30/us/portland-shooting-explained.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/30/us/portland-shooting-explained.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/30/us/portland-shooting-explained.html" rel="standout"></atom:link>
-      <description>A man was shot and killed after supporters of President Trump clashed with counterprotesters.</description>
-      <dc:creator>Bryan Pietsch</dc:creator>
-      <pubDate>Sun, 30 Aug 2020 22:10:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patriot Prayer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portland (Ore)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/30/multimedia/30xp-portland-explainer-pix1/30xp-portland-explainer-pix1-moth.jpg" width="151"></media:content>
-      <media:credit>Mason Trinca for The New York Times</media:credit>
-      <media:description>On Saturday night, a caravan of supporters of President Trump traveled through Portland, Ore., and clashed with counterprotesters. A man was shot and killed during the unrest.</media:description>
-    </item>
-    <item>
-      <title>Justice Dept. Never Fully Examined Trump’s Ties to Russia, Ex-Officials Say</title>
-      <link>https://www.nytimes.com/2020/08/30/us/politics/trump-russia-justice-department.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/30/us/politics/trump-russia-justice-department.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/30/us/politics/trump-russia-justice-department.html" rel="standout"></atom:link>
-      <description>The former deputy attorney general maneuvered to keep investigators from completing an inquiry into whether the president’s personal and financial links to Russia posed a national security threat.</description>
-      <dc:creator>Michael S. Schmidt</dc:creator>
-      <pubDate>Sun, 30 Aug 2020 21:00:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCabe, Andrew G</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rosenstein, Rod J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/28/us/politics/00dc-investigate1/00dc-investigate1-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker for The New York Times</media:credit>
-      <media:description>President Trump has long called investigations into his 2016 campaign’s ties with Russia a “hoax.”</media:description>
-    </item>
-    <item>
-      <title>U.S. Will Revive Global Virus-Hunting Effort Ended Last Year</title>
-      <link>https://www.nytimes.com/2020/08/30/health/predict-pandemic-usaid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/30/health/predict-pandemic-usaid.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/30/health/predict-pandemic-usaid.html" rel="standout"></atom:link>
-      <description>A federal agency is resurrecting a version of Predict, a scientific network that for a decade watched for new pathogens dangerous to humans. Joe Biden has also vowed to fund the effort.</description>
-      <dc:creator>Donald G. McNeil Jr. and Thomas Kaplan</dc:creator>
-      <pubDate>Sun, 30 Aug 2020 17:17:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock Diseases</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Avian Influenza</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">EcoHealth Alliance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Epidemic Intelligence Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Security Council</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for International Development</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">President&#39;s Malaria Initiative</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolton, John R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carroll, Dennis (Public Health Adviser)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ziemer, R Timothy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frieden, Thomas R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wuhan (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/28/science/28VIRUS-PREDICT1/28VIRUS-PREDICT1-moth.jpg" width="151"></media:content>
-      <media:credit>EcoHealth Alliance</media:credit>
-      <media:description>Some of the Obama-era program’s money supported researchers in China working with bats, which can carry coronaviruses like the one that causes Covid-19.</media:description>
-    </item>
-    <item>
-      <title>Covid-19 News: Live Updates</title>
-      <link>https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html" rel="standout"></atom:link>
-      <description>The jump in infections comes as the daily rate continues to decline. New Delhi is reopening its subway, even as India sets global records for new cases.</description>
-      <pubDate>Mon, 31 Aug 2020 01:06:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-moth.jpg" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Dermatology Has a Problem With Skin Color</title>
-      <link>https://www.nytimes.com/2020/08/30/health/skin-diseases-black-hispanic.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/30/health/skin-diseases-black-hispanic.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/30/health/skin-diseases-black-hispanic.html" rel="standout"></atom:link>
-      <description>Common conditions often manifest differently on dark skin. Yet physicians are trained mostly to diagnose them on white skin.</description>
-      <dc:creator>Roni Caryn Rabin</dc:creator>
-      <pubDate>Mon, 31 Aug 2020 01:58:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pediatric Inflammatory Multisystem Syndrome (PIMS)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Textbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Schools</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eczema</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psoriasis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/29/science/29SKIN-promo/29SKIN-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Sarahbeth Maney for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Malcolm X, Laurence Fishburne and ‘the Theater of Your Mind’</title>
-      <link>https://www.nytimes.com/2020/08/30/books/laurence-fishburne-autobiography-of-malcolm-x-audiobook.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/30/books/laurence-fishburne-autobiography-of-malcolm-x-audiobook.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/30/books/laurence-fishburne-autobiography-of-malcolm-x-audiobook.html" rel="standout"></atom:link>
-      <description>The Oscar-nominated actor narrates “The Autobiography of Malcolm X” in an audiobook project he says “doesn’t change my perspective so much as it amplifies it.”</description>
-      <dc:creator>Lauren Christensen</dc:creator>
-      <pubDate>Mon, 31 Aug 2020 00:00:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights Movement (1954-68)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audiobooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Audible.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fishburne, Laurence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Malcolm X</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haley, Alex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Autobiography of Malcolm X (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/31/books/30Fishburne1/merlin_175960368_70e0d7c2-743a-46b5-b358-93dbd586cd31-moth.jpg" width="151"></media:content>
-      <media:credit>Emily Berl for The New York Times</media:credit>
-      <media:description>“The responsibility I felt was to try and illuminate his humanity as much as possible,” Laurence Fishburne said of the role.</media:description>
-    </item>
-    <item>
-      <title>Breonna Taylor’s Life Was Changing. Then the Police Came to Her Door.</title>
-      <link>https://www.nytimes.com/2020/08/30/us/breonna-taylor-police-killing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/30/us/breonna-taylor-police-killing.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/30/us/breonna-taylor-police-killing.html" rel="standout"></atom:link>
-      <description>An ex-boyfriend’s run-ins with the law entangled her even as she tried to move on. Interviews, documents and jailhouse recordings help explain how she landed in the middle of a deadly drug raid.</description>
-      <pubDate>Sun, 30 Aug 2020 18:50:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Taylor, Breonna (1993-2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Kenneth (March 13, 2020 Shooting)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Glover, Jamarcus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Louisville, Ky)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisville (Ky)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hankison, Brett (Louisville, Ky, Police Officer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mattingly, Jon (Louisville, Ky, Police Officer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cosgrove, Myles (Louisville, Ky, Police Officer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/27/us/xxbreonna/xxbreonna-moth.jpg" width="151"></media:content>
-    </item>
-    <item>
-      <title>New Yorkers Are Fleeing to the Suburbs: ‘The Demand Is Insane’</title>
-      <link>https://www.nytimes.com/2020/08/30/nyregion/nyc-suburbs-housing-demand.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/30/nyregion/nyc-suburbs-housing-demand.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/30/nyregion/nyc-suburbs-housing-demand.html" rel="standout"></atom:link>
-      <description>The pandemic is spurring home sales as prosperous city residents seek more space. One listing had 97 showings and received 24 offers.</description>
-      <dc:creator>Matthew Haag</dc:creator>
-      <pubDate>Mon, 31 Aug 2020 01:48:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suburbs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/28/nyregion/00nyvirus-suburbs/00nyvirus-suburbs-moth.jpg" width="151"></media:content>
-      <media:credit>Karsten Moran for The New York Times</media:credit>
-      <media:description>A queue for an open house in Belleville, a New Jersey township west of Manhattan, on a recent Sunday. Buyers have expressed worries about the health risks of crowded urban neighborhoods.</media:description>
-    </item>
-    <item>
-      <title>One Person Dead in Portland After Clashes Between Trump Supporters and Protesters</title>
-      <link>https://www.nytimes.com/2020/08/30/us/portland-trump-rally-shooting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/30/us/portland-trump-rally-shooting.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/30/us/portland-trump-rally-shooting.html" rel="standout"></atom:link>
-      <description>A man affiliated with a right-wing group was shot and killed Saturday night. A caravan of supporters of President Trump had driven into downtown Portland.</description>
-      <dc:creator>Mike Baker</dc:creator>
-      <pubDate>Mon, 31 Aug 2020 00:05:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patriot Prayer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portland (Ore)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/30/us/30UNREST-PORTLAND-PROMO/30UNREST-PORTLAND-PROMO-moth.jpg" width="151"></media:content>
-      <media:credit>Mason Trinca for The New York Times</media:credit>
-      <media:description>I can’t get in to edit the digital column, Should be: Police officers guard the area where a man was shot and killed during unrest Saturday night in Portland, Ore.</media:description>
-    </item>
-    <item>
-      <title>Phoenix Settles With Black Family After Police Drew Guns Over Reported Doll Theft</title>
-      <link>https://www.nytimes.com/2020/08/29/us/phoenix-police-settlement.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/29/us/phoenix-police-settlement.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/29/us/phoenix-police-settlement.html" rel="standout"></atom:link>
-      <description>The settlement, which is for more than $470,000, comes after an episode last year in which officers responded to a shoplifting complaint at a Family Dollar store.</description>
-      <dc:creator>Christina Morales</dc:creator>
-      <pubDate>Sun, 30 Aug 2020 00:57:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Phoenix, Ariz)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Phoenix (Ariz)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harper, Iesha</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ames, Dravon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/29/multimedia/29xp-phoenix-settlement-pix/29xp-phoenix-settlement-pix-moth.jpg" width="151"></media:content>
-      <media:credit>Ross D. Franklin/Associated Press</media:credit>
-      <media:description>Dravon Ames, second from left, and Iesha Harper at a community meeting in Phoenix last year.</media:description>
-    </item>
-    <item>
-      <title>‘Enough Is Enough’: New Racial Justice Leaders Rise in Kenosha</title>
-      <link>https://www.nytimes.com/2020/08/29/us/29kenosha-march-protests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/29/us/29kenosha-march-protests.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/29/us/29kenosha-march-protests.html" rel="standout"></atom:link>
-      <description>A new crop of activists has joined the ranks of protesters in Kenosha, Wis., as police killings across the country spur ordinary people into the streets. Jacob Blake’s family spoke at a rally on Saturday.</description>
-      <dc:creator>John Eligon</dc:creator>
-      <pubDate>Sun, 30 Aug 2020 15:48:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenosha (Wis)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/30/us/29kenosha-march-print/29kenosha-march-moth.jpg" width="151"></media:content>
-      <media:credit>Carlos Javier Ortiz for The New York Times</media:credit>
-      <media:description>Jacob Blake Sr. spoke to a crowd as a march in honor of his son, Jacob Blake, took place on Saturday.</media:description>
-    </item>
-    <item>
-      <title>No More In-Person Election Briefings for Congress, Intelligence Chief Says</title>
-      <link>https://www.nytimes.com/2020/08/29/us/politics/election-security-intelligence-briefings-congress.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/29/us/politics/election-security-intelligence-briefings-congress.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/29/us/politics/election-security-intelligence-briefings-congress.html" rel="standout"></atom:link>
-      <description>Lawmakers in both parties worry the move will block their ability to question and test intelligence assessments that can be crucial to ensuring that foreign powers do not undermine election results.</description>
-      <dc:creator>Nicholas Fandos and Julian E. Barnes</dc:creator>
-      <pubDate>Sun, 30 Aug 2020 02:06:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ratcliffe, John Lee (1965- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the Director of National Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/30/lens/29dc-intel-print/29dc-intel-pif-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker for The New York Times</media:credit>
-      <media:description>The director of national intelligence, John Ratcliffe, in July. He framed the move as an attempt to crack down on leaks that have infuriated some intelligence officials.</media:description>
     </item>
   </channel>
 </rss>

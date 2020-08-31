@@ -22,7 +22,7 @@
 
 <p id="test">some text</p>
 <div id="video-container">
-<iframe style='display:none' allowFullScreen='allowFullScreen'  id="videoframe" width="100%" frameborder="0" height="100%" src="">
+<iframe style='display:none' allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; picture-in-picture" allowFullScreen='allowFullScreen'  id="videoframe" width="100%" frameborder="0" height="100%" src="">
 </iframe>
 </div>
 
@@ -68,7 +68,7 @@ function getLocalURL(address){
 function getEmbedURL(address){
  var split = address.split("=");
  var remotefile = split[2];
- return remotefile;
+ return remotefile+"?rel=0";
 }
 </script>
 
