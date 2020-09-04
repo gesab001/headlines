@@ -10,220 +10,233 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/nhl-players-unveil-series-of-anti-racism-initiatives</guid>
-      <link>https://www.foxnews.com/sports/nhl-players-unveil-series-of-anti-racism-initiatives</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/health/hospitals-fda-guidelines-plasma-treatment-coronavirus</guid>
+      <link>https://www.foxnews.com/health/hospitals-fda-guidelines-plasma-treatment-coronavirus</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/NHL-end-racism.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/NHL-end-racism.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/convalescent-plasma-Getty-Images.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/convalescent-plasma-Getty-Images.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/NHL-end-racism.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">4a087e59-69ce-51a1-b916-630a9da551c4</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nhl</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/convalescent-plasma-Getty-Images.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">71b65833-3b26-5bfb-9833-acab9dd085bb</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                        <category domain="foxnews.com/section-path">fnc/health</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>NHL, players unveil series of anti-racism initiatives</title>
-      <description>The NHL on Thursday unveiled a series of anti-racism initiatives more than eight months after Akim Aliu brought the topic to the forefront in the predominantly white sport.</description>
-                   <pubDate>Fri, 04 Sep 2020 08:36:12 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
+      <title>Hospitals wary of FDA guidance on plasma treatments for coronavirus</title>
+      <description>Doctors are considering partaking in a clinical trial to test the effectiveness of convalescent plasma treatment to fight against the coronavirus, forgoing government guidance that allows a broader emergency use of the technique right now, to combat the pandemic. </description>
+                  <dc:creator>Vandana Rambaran</dc:creator>
+                         <pubDate>Fri, 04 Sep 2020 20:20:22 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Vandana Rambaran</category>
+                            </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/pelosi-challenger-claims-sf-neighbors-defending-her-after-salon-visit-reason-she-defeated-past</guid>
-      <link>https://www.foxnews.com/politics/pelosi-challenger-claims-sf-neighbors-defending-her-after-salon-visit-reason-she-defeated-past</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/devos-schools-standardized-testing</guid>
+      <link>https://www.foxnews.com/politics/devos-schools-standardized-testing</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20246740000496-1.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20246740000496-1.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Betsy-Devos-AP.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Betsy-Devos-AP.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20246740000496-1.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">9ac729e3-5809-55d6-8ceb-8fa4d8ff2d52</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/nancy-pelosi</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/san-francisco</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Betsy-Devos-AP.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8f401414-f245-5a85-ae1b-9173e9cbfc29</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/education</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Pelosi’s Republican challenger points to neighbors ‘mad at salon owner’ after blowout backlash</title>
-      <description>John Dennis, a longtime Republican challenger of House Speaker Nancy Pelosi in California lashed out on social media Thursday, citing how people defending her recent salon visit were a reason she's defeated him in the past.</description>
-                  <dc:creator>David Aaro</dc:creator>
-                         <pubDate>Fri, 04 Sep 2020 08:31:11 GMT</pubDate>
+      <title>DeVos says schools must still have mandated standardized testing during coronavirus pandemic</title>
+      <description>Education Secretary Betsy DeVos told state leaders Thursday that standardized testing requirements for K-12 schools would be enforced this year, after being suspended amid the coronavirus pandemic last spring. </description>
+                  <dc:creator>Morgan Phillips</dc:creator>
+                         <pubDate>Fri, 04 Sep 2020 20:13:09 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/cleveland-police-officer-fatally-shot-search-underway-for-suspect-reports</guid>
-      <link>https://www.foxnews.com/us/cleveland-police-officer-fatally-shot-search-underway-for-suspect-reports</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/tyler-kistner-va-worst-under-obama-administration</guid>
+      <link>https://www.foxnews.com/politics/tyler-kistner-va-worst-under-obama-administration</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/police-tape-iStock.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/police-tape-iStock.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/vet.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/vet.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/police-tape-iStock.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">c51158fa-7c3f-5ba7-9a02-aff1e89d9a46</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/crime/manhunt</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/ohio</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/homicide</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/vet.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">15bbb0cc-8e0c-5e40-aa9c-037ba9d634e8</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/military/veterans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/military</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/national-security</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/barack-obama</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-house-races</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/house-of-representatives/republicans</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Cleveland police officer fatally shot; search underway for suspect: reports</title>
-      <description>A manhunt was underway in Cleveland early Friday after a veteran police officer was fatally shot Thursday night, according to reports.</description>
-                  <dc:creator>Dom Calicchio</dc:creator>
-                         <pubDate>Fri, 04 Sep 2020 08:22:46 GMT</pubDate>
+      <title>Former Marine running for Congress claims VA was 'worst it had ever been' under Obama administration</title>
+      <description>The Department of Veterans Affairs reached a low point during the Obama administration, Minnesota GOP congressional candidate Tyler Kistner, a former Marine, told Fox Business Network Friday.</description>
+                  <dc:creator>Joshua Nelson</dc:creator>
+                         <pubDate>Fri, 04 Sep 2020 20:07:14 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Joshua Nelson</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/lifestyle/hair-salon-job-posting-happy-hairdresser-discrimanatory</guid>
-      <link>https://www.foxnews.com/lifestyle/hair-salon-job-posting-happy-hairdresser-discrimanatory</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/health/coroanvirus-vaccine-trial-in-russia-shows-promising-results-with-immune-response</guid>
+      <link>https://www.foxnews.com/health/coroanvirus-vaccine-trial-in-russia-shows-promising-results-with-immune-response</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/bad-hair-day-a-562723.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/bad-hair-day-a-562723.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/bad-hair-day-a-562723.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">3af2d719-544d-53e9-93e5-0bdcf1777149</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/style-and-beauty</category>
-            <category domain="foxnews.com/taxonomy">fox-news/lifestyle</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/lifestyle</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Hair salon had to remove job ad for 'happy’ stylist because it is 'discriminatory' against unhappy people</title>
-      <description>Alison Birch listed a job ad looking for a part-time qualified hairdresser at her AJ's Unisex Hair Salon in Stroud, Glos.</description>
-                   <pubDate>Fri, 04 Sep 2020 08:00:43 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">SWNS</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/travel/disneyland-delay-mickey-minnie-ride</guid>
-      <link>https://www.foxnews.com/travel/disneyland-delay-mickey-minnie-ride</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/MIckeyMinnieRailway.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/MIckeyMinnieRailway.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/MIckeyMinnieRailway.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">66dee382-d4d9-5380-bc6d-379d0697df92</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/travel/general/disney</category>
-            <category domain="foxnews.com/taxonomy">fox-news/travel/general/theme-parks</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/travel</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Disneyland delays opening of first-ever Mickey and Minnie ride until 2023</title>
-      <description>Disneyland has officially delayed the opening of an anticipated new ride for over a year as a result of the coronavirus pandemic.</description>
-                  <dc:creator>Michael Bartiromo</dc:creator>
-                         <pubDate>Fri, 04 Sep 2020 08:00:40 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Michael Bartiromo</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/protesters-march-rochester-mayor-suspends-police-officers-involved-mans-suffocation-death</guid>
-      <link>https://www.foxnews.com/us/protesters-march-rochester-mayor-suspends-police-officers-involved-mans-suffocation-death</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20248186115597.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20248186115597.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20248186115597.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">7515987a-66b1-5768-b35d-3b841da7519b</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Police, protesters clash in Rochester after mayor suspends officers involved in man’s suffocation death</title>
-      <description>Protesters marched in Rochester, N.Y., on Thursday night, denouncing racism and apparently unswayed by the mayor's recent decision to suspend seven police officers involved in the suffocation death of Daniel Prude.</description>
-                  <dc:creator>David Aaro</dc:creator>
-                         <pubDate>Fri, 04 Sep 2020 07:22:24 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/trumps-vote-twice-comments-outrage-media-which-amplify-his-message</guid>
-      <link>https://www.foxnews.com/media/trumps-vote-twice-comments-outrage-media-which-amplify-his-message</link>
-                  <media:group>
-        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce3dc8d8-2b28-4019-ba47-01960401296c/fd2e3dfa-51c2-4f50-96ed-49e4a003768a/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d069c276-d328-437c-b3a1-f495c9f3b91f/426a7e1d-b8da-4589-a7d6-a1683650782c/1280x720/match/image.jpg" medium="image" isDefault="true" />
         <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
       </media:group>
       <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">ca12454b-a487-5c89-b1e8-a67e53dc20dd</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/columns/media-buzz</category>
+            <category domain="foxnews.com/metadata/dc.identifier">d4ccefba-4c0b-52b4-8cc7-57eeebaff2dd</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/vaccines</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/russia</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
+                        <category domain="foxnews.com/section-path">fnc/health</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Trump’s vote-twice comments outrage media, which amplify his message</title>
-      <description>Why did Donald Trump, in broad daylight, with cameras rolling, suggest that the good people of North Carolina vote twice?</description>
-                  <dc:creator>Howard Kurtz</dc:creator>
-                         <pubDate>Fri, 04 Sep 2020 07:00:06 GMT</pubDate>
+      <title>Coroanvirus vaccine trial in Russia shows promising results with immune response, study claims</title>
+      <description>Results of coronavirus vaccine trials in Russia have showed an antibody response within three weeks in all participants tested, the authors said.</description>
+                  <dc:creator>Amy McGorry</dc:creator>
+                         <pubDate>Fri, 04 Sep 2020 20:05:34 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Howard Kurtz</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Amy McGorry</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/friend-of-portland-shooting-victim-aaron-danielson-speaks-out-us-needs-a-lot-of-healing</guid>
-      <link>https://www.foxnews.com/media/friend-of-portland-shooting-victim-aaron-danielson-speaks-out-us-needs-a-lot-of-healing</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/kentucky-derby-tiz-the-law-rebecca-grant</guid>
+      <link>https://www.foxnews.com/opinion/kentucky-derby-tiz-the-law-rebecca-grant</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/image-1.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image-1.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Kentucky-Derby-Tiz-the-Law.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Kentucky-Derby-Tiz-the-Law.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image-1.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">71f36a8a-74ca-5546-8dcc-00e9a16d3dec</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/shows/tucker-carlson-tonight</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
-            <category domain="foxnews.com/taxonomy">fox-news/media</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-protests</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/portland</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/oregon</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/homicide</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Kentucky-Derby-Tiz-the-Law.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">53712cb3-ac80-53e4-b1f8-29619f702460</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/kentucky</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/horse-racing</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/media</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Friend of Portland shooting victim Aaron Danielson speaks out: US ‘needs a lot of healing’</title>
-      <description>Aaron “Jay” Danielson was fatally shot during rioting in Portland, Ore., last month because he was a supporter of President Trump, his friend Chandler Pappas said Thursday night.</description>
-                  <dc:creator>Angelica Stabile</dc:creator>
-                         <pubDate>Fri, 04 Sep 2020 06:48:14 GMT</pubDate>
+      <title>Rebecca Grant: Why Kentucky Derby, Tiz the Law will make America feel good again</title>
+      <description>The excitement and tension will be off the charts when 18 horses load into the gate for the 7:02 pm start Saturday night</description>
+                  <dc:creator>Rebecca Grant</dc:creator>
+                         <pubDate>Fri, 04 Sep 2020 20:04:56 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Angelica Stabile</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Rebecca Grant</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/world/beirut-rescuers-frantically-dig-through-rubble-after-possible-heartbeat-detected-1-month-after-blast</guid>
-      <link>https://www.foxnews.com/world/beirut-rescuers-frantically-dig-through-rubble-after-possible-heartbeat-detected-1-month-after-blast</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/auchincloss-wins-dem-primary-massachusetts-beats-progressive</guid>
+      <link>https://www.foxnews.com/politics/auchincloss-wins-dem-primary-massachusetts-beats-progressive</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20247625677786.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20247625677786.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20248543299024.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20248543299024.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20247625677786.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">589919b4-40b7-56d9-b545-c2996f3b44d8</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/middle-east</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20248543299024.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">65852940-bc6a-5b28-907e-0d421afe7026</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/house-of-representatives/democrats</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/world</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Beirut rescuers frantically dig through rubble after possible heartbeat detected month after blast</title>
-      <description>Rescuers in Beirut dug through rubble Friday from a deadly explosion that rocked the capital a month before after a pulsing signal discovered Thursday raised hopes that someone could be alive underneath the destroyed building.</description>
-                  <dc:creator>Brie Stimson</dc:creator>
-                         <pubDate>Fri, 04 Sep 2020 06:35:59 GMT</pubDate>
+      <title>Auchincloss wins Democratic primary in Massachusetts for Kennedy seat, beats out progressive challengers</title>
+      <description>Jake Auchincloss, a USMC veteran with a Republican history, eked out a victory in the Democratic primary for a Massachusetts House seat.</description>
+                  <dc:creator>James Levinson</dc:creator>
+                         <pubDate>Fri, 04 Sep 2020 19:55:35 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">James Levinson</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/oregon-governor-calls-out-white-supremacists-vigilantes-while-demanding-end-to-portland-violence</guid>
-      <link>https://www.foxnews.com/us/oregon-governor-calls-out-white-supremacists-vigilantes-while-demanding-end-to-portland-violence</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/kamala-harris-fundraiser-doug-prochilo</guid>
+      <link>https://www.foxnews.com/politics/kamala-harris-fundraiser-doug-prochilo</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20244342928374.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20244342928374.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/doug-prochilo-Getty-Images.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/doug-prochilo-Getty-Images.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20244342928374.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">2f86f245-93b6-5c8f-8157-0fb9bd4c923f</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/portland</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-protests</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/doug-prochilo-Getty-Images.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">73627f68-07c5-5e22-9e4f-fb0cf1bb798a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/kamala-harris</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Kamala Harris headlines fundraiser cohosted by Hollywood producer who used vulgar name for GOP women</title>
+      <description>Sen. Kamala Harris headlined a fundraiser Thursday afternoon cohosted by Doug Prochilo, a producer who told her to “grow a pair” and “stop running for president and be a senator.” </description>
+                  <dc:creator>Morgan Phillips</dc:creator>
+                         <pubDate>Fri, 04 Sep 2020 19:54:15 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/arizona-man-tried-kidnapping-infant-flagstaff-grocery-store-checkout-police-allege</guid>
+      <link>https://www.foxnews.com/us/arizona-man-tried-kidnapping-infant-flagstaff-grocery-store-checkout-police-allege</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/roholt.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/roholt.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/roholt.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">55ecbd15-39d9-586a-9a25-2eff1b16c0e3</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/arizona</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Oregon governor calls out white supremacists, vigilantes while demanding end to Portland violence</title>
-      <description>In the wake of a deadly protest-related shooting in downtown Portland last weekend and nearly 100 straight days of frequently chaotic protests, Oregon Gov. Kate Brown called for an end to the violence.</description>
-                  <dc:creator>Brie Stimson</dc:creator>
-                         <pubDate>Fri, 04 Sep 2020 06:31:26 GMT</pubDate>
+      <title>Arizona man tried kidnapping infant at Flagstaff grocery store checkout, police allege</title>
+      <description>Police are investigating after a man is accused of trying to kidnap an infant in the self-checkout line inside a Flagstaff, Ariz., Bashas' grocery store.</description>
+                  <dc:creator>Brent Corrado</dc:creator>
+            <dc:creator> Fox 10</dc:creator>
+                         <pubDate>Fri, 04 Sep 2020 19:51:53 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brent Corrado</category>
+            <category domain="foxnews.com/metadata/dc.creator"> Fox 10</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/rochester-police-union-defends-officers-involved-in-daniel-prude-death</guid>
+      <link>https://www.foxnews.com/us/rochester-police-union-defends-officers-involved-in-daniel-prude-death</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/74f5baee-AP20246827797726.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/74f5baee-AP20246827797726.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/74f5baee-AP20246827797726.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">4ae12fb6-2e3a-5b41-8167-b35088c7e535</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-protests</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/jacob-blake</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/george-floyd</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Rochester police union defends officers involved in Daniel Prude death</title>
+      <description>The union representing Rochester police on Friday defended the officers involved in the asphyxiation death of Daniel Prude in March.</description>
+                  <dc:creator>Robert Gearty</dc:creator>
+                         <pubDate>Fri, 04 Sep 2020 19:46:24 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Robert Gearty</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/teens-arrested-violent-crime-spree-in-minneapolis</guid>
+      <link>https://www.foxnews.com/us/teens-arrested-violent-crime-spree-in-minneapolis</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/minneapolis-robbery-surveillance-camera-FOX9.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/minneapolis-robbery-surveillance-camera-FOX9.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/minneapolis-robbery-surveillance-camera-FOX9.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">90774a46-2654-5bf4-b650-ca65970e80f4</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/minnesota</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>3 teens arrested in violent crime spree in Minneapolis</title>
+      <description>Three teens-- between 14 and 15 years old-- were arrested and charged with multiple felonies in connection with a string of robberies and a carjacking that happened in broad daylight, police in Minneapolis said. </description>
+                  <dc:creator>Vandana Rambaran</dc:creator>
+                         <pubDate>Fri, 04 Sep 2020 19:43:13 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Vandana Rambaran</category>
                             </item>
       </channel>
 </rss>
