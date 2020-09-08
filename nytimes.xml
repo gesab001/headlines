@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2020 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 08 Sep 2020 04:41:17 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Sep 2020 04:41:17 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2020 20:42:46 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2020 20:42:46 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -24,8 +24,9 @@
       <pubDate>Mon, 07 Sep 2020 17:15:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenosha (Wis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
     </item>
     <item>
       <title>California Wildfires: Extreme Heat Turns State Into a Furnace</title>
@@ -34,12 +35,16 @@
       <atom:link href="https://www.nytimes.com/2020/09/07/us/ca-wildfires-heatwave.html" rel="standout"></atom:link>
       <description>Fires burning from near the Mexico border to the forests of the Sierra Nevada spread a curtain of smoke over California on Monday.</description>
       <dc:creator>Jack Healy, Kate Taylor and Ivan Penn</dc:creator>
-      <pubDate>Tue, 08 Sep 2020 04:14:10 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 05:07:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cal Fire</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mammoth Pool reservoir (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Big Creek, Calif.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mammoth Pool Reservoir (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sierra Nevada Region (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sierra National Forest (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Big Creek (Calif)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/07/us/07FIRES-alt/07FIRES-alt-moth.jpg" width="151"></media:content>
       <media:credit>Josh Edelson/Agence France-Presse — Getty Images</media:credit>
       <media:description>A firefighter doused flames as they pushed towards homes in Madera County, Calif., on Monday.</media:description>
@@ -86,36 +91,491 @@
       <media:description>A worker blasts graffiti from the pavement at Civic Center Park in Kenosha, Wis., Wednesday. The next step has left Kenosha a city divided.</media:description>
     </item>
     <item>
+      <title>Manhattan’s Office Buildings Are Empty. But for How Long?</title>
+      <link>https://www.nytimes.com/2020/09/08/business/economy/new-york-office-space-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/business/economy/new-york-office-space-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/business/economy/new-york-office-space-coronavirus.html" rel="standout"></atom:link>
+      <description>As they grow accustomed to working from home, many businesses are delaying signing new leases until rents drop and the pandemic passes.</description>
+      <dc:creator>Julie Creswell and Peter Eavis</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 20:23:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landlords</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Co-Working</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Empire State Realty Trust Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WeWork Companies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/08/business/00office-spaces-grid/00office-spaces-grid-moth.jpg" width="151"></media:content>
+      <media:credit>Vincent Tullo for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>In Georgia, Officials Are Investigating Hundreds of Cases of Double Voting</title>
+      <link>https://www.nytimes.com/2020/09/08/us/politics/georgia-double-voting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/us/politics/georgia-double-voting.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/us/politics/georgia-double-voting.html" rel="standout"></atom:link>
+      <description>Georgia’s secretary of state, Brad Raffensperger, said that 1,000 people voted twice in the state’s June primary and August runoff elections, and warned that “we will prosecute.”</description>
+      <dc:creator>Stephanie Saul</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 19:45:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raffensperger, Brad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/08/us/08GEORGIA-VOTING/merlin_173379927_097371cd-d337-42d6-bc13-13cf92a4b6bd-moth.jpg" width="151"></media:content>
+      <media:credit>Audra Melton for The New York Times</media:credit>
+      <media:description>Brad Raffensperger, Georgia’s secretary of state, held a news conference Tuesday to announce that investigations were underway in 100 of the state’s 159 counties.</media:description>
+    </item>
+    <item>
+      <title>New Hampshire Primary Elections Test the Influence of Trump and Sanders</title>
+      <link>https://www.nytimes.com/2020/09/08/us/politics/nh-primary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/us/politics/nh-primary.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/us/politics/nh-primary.html" rel="standout"></atom:link>
+      <description>As voters cast ballots today, the Democratic governor’s race and the Republican Senate contest may help preview the parties’ future in the presidential swing state.</description>
+      <dc:creator>Trip Gabriel</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 19:51:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Hampshire</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shaheen, Jeanne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sununu, Christopher T (1974- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/08/us/politics/08nh-primary2/08nh-primary2-moth.jpg" width="151"></media:content>
+      <media:credit>Kristopher Radder/The Brattleboro Reformer, via Associated Press</media:credit>
+      <media:description>New Hampshire primary voters were choosing candidates for governor and Senate on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Will Doug Emhoff’s Legal Career Be an Issue for the Biden-Harris Ticket?</title>
+      <link>https://www.nytimes.com/2020/09/08/us/politics/doug-emhoff-kamala-harris-law.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/us/politics/doug-emhoff-kamala-harris-law.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/us/politics/doug-emhoff-kamala-harris-law.html" rel="standout"></atom:link>
+      <description>Mr. Emhoff, the husband of Senator Kamala Harris, has a long record as a litigator at two of the nation’s top firms, posing potential conflicts that could draw scrutiny from both Republicans and liberal Democrats alike.</description>
+      <dc:creator>Stephanie Saul, Kenneth P. Vogel and Danny Hakim</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 19:00:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DLA Piper</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emhoff, Douglas C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/09/us/politics/05emhoff/05emhoff-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Douglas Emhoff with his wife, Senator Kamala Harris, after she accepted the Democratic nomination for vice president last month.</media:description>
+    </item>
+    <item>
+      <title>The Climate Connection to California’s Wildfires</title>
+      <link>https://www.nytimes.com/2020/09/08/climate/california-wildfires-climate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/climate/california-wildfires-climate.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/climate/california-wildfires-climate.html" rel="standout"></atom:link>
+      <description>As fires spread through California during a global pandemic, read some of our past coverage about what’s causing them and what might help contain them.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 18:37:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/08/climate/08CLI-FIRESROUNDUP/08CLI-FIRESROUNDUP-moth.jpg" width="151"></media:content>
+      <media:credit>Marcio Jose Sanchez/Associated Press</media:credit>
+      <media:description>Firefighters used drip torches to start a controlled burn to contain the Creek Fire in Shaver Lake, Calif., on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Crazy Weather in Colorado: Roasting Yesterday, Snowing Today</title>
+      <link>https://www.nytimes.com/2020/09/08/us/denver-snow-weather.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/us/denver-snow-weather.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/us/denver-snow-weather.html" rel="standout"></atom:link>
+      <description>Temperatures plunged more than 50 degrees overnight as an Arctic air mass drove into the Denver area, bringing a very early winter storm on Tuesday.</description>
+      <dc:creator>Jack Healy</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 18:27:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Snow and Snowstorms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boulder (Colo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denver (Colo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rocky Mountain National Park (Colo)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/08/us/08DENVER/08DENVER-moth.jpg" width="151"></media:content>
+      <media:credit>David Zalubowski/Associated Press</media:credit>
+      <media:description>Smoke from the Cameron Peak wildfire occluded the skyline of downtown Denver on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Republicans Revive 2018 Election Strategy: Scare Voters</title>
+      <link>https://www.nytimes.com/2020/09/08/us/politics/trump-republicans-fear-strategy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/us/politics/trump-republicans-fear-strategy.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/us/politics/trump-republicans-fear-strategy.html" rel="standout"></atom:link>
+      <description>President Trump and his party are using a playbook that aims to alarm people about crime in their backyards. It didn’t work in 2018, but both parties think it could resonate more this year.</description>
+      <dc:creator>Jeremy W. Peters</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 19:26:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Congressional Campaign Committee</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/09/us/politics/09fear1/04fear1-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker for The New York Times</media:credit>
+      <media:description>Like in 2018, President Trump and Republicans are using a fear-based playbook to win over voters in 2020.</media:description>
+    </item>
+    <item>
+      <title>Selling the Census Last Minute, With Cowboys and Sudoku</title>
+      <link>https://www.nytimes.com/2020/09/08/business/media/2020-census-advertising.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/business/media/2020-census-advertising.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/business/media/2020-census-advertising.html" rel="standout"></atom:link>
+      <description>Worried that people won’t be counted, community groups and local governments are spending big to get the word out. “It’s an absolute panic,” one executive said.</description>
+      <dc:creator>Tiffany Hsu</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 18:26:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Census</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Census Bureau</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telemundo Communications Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Univision</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/08/business/08census-advertising-01/08census-advertising-01-moth.jpg" width="151"></media:content>
+      <media:credit>FCB Chicago</media:credit>
+      <media:description>With just a few weeks remaining, officials in Chicago and other cities have worked to increase census response rates.</media:description>
+    </item>
+    <item>
+      <title>Signs That Define a Building, and Sometimes a City</title>
+      <link>https://www.nytimes.com/2020/09/08/business/building-signs-cities-iconic-signage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/business/building-signs-cities-iconic-signage.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/business/building-signs-cities-iconic-signage.html" rel="standout"></atom:link>
+      <description>Building signs have grown into a $37.5 billion industry. Some have become so iconic they are permanent parts of the landscape, often standing in for their hometowns.</description>
+      <dc:creator>Jane Margolies</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 18:41:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Signs and Signage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Organizational</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Outdoor Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nasdaq Stock Market</category>
+    </item>
+    <item>
+      <title>A New Theory Asks: Could a Mask Be a Crude ‘Vaccine’?</title>
+      <link>https://www.nytimes.com/2020/09/08/health/covid-masks-immunity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/health/covid-masks-immunity.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/health/covid-masks-immunity.html" rel="standout"></atom:link>
+      <description>Scientists float a provocative — and unproven — idea: that masks expose the wearer to just enough of the virus to spark a protective immune response.</description>
+      <dc:creator>Katherine J. Wu</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 16:01:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immune System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/08/science/08VIRUS-MASK/08VIRUS-MASK-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Acker for The New York Times</media:credit>
+      <media:description>A new scientific paper explores the concept of variolation, the deliberate exposure to a pathogen to generate a protective immune response.</media:description>
+    </item>
+    <item>
+      <title>What We Know About the Death of George Floyd in Minneapolis</title>
+      <link>https://www.nytimes.com/article/george-floyd.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/george-floyd.html</guid>
+      <atom:link href="https://www.nytimes.com/article/george-floyd.html" rel="standout"></atom:link>
+      <description>Mr. Floyd died after being handcuffed and pinned to the ground by an officer’s knee in an episode that was captured on video, touching off nationwide protests.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 15:41:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Minneapolis, Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Floyd, George (d 2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/05/multimedia/00xp-floyd-wwk-update-pix1/00xp-floyd-wwk-update-pix1-moth.jpg" width="151"></media:content>
+      <media:credit>Victor J. Blue for The New York Times</media:credit>
+      <media:description>The killing of George Floyd led to large protests against police brutality and systemic racism in more than 150 American cities.</media:description>
+    </item>
+    <item>
+      <title>Wildfires Live Updates: Helicopter Rescue Missions and Power Shutoffs in California</title>
+      <link>https://www.nytimes.com/2020/09/08/us/wildfires-live-updates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/us/wildfires-live-updates.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/us/wildfires-live-updates.html" rel="standout"></atom:link>
+      <description>Extreme weather is battering the Western United States, with fires raging along the Pacific Coast and snow falling in Colorado.</description>
+      <pubDate>Tue, 08 Sep 2020 20:11:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cal Fire</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sierra National Forest (Calif)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/08/us/08fire-vid/08fire-vid-moth.jpg" width="151"></media:content>
+      <media:credit>Josh Edelson/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>In a closely watched New Hampshire primary, Democrats will pick a challenger to Governor Sununu.</title>
+      <link>https://www.nytimes.com/2020/09/08/us/elections/in-a-closely-watched-new-hampshire-primary-democrats-will-pick-a-challenger-to-governor-sununu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/us/elections/in-a-closely-watched-new-hampshire-primary-democrats-will-pick-a-challenger-to-governor-sununu.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/us/elections/in-a-closely-watched-new-hampshire-primary-democrats-will-pick-a-challenger-to-governor-sununu.html" rel="standout"></atom:link>
+      <description>the</description>
+      <dc:creator>Matt Stevens</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 15:05:52 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/08/us/08live-nhri/08live-nhri-moth.jpg" width="151"></media:content>
+      <media:credit>Maddie Meyer/Getty Images</media:credit>
+      <media:description>Gov. Chris Sununu of New Hampshire campaigned at New Hampshire Motor Speedway last month.</media:description>
+    </item>
+    <item>
+      <title>Ayad Akhtar to Lead PEN America</title>
+      <link>https://www.nytimes.com/2020/09/08/books/ayad-akhtar-pen-america-homeland-elegies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/books/ayad-akhtar-pen-america-homeland-elegies.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/books/ayad-akhtar-pen-america-homeland-elegies.html" rel="standout"></atom:link>
+      <description>The Pulitzer-winning playwright, whose new book, “Homeland Elegies,” comes out this month, succeeds the novelist Jennifer Egan at the literary organization.</description>
+      <dc:creator>John Williams</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 13:12:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Akhtar, Ayad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Homeland Elegies: A Novel (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/08/obituaries/08AKHTAR1/merlin_125859017_196d08b8-068b-4e31-bf68-9fed3d518967-moth.jpg" width="151"></media:content>
+      <media:credit>Vincent Tullo for The New York Times</media:credit>
+      <media:description>“Literature has a place in our national life,” Ayad Akhtar said. “It can be part of our national discourse and can contribute to it in interesting ways.”</media:description>
+    </item>
+    <item>
+      <title>California Wildfires: State of Emergency Declared in Five Counties</title>
+      <link>https://www.nytimes.com/2020/09/08/us/california-wildfire-heat-wave.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/us/california-wildfire-heat-wave.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/us/california-wildfire-heat-wave.html" rel="standout"></atom:link>
+      <description>Tuesday: Over the holiday weekend, another record-shattering heat wave slammed the West Coast and new fires erupted across California.</description>
+      <dc:creator>Jill Cowan</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 12:41:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/08/us/08firecatoday/merlin_176694195_80576efa-4c87-4005-a87f-c727b613507b-moth.jpg" width="151"></media:content>
+      <media:credit>John Antczak/Associated Press</media:credit>
+      <media:description>Smoke from wildfires burning east of Los Angeles dimmed the sunrise on Monday, seen from Pasadena.</media:description>
+    </item>
+    <item>
+      <title>Pence and Harris vied for Wisconsin, a pivotal state in the 2020 race.</title>
+      <link>https://www.nytimes.com/2020/09/08/us/elections/pence-and-harris-vied-for-wisconsin-a-pivotal-state-in-the-2020-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/us/elections/pence-and-harris-vied-for-wisconsin-a-pivotal-state-in-the-2020-race.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/us/elections/pence-and-harris-vied-for-wisconsin-a-pivotal-state-in-the-2020-race.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Jonathan Martin and Alexander Burns</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 13:42:56 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/07/us/politics/07wisconsin1/07wisconsin1-moth.jpg" width="151"></media:content>
+      <media:credit>Taylor Glascock for The New York Times</media:credit>
+      <media:description> Senator Kamala Harris toured a union training center in Milwaukee on Monday after meeting supporters.</media:description>
+    </item>
+    <item>
+      <title>Israel’s Coronavirus Czar Clashes With Ultra-Orthodox, a Netanyahu Ally</title>
+      <link>https://www.nytimes.com/2020/09/08/world/middleeast/israel-coronavirus-ronni-gamzu-netanyahu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/world/middleeast/israel-coronavirus-ronni-gamzu-netanyahu.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/world/middleeast/israel-coronavirus-ronni-gamzu-netanyahu.html" rel="standout"></atom:link>
+      <description>As he moved to slow the pandemic, Dr. Ronni Gamzu kept butting heads with ultra-Orthodox leaders. Then Israel’s top virus fighter was suddenly undercut.</description>
+      <dc:creator>David M. Halbfinger and Isabel Kershner</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 12:44:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gamzu, Ronni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/08/world/08virus-israel1/merlin_172020606_8ec2ec91-2ae2-499e-9a60-5e0923edc0ad-moth.jpg" width="151"></media:content>
+      <media:credit>Abir Sultan/EPA, via Shutterstock</media:credit>
+      <media:description>Dr. Ronni Gamzu, waving the Israeli flag, became Prime Minister Benjamin Netanyahu’s virus czar after pioneering a program to protect the elderly from the virus at Ichilov Hospital in Tel Aviv.</media:description>
+    </item>
+    <item>
+      <title>The Trump campaign’s lavish spending eroded its head start, a Times analysis shows.</title>
+      <link>https://www.nytimes.com/2020/09/08/us/elections/the-trump-campaigns-lavish-spending-eroded-its-head-start-a-times-analysis-shows.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/us/elections/the-trump-campaigns-lavish-spending-eroded-its-head-start-a-times-analysis-shows.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/us/elections/the-trump-campaigns-lavish-spending-eroded-its-head-start-a-times-analysis-shows.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Shane Goldmacher and Maggie Haberman</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 16:59:16 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/04/us/politics/07trump-spending/00trump-spending00-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker for The New York Times</media:credit>
+      <media:description>A rally for President Trump in Latrobe, Pa., last week. Mr. Trump’s campaign has spent $800 million.</media:description>
+    </item>
+    <item>
+      <title>Trump lashes out at Biden and Harris and chides a reporter for wearing a mask.</title>
+      <link>https://www.nytimes.com/2020/09/08/us/elections/trump-lashes-out-at-biden-and-harris-and-chides-a-reporter-for-wearing-a-mask.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/us/elections/trump-lashes-out-at-biden-and-harris-and-chides-a-reporter-for-wearing-a-mask.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/us/elections/trump-lashes-out-at-biden-and-harris-and-chides-a-reporter-for-wearing-a-mask.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Annie Karni and Andy Newman</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 13:42:08 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/07/us/politics/07elections-briefing-trump/07elections-briefing-trump-moth.jpg" width="151"></media:content>
+      <media:credit>Stefani Reynolds for The New York Times</media:credit>
+      <media:description>President Trump called a news conference at the White House on Monday to insult his opponents and air some grievances.</media:description>
+    </item>
+    <item>
+      <title>Kamala Harris Visits Wisconsin</title>
+      <link>https://www.nytimes.com/2020/09/08/us/politics/harris-pence-wisconsin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/us/politics/harris-pence-wisconsin.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/us/politics/harris-pence-wisconsin.html" rel="standout"></atom:link>
+      <description>Harris and Pence come to Wisconsin bearing two very different messages, while Biden and Trump accuse each other of politicizing the virus.</description>
+      <dc:creator>Giovanni Russonello</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 11:01:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pence, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Conservatives for Labor</title>
+      <link>https://www.nytimes.com/2020/09/08/briefing/coronavirus-california-wildfires-nfl-your-tuesday-briefing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/briefing/coronavirus-california-wildfires-nfl-your-tuesday-briefing.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/briefing/coronavirus-california-wildfires-nfl-your-tuesday-briefing.html" rel="standout"></atom:link>
+      <description>And what else you need to know today.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 10:27:08 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/07/us/8ambriefing-promo/8ambriefing-unions-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Drew Angerer/Getty Images</media:credit>
+      <media:description>Union members held a caravan rally in Washington this summer.</media:description>
+    </item>
+    <item>
+      <title>Covid-19 News: Live Updates</title>
+      <link>https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html" rel="standout"></atom:link>
+      <description>Nine drug companies issued a joint pledge that they would “stand with science” and not put forward a vaccine until it had been thoroughly vetted. A political uproar quashed plans for targeted lockdowns in Israel.</description>
+      <pubDate>Tue, 08 Sep 2020 20:14:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>What Month Is It? Pandemic Scrambles the Travel Calendar</title>
+      <link>https://www.nytimes.com/2020/09/08/travel/fall-resorts-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/travel/fall-resorts-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/travel/fall-resorts-coronavirus.html" rel="standout"></atom:link>
+      <description>With more families working and studying remotely, resorts are dangling attractive rates, enhanced Wi-Fi and the charms of autumn as reasons to forget summer is ending.</description>
+      <dc:creator>Elaine Glusac</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 20:03:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autumn (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cape May (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Charleston (SC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cannon Beach (Ore)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hamptons (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sag Harbor (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cape Cod (Mass)</category>
+    </item>
+    <item>
+      <title>At Least 37 Million People Have Been Displaced by America’s War on Terror</title>
+      <link>https://www.nytimes.com/2020/09/08/magazine/displaced-war-on-terror.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/magazine/displaced-war-on-terror.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/magazine/displaced-war-on-terror.html" rel="standout"></atom:link>
+      <description>A new report calculates the number of people who fled because of wars fought by the United States since Sept. 11, 2001.</description>
+      <dc:creator>John Ismay</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 09:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shabab</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internal Displacement Monitoring Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/08/magazine/08atwar-DISPLACED/08atwar-DISPLACED-moth.jpg" width="151"></media:content>
+      <media:credit>Mohamed Abdiwahab/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A Somali woman carried wood to make a shelter in a camp for internally displaced people in December 2018.</media:description>
+    </item>
+    <item>
+      <title>It’s Not Easy to Get a Coronavirus Test for a Child</title>
+      <link>https://www.nytimes.com/2020/09/08/upshot/children-testing-shortfalls-virus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/upshot/children-testing-shortfalls-virus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/upshot/children-testing-shortfalls-virus.html" rel="standout"></atom:link>
+      <description>As schools reopen, many parents still can’t find a test nearby, impeding the fight against the virus.</description>
+      <dc:creator>Sarah Kliff and Margot Sanger-Katz</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 15:54:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/04/upshot/00up-virus-children-tests/00up-virus-children-tests-moth.jpg" width="151"></media:content>
+      <media:credit>Elaine Thompson/Associated Press</media:credit>
+      <media:description>Many coronavirus testing sites do not screen children. One that does, outside Chief Sealth High School in Seattle, swabbed 1-year-old Quentin Brown late last month. </media:description>
+    </item>
+    <item>
+      <title>Black, Native American and Fighting for Recognition in Indian Country</title>
+      <link>https://www.nytimes.com/2020/09/08/us/enslaved-people-native-americans-oklahoma.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/us/enslaved-people-native-americans-oklahoma.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/us/enslaved-people-native-americans-oklahoma.html" rel="standout"></atom:link>
+      <description>Enslaved people were also driven west along the Trail of Tears. After a historic Supreme Court ruling, their descendants are fighting to be counted as tribal members.</description>
+      <dc:creator>Jack Healy</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 07:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Muscogee (Creek) Nation (Okumlgee, Okla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cherokee Indians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Treaties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seminole Indians</category>
+      <category domain="">Choctaw Indians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma</category>
+    </item>
+    <item>
+      <title>‘Or I Will Stab You Right Now’: A Family’s Prison Extortion Nightmare</title>
+      <link>https://www.nytimes.com/2020/09/08/us/alabama-prisons-extortion-cellphones.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/09/08/us/alabama-prisons-extortion-cellphones.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/09/08/us/alabama-prisons-extortion-cellphones.html" rel="standout"></atom:link>
+      <description>While serving time, Ryan Rust was beaten, stabbed and threatened with hot oil if his relatives didn’t pay up. After disturbing calls and texts, they bought guns for protection.</description>
+      <dc:creator>Serge F. Kovaleski and Dan Barry</dc:creator>
+      <pubDate>Tue, 08 Sep 2020 14:45:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rust, Ryan (1985-2018)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extortion and Blackmail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cellular Telephones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Corrections Department (Ala)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/08/us/00extortion-family-promo/00extortion-family-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Annie Flanagan for The New York Times</media:credit>
+    </item>
+    <item>
       <title>Father Michel J. Mulloy Resigns Weeks Before Becoming Bishop of Duluth</title>
       <link>https://www.nytimes.com/2020/09/07/us/bishop-duluth-minnesota-sexual-abuse.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/09/07/us/bishop-duluth-minnesota-sexual-abuse.html</guid>
       <atom:link href="https://www.nytimes.com/2020/09/07/us/bishop-duluth-minnesota-sexual-abuse.html" rel="standout"></atom:link>
-      <description>Father Michel J. Mulloy was chosen by Pope Francis to lead the Diocese of Duluth, Minn., but then an allegation from the 1980s surfaced, church officials said.</description>
+      <description>Father Michel J. Mulloy had been chosen by Pope Francis to lead the Diocese of Duluth, Minn., but then an allegation from the 1980s surfaced, church officials said.</description>
       <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Tue, 08 Sep 2020 01:01:49 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 18:08:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mulloy, Michel J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Duluth (Minn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rapid City (SD)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sioux Falls (SD)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Dakota</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Michel J. Mulloy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/07/multimedia/07xp-bishop/07xp-bishop-moth.jpg" width="151"></media:content>
       <media:credit>Diocese of Duluth</media:credit>
       <media:description>Former Bishop-elect Michel J. Mulloy</media:description>
     </item>
     <item>
-      <title>A Gender-Reveal Celebration Is Blamed for a Wildfire. It Wasn’t the First Time.</title>
+      <title>Gender-Reveal Party Is Blamed in California Wildfire</title>
       <link>https://www.nytimes.com/2020/09/07/us/gender-reveal-party-wildfire.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2020/09/07/us/gender-reveal-party-wildfire.html</guid>
       <atom:link href="https://www.nytimes.com/2020/09/07/us/gender-reveal-party-wildfire.html" rel="standout"></atom:link>
       <description>The El Dorado fire in California ignited as a family was using a “pyrotechnic device” to announce the gender of a new baby, the authorities said.</description>
       <dc:creator>Christina Morales and Allyson Waller</dc:creator>
-      <pubDate>Mon, 07 Sep 2020 23:27:04 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 17:30:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parties (Social)</category>
@@ -137,17 +597,17 @@
       <atom:link href="https://www.nytimes.com/2020/09/07/us/politics/wisconsin-biden-harris-trump-pence.html" rel="standout"></atom:link>
       <description>The unofficial Labor Day kickoff to the fall campaign centered on Pennsylvania and Wisconsin, two pivotal states for both the president and Joseph R. Biden Jr.</description>
       <dc:creator>Jonathan Martin and Alexander Burns</dc:creator>
-      <pubDate>Mon, 07 Sep 2020 23:10:29 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 12:37:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blake, Jacob (August 23, 2020 Shooting)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pence, Mike</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/07/us/politics/07wisconsin1/07wisconsin1-moth.jpg" width="151"></media:content>
       <media:credit>Taylor Glascock for The New York Times</media:credit>
-      <media:description>“We have to get this done, I need your help in Milwaukee,” Senator Kamala Harris told supporters in Wisconsin on Monday as she encouraged them to participate in early voting. She visited a union training facility earlier in the day.</media:description>
+      <media:description> Senator Kamala Harris toured a union training center in Milwaukee on Monday after meeting supporters.</media:description>
     </item>
     <item>
       <title>How Trump’s Billion-Dollar Campaign Lost Its Cash Advantage</title>
@@ -156,7 +616,7 @@
       <atom:link href="https://www.nytimes.com/2020/09/07/us/politics/trump-election-campaign-fundraising.html" rel="standout"></atom:link>
       <description>Five months ago, President Trump’s re-election campaign had a huge financial edge over Joseph R. Biden Jr.’s. The Times conducted an extensive review of how the Trump team spent lavishly to show how that advantage evaporated.</description>
       <dc:creator>Shane Goldmacher and Maggie Haberman</dc:creator>
-      <pubDate>Tue, 08 Sep 2020 01:22:59 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2020 19:04:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -164,222 +624,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dershowitz, Alan M</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parscale, Brad (1976- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rollins, Ed</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stepien, Bill</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican National Committee</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/04/us/politics/00trump-spending00/00trump-spending00-moth.jpg" width="151"></media:content>
       <media:credit>Anna Moneymaker for The New York Times</media:credit>
-      <media:description>A rally for President Trump in Latrobe, Penn. Mr. Trump’s campaign has spent $800 million.</media:description>
-    </item>
-    <item>
-      <title>What to watch for as Harris and Pence visit Wisconsin.</title>
-      <link>https://www.nytimes.com/2020/09/07/us/elections/what-to-watch-for-as-harris-and-pence-visit-wisconsin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/09/07/us/elections/what-to-watch-for-as-harris-and-pence-visit-wisconsin.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/09/07/us/elections/what-to-watch-for-as-harris-and-pence-visit-wisconsin.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Jonathan Martin</dc:creator>
-      <pubDate>Mon, 07 Sep 2020 16:32:34 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/07/us/politics/07elections-briefing-campaign-laborda/07elections-briefing-campaign-laborda-moth.jpg" width="151"></media:content>
-      <media:credit>Taylor Glascock for The New York Times</media:credit>
-      <media:description>Senator Kamala Harris’s trip to Wisconsin on Monday will be the first time she has appeared with battleground state voters.</media:description>
-    </item>
-    <item>
-      <title>Looking to Buy a Used Car in the Pandemic? So Is Everyone Else</title>
-      <link>https://www.nytimes.com/2020/09/07/business/used-cars-pandemic.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/09/07/business/used-cars-pandemic.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/09/07/business/used-cars-pandemic.html" rel="standout"></atom:link>
-      <description>Eager to avoid public transit and Uber, and to save money, buyers are emptying dealerships.</description>
-      <dc:creator>Neal E. Boudette</dc:creator>
-      <pubDate>Mon, 07 Sep 2020 20:40:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Used Cars</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Utility Vehicles and Light Trucks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/06/business/06used-cars1-copy/06used-cars1-copy-moth-v2.jpg" width="151"></media:content>
-      <media:credit>David Degner for The New York Times</media:credit>
-      <media:description>Used car prices have jumped during the pandemic as buyers worry about using public transit, hailing rides or tightened finances.</media:description>
-    </item>
-    <item>
-      <title>For Long-Haulers, Covid-19 Takes a Toll on Mind as Well as Body</title>
-      <link>https://www.nytimes.com/2020/09/07/health/coronavirus-mental-health-long-hauler.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/09/07/health/coronavirus-mental-health-long-hauler.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/09/07/health/coronavirus-mental-health-long-hauler.html" rel="standout"></atom:link>
-      <description>“It makes you depressed, anxious that it’s never going to go away.”</description>
-      <dc:creator>Emma Goldberg</dc:creator>
-      <pubDate>Mon, 07 Sep 2020 21:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/05/science/05VIRUS-MENTAL1/05VIRUS-MENTAL1-moth.jpg" width="151"></media:content>
-      <media:credit>Sergio Flores for The New York Times</media:credit>
-      <media:description>Angela Aston, a nurse practitioner in San Marcos, Texas, was sick for months with Covid-19. Her colleagues gradually came to not believe her: “‘You’re fine,’ they would say, and I would have to tell them, ‘No, I can’t breathe.’” </media:description>
-    </item>
-    <item>
-      <title>Amazon Bans Sale of Foreign Seeds in the U.S.</title>
-      <link>https://www.nytimes.com/2020/09/07/us/amazon-seeds.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/09/07/us/amazon-seeds.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/09/07/us/amazon-seeds.html" rel="standout"></atom:link>
-      <description>The company’s decision comes after thousands of U.S. residents reported receiving unsolicited packets of seed from China, prompting all 50 states to issue safety warnings.</description>
-      <dc:creator>Allyson Waller</dc:creator>
-      <pubDate>Mon, 07 Sep 2020 12:59:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seeds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Animal and Plant Health Inspection Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/03/multimedia/06xp-seeds-pix/01xp-seeds-pix-moth.jpg" width="151"></media:content>
-      <media:credit>U.S. Department of Agriculture</media:credit>
-      <media:description>The U.S. Department of Agriculture disclosed an uptick in reports of unsolicited shipments of seeds from China starting in late July.</media:description>
-    </item>
-    <item>
-      <title>Covid-19 News: Live Updates</title>
-      <link>https://www.nytimes.com/2020/09/07/world/covid-19-coronavirus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/09/07/world/covid-19-coronavirus.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/09/07/world/covid-19-coronavirus.html" rel="standout"></atom:link>
-      <description>Used cars have become a hot commodity. Across the United States, states and cities are planning fiscal maneuvers in case Congress can’t agree on a fiscal relief package after the August recess.</description>
-      <pubDate>Tue, 08 Sep 2020 03:40:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-moth.jpg" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>A Nostalgic (if Isolating) Road Trip Along Route 66</title>
-      <link>https://www.nytimes.com/2020/09/07/travel/route-66.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/09/07/travel/route-66.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/09/07/travel/route-66.html" rel="standout"></atom:link>
-      <description>Driven by an early fascination with the American West, a photographer set off to travel part of America’s most celebrated highway.</description>
-      <dc:creator>Luke Sharrett</dc:creator>
-      <pubDate>Mon, 07 Sep 2020 11:10:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antique and Classic Cars</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Navajo Indians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albuquerque (NM)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gallup (NM)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Holbrook (Ariz)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Winslow (Ariz)</category>
-    </item>
-    <item>
-      <title>A Pit Stop and a Pause to Reflect on a Summer That Wasn’t</title>
-      <link>https://www.nytimes.com/2020/09/07/us/virus-laborday-travel-reststop-newjersey.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/09/07/us/virus-laborday-travel-reststop-newjersey.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/09/07/us/virus-laborday-travel-reststop-newjersey.html" rel="standout"></atom:link>
-      <description>After a summer marked by hot spots, lockdowns and travel restrictions, Labor Day was a last chance to get back on the open road.</description>
-      <dc:creator>Kirsten Luce and Lucy Tompkins</dc:creator>
-      <pubDate>Mon, 07 Sep 2020 09:00:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor Day</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Road Trips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-    </item>
-    <item>
-      <title>In Year of Voting by Mail, a Scramble to Beef Up In-Person Voting, Too</title>
-      <link>https://www.nytimes.com/2020/09/07/us/politics/vote-in-person-covid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/09/07/us/politics/vote-in-person-covid.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/09/07/us/politics/vote-in-person-covid.html" rel="standout"></atom:link>
-      <description>Communities are running short on time to hire poll workers and reconfigure in-person voting to make it safe during a pandemic.</description>
-      <dc:creator>Nick Corasaniti and Michael Wines</dc:creator>
-      <pubDate>Mon, 07 Sep 2020 07:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/04/us/politics/00inperson1/00inperson1-moth.jpg" width="151"></media:content>
-      <media:credit>Mark Makela for The New York Times</media:credit>
-      <media:description>People registering to volunteer at a polling station this November at a recruitment event in Philadelphia, Pa.</media:description>
-    </item>
-    <item>
-      <title>What to Watch For on Labor Day From Trump and Biden</title>
-      <link>https://www.nytimes.com/2020/09/07/us/politics/labor-day-kamala-harris-mike-pence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/09/07/us/politics/labor-day-kamala-harris-mike-pence.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/09/07/us/politics/labor-day-kamala-harris-mike-pence.html" rel="standout"></atom:link>
-      <description>The vice-presidential candidates will be on opposite ends of Wisconsin, a battleground that is increasingly essential to President Trump in November.</description>
-      <dc:creator>Jonathan Martin</dc:creator>
-      <pubDate>Mon, 07 Sep 2020 04:01:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pence, Mike</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vice Presidents and Vice Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/07/us/politics/07campaign-laborday-harris2/07campaign-laborday-harris2-moth.jpg" width="151"></media:content>
-      <media:credit>Kenny Holston for The New York Times</media:credit>
-      <media:description>Senator Kamala Harris’s trip to Wisconsin on Monday will be the first time she has appeared with battleground state voters. </media:description>
-    </item>
-    <item>
-      <title>California Heat Wave Updates: Record Temperatures in L.A. County</title>
-      <link>https://www.nytimes.com/article/california-weather.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/california-weather.html</guid>
-      <atom:link href="https://www.nytimes.com/article/california-weather.html" rel="standout"></atom:link>
-      <description>Los Angeles County set a new high temperature as a cooling sea breeze remained trapped offshore, according to the National Weather Service.</description>
-      <dc:creator>Marie Fazio</dc:creator>
-      <pubDate>Mon, 07 Sep 2020 18:34:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Temperature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/06/multimedia/06xp-heatwave-pix1/o6xp-heatwave-pix1-moth.jpg" width="151"></media:content>
-      <media:credit>Ringo Chiu/Reuters</media:credit>
-      <media:description>The beach in Santa Monica offered one of the few respites from the record-setting heat in Los Angeles County on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Orca That Carried Dead Calf for 17 Days Gives Birth Again</title>
-      <link>https://www.nytimes.com/2020/09/06/us/orca-calf-j35-j57-whale.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/09/06/us/orca-calf-j35-j57-whale.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/09/06/us/orca-calf-j35-j57-whale.html" rel="standout"></atom:link>
-      <description>Researchers spotted the killer whale they call J35 alongside her “robust and lively” new calf on Saturday — a ray of hope for the endangered Southern Resident population off the Pacific Northwest.</description>
-      <dc:creator>Mike Baker</dc:creator>
-      <pubDate>Mon, 07 Sep 2020 00:22:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whales and Whaling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marine Biology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Juan de Fuca</category>
-    </item>
-    <item>
-      <title>Lou Brock, Baseball Hall of Famer Known for Stealing Bases, Dies at 81</title>
-      <link>https://www.nytimes.com/2020/09/06/sports/baseball/lou-brock-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/09/06/sports/baseball/lou-brock-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/09/06/sports/baseball/lou-brock-dead.html" rel="standout"></atom:link>
-      <description>The son of sharecroppers, Brock attended a one-room schoolhouse, but was inspired by possibilities beyond the poverty and segregation of the rural South.</description>
-      <dc:creator>Richard Goldstein</dc:creator>
-      <pubDate>Mon, 07 Sep 2020 16:49:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Series</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halls of Fame</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">St Louis Cardinals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brock, Lou</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/07/obituaries/06brock3-obit-print/00brock-lou-toppix-moth.jpg" width="151"></media:content>
-      <media:credit>Associated Press</media:credit>
-      <media:description>Lou Brock in 1977, after he broke Ty Cobb’s record of 892 stolen bases. In 1964, he helped take St. Louis to the World Series championship.</media:description>
+      <media:description>A rally for President Trump in Latrobe, Pa., last week. Mr. Trump’s campaign has spent $800 million.</media:description>
     </item>
   </channel>
 </rss>
