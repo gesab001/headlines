@@ -1,131 +1,109 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:mi="http://schemas.ingestion.microsoft.com/common/" xmlns:dc="http://purl.org/dc/terms" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dcterms="http://purl.org/dc/terms/">
+   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dcterms="http://purl.org/dc/terms/">
    <channel>
-      <title>philstar.com - RSS Headlines</title>
-      <link>https://www.philstar.com/rss/headlines</link>
+      <title>philstar.com - RSS Headlines</title><atom:link href="https://www.philstar.com/rss/headlines" rel="self" type="application/rss+xml" /><link>https://www.philstar.com/rss/headlines</link>
       <description>Philippine News for the Filipino Global Community</description>
       <copyright>(c) 2020, philstar.com. All rights reserved.</copyright>
-      <ttl>15</ttl>
-      <lastBuildDate>2020-09-20T14:30:09+08:00</lastBuildDate>
+      <ttl>15</ttl><lastBuildDate>Tue, 13 Oct 20 07:30:08 +0800</lastBuildDate>
       <language>en</language>
 
-      <item>
-         <nid>2043842</nid>
-         <title>Checkpoints up to keep 'unauthorized' Metro Manila tourists out of Tagaytay</title>
-<link>https://www.philstar.com/headlines/2020/09/20/2043842/checkpoints-keep-unauthorized-metro-manila-tourists-out-tagaytay</link>
-         <comments>https://www.philstar.com/headlines/2020/09/20/2043842/checkpoints-keep-unauthorized-metro-manila-tourists-out-tagaytay</comments>
-         <author>Franco Luna</author>
-<description>The task force said that setting up these checkpoints "is essential to ensure that those coming from GCQ areas, particularly from Metro Manila, would not be able to enter Cavite without a travel authority."</description>
-<pubDate>Sun, 20 Sep 2020 14:09:00 +0800</pubDate>
-<guid isPermaLink="true">https://www.philstar.com/headlines/2020/09/20/2043842/checkpoints-keep-unauthorized-metro-manila-tourists-out-tagaytay</guid>
+      <item><title>Pinoy fishermen eyed as West Philippine Sea militia — defense chief</title>
+<link>https://www.philstar.com/headlines/2020/10/13/2049192/pinoy-fishermen-eyed-west-philippine-sea-militia-defense-chief</link>
+         <comments>https://www.philstar.com/headlines/2020/10/13/2049192/pinoy-fishermen-eyed-west-philippine-sea-militia-defense-chief</comments>
+         <author>Paolo Romero</author>
+<description>Filipino fishermen are willing to be trained and organized to become the country’s maritime militia to counter China’s massive deployment of paramilitary fishing vessels in the West Philippine Sea, Defense Secretary Delfin Lorenzana said yesterday.</description>
+<pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
+<guid isPermaLink="true">https://www.philstar.com/headlines/2020/10/13/2049192/pinoy-fishermen-eyed-west-philippine-sea-militia-defense-chief</guid>
 
       </item>
          
-      <item>
-         <nid>2043800</nid>
-         <title>Cayetano: European Parliament reso on ABS-CBN franchise, Ressa cases is interference</title>
-<link>https://www.philstar.com/headlines/2020/09/20/2043800/cayetano-european-parliament-reso-abs-cbn-franchise-ressa-cases-interference</link>
-         <comments>https://www.philstar.com/headlines/2020/09/20/2043800/cayetano-european-parliament-reso-abs-cbn-franchise-ressa-cases-interference</comments>
-         <author>Franco Luna</author>
-<description>Cayetano, a former foreign affairs secretary, said that the Philippines does not comment on policies in Europe like allowing abortion and that the EP's resolution was an intrusion on a domestic issue.</description>
-<pubDate>Sun, 20 Sep 2020 10:52:00 +0800</pubDate>
-<guid isPermaLink="true">https://www.philstar.com/headlines/2020/09/20/2043800/cayetano-european-parliament-reso-abs-cbn-franchise-ressa-cases-interference</guid>
+      <item><title>DepEd to issue errata for learning modules</title>
+<link>https://www.philstar.com/headlines/2020/10/13/2049195/deped-issue-errata-learning-modules</link>
+         <comments>https://www.philstar.com/headlines/2020/10/13/2049195/deped-issue-errata-learning-modules</comments>
+         <author>Rainier Allan Ronda</author>
+<description>The Department of Education will address errors found in the self-learning modules it had produced and printed in a rush to roll out distance learning for school year 2020-2021 amid the coronavirus pandemic that prohibited face-to-face classes.</description>
+<pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
+<guid isPermaLink="true">https://www.philstar.com/headlines/2020/10/13/2049195/deped-issue-errata-learning-modules</guid>
 
       </item>
          
-      <item>
-         <nid>2043762</nid>
-         <title>Agencies urged: Take advantage of extended state of calamity</title>
-<link>https://www.philstar.com/headlines/2020/09/20/2043762/agencies-urged-take-advantage-extended-state-calamity</link>
-         <comments>https://www.philstar.com/headlines/2020/09/20/2043762/agencies-urged-take-advantage-extended-state-calamity</comments>
+      <item><title>DOH issues new guidelines on indoor ventilation</title>
+<link>https://www.philstar.com/headlines/2020/10/13/2049200/doh-issues-new-guidelines-indoor-ventilation</link>
+         <comments>https://www.philstar.com/headlines/2020/10/13/2049200/doh-issues-new-guidelines-indoor-ventilation</comments>
+         <author>Sheila Crisostomo</author>
+<description>Pending international and local studies on airborne transmission of COVID-19, the Department of Health has issued new guidelines on proper ventilation in indoor or enclosed spaces.</description>
+<pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
+<guid isPermaLink="true">https://www.philstar.com/headlines/2020/10/13/2049200/doh-issues-new-guidelines-indoor-ventilation</guid>
+
+      </item>
+         
+      <item><title>DA expects 16% increase in rice production</title>
+<link>https://www.philstar.com/headlines/2020/10/13/2049203/da-expects-16-increase-rice-production</link>
+         <comments>https://www.philstar.com/headlines/2020/10/13/2049203/da-expects-16-increase-rice-production</comments>
          <author>Cecille Suerte Felipe</author>
-<description>Sen. Bong Go urged all government agencies to use the one-year extension of the state of calamity to reexamine capabilities and improve the response against the COVID-19 pandemic.</description>
-<pubDate>Sun, 20 Sep 2020 00:00:00 +0800</pubDate>
-<guid isPermaLink="true">https://www.philstar.com/headlines/2020/09/20/2043762/agencies-urged-take-advantage-extended-state-calamity</guid>
+<description>A 16 percent increase in rice production is anticipated in the third quarter of the year, a good indication of employment attraction in agriculture despite the coronavirus pandemic, Agriculture Secretary William Dar said yesterday.</description>
+<pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
+<guid isPermaLink="true">https://www.philstar.com/headlines/2020/10/13/2049203/da-expects-16-increase-rice-production</guid>
 
       </item>
          
-      <item>
-         <nid>2043767</nid>
-         <title>BuCor spokesman tests positive for COVID-19</title>
-<link>https://www.philstar.com/headlines/2020/09/20/2043767/bucor-spokesman-tests-positive-covid-19</link>
-         <comments>https://www.philstar.com/headlines/2020/09/20/2043767/bucor-spokesman-tests-positive-covid-19</comments>
-         <author>Ralph Edwin Villanueva</author>
-<description>The spokesman of the Bureau of Corrections (BuCor) has tested positive for COVID-19, the bureau said yesterday.</description>
-<pubDate>Sun, 20 Sep 2020 00:00:00 +0800</pubDate>
-<guid isPermaLink="true">https://www.philstar.com/headlines/2020/09/20/2043767/bucor-spokesman-tests-positive-covid-19</guid>
+      <item><title>Palace says pandemic may soon be over</title>
+<link>https://www.philstar.com/headlines/2020/10/13/2049208/palace-says-pandemic-may-soon-be-over</link>
+         <comments>https://www.philstar.com/headlines/2020/10/13/2049208/palace-says-pandemic-may-soon-be-over</comments>
+         <author>Alexis Romero</author>
+<description>Malacañang yesterday expressed optimism that the COVID-19 pandemic would end soon after three groups have expressed interest to conduct vaccine clinical trials in the Philippines.</description>
+<pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
+<guid isPermaLink="true">https://www.philstar.com/headlines/2020/10/13/2049208/palace-says-pandemic-may-soon-be-over</guid>
 
       </item>
          
-      <item>
-         <nid>2043769</nid>
-         <title>Lawmakers clash over budget as speakership change nears</title>
-<link>https://www.philstar.com/headlines/2020/09/20/2043769/lawmakers-clash-over-budget-speakership-change-nears</link>
-         <comments>https://www.philstar.com/headlines/2020/09/20/2043769/lawmakers-clash-over-budget-speakership-change-nears</comments>
-         <author>Edu Punay</author>
-<description>A word war has erupted over the 2021 national budget between congressmen linked to the two leaders of the House of Representatives, whose roles are set to switch in October under a term-sharing agreement of the speakership.</description>
-<pubDate>Sun, 20 Sep 2020 00:00:00 +0800</pubDate>
-<guid isPermaLink="true">https://www.philstar.com/headlines/2020/09/20/2043769/lawmakers-clash-over-budget-speakership-change-nears</guid>
+      <item><title>‘DTI firm fails to deliver P3.27 billion fire stations, equipment’</title>
+<link>https://www.philstar.com/headlines/2020/10/13/2049214/dti-firm-fails-deliver-p327-billion-fire-stations-equipment</link>
+         <comments>https://www.philstar.com/headlines/2020/10/13/2049214/dti-firm-fails-deliver-p327-billion-fire-stations-equipment</comments>
+         <author>Paolo Romero</author>
+<description>At least 242 towns have no fire stations or fire trucks, but a Department of Trade and Industry-attached corporation whose task is to import goods has not been able to complete even one of the 98 fire stations it was contracted to build for P892 million, Senate President Pro Tempore Ralph Recto lamented yesterday.</description>
+<pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
+<guid isPermaLink="true">https://www.philstar.com/headlines/2020/10/13/2049214/dti-firm-fails-deliver-p327-billion-fire-stations-equipment</guid>
 
       </item>
          
-      <item>
-         <nid>2043770</nid>
-         <title>Senators to give Duterte authority vs red tape</title>
-<link>https://www.philstar.com/headlines/2020/09/20/2043770/senators-give-duterte-authority-vs-red-tape</link>
-         <comments>https://www.philstar.com/headlines/2020/09/20/2043770/senators-give-duterte-authority-vs-red-tape</comments>
-         <author>Cecille Suerte Felipe</author>
-<description>Senators have agreed to vest emergency powers on President Duterte to cut red-tape and stem corruption in order to speed up the issuance of business permits, without having to amend the Ease of Doing Business law, it was revealed yesterday.</description>
-<pubDate>Sun, 20 Sep 2020 00:00:00 +0800</pubDate>
-<guid isPermaLink="true">https://www.philstar.com/headlines/2020/09/20/2043770/senators-give-duterte-authority-vs-red-tape</guid>
+      <item><title>‘No agreement on easing travel for long distance partners’</title>
+<link>https://www.philstar.com/headlines/2020/10/13/2049218/no-agreement-easing-travel-long-distance-partners</link>
+         <comments>https://www.philstar.com/headlines/2020/10/13/2049218/no-agreement-easing-travel-long-distance-partners</comments>
+         <author>Pia Lee-Brago</author>
+<description>Bad news for Filipinos with foreign significant others.</description>
+<pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
+<guid isPermaLink="true">https://www.philstar.com/headlines/2020/10/13/2049218/no-agreement-easing-travel-long-distance-partners</guid>
 
       </item>
          
-      <item>
-         <nid>2043771</nid>
-         <title>Fuel prices to rise this week</title>
-<link>https://www.philstar.com/headlines/2020/09/20/2043771/fuel-prices-rise-week</link>
-         <comments>https://www.philstar.com/headlines/2020/09/20/2043771/fuel-prices-rise-week</comments>
-         <author>Catherine Talavera</author>
-<description>Oil companies are expected to implement increases in the prices of fuel this week.</description>
-<pubDate>Sun, 20 Sep 2020 00:00:00 +0800</pubDate>
-<guid isPermaLink="true">https://www.philstar.com/headlines/2020/09/20/2043771/fuel-prices-rise-week</guid>
+      <item><title>Privacy commission probes misuse of contact tracing data</title>
+<link>https://www.philstar.com/headlines/2020/10/13/2049221/privacy-commission-probes-misuse-contact-tracing-data</link>
+         <comments>https://www.philstar.com/headlines/2020/10/13/2049221/privacy-commission-probes-misuse-contact-tracing-data</comments>
+         <author>Louella Desiderio</author>
+<description>The National Privacy Commission is conducting a probe on reports that some business establishments are mishandling contact tracing data.</description>
+<pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
+<guid isPermaLink="true">https://www.philstar.com/headlines/2020/10/13/2049221/privacy-commission-probes-misuse-contact-tracing-data</guid>
 
       </item>
          
-      <item>
-         <nid>2043772</nid>
-         <title>LGUs can still use calamity funds vs COVID-19</title>
-<link>https://www.philstar.com/headlines/2020/09/20/2043772/lgus-can-still-use-calamity-funds-vs-covid-19</link>
-         <comments>https://www.philstar.com/headlines/2020/09/20/2043772/lgus-can-still-use-calamity-funds-vs-covid-19</comments>
-         <author>Christina Mendez</author>
-<description>Local government units can continue using calamity funds to fight the COVID-19 pandemic, Malacañang said yesterday.</description>
-<pubDate>Sun, 20 Sep 2020 00:00:00 +0800</pubDate>
-<guid isPermaLink="true">https://www.philstar.com/headlines/2020/09/20/2043772/lgus-can-still-use-calamity-funds-vs-covid-19</guid>
+      <item><title>‘13th month pay cannot be deferred’</title>
+<link>https://www.philstar.com/headlines/2020/10/13/2049223/13th-month-pay-cannot-be-deferred</link>
+         <comments>https://www.philstar.com/headlines/2020/10/13/2049223/13th-month-pay-cannot-be-deferred</comments>
+         <author>Alexis Romero</author>
+<description>Malacañang clarified yesterday that the release of the 13th month pay of workers could not be deferred unless the law is amended, after the labor department said that distressed small businesses might be exempted from the requirement.</description>
+<pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
+<guid isPermaLink="true">https://www.philstar.com/headlines/2020/10/13/2049223/13th-month-pay-cannot-be-deferred</guid>
 
       </item>
          
-      <item>
-         <nid>2043773</nid>
-         <title>Duterte keeps 1-meter distancing rule</title>
-<link>https://www.philstar.com/headlines/2020/09/20/2043773/duterte-keeps-1-meter-distancing-rule</link>
-         <comments>https://www.philstar.com/headlines/2020/09/20/2043773/duterte-keeps-1-meter-distancing-rule</comments>
-         <author>Christina Mendez</author>
-<description>The one-meter physical distancing rule in public transportation remains, Malacañang said yesterday, ending the debate over the extent of easing quarantine restrictions as the government gradually reopens the economy.</description>
-<pubDate>Sun, 20 Sep 2020 00:00:00 +0800</pubDate>
-<guid isPermaLink="true">https://www.philstar.com/headlines/2020/09/20/2043773/duterte-keeps-1-meter-distancing-rule</guid>
-
-      </item>
-         
-      <item>
-         <nid>2043774</nid>
-         <title>Top broadcasters to train teachers</title>
-<link>https://www.philstar.com/headlines/2020/09/20/2043774/top-broadcasters-train-teachers</link>
-         <comments>https://www.philstar.com/headlines/2020/09/20/2043774/top-broadcasters-train-teachers</comments>
-         <author>Janvic Mateo</author>
-<description>Leading broadcast journalists will take part in a training program for teachers involved in the production of educational materials for the upcoming school year.</description>
-<pubDate>Sun, 20 Sep 2020 00:00:00 +0800</pubDate>
-<guid isPermaLink="true">https://www.philstar.com/headlines/2020/09/20/2043774/top-broadcasters-train-teachers</guid>
+      <item><title>‘Duterte fed up with House intramurals’</title>
+<link>https://www.philstar.com/headlines/2020/10/13/2049224/duterte-fed-house-intramurals</link>
+         <comments>https://www.philstar.com/headlines/2020/10/13/2049224/duterte-fed-house-intramurals</comments>
+         <author>Alexis Romero</author>
+<description>While a Palace-affiliated media outfit covered Rep. Lord Allan Velasco’s election as Speaker by his allies, President Duterte is not meddling in the leadership war in the House of Representatives and is in fact getting fed up with politicking in the chamber, Malacañang said yesterday.</description>
+<pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
+<guid isPermaLink="true">https://www.philstar.com/headlines/2020/10/13/2049224/duterte-fed-house-intramurals</guid>
 
       </item>
          
