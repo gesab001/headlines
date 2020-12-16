@@ -10,227 +10,230 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/world/us-air-force-base-germany-suffers-missile-scare</guid>
-      <link>https://www.foxnews.com/world/us-air-force-base-germany-suffers-missile-scare</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/mlb-tells-managers-to-expect-on-time-spring-training-start</guid>
+      <link>https://www.foxnews.com/sports/mlb-tells-managers-to-expect-on-time-spring-training-start</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/GettyImages-Ramstein-Air-Base1.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/GettyImages-Ramstein-Air-Base1.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/GettyImages-Tampa-Bay-Rays-1-1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/GettyImages-Tampa-Bay-Rays-1-1.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/GettyImages-Ramstein-Air-Base1.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">4dc2fe60-2b72-5a70-bc1b-95953b13be22</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/military/air-force</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/germany</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/europe</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/military</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/russia</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/GettyImages-Tampa-Bay-Rays-1-1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">bc4777a7-0935-5f51-8974-3394ee6351be</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/world</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>US Air Force base in Germany suffers missile scare after alert triggered false alarm</title>
-      <description>A U.S. Air Force base in Germany recently suffered a potential incoming missile scare after an alert about a launch in the European theater prompted loudspeaker warnings of an “aerial attack” and to “seek cover” -- before it was realized to be a training exercise, officials and reports say. </description>
-                  <dc:creator>Greg Norman</dc:creator>
-                         <pubDate>Tue, 15 Dec 2020 13:47:01 GMT</pubDate>
+      <title>MLB tells managers to expect on-time spring training start</title>
+      <description>Big league managers say that Major League Baseball has instructed them to prepare for spring training to start on time in mid-February despite uncertainty around the coronavirus.</description>
+                   <pubDate>Wed, 16 Dec 2020 20:17:24 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/rep-rashida-tlaib-absolutely-loves-jews-warns-anti-semitism-both-sides</guid>
+      <link>https://www.foxnews.com/politics/rep-rashida-tlaib-absolutely-loves-jews-warns-anti-semitism-both-sides</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/GettyImages-1197873325.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/GettyImages-1197873325.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/GettyImages-1197873325.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">68f313e8-4cfa-5ed3-817d-1bc27e0cc214</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/topic/anti-semitism</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/rashida-tlaib</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/the-squad</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Rep. Rashida Tlaib says she 'absolutely loves' Jews, warns of anti-Semitism on both sides</title>
+      <description>Rep. Rashida Tlaib, D-Mich., told Jews at an event Tuesday night “I don’t hate you, I absolutely love you,” while warning that anti-Semitism is a bipartisan issue. </description>
+                  <dc:creator>Morgan Phillips</dc:creator>
+                         <pubDate>Wed, 16 Dec 2020 20:07:16 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Greg Norman</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/eddie-money-estate-files-lawsuit-medical-negligence-wrongful-death</guid>
-      <link>https://www.foxnews.com/entertainment/eddie-money-estate-files-lawsuit-medical-negligence-wrongful-death</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/travel/disneyland-launches-new-campaign-promoting-healthy-behaviors</guid>
+      <link>https://www.foxnews.com/travel/disneyland-launches-new-campaign-promoting-healthy-behaviors</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/money.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/money.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/3ba6f228-Disneyland-castle-lit-up.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/3ba6f228-Disneyland-castle-lit-up.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/money.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">ab74dd20-4325-53dc-beb8-a2bfa6ddc08d</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/departed</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/3ba6f228-Disneyland-castle-lit-up.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">23a69b9c-fa38-5cc0-8210-7aea5c33e782</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/travel/general/disney</category>
+            <category domain="foxnews.com/taxonomy">fox-news/travel/general/theme-parks</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/travel</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Disneyland launches new campaign promoting healthy behaviors</title>
+      <description>Being healthy is incredible.</description>
+                  <dc:creator>Michael Hollan</dc:creator>
+                         <pubDate>Wed, 16 Dec 2020 20:05:35 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Michael Hollan</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/twitter-to-combat-harmful-misleading-tweets-about-covid-19-vaccines</guid>
+      <link>https://www.foxnews.com/politics/twitter-to-combat-harmful-misleading-tweets-about-covid-19-vaccines</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/90487004-b40d-4a7e-af9f-5170db4efdd3/edde80d6-d526-426c-9e2d-940427ef5e4b/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">070bdc5e-6885-598b-a95a-8e81f95bd516</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Twitter to expand COVID-19 vaccines policy to combat 'harmful,' 'misleading' tweets</title>
+      <description>Twitter on Wednesday announced that they are expanding existing rules to combat misleading tweets about COVID-19 vaccines on the platform and will prioritize the “removal of the most harmful, misleading information” about the vaccines, Fox News has learned.</description>
+                  <dc:creator>Brooke Singman</dc:creator>
+                         <pubDate>Wed, 16 Dec 2020 20:00:04 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brooke Singman</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/health/live-updates-coronavirus-12-16-2020</guid>
+      <link>https://www.foxnews.com/health/live-updates-coronavirus-12-16-2020</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/vaccine-deliverie3.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/vaccine-deliverie3.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/vaccine-deliverie3.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c7fa71c1-55e8-5fa6-9f27-8ed432ef1ceb</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/news-events/live-coverage</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/vaccines</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/health</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>LIVE UPDATES: Health care worker suffers allergic reaction after COVID-19 vaccine</title>
+      <description>A health care worker suffered a severe allergic reaction within 10 minutes of receiving Pfizer's COVID-19 vaccine on Tuesday, marking the first such instance in the U.S. </description>
+                   <pubDate>Wed, 16 Dec 2020 19:56:29 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/mississippi-goodwill-abandoned-boy-christmas-gift-donations-pandemic-child-abuse</guid>
+      <link>https://www.foxnews.com/us/mississippi-goodwill-abandoned-boy-christmas-gift-donations-pandemic-child-abuse</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Southaven-Police-Dept-1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Southaven-Police-Dept-1.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Southaven-Police-Dept-1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d9d01791-219a-5aca-a234-511b6c85781f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/america-together</category>
+            <category domain="foxnews.com/taxonomy">fox-news/lifestyle/occasions/christmas</category>
+            <category domain="foxnews.com/taxonomy">fox-news/special/occasions/christmas</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/mississippi</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/tennessee</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Boy abandoned at Mississippi Goodwill prompts Christmas gift donations, spotlights pandemic-era child abuse</title>
+      <description>National media coverage about a 2-year-old boy left abandoned at a Goodwill in Mississippi has helped shed light on issues of child abuse and neglect during the pandemic. It has also caused a spike in inquiries from around the country from those wanting to purchase Christmas presents for the boy and other children treated at an advocacy center in the small town of Southaven.</description>
+                  <dc:creator>Danielle Wallace</dc:creator>
+                         <pubDate>Wed, 16 Dec 2020 19:52:42 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Danielle Wallace</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/oliver-stone-taken-russian-coronavirus-vaccine</guid>
+      <link>https://www.foxnews.com/entertainment/oliver-stone-taken-russian-coronavirus-vaccine</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Oliver-Stone.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Oliver-Stone.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Oliver-Stone.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0d9264b3-a0cb-53a7-a824-7ab4dc657615</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/entertainment</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Eddie Money's estate files lawsuit claiming medical negligence, wrongful death</title>
-      <description>The estate is suing a California hospital and three doctors.</description>
+      <title>Director Oliver Stone reveals he's taken Russian coronavirus vaccine: 'I've heard good things'</title>
+      <description>The filmmaker said he needs to get a second shot in about 45 days.</description>
                   <dc:creator>Jessica Napoli</dc:creator>
-                         <pubDate>Tue, 15 Dec 2020 13:44:15 GMT</pubDate>
+                         <pubDate>Wed, 16 Dec 2020 19:52:17 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Jessica Napoli</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/who-is-jeffrey-rosen-william-barr-replacement-attorney-general</guid>
-      <link>https://www.foxnews.com/politics/who-is-jeffrey-rosen-william-barr-replacement-attorney-general</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024</guid>
+      <link>https://www.foxnews.com/politics/trump-campaign-fundraising-poll-asks-whether-trump-should-run-in-2024</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Jeffrey-Rosen.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Jeffrey-Rosen.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20342667244606.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20342667244606.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Jeffrey-Rosen.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">781bad6c-55ba-5cbb-9560-e87a3bf8e1a8</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/politics/justice-department</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/william-barr</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20342667244606.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">5e985b17-6bbb-5816-86d3-afd2b58c99b0</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/campaigning/trump-2020-campaign</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-senate-races</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/georgia-runoffs</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/democrats</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/republicans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/senate</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/mitch-mcconnell</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Who is Jeffrey Rosen, William Barr's replacement as attorney general?</title>
-      <description>Jeffrey Rosen will be taking over as acting attorney general following Attorney General William Barr's resignation. Rosen previously served as deputy attorney general, a position to which he was confirmed in May 2019 following the departure of Rod Rosenstein.</description>
-                  <dc:creator>Ronn Blitzer</dc:creator>
-                         <pubDate>Tue, 15 Dec 2020 13:43:08 GMT</pubDate>
+      <title>Trump campaign poll asks if he should run for president in 2024</title>
+      <description>In a Tuesday email, President Trump's campaign wrote to supporters asking if he should run for office again in 2024. </description>
+                  <dc:creator>Julia Musto</dc:creator>
+                         <pubDate>Wed, 16 Dec 2020 19:51:53 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Ronn Blitzer</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Julia Musto</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/matthew-mcconaughey-illiberal-extreme-right-cancel-culture-divide-us</guid>
-      <link>https://www.foxnews.com/entertainment/matthew-mcconaughey-illiberal-extreme-right-cancel-culture-divide-us</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/georgia-secretary-of-state-mail-in-ballot-signatures-trump-study</guid>
+      <link>https://www.foxnews.com/politics/georgia-secretary-of-state-mail-in-ballot-signatures-trump-study</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Matthew-McConaughey-1.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Matthew-McConaughey-1.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20316600847662.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20316600847662.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Matthew-McConaughey-1.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">ff7b1c6e-dca2-5705-880a-d018764970fb</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/political</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20316600847662.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">7f79b742-f1eb-51ee-a14f-d357946c7066</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/georgia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/voter-fraud-concerns</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Matthew McConaughey speaks out on 'illiberals,' 'extreme' right and cancel culture causing divides in the US</title>
-      <description>Matthew McConaughey spoke out once again on the political divide in America as well as cancel culture and the coronavirus pandemic. </description>
-                  <dc:creator>Tyler McCarthy</dc:creator>
-                         <pubDate>Tue, 15 Dec 2020 13:30:12 GMT</pubDate>
+      <title>Georgia secretary of state orders study of mail-in ballot signatures after Trump pressure </title>
+      <description>Georgia Secretary of State Brad Raffensperger said Wednesday that there will be a statewide signature match study after pressure from President Trump and his supporters.</description>
+                  <dc:creator>Evie Fordham</dc:creator>
+                         <pubDate>Wed, 16 Dec 2020 19:42:36 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Tyler McCarthy</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Evie Fordham</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/world/south-korea-bans-flying-anti-kim-propaganda-leaflets-to-north-korea-by-balloon</guid>
-      <link>https://www.foxnews.com/world/south-korea-bans-flying-anti-kim-propaganda-leaflets-to-north-korea-by-balloon</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/south-dakota-attorney-general-fatal-crash</guid>
+      <link>https://www.foxnews.com/us/south-dakota-attorney-general-fatal-crash</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/koreans-leaflets2.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/koreans-leaflets2.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/gettyimages-south-dakota-Jason-Ravnsborg.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/gettyimages-south-dakota-Jason-Ravnsborg.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/koreans-leaflets2.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">120ac730-2e47-5e80-83aa-b8d70aa10ed8</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/south-korea</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/north-korea</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/world</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>South Korea bans flying anti-Kim propaganda leaflets to North Korea by balloon</title>
-      <description>South Korea’s parliament on Monday approved contentious legislation criminalizing the flying of propaganda leaflets by balloon toward North Korea, despite fierce criticism that the country is sacrificing freedom of expression to improve ties with the rival North.</description>
-                   <pubDate>Tue, 15 Dec 2020 13:05:52 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline">SEOUL, South Korea</category>
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/world/japans-serial-twitter-killer-sentenced-to-death</guid>
-      <link>https://www.foxnews.com/world/japans-serial-twitter-killer-sentenced-to-death</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20350236705474.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20350236705474.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20350236705474.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">e8faaf92-dcbe-55cb-9ac8-202247b3b58b</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/world</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/japan</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/homicide</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/gettyimages-south-dakota-Jason-Ravnsborg.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">16b4f00e-30ef-5aea-b7f7-cc0a9ca3e54c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/south-dakota</category>
             <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/companies/twitter</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/sex-crimes</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/mental-health/depression</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/mental-health</category>
             <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/world</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Japan's serial ‘Twitter killer’ sentenced to death</title>
-      <description>A Japanese court on Tuesday sentenced a man to death for killing and dismembering nine people, most of whom had posted suicidal thoughts on social media, in a case that shocked the country.</description>
-                   <pubDate>Tue, 15 Dec 2020 13:03:40 GMT</pubDate>
+      <title>South Dakota attorney general speaks publicly about fatal crash: 'I believe I have not committed any crime'</title>
+      <description>PIERRE, S.D. — South Dakota Attorney General Jason Ravnsborg said he's confident he didn't commit a crime when he struck and killed a man as he drove along a dark highway in September.</description>
+                   <pubDate>Wed, 16 Dec 2020 19:38:11 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/nypd-new-york-city-officers-december</guid>
-      <link>https://www.foxnews.com/us/nypd-new-york-city-officers-december</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/NYPD-iStock-4.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/NYPD-iStock-4.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/NYPD-iStock-4.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">114be68b-4c12-5f96-bfcc-aa1deb0682fd</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>NYPD bringing on 900 new officers over next 2 months after budget cuts, high retirement numbers</title>
-      <description>The New York Police Department is adding 900 officers in the coming months after previously delaying, or canceling, recruitment classes amid budget conflicts and issues related to the novel coronavirus pandemic, officials recently announced.</description>
-                  <dc:creator>Stephanie Pagones</dc:creator>
-                         <pubDate>Tue, 15 Dec 2020 12:45:58 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Stephanie Pagones</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/noreaster-suspends-outdoor-dining-new-york-city-after-snow-alert-issued</guid>
-      <link>https://www.foxnews.com/us/noreaster-suspends-outdoor-dining-new-york-city-after-snow-alert-issued</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20349632773941.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20349632773941.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20349632773941.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">60b7f447-bce0-5e83-9423-9e93b7ada2b6</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/weather</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>NYC outdoor dining suspended ahead of nor'easter after 'snow alert' issued</title>
-      <description>Outdoor dining will be suspended in the Big Apple beginning 2 p.m. Wednesday, as the Department of Sanitation issued a “snow alert” ahead of an impending winter storm that may dump more than 8 inches of the white stuff.</description>
-                   <pubDate>Tue, 15 Dec 2020 12:21:48 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/science/mink-first-known-wild-animal-us-coronavirus</guid>
-      <link>https://www.foxnews.com/science/mink-first-known-wild-animal-us-coronavirus</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20324509638097.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20324509638097.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20324509638097.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">ab49fb47-6882-5e42-a7e4-c309051cf676</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/science/wild-nature/mammals</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/utah</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/science</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Mink is first-known wild animal in US to have coronavirus</title>
-      <description>Just weeks after Denmark ordered the culling of 17 million farmed minks to stop the spread of COVID-19, a mink in Utah has become the first known wild animal to contract the coronavirus in the U.S., officials said.</description>
-                  <dc:creator>Chris Ciaccia</dc:creator>
-                         <pubDate>Tue, 15 Dec 2020 12:13:58 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Chris Ciaccia</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/noreaster-expected-bring-epic-snowfall-this-week</guid>
-      <link>https://www.foxnews.com/us/noreaster-expected-bring-epic-snowfall-this-week</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Dean-WeatherGraphic-Dec1520.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Dean-WeatherGraphic-Dec1520.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Dean-WeatherGraphic-Dec1520.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">378ca4ae-7a19-5116-8f16-3b346b3c8eea</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/disasters/nor-easter</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/oklahoma</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/texas</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Nor’easter expected to bring 'epic' snowfall this week</title>
-      <description>All eyes are on the Northeast as a significant winter storm is going to develop and bring epic snowfall totals, possible blizzard conditions and ice from the Mid-Atlantic to New England.</description>
-                  <dc:creator>Janice Dean</dc:creator>
-                         <pubDate>Tue, 15 Dec 2020 12:00:39 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Janice Dean</category>
-                            </item>
       </channel>
 </rss>
