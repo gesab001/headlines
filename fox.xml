@@ -10,6 +10,26 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/nationals-refused-covid-vaccine-legal-action</guid>
+      <link>https://www.foxnews.com/sports/nationals-refused-covid-vaccine-legal-action</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Nationals-Park.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Nationals-Park.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Nationals-Park.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">afb71071-d65a-57c1-b32d-9622275474f0</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/washington-nationals</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>2 Nationals members who refused COVID vaccine threaten legal action after termination</title>
+      <description>An exclusive press release was received by OutKick containing official responses on behalf of Larry Pardo and Brad Holman, former members of the Washington Nationals staff.</description>
+                   <pubDate>Thu, 16 Sep 2021 23:36:06 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">OutKick</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/tom-brady-advice-young-quarterbacks</guid>
       <link>https://www.foxnews.com/sports/tom-brady-advice-young-quarterbacks</link>
                   <media:group>
@@ -217,33 +237,6 @@
                          <pubDate>Thu, 16 Sep 2021 22:09:43 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Andrew Miller</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/california-teacher-f-police-amerikkka-posters-classroom</guid>
-      <link>https://www.foxnews.com/us/california-teacher-f-police-amerikkka-posters-classroom</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/AP20164862452805.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP20164862452805.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP20164862452805.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">f92ee660-1aad-520a-9d6e-00ee7093a8c6</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/los-angeles</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/education</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/education/high-school</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/first-amendment</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>California teacher hangs 'F--- the Police,' 'F--- Amerikkka' posters in classroom</title>
-      <description>A Los Angeles parent is sounding the alarm over posters displayed inside a high school classroom that say, "F*** Amerikkka," and claim that law enforcement’s primary purpose is to "militarily enforce White supremacist capitalism."</description>
-                  <dc:creator>Jessica Chasmar</dc:creator>
-                         <pubDate>Thu, 16 Sep 2021 22:02:08 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Jessica Chasmar</category>
                             </item>
       </channel>
 </rss>
