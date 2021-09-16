@@ -10,6 +10,28 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/tom-brady-advice-young-quarterbacks</guid>
+      <link>https://www.foxnews.com/sports/tom-brady-advice-young-quarterbacks</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/5f5386f1-Tom-Brady3.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/5f5386f1-Tom-Brady3.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/5f5386f1-Tom-Brady3.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2d8d86f2-4254-51a3-b6f3-ed4697b7c928</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/tampa-bay-buccaneers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/tom-brady</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Tom Brady shares advice to young quarterbacks looking for long, successful NFL career</title>
+      <description>Tom Brady spoke earlier this week about how many young quarterbacks were starting the first week of the 2021 season. On Thursday, Brady was asked what advice he would give to those up-and-coming players.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Thu, 16 Sep 2021 23:30:21 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/us/man-shot-after-witnessing-crime-in-atlanta-calls-911-please-hold</guid>
       <link>https://www.foxnews.com/us/man-shot-after-witnessing-crime-in-atlanta-calls-911-please-hold</link>
                   <media:group>
@@ -222,35 +244,6 @@
                          <pubDate>Thu, 16 Sep 2021 22:02:08 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Jessica Chasmar</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/austin-china-us-uk-australia-partnership</guid>
-      <link>https://www.foxnews.com/politics/austin-china-us-uk-australia-partnership</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Defense-Secretary-Lloyd-Austin-Qatar-Afghanistan-Evacuation.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Defense-Secretary-Lloyd-Austin-Qatar-Afghanistan-Evacuation.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Defense-Secretary-Lloyd-Austin-Qatar-Afghanistan-Evacuation.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">750e262f-c363-599c-81b9-f8debc9454bc</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
-            <category domain="foxnews.com/taxonomy">fox-news/travel/regions/australia</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/defense/secretary-of-defense</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy/secretary-of-state</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/united-kingdom</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/defense</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/defense/pentagon</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/france</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Austin assures China new partnership with UK, Australia 'not aimed at anyone'</title>
-      <description>Secretary of Defense Lloyd Austin sought to assure China Thursday that the latest tri-lateral agreement between the U.S., U.K, and Australia is “not aimed at anyone.”</description>
-                  <dc:creator>Caitlin McFall</dc:creator>
-                         <pubDate>Thu, 16 Sep 2021 21:59:11 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Caitlin McFall</category>
                             </item>
       </channel>
 </rss>
