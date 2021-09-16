@@ -11,7 +11,7 @@ for news in rss:
    print(url)
    try:     
     command = "sudo curl -L '" + url + "' -o " + news + ".xml"
-    if platform.system=="Windows":
+    if platform.system()=="Windows":
       command = "curl -L '" + url + "' -o " + news + ".xml"
 
     subprocess.call(command, shell=True)
@@ -24,6 +24,6 @@ command = "python3 updateDate.py"
 subprocess.call(command, shell=True)
 
 command = "./deploy.sh"
-if platform.system=="Windows":
+if platform.system()=="Windows":
   command = "deploy"
 subprocess.call(command, shell=True)
