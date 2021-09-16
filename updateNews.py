@@ -18,5 +18,5 @@ for news in rss:
 
 command = "sudo python3 updateDate.py"
 subprocess.call(command, shell=True)
-command = "sudo python3 gitupdater.py"
+command = "./deploy.sh"
 subprocess.call(command, shell=True)
