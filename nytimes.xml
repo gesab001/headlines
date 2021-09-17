@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2021 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Sep 2021 00:11:19 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Sep 2021 00:07:38 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Sep 2021 01:06:38 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Sep 2021 01:05:38 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -90,13 +90,33 @@
       <media:description>A Democratic plan to reduce drug prices stalled on Wednesday in the House Energy and Commerce Committee.</media:description>
     </item>
     <item>
+      <title>Anthony Gonzalez, a Republican Who Voted to Impeach Trump, Won&#39;t Run in 2022</title>
+      <link>https://www.nytimes.com/2021/09/16/us/politics/anthony-gonzalez-ohio-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/16/us/politics/anthony-gonzalez-ohio-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/16/us/politics/anthony-gonzalez-ohio-trump.html" rel="standout"></atom:link>
+      <description>Representative Anthony Gonzalez, one of the 10 House Republicans who voted to impeach Donald Trump, is the first of the group to retire rather than face a stiff primary challenge.</description>
+      <dc:creator>Jonathan Martin</dc:creator>
+      <pubDate>Fri, 17 Sep 2021 01:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gonzalez, Anthony E (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/17/us/politics/17gonzalez2/17gonzalez2-moth.jpg" width="151"></media:content>
+      <media:credit>T.J. Kirkpatrick for The New York Times</media:credit>
+      <media:description>Representative Anthony Gonzalez said he had faced threats and had taken additional security measures since his vote to impeach former President Donald J. Trump after the Capitol riot. </media:description>
+    </item>
+    <item>
       <title>Thousands of Migrants Huddle in Squalid Conditions Under Texas Bridge</title>
       <link>https://www.nytimes.com/2021/09/16/us/texas-migrants-del-rio.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2021/09/16/us/texas-migrants-del-rio.html</guid>
       <atom:link href="https://www.nytimes.com/2021/09/16/us/texas-migrants-del-rio.html" rel="standout"></atom:link>
       <description>The temporary camp in Del Rio has grown with staggering speed in recent days during a massive surge in migration that has overwhelmed the authorities.</description>
       <dc:creator>James Dobbins, Eileen Sullivan and Edgar Sandoval</dc:creator>
-      <pubDate>Fri, 17 Sep 2021 00:07:38 +0000</pubDate>
+      <pubDate>Fri, 17 Sep 2021 00:41:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Del Rio (Tex)</category>
@@ -208,9 +228,9 @@
       <link>https://www.nytimes.com/2021/09/16/us/politics/biden-pelosi-schumer.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2021/09/16/us/politics/biden-pelosi-schumer.html</guid>
       <atom:link href="https://www.nytimes.com/2021/09/16/us/politics/biden-pelosi-schumer.html" rel="standout"></atom:link>
-      <description>The conversation is largely expected to focus on advancing the president’s $3.5 trillion economic package.</description>
+      <description>The conversation largely focused on advancing the president’s $3.5 trillion economic package.</description>
       <dc:creator>Emily Cochrane</dc:creator>
-      <pubDate>Thu, 16 Sep 2021 20:27:31 +0000</pubDate>
+      <pubDate>Fri, 17 Sep 2021 00:19:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
@@ -293,7 +313,7 @@
       <atom:link href="https://www.nytimes.com/2021/09/16/us/politics/france-us-biden-australia-submarine.html" rel="standout"></atom:link>
       <description>The degree of French anger recalled the acrimonious rift between Paris and Washington in 2003 over the Iraq war and involved language not seen since then.</description>
       <dc:creator>Michael D. Shear and Roger Cohen</dc:creator>
-      <pubDate>Thu, 16 Sep 2021 21:23:58 +0000</pubDate>
+      <pubDate>Fri, 17 Sep 2021 01:05:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -428,31 +448,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/15/us/15dc-lobby-sub/15dc-lobby-sub-moth-v3.jpg" width="151"></media:content>
       <media:credit>Pool photo by Christophe Archambault</media:credit>
       <media:description>The fight Ahmad Massoud is leading faces long odds, with resistance fighters surrounded by the Taliban and armed with dwindling supplies and no visible outside support.</media:description>
-    </item>
-    <item>
-      <title>US Covid Booster Shot Policy Is in Flux as Studies Add to Dissent</title>
-      <link>https://www.nytimes.com/2021/09/15/us/politics/booster-shots-fda.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/15/us/politics/booster-shots-fda.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/15/us/politics/booster-shots-fda.html" rel="standout"></atom:link>
-      <description>A week before President Biden’s plan is to roll out, scientists are at odds about whether extra coronavirus shots are needed and for whom.</description>
-      <dc:creator>Sharon LaFraniere and Noah Weiland</dc:creator>
-      <pubDate>Thu, 16 Sep 2021 23:18:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Delta Variant</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/15/us/15DC-BOOSTER-STRATEGY1/15DC-BOOSTER-STRATEGY1-moth.jpg" width="151"></media:content>
-      <media:credit>Emily Elconin/Getty Images</media:credit>
-      <media:description>People arrived to receive a third dose of the Pfizer-BioNTech coronavirus vaccine in Southfield, Mich., last month.</media:description>
     </item>
   </channel>
 </rss>
