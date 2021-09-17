@@ -10,6 +10,47 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/jon-rahm-motivated-for-more-following-poy-snub</guid>
+      <link>https://www.foxnews.com/sports/jon-rahm-motivated-for-more-following-poy-snub</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Jon-Rahm.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Jon-Rahm.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Jon-Rahm.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0ad4fe7a-814c-5b3d-bcd9-bbde50ab4adb</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/golf</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Jon Rahm motivated for more following POY snub</title>
+      <description>Jon Rahm is motivated, even if he’s not feeling well.</description>
+                   <pubDate>Fri, 17 Sep 2021 00:02:15 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/cobbs-5-scoreless-ip-in-return-lead-angels-over-white-sox</guid>
+      <link>https://www.foxnews.com/sports/cobbs-5-scoreless-ip-in-return-lead-angels-over-white-sox</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Alex-Cobb.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Alex-Cobb.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Alex-Cobb.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">5b1c062d-9508-5a71-b93d-b8de598cd5b8</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/los-angeles-angels</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/chicago-white-sox</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/tim-anderson</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Cobb’s 5 scoreless IP in return lead Angels over White Sox</title>
+      <description>Alex Cobb pitched five scoreless innings, Luis Rengifo and Jose Rojas hit home runs, and the Los Angeles Angels coasted to a 9-3 win over the Chicago White Sox on Thursday.</description>
+                   <pubDate>Thu, 16 Sep 2021 23:59:58 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/entertainment/erika-jayne-shopping-tj-maxx-bankruptcy-divorce</guid>
       <link>https://www.foxnews.com/entertainment/erika-jayne-shopping-tj-maxx-bankruptcy-divorce</link>
                   <media:group>
@@ -192,46 +233,5 @@
                         <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/young-stacked-us-team-faces-familiar-battle-in-ryder-cup</guid>
-      <link>https://www.foxnews.com/sports/young-stacked-us-team-faces-familiar-battle-in-ryder-cup</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Ryder-Cup-USA-2018.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Ryder-Cup-USA-2018.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Ryder-Cup-USA-2018.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">930c1771-9dd2-5ddb-9432-c3c79d4b897d</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/golf</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Young, stacked US team faces familiar battle in Ryder Cup</title>
-      <description>The Americans would seem to have a lot in their favor at the Ryder Cup.</description>
-                   <pubDate>Thu, 16 Sep 2021 23:46:13 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/aaron-rodgers-bad-week-1-rearview</guid>
-      <link>https://www.foxnews.com/sports/aaron-rodgers-bad-week-1-rearview</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Aaron-Rodgers2.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Aaron-Rodgers2.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Aaron-Rodgers2.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">7620a652-0cf3-57c1-a869-eecd8c595f83</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/green-bay-packers</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/aaron-rodgers</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Aaron Rodgers putting bad Week 1 performance in rearview</title>
-      <description>Aaron Rodgers had a bad performance in the Green Bay Packers’ loss to the New Orleans Saints in Week 1.</description>
-                  <dc:creator>Ryan Gaydos</dc:creator>
-                         <pubDate>Thu, 16 Sep 2021 23:43:51 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
-                            </item>
       </channel>
 </rss>
