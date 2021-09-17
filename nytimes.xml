@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2021 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Sep 2021 00:02:43 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Sep 2021 23:53:56 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Sep 2021 00:11:19 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Sep 2021 00:07:38 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -90,6 +90,22 @@
       <media:description>A Democratic plan to reduce drug prices stalled on Wednesday in the House Energy and Commerce Committee.</media:description>
     </item>
     <item>
+      <title>Thousands of Migrants Huddle in Squalid Conditions Under Texas Bridge</title>
+      <link>https://www.nytimes.com/2021/09/16/us/texas-migrants-del-rio.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/16/us/texas-migrants-del-rio.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/16/us/texas-migrants-del-rio.html" rel="standout"></atom:link>
+      <description>The temporary camp in Del Rio has grown with staggering speed in recent days during a massive surge in migration that has overwhelmed the authorities.</description>
+      <dc:creator>James Dobbins, Eileen Sullivan and Edgar Sandoval</dc:creator>
+      <pubDate>Fri, 17 Sep 2021 00:07:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Del Rio (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Border Patrol (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/16/us/16texas-migrants-1/16texas-migrants-1-moth.jpg" width="151"></media:content>
+      <media:credit>Verónica G. Cárdenas for The New York Times</media:credit>
+      <media:description>Migrants gathered under the Del Rio International Bridge as they waited to turn themselves in to the U.S. Border Patrol and seek asylum.</media:description>
+    </item>
+    <item>
       <title>Afghanistan Outcome Affirms a Warning: Beware the Blob</title>
       <link>https://www.nytimes.com/2021/09/16/us/politics/blob-afghanistan-withdrawal-biden.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2021/09/16/us/politics/blob-afghanistan-withdrawal-biden.html</guid>
@@ -168,7 +184,7 @@
       <atom:link href="https://www.nytimes.com/2021/09/16/us/politics/michael-sussmann-indictment-durham-investigation.html" rel="standout"></atom:link>
       <description>The defendant, Michael Sussmann, is accused of lying to the F.B.I. in a meeting about Trump and Russia. He denies wrongdoing.</description>
       <dc:creator>Charlie Savage and Adam Goldman</dc:creator>
-      <pubDate>Thu, 16 Sep 2021 23:53:56 +0000</pubDate>
+      <pubDate>Fri, 17 Sep 2021 00:03:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
@@ -437,28 +453,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/15/us/15DC-BOOSTER-STRATEGY1/15DC-BOOSTER-STRATEGY1-moth.jpg" width="151"></media:content>
       <media:credit>Emily Elconin/Getty Images</media:credit>
       <media:description>People arrived to receive a third dose of the Pfizer-BioNTech coronavirus vaccine in Southfield, Mich., last month.</media:description>
-    </item>
-    <item>
-      <title>Drug Plan Fails, Signaling Thorny Path for Democrats’ $3.5 Trillion Bill</title>
-      <link>https://www.nytimes.com/2021/09/15/us/politics/democrats-drug-pricing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/15/us/politics/democrats-drug-pricing.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/15/us/politics/democrats-drug-pricing.html" rel="standout"></atom:link>
-      <description>Senior Democrats said they could still preserve elements of their plan to lower prescription drug prices, but they have little room for defections, and divisions remain on that and other issues.</description>
-      <dc:creator>Emily Cochrane and Margot Sanger-Katz</dc:creator>
-      <pubDate>Thu, 16 Sep 2021 00:32:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Committee on Energy and Commerce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Committee on Ways and Means</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rice, Kathleen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinema, Kyrsten</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manchin, Joe III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/15/multimedia/15DC-budget/15DC-budget-moth.jpg" width="151"></media:content>
-      <media:credit>J. Scott Applewhite/Associated Press</media:credit>
-      <media:description>Representative Cathy McMorris Rodgers of Washington, the top Republican on the House Energy and Commerce Committee. The panel dealt a blow to Democrats’ drug pricing plan.</media:description>
     </item>
   </channel>
 </rss>
