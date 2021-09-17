@@ -12,7 +12,7 @@ for news in rss:
    try:     
     command = "sudo curl -L '" + url + "' -o " + news + ".xml"
     if platform.system()=="Windows":
-      command = "curl -L '" + url + "' -o " + news + ".xml"
+      command = "curl -L " + url + " -o " + news + ".xml"
 
     subprocess.call(command, shell=True)
     
