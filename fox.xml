@@ -10,6 +10,28 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/vanessa-hudgens-leopard-print-bikini-pool-day</guid>
+      <link>https://www.foxnews.com/entertainment/vanessa-hudgens-leopard-print-bikini-pool-day</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Vanessa_Hudgens_Getty_Images.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Vanessa_Hudgens_Getty_Images.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Vanessa_Hudgens_Getty_Images.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">98457f1e-fab4-5ea2-a81a-5a41c6bc92b1</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/style</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Vanessa Hudgens sizzles in leopard-print bikini while lounging at the pool: 'Too good not to post'</title>
+      <description>Vanessa Hudgens rocked a leopard-print bikini and starfish necklace in photos she had recently developed.</description>
+                  <dc:creator>Lauryn Overhultz</dc:creator>
+                         <pubDate>Fri, 17 Sep 2021 01:04:05 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Lauryn Overhultz</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/washington-logan-thomas-revenge-giants</guid>
       <link>https://www.foxnews.com/sports/washington-logan-thomas-revenge-giants</link>
                   <media:group>
@@ -213,26 +235,5 @@
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
                             </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/mahle-reds-avoid-sweep-edge-pirates-1-0</guid>
-      <link>https://www.foxnews.com/sports/mahle-reds-avoid-sweep-edge-pirates-1-0</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Tyler-Mahle.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Tyler-Mahle.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Tyler-Mahle.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">81adc285-94a5-54bd-a755-e43ce557a86d</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/cincinnati-reds</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/pittsburgh-pirates</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Mahle, Reds avoid sweep, edge Pirates 1-0</title>
-      <description>Cincinnati Reds reliever Mychal Givens has been around long enough to understand the rhythms of a season.</description>
-                   <pubDate>Thu, 16 Sep 2021 23:55:28 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
       </channel>
 </rss>

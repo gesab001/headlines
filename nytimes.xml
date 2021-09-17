@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2021 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Sep 2021 01:06:38 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Sep 2021 01:05:38 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Sep 2021 01:18:13 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Sep 2021 01:14:03 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -107,7 +107,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/17/us/politics/17gonzalez2/17gonzalez2-moth.jpg" width="151"></media:content>
       <media:credit>T.J. Kirkpatrick for The New York Times</media:credit>
-      <media:description>Representative Anthony Gonzalez said he had faced threats and had taken additional security measures since his vote to impeach former President Donald J. Trump after the Capitol riot. </media:description>
+      <media:description>Representative Anthony Gonzalez said he had faced threats and had taken additional security measures since his vote to impeach former President Donald J. Trump after the Capitol riot.</media:description>
     </item>
     <item>
       <title>Thousands of Migrants Huddle in Squalid Conditions Under Texas Bridge</title>
@@ -156,7 +156,7 @@
       <atom:link href="https://www.nytimes.com/2021/09/16/us/politics/sackler-bankruptcy-plan.html" rel="standout"></atom:link>
       <description>The Justice Department has been appealing the deal, approved earlier this month.</description>
       <dc:creator>Katie Benner</dc:creator>
-      <pubDate>Thu, 16 Sep 2021 22:46:39 +0000</pubDate>
+      <pubDate>Fri, 17 Sep 2021 01:14:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pain-Relieving Drugs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
@@ -282,7 +282,7 @@
       <atom:link href="https://www.nytimes.com/2021/09/16/us/alex-murdaugh-murders.html" rel="standout"></atom:link>
       <description>But Mr. Murdaugh, part of a prominent family of South Carolina lawyers, has denied any involvement in the unsolved killings of his wife and son in June.</description>
       <dc:creator>Nicholas Bogel-Burroughs</dc:creator>
-      <pubDate>Thu, 16 Sep 2021 22:24:03 +0000</pubDate>
+      <pubDate>Fri, 17 Sep 2021 01:13:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murdaugh, Alex (1968- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
@@ -427,27 +427,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/15/us/15virus-brief-minaj/15virus-brief-minaj-moth.jpg" width="151"></media:content>
       <media:credit>Jamie Mccarthy/Getty Images</media:credit>
       <media:description>Nicki Minaj at the 2019 Met Gala.</media:description>
-    </item>
-    <item>
-      <title>Struggle for Control of Afghanistan Comes to K Street</title>
-      <link>https://www.nytimes.com/2021/09/15/us/politics/afghanistan-taliban.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/15/us/politics/afghanistan-taliban.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/15/us/politics/afghanistan-taliban.html" rel="standout"></atom:link>
-      <description>Ahmad Massoud, a leading figure in the resistance to Taliban rule, hired a lobbyist to seek military and financial support in the United States.</description>
-      <dc:creator>Kenneth P. Vogel</dc:creator>
-      <pubDate>Thu, 16 Sep 2021 02:39:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Massoud, Ahmad (1989- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saleh, Amrullah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stryk, Robert</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/15/us/15dc-lobby-sub/15dc-lobby-sub-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Christophe Archambault</media:credit>
-      <media:description>The fight Ahmad Massoud is leading faces long odds, with resistance fighters surrounded by the Taliban and armed with dwindling supplies and no visible outside support.</media:description>
     </item>
   </channel>
 </rss>
