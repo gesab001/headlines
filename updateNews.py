@@ -3,6 +3,10 @@ import json
 import subprocess
 import platform
 
+command = "sudo git pull"
+if platform.system()=="Windows":
+  command = "gitpull"
+subprocess.call(command,shell=True)
 f = open("news.json")
 json_string = f.read()
 rss = json.loads(json_string)
