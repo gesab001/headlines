@@ -8,9 +8,24 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-
+import webbrowser
+import subprocess
+import platform
 
 class Ui_MainWindow(object):
+    def updateNews(self):
+        print("update news")
+        command = "python3 updateNews.py"
+        if platform.system()=="Windows":
+            command = "py updateNews.py"
+        subprocess.call(command, shell=True)
+        
+
+    def readNews(self):
+        print("read news")
+        webbrowser.open("https://gesab001.github.io/headlines")
+
+        
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
         MainWindow.resize(800, 600)
@@ -42,8 +57,8 @@ class Ui_MainWindow(object):
         self.actionread.setObjectName("actionread")
 
         self.retranslateUi(MainWindow)
-        self.update_pushButton.clicked.connect(MainWindow.show)
-        self.read_pushButton_2.clicked.connect(MainWindow.show)
+        self.update_pushButton.clicked.connect(self.updateNews)
+        self.read_pushButton_2.clicked.connect(self.readNews)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
     def retranslateUi(self, MainWindow):
