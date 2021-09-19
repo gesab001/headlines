@@ -10,6 +10,75 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/nyt-describes-iranian-nuclear-scientist-as-lover-of-poetry</guid>
+      <link>https://www.foxnews.com/media/nyt-describes-iranian-nuclear-scientist-as-lover-of-poetry</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20333294419696.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20333294419696.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20333294419696.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">88d11ea4-31f9-5cb2-9a24-6ed3c987ec19</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/organization/the-new-york-times</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/iran</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/companies/twitter</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>NYT under fire for describing Iranian nuclear scientist as 'lover of poetry'</title>
+      <description>A recent New York Times piece was slammed on Twitter for what appeared to be a flattering description of an Iranian nuclear scientist.</description>
+                  <dc:creator>Lindsay Kornick</dc:creator>
+                         <pubDate>Sun, 19 Sep 2021 22:29:23 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Lindsay Kornick</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/texans-david-culley-teases-deshaun-watson-start-3</guid>
+      <link>https://www.foxnews.com/sports/texans-david-culley-teases-deshaun-watson-start-3</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Deshaun-Watson.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Deshaun-Watson.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Deshaun-Watson.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9feb6f33-3d77-5005-858a-fb649af02ff1</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/houston-texans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/deshaun-watson</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Texans' David Culley teases potential Deshaun Watson start in Week 3</title>
+      <description>The Houston Texans’ situation with Deshaun Watson got a bit more chaotic Sunday.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Sun, 19 Sep 2021 22:22:42 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/lifestyle/insomnia-cookies-teachers-free-six-packs</guid>
+      <link>https://www.foxnews.com/lifestyle/insomnia-cookies-teachers-free-six-packs</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/835112c6-Insomnia-Cookies-IMG_0314.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/835112c6-Insomnia-Cookies-IMG_0314.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/835112c6-Insomnia-Cookies-IMG_0314.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">23a440fe-9409-5120-a996-d2c556014e16</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/food-drink/recipes/meals/dessert</category>
+            <category domain="foxnews.com/taxonomy">fox-news/food-drink/food/fast-food</category>
+            <category domain="foxnews.com/taxonomy">fox-news/food-drink/food/snack-foods</category>
+            <category domain="foxnews.com/taxonomy">fox-news/food-drink</category>
+            <category domain="foxnews.com/taxonomy">fox-news/topic/back-to-school</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/lifestyle</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Insomnia Cookies to give teachers free six-packs</title>
+      <description>Teachers throughout the country will be able to satisfy their sweet tooth with a complimentary cookie offer from Insomnia Cookies.</description>
+                  <dc:creator>Cortney Moore</dc:creator>
+                         <pubDate>Sun, 19 Sep 2021 21:45:06 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Cortney Moore</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/bills-knock-out-tua-roll-past-dolphins-yet-again-win-35-0</guid>
       <link>https://www.foxnews.com/sports/bills-knock-out-tua-roll-past-dolphins-yet-again-win-35-0</link>
                   <media:group>
@@ -175,73 +244,5 @@
                         <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/body-found-where-gabby-petito-search-is-underway-in-wyoming-no-confirmation-of-identity</guid>
-      <link>https://www.foxnews.com/us/body-found-where-gabby-petito-search-is-underway-in-wyoming-no-confirmation-of-identity</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/image0.jpeg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/image0.jpeg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/image0.jpeg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">50709582-bc83-56aa-b293-aed39247a3d2</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us</category>
-            <category domain="foxnews.com/taxonomy">fox-news/topic/missing-persons</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/wyoming</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Body found where Gabby Petito search is underway in Wyoming, no confirmation of identity</title>
-      <description>Authorities on Sunday discovered a body at Grand Teton National Park in Moosey, Wyoming</description>
-                  <dc:creator>Audrey Conklin</dc:creator>
-            <dc:creator>Michael Ruiz</dc:creator>
-                         <pubDate>Sun, 19 Sep 2021 21:12:13 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Audrey Conklin</category>
-            <category domain="foxnews.com/metadata/dc.creator">Michael Ruiz</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/mayfield-shakes-off-injury-leads-browns-past-texans-31-21</guid>
-      <link>https://www.foxnews.com/sports/mayfield-shakes-off-injury-leads-browns-past-texans-31-21</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/AP21262658515415.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/AP21262658515415.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/AP21262658515415.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">5cc778b5-99d6-55b7-8863-5cabab42e98b</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/houston-texans</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/cleveland-browns</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Mayfield shakes off injury, leads Browns past Texans 31-21</title>
-      <description>Baker Mayfield came back after hurting his left shoulder to throw a touchdown pass and run for a TD, leading the Cleveland Browns to a 31-21 win Sunday over the Houston Texans, who were in it until starting quarterback Tyrod Taylor got hurt.</description>
-                   <pubDate>Sun, 19 Sep 2021 21:08:26 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/adam-sandler-collaborator-peter-dante-looks-unrecognizable-following-his-arrest-in-los-angeles</guid>
-      <link>https://www.foxnews.com/entertainment/adam-sandler-collaborator-peter-dante-looks-unrecognizable-following-his-arrest-in-los-angeles</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/peter-dante-backgrid3.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/peter-dante-backgrid3.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/peter-dante-backgrid3.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">97f3a215-4cce-5679-9c38-d020b6effab9</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/arrest</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Adam Sandler collaborator Peter Dante looks unrecognizable following his arrest in Los Angeles</title>
-      <description>Frequent Adam Sandler collaborator Peter Dante was spotted for the first time following his arrest in Los Angeles.</description>
-                  <dc:creator>Tyler McCarthy</dc:creator>
-                         <pubDate>Sun, 19 Sep 2021 21:07:43 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Tyler McCarthy</category>
-                            </item>
       </channel>
 </rss>
