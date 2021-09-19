@@ -10,6 +10,28 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/cancel-culture-really-about-critic-fight-back</guid>
+      <link>https://www.foxnews.com/media/cancel-culture-really-about-critic-fight-back</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/05/d75fc593-iStock-1249723002.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/d75fc593-iStock-1249723002.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/d75fc593-iStock-1249723002.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">aad09e50-1d97-5630-93a5-299a9d7aa4c3</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/topic/cancel-culture</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>What cancel culture is really about, and how one critic says to fight back</title>
+      <description>Fox Nation host tells Fox News that cancel culture succeeds when people self-censor and highlights what cancel culture is really about.</description>
+                  <dc:creator>Kelsey Koberg</dc:creator>
+                         <pubDate>Sun, 19 Sep 2021 12:06:08 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Kelsey Koberg</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/tech/free-software-copycats</guid>
       <link>https://www.foxnews.com/tech/free-software-copycats</link>
                   <media:group>
@@ -215,29 +237,6 @@
       <description>Multiple shots rang out early Saturday on the gaming floor of the Golden Nugget Casino in Biloxi, Mississippi, resulting in the death of one man and the arrest of another, according to reports.</description>
                   <dc:creator>Dom Calicchio</dc:creator>
                          <pubDate>Sun, 19 Sep 2021 08:06:04 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/shohei-ohtani-hbp-white-sox-la-russa-wright-suspended</guid>
-      <link>https://www.foxnews.com/sports/shohei-ohtani-hbp-white-sox-la-russa-wright-suspended</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Shohei-Ohtani5.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Shohei-Ohtani5.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Shohei-Ohtani5.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">6965c684-15af-5615-bc98-4f6ca61885f5</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/los-angeles-angels</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/chicago-white-sox</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/japan</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Shohei Ohtani HBP gets White Sox manager La Russa, pitcher Wright suspended</title>
-      <description>Los Angeles Angels star Shohei Ohtani was hit by a pitch as he batted during a game Thursday night. Now two members of the Chicago White Sox are paying the price.</description>
-                  <dc:creator>Dom Calicchio</dc:creator>
-                         <pubDate>Sun, 19 Sep 2021 06:52:57 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
                             </item>

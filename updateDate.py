@@ -1,6 +1,7 @@
 import subprocess
 from datetime import date
 from datetime import datetime
+from updateDropbox import upload
 
 
 
@@ -27,4 +28,5 @@ print(date_string)
 command = "echo " + str(date_string) + " NZ" + " >lastNewsUpdate.txt"
 subprocess.call(command, shell=True)
 
+upload("lastNewsUpdate.txt")
 
