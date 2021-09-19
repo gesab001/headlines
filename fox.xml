@@ -10,229 +10,237 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/daniels-uga-defense-lead-no-2-dawgs-past-s-carolina-40-13</guid>
-      <link>https://www.foxnews.com/sports/daniels-uga-defense-lead-no-2-dawgs-past-s-carolina-40-13</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/biden-double-crosses-france-allies-competence-judith-miller</guid>
+      <link>https://www.foxnews.com/opinion/biden-double-crosses-france-allies-competence-judith-miller</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/JT-Daniels.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/JT-Daniels.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/694940094001/a84865b7-adcb-497d-989a-9e16e9a5868b/10s/master.m3u8?fastly_token=NjIzM2ZlMmFfNWExMGM4NWIxYmNmNjlkYTk3NTVjMDBiZDk3NDE2Njg4YmExMDNiZTliMzVlYjcxMDhjYzM0ZGUxODQwZTVhYw%3D%3D" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/master.m3u8?fastly_token=NjIzM2ZlMmFfNWExMGM4NWIxYmNmNjlkYTk3NTVjMDBiZDk3NDE2Njg4YmExMDNiZTliMzVlYjcxMDhjYzM0ZGUxODQwZTVhYw%3D%3D" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/JT-Daniels.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">e56594c6-cb0b-57d9-8494-c45ebc4c2f87</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/master.m3u8?fastly_token=NjIzM2ZlMmFfNWExMGM4NWIxYmNmNjlkYTk3NTVjMDBiZDk3NDE2Njg4YmExMDNiZTliMzVlYjcxMDhjYzM0ZGUxODQwZTVhYw%3D%3D" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">137331d8-8fae-5285-922b-1ee4db733544</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/france</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/afghanistan</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/australia</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Judith Miller: Biden double crosses France – president's errors have allies questioning his competence</title>
+      <description>President Biden has managed in only eight months to raise widespread doubts at home and abroad both about America’s competence and the reliability of its security guarantees.</description>
+                  <dc:creator>Judith Miller</dc:creator>
+                         <pubDate>Sun, 19 Sep 2021 19:01:13 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Judith Miller</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/ap-top-25-clemson-ohio-state-slip-penn-state-jumps-to-6th</guid>
+      <link>https://www.foxnews.com/sports/ap-top-25-clemson-ohio-state-slip-penn-state-jumps-to-6th</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/AP21262002824723.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP21262002824723.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP21262002824723.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">15222bf1-c4a1-5663-8950-a80c348c3b6e</category>
                   <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-fb</category>
             <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/georgia-bulldogs</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/south-carolina-gamecocks</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Daniels, UGa defense lead No. 2 Dawgs past S Carolina 40-13</title>
-      <description>So much for any debate about Georgia's starting quarterback.</description>
-                   <pubDate>Sun, 19 Sep 2021 12:59:00 GMT</pubDate>
+      <title>AP Top 25: Clemson, Ohio State slip; Penn State jumps to 6th</title>
+      <description>Clemson and Ohio State slipped to the back of the top 10 in The Associated Press college football poll on Sunday and Penn State jumped four spots to No. 6 after another weekend in which lots of ranked teams had issues.</description>
+                   <pubDate>Sun, 19 Sep 2021 18:58:20 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/peters-rangers-stop-lynn-al-central-leading-white-sox-2-1</guid>
-      <link>https://www.foxnews.com/sports/peters-rangers-stop-lynn-al-central-leading-white-sox-2-1</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/browns-baker-mayfield-fallen-us-service-member</guid>
+      <link>https://www.foxnews.com/sports/browns-baker-mayfield-fallen-us-service-member</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Rangers-players.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Rangers-players.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Baker-Mayfield.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Baker-Mayfield.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Rangers-players.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">c3d2134b-efde-5072-b434-936be7293915</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/texas-rangers</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/chicago-white-sox</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Baker-Mayfield.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">4752b1ce-3763-56d1-be52-0a85a5af5420</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/cleveland-browns</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/baker-mayfield</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/proud-american</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/sports</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Peters, Rangers stop Lynn, AL Central-leading White Sox 2-1</title>
-      <description>DJ Peters’ pinch-hit single drove home the go-ahead run in the sixth inning, helping the Texas Rangers beat former teammate Lance Lynn and the AL Central-leading Chicago White Sox 2-1 on Saturday night.</description>
-                   <pubDate>Sun, 19 Sep 2021 12:55:22 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
+      <title>Browns' Baker Mayfield honors fallen US service member before game</title>
+      <description>Cleveland Browns star Baker Mayfield honored a U.S. service member who was killed in an Afghanistan terrorist attack last month.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Sun, 19 Sep 2021 18:54:12 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/media/cancel-culture-really-about-critic-fight-back</guid>
-      <link>https://www.foxnews.com/media/cancel-culture-really-about-critic-fight-back</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/two-national-anthems-jason-whitlock</guid>
+      <link>https://www.foxnews.com/media/two-national-anthems-jason-whitlock</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/05/d75fc593-iStock-1249723002.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/d75fc593-iStock-1249723002.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/05/91ab1982-packers2.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/91ab1982-packers2.png" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/d75fc593-iStock-1249723002.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">aad09e50-1d97-5630-93a5-299a9d7aa4c3</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/media</category>
-            <category domain="foxnews.com/taxonomy">fox-news/topic/cancel-culture</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/91ab1982-packers2.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">715ffdbe-b58e-582a-bd76-e972186e1367</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/news-events/national-anthem-protests</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nba</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/fox-friends-weekend</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/media</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>What cancel culture is really about, and how one critic says to fight back</title>
-      <description>Fox Nation host tells Fox News that cancel culture succeeds when people self-censor and highlights what cancel culture is really about.</description>
-                  <dc:creator>Kelsey Koberg</dc:creator>
-                         <pubDate>Sun, 19 Sep 2021 12:06:08 GMT</pubDate>
+      <title>Two national anthems 'unhealthy' for unification of America: Jason Whitlock</title>
+      <description>Radio host Jason Whitlock shares details on a conversation with NBA Hall of Famer Isiah Thomas about racial division in the U.S.</description>
+                  <dc:creator>Angelica Stabile</dc:creator>
+                         <pubDate>Sun, 19 Sep 2021 18:50:29 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Kelsey Koberg</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Angelica Stabile</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/tech/free-software-copycats</guid>
-      <link>https://www.foxnews.com/tech/free-software-copycats</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/lifestyle/dog-reacts-owners-fake-choking-unexpected-certified-dogter</guid>
+      <link>https://www.foxnews.com/lifestyle/dog-reacts-owners-fake-choking-unexpected-certified-dogter</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/10/woman-computer-istock.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/woman-computer-istock.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Haley-Deeckens-Dog-Dunkin-Grabs-Knife-When-She-Pretends-to-Choke-Thumbnail.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Haley-Deeckens-Dog-Dunkin-Grabs-Knife-When-She-Pretends-to-Choke-Thumbnail.jpg" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/woman-computer-istock.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">77308aab-68ea-5fa0-8c2b-34f7b709b45c</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/tech</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/technologies/smartphones</category>
-            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/computers</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Haley-Deeckens-Dog-Dunkin-Grabs-Knife-When-She-Pretends-to-Choke-Thumbnail.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c71b3bc6-0198-5911-921f-c101b636e7f6</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/lifestyle/pets</category>
+            <category domain="foxnews.com/taxonomy">fox-news/topic/family-and-friends</category>
+            <category domain="foxnews.com/taxonomy">fox-news/house-and-home</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/viral</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/tech</category>
+                        <category domain="foxnews.com/section-path">fnc/lifestyle</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>9 free software copycats that work better than the real expensive programs</title>
-      <description>There are more features and tricks hiding in your Mac or PC than most people will ever know.</description>
-                   <pubDate>Sun, 19 Sep 2021 11:41:44 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">The Kim Komando Show</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/food-drink/cheesy-blt-dip-game-day-recipe</guid>
-      <link>https://www.foxnews.com/food-drink/cheesy-blt-dip-game-day-recipe</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Easy-BLT-Dip-Anne-Clark-at-My-Kitchen-Serenity.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Easy-BLT-Dip-Anne-Clark-at-My-Kitchen-Serenity.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Easy-BLT-Dip-Anne-Clark-at-My-Kitchen-Serenity.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">64421aa2-20c5-5673-b030-f057da8abd0f</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/food-drink/recipes</category>
-            <category domain="foxnews.com/taxonomy">fox-news/food-drink/food</category>
-            <category domain="foxnews.com/taxonomy">fox-news/lifestyle</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/food-drink</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Cheesy BLT dip for game day: Try the recipe</title>
-      <description>Anne Clark of food blog My Kitchen Serenity created this Easy BLT Dip, which is perfect to enjoy while watching the big game.</description>
-                  <dc:creator>Perri Blumberg</dc:creator>
-                         <pubDate>Sun, 19 Sep 2021 11:36:35 GMT</pubDate>
+      <title>Dog reacts to owner's fake choking in an unexpected way: 'Certified dogter'</title>
+      <description>A dog trainer decided to test her pooch’s lifesaving skills by pretending to choke, but she didn’t expect him to try and solve her dilemma with a knife.</description>
+                  <dc:creator>Cortney Moore</dc:creator>
+                         <pubDate>Sun, 19 Sep 2021 18:33:55 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Perri Blumberg</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Cortney Moore</category>
                             </item>
         <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/2021-emmys-how-to-watch</guid>
-      <link>https://www.foxnews.com/entertainment/2021-emmys-how-to-watch</link>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/crew-ejected-after-small-military-plane-crashes-in-backyard-of-texas-home</guid>
+      <link>https://www.foxnews.com/us/crew-ejected-after-small-military-plane-crashes-in-backyard-of-texas-home</link>
                   <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Emmys.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Emmys.jpg" medium="image" width="60" height="60" />
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Plane-Crash.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Plane-Crash.png" medium="image" width="60" height="60" />
       </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Emmys.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">ae1acfaa-de1e-5552-b4ad-99b5f71b17d0</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/emmys</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/comedy</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/drama</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/streaming</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>2021 Emmys: How to watch, what's nominated and everything else you need to know</title>
-      <description>Stars like Kaley Cuoco, Jason Sudeikis, Kate Winslet and more will gather for the 2021 Emmys to honor shows like "Ted Lasso," "The Crown" and "The Mandalorian."</description>
-                  <dc:creator>Nate Day</dc:creator>
-                         <pubDate>Sun, 19 Sep 2021 11:31:22 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/opinion/rush-to-judgement-an-autopsy-of-racial-power-grab-in-coronado</guid>
-      <link>https://www.foxnews.com/opinion/rush-to-judgement-an-autopsy-of-racial-power-grab-in-coronado</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Correct-Title.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Correct-Title.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Correct-Title.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">04d7ddbd-57dd-5e54-9d7a-60ecf80c6d65</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/digital-originals</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/critical-race-theory</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/opinion</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Rush to Judgment: An autopsy of a racial power grab in Coronado</title>
-      <description>Racial justice activists rushed to judge the championship basketball team of Coronado, California, as racist. But are they really?</description>
-                  <dc:creator>Eli Steele</dc:creator>
-                         <pubDate>Sun, 19 Sep 2021 11:29:29 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Eli Steele</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/politics/biden-week-of-losses-democrats-afghanistan-fda-france</guid>
-      <link>https://www.foxnews.com/politics/biden-week-of-losses-democrats-afghanistan-fda-france</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Joe-Biden.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Joe-Biden.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Joe-Biden.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">76aacd67-f498-549c-8777-50e3c6c095e0</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
-            <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/afghanistan</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/politics</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Biden vacations at Delaware beach house after week of heavy losses</title>
-      <description>President Biden and the Democratic Party took major hits this week, stretching from the Pentagon confirming that a "tragic mistake" led to 10 civilians in Afghanistan dying in a drone strike, to a federal grand jury indicting a Clinton campaign lawyer.</description>
-                  <dc:creator>Emma Colton</dc:creator>
-                         <pubDate>Sun, 19 Sep 2021 11:11:34 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Emma Colton</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/opinion/biden-ignores-science-abortion-life-begins-andy-puzder</guid>
-      <link>https://www.foxnews.com/opinion/biden-ignores-science-abortion-life-begins-andy-puzder</link>
-                  <media:group>
-        <media:content url="https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/694940094001/569ff8ea-14b8-493e-9033-1d9e6c24342c/10s/master.m3u8?fastly_token=NjIyNDM5NGVfYjQ1YmQwNDQxMzU4ZGZhMzc3ZGY5MWEwZDU3MDdmMzNhYTEyZjE4Mzk5M2E5OTVkOGQzYjMwMTliNzZjNzgzNA%3D%3D" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/master.m3u8?fastly_token=NjIyNDM5NGVfYjQ1YmQwNDQxMzU4ZGZhMzc3ZGY5MWEwZDU3MDdmMzNhYTEyZjE4Mzk5M2E5OTVkOGQzYjMwMTliNzZjNzgzNA%3D%3D" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/master.m3u8?fastly_token=NjIyNDM5NGVfYjQ1YmQwNDQxMzU4ZGZhMzc3ZGY5MWEwZDU3MDdmMzNhYTEyZjE4Mzk5M2E5OTVkOGQzYjMwMTliNzZjNzgzNA%3D%3D" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">e9472fbf-98b7-5f07-a867-656a592c84de</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/judiciary/abortion</category>
-            <category domain="foxnews.com/taxonomy">fox-news/politics/judiciary/supreme-court</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/texas</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/mississippi</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/opinion</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Andy Puzder: Biden ignores science on abortion – he follows the politics on question of when life begins</title>
-      <description>When the Supreme Court declined to enjoin a Texas law restricting abortions. President Biden decried the decision as "an unprecedented assault on a woman’s constitutional rights under Roe v. Wade."</description>
-                  <dc:creator>Andy Puzder</dc:creator>
-                         <pubDate>Sun, 19 Sep 2021 11:00:00 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Andy Puzder</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/illinois-woman-75-years-murder-boyfriend-son</guid>
-      <link>https://www.foxnews.com/us/illinois-woman-75-years-murder-boyfriend-son</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/lesli-jett.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/lesli-jett.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/lesli-jett.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">5093ddff-fcac-57af-8f28-b84c5c80729e</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/illinois</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime/homicide</category>
-            <category domain="foxnews.com/taxonomy">fox-news/lifestyle/parenting</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Plane-Crash.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2023caa6-c224-5a51-88e0-427a831a155f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/texas</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/dallas-fort-worth</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/military-tech</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/military</category>
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/us</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Illinois woman gets 75 years for murder of boyfriend's son, 4; judge calls her 'horrible pseudo-parent'</title>
-      <description>A 35-year-old Illinois woman was sentenced to 75 years in prison on Friday for the brutal murder of her live-in boyfriend’s 4-year-old son.</description>
-                  <dc:creator>Brie Stimson</dc:creator>
-                         <pubDate>Sun, 19 Sep 2021 10:02:39 GMT</pubDate>
+      <title>Military plane crashes into Texas neighborhood, ejecting crew and damaging multiple homes</title>
+      <description>A military aircraft crashed in a Texas neighborhood Sunday afternoon, damaging several homes, police said.</description>
+                  <dc:creator>Bradford Betz</dc:creator>
+                         <pubDate>Sun, 19 Sep 2021 18:33:23 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Bradford Betz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/browns-baker-mayfield-fans-scare-shoulder-injury</guid>
+      <link>https://www.foxnews.com/sports/browns-baker-mayfield-fans-scare-shoulder-injury</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/2e3a4fd9-Baker-Mayfield2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/2e3a4fd9-Baker-Mayfield2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/2e3a4fd9-Baker-Mayfield2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">5e46bd7f-ae9e-5cf1-a235-2fea4e7c1997</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/cleveland-browns</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/baker-mayfield</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/houston-texans</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Browns' Baker Mayfield gives fans scare with shoulder injury, returns to score TD</title>
+      <description>Baker Mayfield had Cleveland Browns fans holding their collective breath on Sunday.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Sun, 19 Sep 2021 18:30:19 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/no-8-bearcats-take-big-step-next-one-looms-at-notre-dame</guid>
+      <link>https://www.foxnews.com/sports/no-8-bearcats-take-big-step-next-one-looms-at-notre-dame</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/AP21261737085224.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP21261737085224.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP21261737085224.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9687ca4b-6d8f-56ef-a35c-e96878a9f6b1</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/cincinnati-bearcats</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-fb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>No. 8 Bearcats take big step, next one looms at Notre Dame</title>
+      <description>No. 8 Cincinnati took one small step toward playoff contention on Saturday.</description>
+                   <pubDate>Sun, 19 Sep 2021 18:26:48 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/beto-orourke-greg-abbott-texas-governor</guid>
+      <link>https://www.foxnews.com/politics/beto-orourke-greg-abbott-texas-governor</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/09/AP-Beto-ORourke.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP-Beto-ORourke.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP-Beto-ORourke.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2ce99201-efc2-5495-a631-f5d4f48a8a8c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/texas</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/greg-abbott</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local/governors</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Beto O’Rourke plans to challenge Greg Abbott for Texas governor: Report</title>
+      <description>Former U.S. Rep. Beto O’Rourke, a Democrat, is reportedly preparing a bid to challenge Republican Gov. Greg Abbott in the Texas gubernatorial race next November.</description>
+                  <dc:creator>Jessica Chasmar</dc:creator>
+                         <pubDate>Sun, 19 Sep 2021 18:10:52 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Jessica Chasmar</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/chris-rock-breakthrough-coronavirus-vaccinated</guid>
+      <link>https://www.foxnews.com/entertainment/chris-rock-breakthrough-coronavirus-vaccinated</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Chris-rock-getty.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Chris-rock-getty.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Chris-rock-getty.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ba1ea389-f4c6-5dd6-8750-d76212f50e19</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/vaccines</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/viral</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Chris Rock announces he has a breakthrough coronavirus case, urges followers to get vaccinated</title>
+      <description>Chris Rock revealed that he has been diagnosed with the coronavirus in a message urging his followers on Twitter to get vaccinated.</description>
+                  <dc:creator>Tyler McCarthy</dc:creator>
+                         <pubDate>Sun, 19 Sep 2021 17:57:42 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Tyler McCarthy</category>
                             </item>
       </channel>
 </rss>
