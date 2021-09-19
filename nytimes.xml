@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2021 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 19 Sep 2021 20:37:36 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Sep 2021 20:34:16 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Sep 2021 21:51:14 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Sep 2021 21:00:14 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -104,6 +104,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/18/us/18electionworkers-1/merlin_194765076_901db1f5-064b-4923-b713-f1a9627fd794-moth.jpg" width="151"></media:content>
       <media:credit>John Francis Peters for The New York Times</media:credit>
       <media:description>A polling site in El Centro, Calif., during this month’s recall vote for governor. </media:description>
+    </item>
+    <item>
+      <title>Military Jet Crashes in Texas Backyard, Injuring 2 Pilots</title>
+      <link>https://www.nytimes.com/2021/09/19/us/military-plane-crash-lake-worth-texas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/19/us/military-plane-crash-lake-worth-texas.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/19/us/military-plane-crash-lake-worth-texas.html" rel="standout"></atom:link>
+      <description>Three homes were damaged and three residents treated for minor injuries, the Fort Worth Fire Department said. “It could have been a lot worse,” a police chief said.</description>
+      <dc:creator>Vimal Patel</dc:creator>
+      <pubDate>Sun, 19 Sep 2021 21:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fort Worth (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/multimedia/19xp-lakeworth-01/19xp-lakeworth-01-moth.jpg" width="151"></media:content>
+      <media:credit>Joni Scarbrough/via Reuters</media:credit>
+      <media:description>Emergency responders near the site where a military training jet crashed into a residential neighborhood in Lake Worth, Texas, on Sunday.</media:description>
     </item>
     <item>
       <title>With Abortion Rights Under Threat, Democrats Hope to Go on Offense</title>
@@ -413,24 +430,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/17/us/17DC-Walker1/17DC-Walker1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Stefani Reynolds for The New York Times</media:credit>
       <media:description>William J. Walker, the new House sergeant-at-arms, has been outspoken about the dysfunction that plagued the response to the Jan. 6 attack on the Capitol.</media:description>
-    </item>
-    <item>
-      <title>Robert Durst Found Guilty of Murder After Decades of Suspicion</title>
-      <link>https://www.nytimes.com/2021/09/17/us/robert-durst-murder-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/17/us/robert-durst-murder-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/17/us/robert-durst-murder-trial.html" rel="standout"></atom:link>
-      <description>Mr. Durst, the onetime heir to a Manhattan real estate empire, was convicted of killing a close confidante in Beverly Hills, Calif., in 2000.</description>
-      <dc:creator>Charles V. Bagli</dc:creator>
-      <pubDate>Sat, 18 Sep 2021 01:20:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durst, Robert A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berman, Susan (1945-2000)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durst, Kathleen A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/14/us/00durst-hfo/00durst-hfo-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Al Seib</media:credit>
-      <media:description>Robert Durst in court in Inglewood, Calif., this month.</media:description>
     </item>
   </channel>
 </rss>
