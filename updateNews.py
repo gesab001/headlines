@@ -3,7 +3,22 @@ import json
 import subprocess
 from updateDropbox import upload
 import platform 
+from datetime import date
+from datetime import datetime
 
+
+def updateDate():
+ now = datetime.now()
+
+ #print("now =", now)
+
+ # dd/mm/YY H:M:S
+ #time_string = now.strftime("%H:%M:%S")
+ #print("date and time =", dt_string)	
+ date_string = now.strftime("%A, %B %d %Y %r")
+ command = "echo " + str(date_string) + " NZ" + " >lastNewsUpdate.txt"
+ subprocess.call(command, shell=True)
+ upload("lastNewsUpdate.txt")
 
 command = "sudo git pull"
 if platform.system()=="Windows":
@@ -26,9 +41,7 @@ for news in rss:
    except Exception as ex:
     print(ex)
 
-command = "python3 updateDate.py"
-subprocess.call(command, shell=True)
-
+updateDate()
 command = "./deploy.sh"
 if platform.system()=="Windows":
   command = "deploy"
