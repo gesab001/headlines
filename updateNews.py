@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 import json
 import subprocess
-import platform
+from updateDropbox import upload
+import platform 
+
 
 command = "sudo git pull"
 if platform.system()=="Windows":
@@ -12,15 +14,15 @@ json_string = f.read()
 rss = json.loads(json_string)
 for news in rss:
    url= rss[news]
+   filepath = news + ".xml"
    print(url)
    try:     
-    command = "sudo curl -L '" + url + "' -o " + news + ".xml"
+    command = "sudo curl -L '" + url + "' -o " + filepath
     if platform.system()=="Windows":
-      command = "curl -L " + url + " -o " + news + ".xml"
-
-    subprocess.call(command, shell=True)
-    
-    print(news+".xml saved successfully" )
+      command = "curl -L " + url + " -o " + filepath
+    subprocess.call(command, shell=True) 
+    print(filepath + " saved successfully" )
+    upload(filepath)   
    except Exception as ex:
     print(ex)
 
