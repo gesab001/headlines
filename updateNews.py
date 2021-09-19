@@ -6,19 +6,15 @@ import platform
 from datetime import date
 from datetime import datetime
 import sys
-
+import requests
+    
 def updateDate():
  now = datetime.now()
-
- #print("now =", now)
-
- # dd/mm/YY H:M:S
- #time_string = now.strftime("%H:%M:%S")
- #print("date and time =", dt_string)	
  date_string = now.strftime("%A, %B %d %Y %r")
- command = "echo " + str(date_string) + " NZ" + " >lastNewsUpdate.txt"
- subprocess.call(command, shell=True)
- upload("lastNewsUpdate.txt")
+ command = str(date_string) + " NZ"
+ with open("lastNewsUpdate.txt", "w") as f:
+  f.write(command)
+  upload("lastNewsUpdate.txt")
 
 def getAllCurrentNews():
     command = "sudo git pull"
@@ -29,19 +25,16 @@ def getAllCurrentNews():
     json_string = f.read()
     rss = json.loads(json_string)
     for news in rss:
+      try:
        url= rss[news]
-       filepath = news + ".xml"
-       print(url)
-       try:     
-        command = "sudo curl -L '" + url + "' -o " + filepath
-        if platform.system()=="Windows":
-          command = "curl -L " + url + " -o " + filepath
-        subprocess.call(command, shell=True) 
-        print(filepath + " saved successfully" )
-        upload(filepath)   
-       except Exception as ex:
-        print(ex)
-
+       file_path = news + ".xml"
+       res = requests.get(url)
+       xmlString = res.text
+       print(xmlString)
+       with open(file_path, "wb") as f:
+        f.write(xmlString.encode('utf-8'))
+      except:
+        print("error on " + url)
     updateDate()
     command = "./deploy.sh"
     if platform.system()=="Windows":
