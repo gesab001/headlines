@@ -117,7 +117,8 @@ function loadSelection(myArrTitles){
        }
 	   var news = document.getElementById("selection").value;
        //changeNews(news);
-	   loadNews(news);
+	   //loadNews(news);
+       loadNewsFromDropbox(news);
     }
  };
  xhttp.open("GET", "news.json", true);
@@ -138,6 +139,33 @@ function loadNews(news){
  };
  xhttp.open("GET", news+".xml", true);
  xhttp.send();
+}
+
+function loadNewsFromDropbox(news){
+  var dropboxtoken = "luDJ66vE8bAAAAAAAAAAAXmOXPKTgFXSIp6NuSuHgDZ-POhjcDq9cEshi358iVjt"
+
+   var path = news+".xml";
+  // alert("path: " + path);
+  // alert(dropboxtoken);
+   var xhttp = new XMLHttpRequest();
+   xhttp.onreadystatechange = function() {
+     if (this.readyState == 4 && this.status == 200){
+       //syncwithLocalStorage(JSON.parse(this.responseText));
+           displayFeeds(this);
+       
+
+     }else{
+	    //alert(this.responseText);
+		if (this.responseText.includes("Invalid authorization value") || this.responseText.includes("access token is malformed")){
+		  alert("wrong token");
+
+		}
+	 }
+    };
+   xhttp.open("POST", "https://content.dropboxapi.com/2/files/download", true);
+   xhttp.setRequestHeader("Authorization", "Bearer " +dropboxtoken);
+   xhttp.setRequestHeader("Dropbox-API-Arg", "{\"path\": \"/"+path+"\"}");
+   xhttp.send();
 }
 
 function getYoutubeID(link){
