@@ -24,7 +24,8 @@ def upload(filename):
   with open(file_path, 'rb') as f:
      values = f.read() 
      print(values)
-     dbx.files_upload(values, dest_path, mute=True)
+      
+     dbx.files_upload(values, dest_path, mode=dropbox.files.WriteMode(u'overwrite', None), autorename=False, client_modified=None, mute=True, strict_conflict=False)
      #response=requests.post("https://content.dropboxapi.com/2/files/upload", headers=parameters, data=values)
      #print(response)
 
