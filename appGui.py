@@ -11,14 +11,12 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 import webbrowser
 import subprocess
 import platform
+from updateNews import getAllCurrentNews
 
 class Ui_MainWindow(object):
     def updateNews(self):
         print("update news")
-        command = "python3 updateNews.py"
-        if platform.system()=="Windows":
-            command = "py updateNews.py"
-        subprocess.call(command, shell=True)
+        getAllCurrentNews()
         
 
     def readNews(self):

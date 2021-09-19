@@ -5,7 +5,7 @@ from updateDropbox import upload
 import platform 
 from datetime import date
 from datetime import datetime
-
+import sys
 
 def updateDate():
  now = datetime.now()
@@ -20,29 +20,37 @@ def updateDate():
  subprocess.call(command, shell=True)
  upload("lastNewsUpdate.txt")
 
-command = "sudo git pull"
-if platform.system()=="Windows":
-  command = "gitpull"
-subprocess.call(command,shell=True)
-f = open("news.json")
-json_string = f.read()
-rss = json.loads(json_string)
-for news in rss:
-   url= rss[news]
-   filepath = news + ".xml"
-   print(url)
-   try:     
-    command = "sudo curl -L '" + url + "' -o " + filepath
+def getAllCurrentNews():
+    command = "sudo git pull"
     if platform.system()=="Windows":
-      command = "curl -L " + url + " -o " + filepath
-    subprocess.call(command, shell=True) 
-    print(filepath + " saved successfully" )
-    upload(filepath)   
-   except Exception as ex:
-    print(ex)
+      command = "gitpull"
+    subprocess.call(command,shell=True)
+    f = open("news.json")
+    json_string = f.read()
+    rss = json.loads(json_string)
+    for news in rss:
+       url= rss[news]
+       filepath = news + ".xml"
+       print(url)
+       try:     
+        command = "sudo curl -L '" + url + "' -o " + filepath
+        if platform.system()=="Windows":
+          command = "curl -L " + url + " -o " + filepath
+        subprocess.call(command, shell=True) 
+        print(filepath + " saved successfully" )
+        upload(filepath)   
+       except Exception as ex:
+        print(ex)
 
-updateDate()
-command = "./deploy.sh"
-if platform.system()=="Windows":
-  command = "deploy"
-subprocess.call(command, shell=True)
+    updateDate()
+    command = "./deploy.sh"
+    if platform.system()=="Windows":
+      command = "deploy"
+    subprocess.call(command, shell=True)
+
+if len(sys.argv)>1:
+ option = sys.argv[1]
+
+else:
+  getAllCurrentNews()
+  
