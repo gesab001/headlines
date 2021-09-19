@@ -84,7 +84,7 @@ if (windowlocation.includes("192")){
 var xhttp = new XMLHttpRequest();
 var news;
 loadSelectionTitles();
-
+//loadNewsFromDropbox("nzherald");
 
 function loadSelectionTitles(){
    xhttp.onreadystatechange = function() {
@@ -142,7 +142,7 @@ function loadNews(news){
 }
 
 function loadNewsFromDropbox(news){
-  var dropboxtoken = "luDJ66vE8bAAAAAAAAAAAXmOXPKTgFXSIp6NuSuHgDZ-POhjcDq9cEshi358iVjt"
+  var dropboxtoken = "EeQL9hTvFSQAAAAAAAAAAaExBKMAKSKme_P--gT83PswjOO3azGirXzWPk14tYD_"
 
    var path = news+".xml";
   // alert("path: " + path);
@@ -240,7 +240,8 @@ function displayFeeds(xml) {
 		document.getElementById("demo").innerHTML =
 		text; 
 	}
-	updateDate();
+	updateDateDropbox();
+        //updateDate();
 }
 
 
@@ -265,7 +266,8 @@ function myFunction(xml) {
 		document.getElementById("demo").innerHTML =
 		text; 
 	}
-	updateDate();
+	updateDateDropbox();
+        //updateDate();
 }
 
 function updateDate(){
@@ -281,6 +283,34 @@ function updateDate(){
   };
   xhttp.open("GET", "lastNewsUpdate.txt", true);
   xhttp.send();
+}
+
+function updateDateDropbox(){
+  var dropboxtoken = "EeQL9hTvFSQAAAAAAAAAAaExBKMAKSKme_P--gT83PswjOO3azGirXzWPk14tYD_"
+
+   var path = "lastNewsUpdate.txt";
+  // alert("path: " + path);
+  // alert(dropboxtoken);
+   var xhttp = new XMLHttpRequest();
+   xhttp.onreadystatechange = function() {
+     if (this.readyState == 4 && this.status == 200){
+       //syncwithLocalStorage(JSON.parse(this.responseText));
+           var text = this.responseText;
+           document.getElementById("dateUpdate").innerHTML = "Updated: " + text;
+       
+
+     }else{
+	    //alert(this.responseText);
+		if (this.responseText.includes("Invalid authorization value") || this.responseText.includes("access token is malformed")){
+		  alert("wrong token");
+
+		}
+	 }
+    };
+   xhttp.open("POST", "https://content.dropboxapi.com/2/files/download", true);
+   xhttp.setRequestHeader("Authorization", "Bearer " +dropboxtoken);
+   xhttp.setRequestHeader("Dropbox-API-Arg", "{\"path\": \"/"+path+"\"}");
+   xhttp.send();
 }
 </script>
 
