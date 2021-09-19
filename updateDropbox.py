@@ -7,10 +7,11 @@ import requests
 import dropbox
 import os
 
-token = "luDJ66vE8bAAAAAAAAAAAXmOXPKTgFXSIp6NuSuHgDZ-POhjcDq9cEshi358iVjt"
-dbx = dropbox.Dropbox(token)
+
 
 def upload(filename):
+  token = "EeQL9hTvFSQAAAAAAAAAAaExBKMAKSKme_P--gT83PswjOO3azGirXzWPk14tYD_"
+  dbx = dropbox.Dropbox(token)
   print("upload " + "/"+filename)
   #api = "{'path': 'filename.txt', 'mode': 'overwrite', 'autorename': 'false', 'mute': 'false', 'strict_conflict': 'false'}"
   #print(str(api))
@@ -30,6 +31,8 @@ def upload(filename):
 
 
 def download(filename):
+  token = "EeQL9hTvFSQAAAAAAAAAAaExBKMAKSKme_P--gT83PswjOO3azGirXzWPk14tYD_"
+  dbx = dropbox.Dropbox(token)
   print("download " + filename)
   with open("test.txt", "wb") as f:
     metadata, res = dbx.files_download(path="/stuffnz.xml")
