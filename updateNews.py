@@ -22,8 +22,8 @@ def updateAuto(interval):
     while True:
         print("updating news")
         getAllCurrentNews()
-        time.sleep(interval)
         print("update successful")
+        time.sleep(interval)
         
         
 def getAllCurrentNews():
