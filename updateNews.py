@@ -63,6 +63,3 @@ if len(sys.argv)>1:
  if option=="--auto":
    interval = int(sys.argv[2]) * 60
    updateAuto(interval)
-else:
-  getAllCurrentNews()
-  
