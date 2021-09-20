@@ -10,6 +10,25 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/messi-looks-angry-at-being-replaced-icardi-gets-late-winner</guid>
+      <link>https://www.foxnews.com/sports/messi-looks-angry-at-being-replaced-icardi-gets-late-winner</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Lionel-Messi.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Lionel-Messi.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Lionel-Messi.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0a9a782d-9583-55ca-a97f-ba8adb4d338b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/soccer</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Messi looks angry at being replaced; Icardi gets late winner</title>
+      <description>Lionel Messi hit the crossbar with a curling free kick and looked angry at being taken off in the 75th minute in his home debut Sunday for Paris Saint-Germain.</description>
+                   <pubDate>Mon, 20 Sep 2021 01:54:42 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/tigers-peralta-slow-al-east-leading-rays-2-0</guid>
       <link>https://www.foxnews.com/sports/tigers-peralta-slow-al-east-leading-rays-2-0</link>
                   <media:group>
@@ -208,27 +227,6 @@
       <description>"WandaVision" star Elizabeth Olsen wore a gown designed by her sisters Mary-Kate and Ashley Olsen to the Emmys 2021.</description>
                    <pubDate>Mon, 20 Sep 2021 01:16:10 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">New York Post</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/gerrit-cole-booed-off-mound-yankees-playoffs-dwindle</guid>
-      <link>https://www.foxnews.com/sports/gerrit-cole-booed-off-mound-yankees-playoffs-dwindle</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/fe7cf51a-Gerrit-Cole.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/fe7cf51a-Gerrit-Cole.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/fe7cf51a-Gerrit-Cole.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">687588ee-4085-5182-8ce9-cb0aee885cdd</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/new-york-yankees</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/gerrit-cole</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Gerrit Cole booed off the mound as the Yankees’ hopes for the playoffs dwindle</title>
-      <description>The Yankees had their ace Gerrit Cole on the mound against a mediocre at best Indians team as they looked to close the gap in the wild card race.</description>
-                   <pubDate>Mon, 20 Sep 2021 01:15:38 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">OutKick</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
       </channel>
