@@ -10,6 +10,26 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/west-virginia-councilman-dies-tree-falls-car</guid>
+      <link>https://www.foxnews.com/politics/west-virginia-councilman-dies-tree-falls-car</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/john_bailey-Charleston-West-Virginia-government.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/john_bailey-Charleston-West-Virginia-government.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/john_bailey-Charleston-West-Virginia-government.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">59cc2ac0-ec4c-5e70-bfb4-9e6f8c626d58</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/west-virginia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/newsedge/politics</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>West Virginia councilman dies after tree falls onto car</title>
+      <description>A West Virginia city councilman died last week after a tree fell onto his car as he drove his son home from soccer, a report said.</description>
+                   <pubDate>Mon, 20 Sep 2021 07:53:21 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/politics/mayorkas-warns-haitian-migrants-not-to-attempt-journey-to-us-mass-expulsion-begins</guid>
       <link>https://www.foxnews.com/politics/mayorkas-warns-haitian-migrants-not-to-attempt-journey-to-us-mass-expulsion-begins</link>
                   <media:group>
@@ -201,33 +221,6 @@
                          <pubDate>Mon, 20 Sep 2021 03:55:42 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/ravens-lamar-jackson-victory-chiefs-patrick-mahomes</guid>
-      <link>https://www.foxnews.com/sports/ravens-lamar-jackson-victory-chiefs-patrick-mahomes</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/3e82ac7d-Lamar-Jackson.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/3e82ac7d-Lamar-Jackson.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/3e82ac7d-Lamar-Jackson.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">4b72040b-0cfc-5aac-9566-533370feaf64</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/baltimore-ravens</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/kansas-city-chiefs</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/lamar-jackson</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/patrick-mahomes</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/marquise-brown</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/tyrann-mathieu</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/travis-kelce</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Ravens' Lamar Jackson leads major victory over Chiefs, snaps Patrick Mahomes' September win streak</title>
-      <description>Baltimore Ravens quarterback Lamar Jackson and a key defensive play held the team defeat the Kansas City Chiefs on Sunday, ending Patrick Mahomes’ winning streak in the month of September.</description>
-                  <dc:creator>Ryan Gaydos</dc:creator>
-                         <pubDate>Mon, 20 Sep 2021 03:43:45 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
                             </item>
       </channel>
 </rss>
