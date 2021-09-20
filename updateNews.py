@@ -7,7 +7,7 @@ from datetime import date
 from datetime import datetime
 import sys
 import requests
-    
+   
 def updateDate():
  now = datetime.now()
  date_string = now.strftime("%A, %B %d %Y %r")
@@ -17,6 +17,14 @@ def updateDate():
   f.close()
   upload("lastNewsUpdate.txt")
 
+def updateAuto(interval):
+    while True:
+        print("updating news")
+        getAllCurrentNews()
+        time.sleep(interval)
+        print("update successful")
+        
+        
 def getAllCurrentNews():
     command = "sudo git pull"
     if platform.system()=="Windows":
@@ -42,9 +50,12 @@ def getAllCurrentNews():
       command = "deploy"
     subprocess.call(command, shell=True)
 
+
 if len(sys.argv)>1:
  option = sys.argv[1]
-
+ if option=="--auto":
+   interval = int(sys.argv[2]) * 60
+   updateAuto(interval)
 else:
   getAllCurrentNews()
   
