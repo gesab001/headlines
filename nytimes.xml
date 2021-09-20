@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2021 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Sep 2021 09:51:14 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Sep 2021 09:22:29 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Sep 2021 18:31:40 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Sep 2021 18:31:09 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -43,17 +43,18 @@
       <description>Many outdated provisions have long since been invalidated, but the language that was specifically intended to enshrine white supremacy has remained.</description>
       <dc:creator>Tariro Mzezewa</dc:creator>
       <pubDate>Sun, 19 Sep 2021 19:55:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutional Amendments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coleman, Merika (1973- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Monument Lab (Philadelphia, Pa, Public Art Studio)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coleman, Merika</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Segregation and Desegregation</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/us/19alabama-constitution-2/19alabama-constitution-sub-02-moth.jpg" width="151"></media:content>
       <media:credit>Andi Rice for The New York Times</media:credit>
       <media:description>“We’re having real-deal conversations where people may not have been having those conversations before, conversations we should have had a long time ago,” State Rep. Merika Coleman said.</media:description>
@@ -106,13 +107,98 @@
       <media:description>A polling site in El Centro, Calif., during this month’s recall vote for governor. </media:description>
     </item>
     <item>
+      <title>Most Americans Disagree With Supreme Court on Texas Abortion Ban, Poll Finds</title>
+      <link>https://www.nytimes.com/2021/09/20/us/politics/monmouth-poll-texas-abortion-supreme-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/20/us/politics/monmouth-poll-texas-abortion-supreme-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/20/us/politics/monmouth-poll-texas-abortion-supreme-court.html" rel="standout"></atom:link>
+      <description>Monmouth University Poll released its findings the same day the Supreme Court added hearings on a Mississippi abortion case.</description>
+      <dc:creator>Trip Gabriel</dc:creator>
+      <pubDate>Mon, 20 Sep 2021 18:20:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/20/us/politics/20political-briefing-abortion-texas1/merlin_194459211_b06b887e-8a5b-46d5-997f-9bc668147821-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston for The New York Times</media:credit>
+      <media:description>Demonstrators rallying for abortion rights outside the Supreme Court in Washington this month.</media:description>
+    </item>
+    <item>
+      <title>Wisconsin Republican Defends Legitimacy of 2020 Election Investigation</title>
+      <link>https://www.nytimes.com/2021/09/20/us/politics/wisconsin-2020-election-investigation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/20/us/politics/wisconsin-2020-election-investigation.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/20/us/politics/wisconsin-2020-election-investigation.html" rel="standout"></atom:link>
+      <description>Michael Gableman, a conservative former State Supreme Court Justice, declared that the state’s partisan inquiry into the election results was not meant to overturn President Biden’s victory.</description>
+      <dc:creator>Reid J. Epstein</dc:creator>
+      <pubDate>Mon, 20 Sep 2021 18:31:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gableman, Michael J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vos, Robin J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/20/us/20wisconsin-election1/20wisconsin-election1-moth.jpg" width="151"></media:content>
+      <media:credit>Jessica Reilly/Telegraph Herald, via Associated Press</media:credit>
+      <media:description>Michael Gableman, right, in 2015, during his tenure as a State Supreme Court justice in Wisconsin. </media:description>
+    </item>
+    <item>
+      <title>U.S. to Lift Travel Ban on Vaccinated Visitors</title>
+      <link>https://www.nytimes.com/2021/09/20/us/politics/us-travel-ban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/20/us/politics/us-travel-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/20/us/politics/us-travel-ban.html" rel="standout"></atom:link>
+      <description>Travelers who provide proof that they are fully vaccinated against the coronavirus before boarding a flight will be able to fly to the United States.</description>
+      <dc:creator>Zolan Kanno-Youngs and Mark Landler</dc:creator>
+      <pubDate>Mon, 20 Sep 2021 17:21:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/20/world/20virus-briefing-europetravel3/20virus-briefing-europetravel3-moth.jpg" width="151"></media:content>
+      <media:credit>Frederic J. Brown/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Travelers exiting a terminal at Los Angeles International Airport in May.</media:description>
+    </item>
+    <item>
+      <title>California&#39;s New Housing Laws: Here&#39;s What to Know</title>
+      <link>https://www.nytimes.com/2021/09/20/us/california-housing-laws.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/20/us/california-housing-laws.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/20/us/california-housing-laws.html" rel="standout"></atom:link>
+      <description>Gov. Gavin Newsom has signed two bills aimed at easing the state’s housing crisis.</description>
+      <dc:creator>Soumya Karlamangla</dc:creator>
+      <pubDate>Mon, 20 Sep 2021 16:37:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/20/multimedia/20CAToday-homes-promo/20CAToday-homes-moth.jpg" width="151"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Homes and homes under construction in Antioch, Calif., last year.</media:description>
+    </item>
+    <item>
+      <title>Democrats Turn to Fiscal Matters and Raising Debt Limit </title>
+      <link>https://www.nytimes.com/2021/09/20/us/politics/democrats-debt-ceiling.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/20/us/politics/democrats-debt-ceiling.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/20/us/politics/democrats-debt-ceiling.html" rel="standout"></atom:link>
+      <description>Ideological divisions within the party and intransigent Republican opposition will not make the job easy.</description>
+      <dc:creator>Jonathan Weisman</dc:creator>
+      <pubDate>Mon, 20 Sep 2021 17:11:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Debt (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/20/us/20dc-weekahead/20dc-weekahead-moth.jpg" width="151"></media:content>
+      <media:credit>Tom Brenner for The New York Times</media:credit>
+      <media:description>Speaker Nancy Pelosi at the Capitol earlier this month.</media:description>
+    </item>
+    <item>
       <title>Medicare Expansion Clashes With Health Care for the Poor as Budget Bill Shrinks</title>
       <link>https://www.nytimes.com/2021/09/20/us/politics/medicare-health-care-poor-budget-bill.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2021/09/20/us/politics/medicare-health-care-poor-budget-bill.html</guid>
       <atom:link href="https://www.nytimes.com/2021/09/20/us/politics/medicare-health-care-poor-budget-bill.html" rel="standout"></atom:link>
       <description>Under pressure to cut the bill’s cost, Democrats disagree over whether to offer more benefits to older Americans or to cover more of the working poor.</description>
       <dc:creator>Jonathan Weisman and Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Mon, 20 Sep 2021 09:00:17 +0000</pubDate>
+      <pubDate>Mon, 20 Sep 2021 09:00:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
@@ -125,13 +211,13 @@
       <media:description>Some mobile clinics, like this one in Knoxville, Tenn., provide free medical, health and dental care to residents in states where the governor has not expanded Medicaid.</media:description>
     </item>
     <item>
-      <title>Biden to Push Global Plan to Battle Covid as National Gaps Widen</title>
-      <link>https://www.nytimes.com/2021/09/20/us/politics/covid-vaccines-worldwide.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/20/us/politics/covid-vaccines-worldwide.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/20/us/politics/covid-vaccines-worldwide.html" rel="standout"></atom:link>
+      <title>Biden Pushes Global Plan to Battle Covid-19 as National Gaps Widen</title>
+      <link>https://www.nytimes.com/2021/09/20/us/politics/biden-covid-19-vaccines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/20/us/politics/biden-covid-19-vaccines.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/20/us/politics/biden-covid-19-vaccines.html" rel="standout"></atom:link>
       <description>The U.N.-backed vaccine program is so far behind schedule that not even 10 percent of the population in poor countries is fully vaccinated, experts say.</description>
       <dc:creator>Lara Jakes and Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Mon, 20 Sep 2021 09:00:13 +0000</pubDate>
+      <pubDate>Mon, 20 Sep 2021 09:00:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
@@ -194,7 +280,7 @@
       <atom:link href="https://www.nytimes.com/2021/09/20/us/delrio-texas-migrants-crisis.html" rel="standout"></atom:link>
       <description>The influx of thousands of migrants has led to squalor under a bridge, and a dispirited town beyond it.</description>
       <dc:creator>Edgar Sandoval and James Dobbins</dc:creator>
-      <pubDate>Mon, 20 Sep 2021 07:00:09 +0000</pubDate>
+      <pubDate>Mon, 20 Sep 2021 17:19:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
@@ -215,7 +301,7 @@
       <atom:link href="https://www.nytimes.com/2021/09/19/us/brian-laundrie-gabrielle-petito-fiance.html" rel="standout"></atom:link>
       <description>Mr. Laundrie, who is missing, was the last known person to have been with Ms. Petito before she went missing, according to the authorities.</description>
       <dc:creator>Eduardo Medina</dc:creator>
-      <pubDate>Mon, 20 Sep 2021 08:44:59 +0000</pubDate>
+      <pubDate>Mon, 20 Sep 2021 10:35:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Laundrie, Brian</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petito, Gabrielle</category>
@@ -230,7 +316,7 @@
       <atom:link href="https://www.nytimes.com/2021/09/19/us/who-is-gabrielle-petito.html" rel="standout"></atom:link>
       <description>Gabrielle Petito had worked as a pharmacy technician to save money for a crosscountry trip with her boyfriend.</description>
       <dc:creator>Ethan Hauser, Maria Cramer and Michael Levenson</dc:creator>
-      <pubDate>Mon, 20 Sep 2021 08:44:04 +0000</pubDate>
+      <pubDate>Mon, 20 Sep 2021 10:34:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petito, Gabrielle</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Laundrie, Brian</category>
@@ -252,6 +338,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/multimedia/19DC-immigration-01/19DC-immigration-01-moth.jpg" width="151"></media:content>
       <media:credit>Shawn Thew/EPA, via Shutterstock</media:credit>
       <media:description>Members of United We Dream rallied near the White House in August to demand Congress deliver citizenship for millions of immigrants this year.</media:description>
@@ -263,7 +350,7 @@
       <atom:link href="https://www.nytimes.com/2021/09/19/us/gabby-petito-remains-found-wyoming.html" rel="standout"></atom:link>
       <description>Ms. Petito was last known to be driving toward the area with her fiancé as they embarked on a cross-country trip, according to her family.</description>
       <dc:creator>Eduardo Medina</dc:creator>
-      <pubDate>Mon, 20 Sep 2021 08:43:53 +0000</pubDate>
+      <pubDate>Mon, 20 Sep 2021 16:09:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grand Teton National Park (Wyo)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wyoming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petito, Gabrielle</category>
@@ -282,27 +369,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">First Ladies (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Northern Virginia Community College</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Jill Tracy Jacobs</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/17/us/00dc-FLOTUS1/00dc-FLOTUS1-moth.jpg" width="151"></media:content>
       <media:credit>Erin Schaff/The New York Times</media:credit>
       <media:description>Jill Biden, the first lady and an English and writing professor, graded papers during a flight to Washington on Wednesday. She is the first presidential spouse to keep her career while in the White House.</media:description>
     </item>
     <item>
-      <title>Tropical Storm Rose Forms West of Africa</title>
+      <title>Tropical Storm Rose Is Expected to Weaken</title>
       <link>https://www.nytimes.com/article/tropical-storm-rose-hurricane.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/article/tropical-storm-rose-hurricane.html</guid>
       <atom:link href="https://www.nytimes.com/article/tropical-storm-rose-hurricane.html" rel="standout"></atom:link>
-      <description>The storm, the third to develop in less than a week, became the 17th named storm of the busy 2021 hurricane season.</description>
+      <description>The storm, which formed off the west coast of Africa, is currently not expected to impact the U.S. directly, a meteorologist said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 19 Sep 2021 22:34:17 +0000</pubDate>
+      <pubDate>Mon, 20 Sep 2021 15:25:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/multimedia/19xp-Rose-01/19xp-Rose-01-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/19/us/19xp-rose-monday-01/19xp-rose-monday-01-moth.jpg" width="151"></media:content>
       <media:credit>NOAA</media:credit>
-      <media:description>A satellite image showing Rose, the 17th named storm of the 2021 Atlantic hurricane season. The outlines of the Cape Verde islands are near the top right.</media:description>
+      <media:description>A satellite image showing Rose, the 17th named storm of the 2021 Atlantic hurricane season, on Monday.</media:description>
     </item>
     <item>
       <title>Beto O’Rourke Draws Closer to Entering Texas Governor’s Race</title>
@@ -326,18 +413,21 @@
       <media:description>Beto O’Rourke, whose 2018 Senate campaign galvanized Democrats, spoke in May at a rally at the Texas Capitol.</media:description>
     </item>
     <item>
-      <title>Human Remains Believed to Be Gabby Petito Are Found</title>
+      <title>Remains Thought to Be Gabby Petito Are Found</title>
       <link>https://www.nytimes.com/2021/09/19/us/gabby-petito-body-brian-laundrie.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2021/09/19/us/gabby-petito-body-brian-laundrie.html</guid>
       <atom:link href="https://www.nytimes.com/2021/09/19/us/gabby-petito-body-brian-laundrie.html" rel="standout"></atom:link>
       <description>The authorities said remains found in Wyoming were consistent with a description of Gabrielle Petito, 22. She was reported missing after her fiancé returned alone from a cross-country van trip.</description>
       <dc:creator>Jesus Jiménez and Eduardo Medina</dc:creator>
-      <pubDate>Mon, 20 Sep 2021 09:22:29 +0000</pubDate>
+      <pubDate>Mon, 20 Sep 2021 16:33:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petito, Gabrielle</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Laundrie, Brian</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/19/multimedia/19xp-vanlife-2/19xp-vanlife-2-moth.jpg" width="151"></media:content>
+      <media:credit>Meg Potter/Jackson Hole News &amp; Guide, via Associated Press</media:credit>
+      <media:description>A coroner&#39;s vehicle leaving the Spread Creek camping area in Wyoming on Sunday.</media:description>
     </item>
     <item>
       <title>Military Jet Crashes in Texas Backyard, Injuring 2 Pilots</title>
@@ -355,69 +445,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/multimedia/19xp-lakeworth-01/19xp-lakeworth-01-moth.jpg" width="151"></media:content>
       <media:credit>Joni Scarbrough/via Reuters</media:credit>
       <media:description>Emergency responders near the site where a military training jet crashed into a residential neighborhood in Lake Worth, Texas, on Sunday.</media:description>
-    </item>
-    <item>
-      <title>With Abortion Rights Under Threat, Democrats Hope to Go on Offense</title>
-      <link>https://www.nytimes.com/2021/09/19/us/politics/abortion-rights-virginia-voters.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/19/us/politics/abortion-rights-virginia-voters.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/19/us/politics/abortion-rights-virginia-voters.html" rel="standout"></atom:link>
-      <description>Warning of Texas-style laws nationwide, the party believes it can use the issue to turn out suburban women in the Virginia governor’s race this fall and the 2022 midterms.</description>
-      <dc:creator>Trip Gabriel</dc:creator>
-      <pubDate>Sun, 19 Sep 2021 23:07:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roe v Wade (Supreme Court Decision)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia Beach (Va)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McAuliffe, Terry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Youngkin, Glenn</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/16/us/politics/00abortion-women-1/merlin_194682498_3f6c34d5-8ba5-42ab-9496-a94081efde03-moth.jpg" width="151"></media:content>
-      <media:credit>Carlos Bernate for The New York Times</media:credit>
-      <media:description>With Donald J. Trump gone from office, Democrats are worried about complacency in upcoming elections, including ones for the Virginia governor’s race and legislature in November.</media:description>
-    </item>
-    <item>
-      <title>John Shelby Spong, 90, Dies; Sought to Open Up the Episcopal Church</title>
-      <link>https://www.nytimes.com/2021/09/19/us/john-shelby-spong-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/19/us/john-shelby-spong-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/19/us/john-shelby-spong-dead.html" rel="standout"></atom:link>
-      <description>Bishop Spong pushed for women in the clergy and same-sex marriage, and he called on his followers to reject “supernatural” aspects of Christianity.</description>
-      <dc:creator>Clay Risen</dc:creator>
-      <pubDate>Sun, 19 Sep 2021 16:26:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spong, John Shelby</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Episcopal Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newark (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anglican Churches</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/20/obituaries/00Spong-1/00Spong-1-moth.jpg" width="151"></media:content>
-      <media:credit>Keith Beaty/Toronto Star via Getty Images</media:credit>
-      <media:description>Bishop John Shelby Spong in an undated photo. He used a combination of celebrity and tireless writing and speaking to open up the Episcopal Church.</media:description>
-    </item>
-    <item>
-      <title>Tropical Storm Peter Forms in the Atlantic Ocean</title>
-      <link>https://www.nytimes.com/article/tropical-storm-peter-hurricane.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/tropical-storm-peter-hurricane.html</guid>
-      <atom:link href="https://www.nytimes.com/article/tropical-storm-peter-hurricane.html" rel="standout"></atom:link>
-      <description>The 16th named storm of the 2021 season formed in the open ocean, east of the Caribbean.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 20 Sep 2021 08:26:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlantic Ocean</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/pageoneplus/00xp-PETER/00xp-PETER-moth.jpg" width="151"></media:content>
-      <media:credit>NOAA</media:credit>
-      <media:description>Tropical Storm Peter over the Atlantic Ocean on Sunday.</media:description>
     </item>
   </channel>
 </rss>
