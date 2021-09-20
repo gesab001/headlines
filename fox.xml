@@ -10,6 +10,25 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/man-u-wins-after-penalty-call-backfires-chelsea-beats-spurs</guid>
+      <link>https://www.foxnews.com/sports/man-u-wins-after-penalty-call-backfires-chelsea-beats-spurs</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Cristiano-Ronaldo-1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Cristiano-Ronaldo-1.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Cristiano-Ronaldo-1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">71452bb7-d070-5e22-a185-932a5d7d2690</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/soccer</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Man U wins after penalty call backfires; Chelsea beats Spurs</title>
+      <description>Seeing West Ham win a penalty deep into stoppage time, and presented with an unexpected chance to equalize against Manchester United, David Moyes made a bold call.</description>
+                   <pubDate>Mon, 20 Sep 2021 01:28:40 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/entertainment/emmys-2021-elizabeth-olsen-dress-designed-mary-kate-ashley-olsen</guid>
       <link>https://www.foxnews.com/entertainment/emmys-2021-elizabeth-olsen-dress-designed-mary-kate-ashley-olsen</link>
                   <media:group>
@@ -213,33 +232,6 @@
                          <pubDate>Mon, 20 Sep 2021 01:00:46 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Gary Gastelu</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/emmys-2021-michael-douglas-date-night-catherine-zeta-jones</guid>
-      <link>https://www.foxnews.com/entertainment/emmys-2021-michael-douglas-date-night-catherine-zeta-jones</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Michael-Douglass-Catherine-Zeta-Jones-1.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Michael-Douglass-Catherine-Zeta-Jones-1.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Michael-Douglass-Catherine-Zeta-Jones-1.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">0a2d2bfc-c6f5-5b36-8291-fa0b373a4eb1</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/emmys</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/couples</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/style</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/comedy</category>
-            <category domain="foxnews.com/taxonomy">fox-news/organization/netflix</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Emmys 2021 nominee Michael Douglas enjoys date night with wife Catherine Zeta-Jones</title>
-      <description>"The Kominsky Method" star Michael Douglas and Catherine Zeta-Jones appeared together on the Emmys 2021 red carpet.</description>
-                  <dc:creator>Nate Day</dc:creator>
-                         <pubDate>Mon, 20 Sep 2021 00:55:53 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
                             </item>
       </channel>
 </rss>
