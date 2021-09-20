@@ -10,6 +10,32 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/tatis-botches-popup-cards-beat-padres-8-7-win-8th-straight</guid>
+      <link>https://www.foxnews.com/sports/tatis-botches-popup-cards-beat-padres-8-7-win-8th-straight</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Fernando-Tatis-Jr3.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Fernando-Tatis-Jr3.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Fernando-Tatis-Jr3.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0c0bd78f-ef41-54e0-8775-d4f56ce784ab</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/san-diego-padres</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/st-louis-cardinals</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/nolan-arenado</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/eric-hosmer</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/paul-goldschmidt</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/fernando-tatis-jr</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/manny-machado</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Tatis botches popup, Cards beat Padres 8-7, win 8th straight</title>
+      <description>San Diego center fielder Fernando Tatis Jr. dropped Nolan Arenado’s bases-loaded popup and heaved the ball home, leading to a five-run first inning, and the St. Louis Cardinals beat the Padres 8-7 Sunday for an eight-game winning streak.</description>
+                   <pubDate>Mon, 20 Sep 2021 02:32:32 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/wisdom-sets-cubs-rookie-record-with-27th-hr-beat-brewers</guid>
       <link>https://www.foxnews.com/sports/wisdom-sets-cubs-rookie-record-with-27th-hr-beat-brewers</link>
                   <media:group>
@@ -198,27 +224,6 @@
       <title>Tigers, Peralta slow AL-East leading Rays 2-0</title>
       <description>Wily Peralta gave up three hits in seven innings, and Eric Haase and Dustin Garneau homered for the Detroit Tigers in a 2-0 win over the AL East-leading Tampa Bay Rays on Sunday.</description>
                    <pubDate>Mon, 20 Sep 2021 01:50:16 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/al-wild-card-leading-red-sox-rally-past-os-8-6</guid>
-      <link>https://www.foxnews.com/sports/al-wild-card-leading-red-sox-rally-past-os-8-6</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Kevin-Plawecki.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Kevin-Plawecki.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Kevin-Plawecki.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">c88841b2-c879-5702-94b8-08e3b4dd4f5b</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/boston-red-sox</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/baltimore-orioles</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>AL wild-card leading Red Sox rally past O's 8-6</title>
-      <description>Kiké Hernández’s game-tying RBI single caromed off the second-base bag and into shallow center field, sparking a three-run, seventh-inning rally that carried the AL wild-card leading Boston Red Sox to an 8-6 victory over the Baltimore Orioles Sunday and a sweep of their three-game series.</description>
-                   <pubDate>Mon, 20 Sep 2021 01:46:10 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
