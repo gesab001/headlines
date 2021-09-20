@@ -10,6 +10,52 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/2021-emmy-cedric-the-entertainers-monologue-jokes</guid>
+      <link>https://www.foxnews.com/entertainment/2021-emmy-cedric-the-entertainers-monologue-jokes</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/cedric.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/cedric.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/cedric.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1db96367-5b5c-5cb2-839c-ae259f5aa03a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/emmys</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>2021 Emmys: Cedric the Entertainer roasts the British royal family, 'Jeopardy!' and more in opening monologue</title>
+      <description>Cedric the Entertainer is emceeing the 73rd Primetime Emmy Awards.</description>
+                  <dc:creator>Jessica Napoli</dc:creator>
+                         <pubDate>Mon, 20 Sep 2021 01:44:47 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Jessica Napoli</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/kershaw-1st-win-since-june-streaking-dodgers-top-shaky-reds</guid>
+      <link>https://www.foxnews.com/sports/kershaw-1st-win-since-june-streaking-dodgers-top-shaky-reds</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Clayton-Kershaw.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Clayton-Kershaw.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Clayton-Kershaw.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1bb419da-df16-51a6-8f2a-c1f726c0f7c7</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/los-angeles-dodgers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/cincinnati-reds</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/clayton-kershaw</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/mookie-betts</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/corey-seager</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Kershaw 1st win since June, streaking Dodgers top shaky Reds</title>
+      <description>Clayton Kershaw pitched five sharp innings for his first win since June 27, Gavin Lux and Corey Seager each hit two-run homers and the streaking Los Angeles Dodgers beat the sliding Cincinnati Reds 8-5 Sunday.</description>
+                   <pubDate>Mon, 20 Sep 2021 01:42:47 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/berrios-tops-old-team-blue-jays-increase-lead-beat-twins</guid>
       <link>https://www.foxnews.com/sports/berrios-tops-old-team-blue-jays-increase-lead-beat-twins</link>
                   <media:group>
@@ -192,50 +238,5 @@
                         <category domain="foxnews.com/metadata/dc.source">OutKick</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/emmy-nominee-kaley-cuoco-red-carpet-neon-flower-gown</guid>
-      <link>https://www.foxnews.com/entertainment/emmy-nominee-kaley-cuoco-red-carpet-neon-flower-gown</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Kaley-Cuoco_Emmys-2021.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Kaley-Cuoco_Emmys-2021.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Kaley-Cuoco_Emmys-2021.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">19c63098-98e0-529b-bd98-06699600723e</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/person/kaley-cuoco</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/emmys</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/divorce</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Emmy nominee Kaley Cuoco stuns on the red carpet in first appearance since Karl Cook split</title>
-      <description>The lead actress in a comedy series nominee, 35, hit the scene in a sleeveless neon green gown with flowing flower accents.</description>
-                  <dc:creator>Julius Young</dc:creator>
-                         <pubDate>Mon, 20 Sep 2021 01:10:20 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Julius Young</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/red-wings-jared-mcisaac-loses-consciousness</guid>
-      <link>https://www.foxnews.com/sports/red-wings-jared-mcisaac-loses-consciousness</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Jared-McIsaac.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Jared-McIsaac.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Jared-McIsaac.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">6202f730-e224-5829-8caf-b49af5b61b1d</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nhl/detroit-red-wings</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nhl</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Red Wings prospect Jared McIsaac 'loses consciousness' during game</title>
-      <description>Detroit Red Wings prospect Jared McIsaac was involved in a scary incident during a tournament game against the Columbus Blue Jackets Sunday.</description>
-                  <dc:creator>Ryan Gaydos</dc:creator>
-                         <pubDate>Mon, 20 Sep 2021 01:03:24 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
-                            </item>
       </channel>
 </rss>
