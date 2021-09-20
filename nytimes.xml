@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2021 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Sep 2021 03:09:30 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Sep 2021 02:52:39 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Sep 2021 03:15:21 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Sep 2021 03:11:14 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -149,6 +149,21 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/multimedia/19DC-immigration-01/19DC-immigration-01-moth.jpg" width="151"></media:content>
       <media:credit>Shawn Thew/EPA, via Shutterstock</media:credit>
       <media:description>Members of United We Dream rallied near the White House in August to demand Congress deliver citizenship for millions of immigrants this year.</media:description>
+    </item>
+    <item>
+      <title>Remains Matching Description of Gabrielle Petito Were Found in Wyoming Camping Area </title>
+      <link>https://www.nytimes.com/2021/09/19/us/gabby-petito-remains-found-wyoming.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/19/us/gabby-petito-remains-found-wyoming.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/19/us/gabby-petito-remains-found-wyoming.html" rel="standout"></atom:link>
+      <description>Ms. Petito was last known to be driving toward the area with her fiancé as they embarked on a cross-country trip, according to her family.</description>
+      <dc:creator>Eduardo Medina</dc:creator>
+      <pubDate>Mon, 20 Sep 2021 00:27:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grand Teton National Park (Wyo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wyoming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petito, Gabrielle</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/us/19vanlife-briefing-location2/merlin_194996481_bcc82856-7bbf-4936-8056-f2ab36c19868-moth.jpg" width="151"></media:content>
+      <media:credit>Amber Baesler/Associated Press</media:credit>
+      <media:description>A Teton County Search and Rescue vehicle drives in the Spread Creek area in the Bridger-Teton National Forest, just east of Grand Teton National Park in Wyoming. Authorities say they have found a body believed to be Gabrielle Petito, who went missing on a trip with her boyfriend.</media:description>
     </item>
     <item>
       <title>Jill Biden Is Chasing the President’s Most Elusive Campaign Promise: Unity</title>
@@ -377,28 +392,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/18/us/politics/18california-oc-4/merlin_194894598_62733a06-e6f3-4c7f-bbf9-32ffdcb69578-moth.jpg" width="151"></media:content>
       <media:credit>Allison Zaucha for The New York Times</media:credit>
       <media:description>Fifty-two percent of voters in Orange County in Southern California, including Gail Grigaux, opposed the recall of Gov. Gavin Newsom.</media:description>
-    </item>
-    <item>
-      <title>Biden Administration to Deport Haitians in Del Rio, Texas</title>
-      <link>https://www.nytimes.com/2021/09/18/us/politics/biden-administration-haiti-texas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/18/us/politics/biden-administration-haiti-texas.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/18/us/politics/biden-administration-haiti-texas.html" rel="standout"></atom:link>
-      <description>The U.S. will begin flying migrants back to Haiti and other countries on Sunday as President Biden struggles to manage an immigration system already buckling under record migration.</description>
-      <dc:creator>Eileen Sullivan and Miriam Jordan</dc:creator>
-      <pubDate>Sun, 19 Sep 2021 20:34:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Del Rio (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/18/opinion/18dc-immig-image/18dc-immig-image-moth-v5.jpg" width="151"></media:content>
-      <media:credit>Verónica G. Cárdenas for The New York Times</media:credit>
-      <media:description>Officials estimated that more than 14,000 migrants have converged on Del Rio, Texas.</media:description>
     </item>
   </channel>
 </rss>
