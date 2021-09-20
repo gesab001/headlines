@@ -234,7 +234,7 @@ function displayFeeds(xml) {
 			var title = item.getElementsByTagName('title')[0].childNodes[0];
 			var description = item.getElementsByTagName('description')[0].childNodes[0];
 			link = item.getElementsByTagName('link')[0].childNodes[0];
-			text += "<h3><a href='"+link.nodeValue+"'>"+title.nodeValue +"</a></h3>"+ description.nodeValue;
+			text += "<h3><a href='read://"+link.nodeValue+"'>"+title.nodeValue +"</a></h3>"+ description.nodeValue;
 		  }catch{}
 		}
 		document.getElementById("demo").innerHTML =

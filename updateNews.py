@@ -33,10 +33,10 @@ def updateAuto(interval):
         
         
 def getAllCurrentNews():
-    command = "sudo git pull"
-    if platform.system()=="Windows":
-      command = "gitpull"
-    subprocess.call(command,shell=True)
+    #command = "sudo git pull"
+    #if platform.system()=="Windows":
+    #  command = "gitpull"
+    #subprocess.call(command,shell=True)
     f = open("news.json")
     json_string = f.read()
     rss = json.loads(json_string)
@@ -52,10 +52,10 @@ def getAllCurrentNews():
       except:
         print("error on " + url)
     updateDate()
-    command = "./deploy.sh"
-    if platform.system()=="Windows":
-      command = "deploy"
-    subprocess.call(command, shell=True)
+    #command = "./deploy.sh"
+    #if platform.system()=="Windows":
+    #  command = "deploy"
+    #subprocess.call(command, shell=True)
 
 
 if len(sys.argv)>1:

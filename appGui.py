@@ -21,7 +21,7 @@ class Ui_MainWindow(object):
 
     def readNews(self):
         print("read news")
-        webbrowser.open("https://gesab001.github.io/headlines")
+        webbrowser.open("read://https_www.stuff.co.nz/?url=https%3A%2F%2Fwww.stuff.co.nz%2Fnational%2Fpolitics%2F300411476%2Fcovid19-whole-country-could-see-restrictions-until-christmas-if-virus-isnt-stamped-out-in-auckland")
 
         
     def setupUi(self, MainWindow):
