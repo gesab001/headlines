@@ -246,7 +246,7 @@ function displayFeeds(xml) {
 				link =  "read:\/\/"+protocol.replace(":", "") + "_" + hostname + "\/?url="+domain ;
 			}
 
-			text += "<h3><a href='"+link+"'>"+title.nodeValue +"</a></h3>"+ description.nodeValue;
+			text += "<h3><a target='_blank' href='"+link+"'>"+title.nodeValue +"</a></h3>"+ description.nodeValue;
 		  }catch{}
 		}
 		document.getElementById("demo").innerHTML =
