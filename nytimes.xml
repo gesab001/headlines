@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2021 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Sep 2021 00:36:16 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Sep 2021 00:20:35 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Sep 2021 00:56:38 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Sep 2021 00:44:37 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -106,6 +106,26 @@
       <media:description>A polling site in El Centro, Calif., during this month’s recall vote for governor. </media:description>
     </item>
     <item>
+      <title>Democrats Dealt a Blow on Immigration Plans</title>
+      <link>https://www.nytimes.com/2021/09/19/us/politics/immigration-citizenship.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/19/us/politics/immigration-citizenship.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/19/us/politics/immigration-citizenship.html" rel="standout"></atom:link>
+      <description>The Senate’s parliamentarian ruled that Democrats’ plan to give 8 million immigrants a path to citizenship could not be achieved through the reconciliation process.</description>
+      <dc:creator>Luke Broadwater</dc:creator>
+      <pubDate>Mon, 20 Sep 2021 00:44:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dream Act (Development, Relief and Education for Minors Act)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">MacDonough, Elizabeth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/multimedia/19DC-immigration-01/19DC-immigration-01-moth.jpg" width="151"></media:content>
+      <media:credit>Shawn Thew/EPA, via Shutterstock</media:credit>
+      <media:description>Members of United We Dream rally near the White House in August to demand Congress deliver citizenship for millions this year through the reconciliation process.</media:description>
+    </item>
+    <item>
       <title>Jill Biden Is Chasing the President’s Most Elusive Campaign Promise: Unity</title>
       <link>https://www.nytimes.com/2021/09/19/us/politics/jill-biden.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2021/09/19/us/politics/jill-biden.html</guid>
@@ -158,6 +178,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/us/19texas-beto/19texas-beto-moth.jpg" width="151"></media:content>
       <media:credit>Ilana Panich-Linsman for The New York Times</media:credit>
       <media:description>Beto O’Rourke, whose 2018 Senate campaign galvanized Democrats, spoke in May at a rally at the Texas Capitol.</media:description>
+    </item>
+    <item>
+      <title>Human Remains Believed to Belong to Gabby Petito Are Found</title>
+      <link>https://www.nytimes.com/2021/09/19/us/gabby-petito-body-brian-laudrie.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/19/us/gabby-petito-body-brian-laudrie.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/19/us/gabby-petito-body-brian-laudrie.html" rel="standout"></atom:link>
+      <description>The authorities said they had found human remains in Wyoming consistent with a description of Gabrielle Petito, 22. The authorities continue to search for her fiancé, Brian Laundrie. She was reported missing after he returned home alone from a cross-country van trip.</description>
+      <dc:creator>Jesus Jiménez and Eduardo Medina</dc:creator>
+      <pubDate>Mon, 20 Sep 2021 00:42:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petito, Gabrielle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Laundrie, Brian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/us/19vanlife-briefing-location3/19vanlife-briefing-location3-moth.jpg" width="151"></media:content>
+      <media:credit>FBI Denver, via Associated Press</media:credit>
+      <media:description>Gabrielle Petito, 22, was reported missing after traveling with her boyfriend around the country in a van. The authorities said human remains discovered on Sunday in Wyoming are believed to be hers.</media:description>
     </item>
     <item>
       <title>Military Jet Crashes in Texas Backyard, Injuring 2 Pilots</title>
@@ -378,46 +415,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/17/us/17texas-conservatives/17texas-conservatives-moth.jpg" width="151"></media:content>
       <media:credit>Sergio Flores/Getty Images</media:credit>
       <media:description>In the span of a few months, the Legislature in Austin has swung especially hard to the right, a pronounced political shift that has caught even many conservative residents off guard.</media:description>
-    </item>
-    <item>
-      <title>F.D.A. Panel&#39;s Vote on Covid Boosters Sets Biden Plan Back</title>
-      <link>https://www.nytimes.com/2021/09/18/us/biden-fda-booster-shot-pfizer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/18/us/biden-fda-booster-shot-pfizer.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/18/us/biden-fda-booster-shot-pfizer.html" rel="standout"></atom:link>
-      <description>The panel recommended against blanket access to Pfizer boosters for those 16 and older, but urged offering them to those 65 and older and “at high risk,” a term that offers the White House some room to expand access.</description>
-      <dc:creator>Ron DePasquale</dc:creator>
-      <pubDate>Sat, 18 Sep 2021 16:13:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BioNTech SE</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/18/us/18virus-brief-fda-boosters-lede/18virus-brief-fda-boosters-lede-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Biden speaking in Washington on Aug. 23, when the Food and Drug Administration gave the Pfizer-BioNTech shots full approval, a first for a Covid vaccine. </media:description>
-    </item>
-    <item>
-      <title>Washington, D.C., on Edge Over Protest of Jan. 6 Arrests</title>
-      <link>https://www.nytimes.com/2021/09/18/us/politics/capitol-sept-18-rally.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/18/us/politics/capitol-sept-18-rally.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/18/us/politics/capitol-sept-18-rally.html" rel="standout"></atom:link>
-      <description>Organizers said the police response had dampened turnout for the “Justice for J6” rally, which served as a platform for pro-Trump politicians seeking House seats next year.</description>
-      <dc:creator>Jonathan Weisman and Matthew Rosenberg</dc:creator>
-      <pubDate>Sun, 19 Sep 2021 04:16:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capitol Building (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Look Ahead America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Braynard, Matt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/18/us/18dc-rally-new-2/18dc-rally-new-2-moth.jpg" width="151"></media:content>
-      <media:credit>Kenny Holston for The New York Times</media:credit>
-      <media:description>Journalists interview an attendee of a rally in Washington on Saturday that was intended to support those accused of taking part in the Capitol riot on Jan. 6.</media:description>
     </item>
   </channel>
 </rss>

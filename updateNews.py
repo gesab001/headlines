@@ -4,13 +4,14 @@ import subprocess
 from updateDropbox import upload
 import platform 
 from datetime import date
-from datetime import datetime
+import datetime
+
 import sys
 import requests
 import time
    
 def updateDate():
- now = datetime.now()
+ now = datetime.datetime.now()
  date_string = now.strftime("%A, %B %d %Y %r")
  command = str(date_string) + " NZ"
  with open("lastNewsUpdate.txt", "wb") as f:
@@ -23,7 +24,7 @@ def updateAuto(interval):
         print("updating news")
         getAllCurrentNews()
         print("update successful")
-        now = datetime.now()
+        now = datetime.datetime.now()
         added_seconds = datetime.timedelta(0,interval)
         new_datetime = now + added_seconds
         nextUpdate = new_datetime.strftime("%A, %B %d %Y %r")
