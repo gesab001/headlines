@@ -10,6 +10,29 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/joe-concha-gen-milley-trump-pence-in-the-dark-washington-post</guid>
+      <link>https://www.foxnews.com/media/joe-concha-gen-milley-trump-pence-in-the-dark-washington-post</link>
+                  <media:group>
+        <media:content url="https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/694940094001/90e61a34-c4d9-447c-b333-0f55354158a9/10s/master.m3u8?fastly_token=NjIzOTJlZWNfOTNiOTRhNjQ1YTE5OGQ5OWZmZTc4MDFiNTY3YjQ5MzJlMGI2OGNkZGFhZjIxYzhlMTYxYjQ1ZThhYzBlN2RlMA%3D%3D" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/master.m3u8?fastly_token=NjIzOTJlZWNfOTNiOTRhNjQ1YTE5OGQ5OWZmZTc4MDFiNTY3YjQ5MzJlMGI2OGNkZGFhZjIxYzhlMTYxYjQ1ZThhYzBlN2RlMA%3D%3D" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/master.m3u8?fastly_token=NjIzOTJlZWNfOTNiOTRhNjQ1YTE5OGQ5OWZmZTc4MDFiNTY3YjQ5MzJlMGI2OGNkZGFhZjIxYzhlMTYxYjQ1ZThhYzBlN2RlMA%3D%3D" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">cf67a8de-ccce-51c8-b9e4-b8abdbf4bc2a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/national-security</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Joe Concha: What else did Gen. Milley keep Trump, Pence in the dark on?</title>
+      <description>Fox News contributor Joe Concha knocked The Washington Post’s Bob Woodward and Robert Costa on Sunday for holding onto the bombshell revelation that Chairman of the Joint Chiefs of Staff General Mark Milley had made phone calls to a Chinese counterpart during the final months of the Trump administration.</description>
+                  <dc:creator>Nikolas Lanum</dc:creator>
+                         <pubDate>Mon, 20 Sep 2021 03:09:35 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nikolas Lanum</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/alejandro-villanueva-comparing-tackle-army-experience-resurfaces</guid>
       <link>https://www.foxnews.com/sports/alejandro-villanueva-comparing-tackle-army-experience-resurfaces</link>
                   <media:group>
@@ -212,29 +235,6 @@
       <title>Abreu, White Sox closer to AL Central title, beat Rangers</title>
       <description>Lucas Giolito feels like the Chicago White Sox are right where they need to be as they close in on their first AL Central title since 2008.</description>
                    <pubDate>Mon, 20 Sep 2021 02:23:53 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/siri-mccormick-rally-al-west-leading-astros-past-d-backs</guid>
-      <link>https://www.foxnews.com/sports/siri-mccormick-rally-al-west-leading-astros-past-d-backs</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Jose-Siri.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Jose-Siri.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Jose-Siri.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">4853a3cd-5541-5b14-8396-4d3c65c62ccc</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/houston-astros</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/arizona-diamondbacks</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/carlos-correa</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/alex-bregman</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Siri, McCormick rally AL West-leading Astros past D-backs</title>
-      <description>Jose Siri and Chas McCormick hit back-to-back home runs in the eighth inning, rallying the AL West-leading Houston Astros over the Arizona Diamondbacks 7-6 on Sunday.</description>
-                   <pubDate>Mon, 20 Sep 2021 02:19:13 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
