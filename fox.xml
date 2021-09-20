@@ -10,6 +10,28 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/emmys-2021-conan-obrien-salute-academy-chairman-ceo</guid>
+      <link>https://www.foxnews.com/entertainment/emmys-2021-conan-obrien-salute-academy-chairman-ceo</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Conan.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Conan.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Conan.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">99de15bb-fb47-537d-96cc-b7273f9f7d5d</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/emmys</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Emmys 2021: Conan O'Brien goes viral for reaction to Television Academy Chairman's speech</title>
+      <description>Conan O'Brien caught the attention of the viewers and attendees of the 2021 Emmy Awards when he enthusiastically saluted and cheered for Television Academy Chairman and CEO Frank Scherma.</description>
+                  <dc:creator>Nate Day</dc:creator>
+                         <pubDate>Mon, 20 Sep 2021 03:58:31 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/politics/senate-parliamentarian-deals-blow-to-dems-immigration-push</guid>
       <link>https://www.foxnews.com/politics/senate-parliamentarian-deals-blow-to-dems-immigration-push</link>
                   <media:group>
@@ -215,27 +237,5 @@
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Julius Young</category>
                             </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/ohtani-strkes-out-10-as-beat-angels-3-2-stay-in-wc-race</guid>
-      <link>https://www.foxnews.com/sports/ohtani-strkes-out-10-as-beat-angels-3-2-stay-in-wc-race</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Shohei-Ohtani2.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Shohei-Ohtani2.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Shohei-Ohtani2.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">defbefd5-265d-5b3b-9317-4e16e181db10</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/los-angeles-angels</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/oakland-athletics</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/shohei-ohtani</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Ohtani strkes out 10, A's beat Angels 3-2, stay in WC race</title>
-      <description>Shohei Ohtani struck out 10 but went winless in consecutive starts on the mound for the first time since June, and the Oakland Athletics rebounded from a bullpen meltdown to beat the Los Angeles Angels 3-2 in 10 innings Sunday.</description>
-                   <pubDate>Mon, 20 Sep 2021 02:40:44 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
       </channel>
 </rss>
