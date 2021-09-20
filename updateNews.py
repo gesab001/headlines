@@ -7,6 +7,7 @@ from datetime import date
 from datetime import datetime
 import sys
 import requests
+import time
    
 def updateDate():
  now = datetime.now()
