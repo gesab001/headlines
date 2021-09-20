@@ -10,6 +10,26 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/senate-parliamentarian-deals-blow-to-dems-immigration-push</guid>
+      <link>https://www.foxnews.com/politics/senate-parliamentarian-deals-blow-to-dems-immigration-push</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/biden-tumb.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/biden-tumb.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/biden-tumb.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">fefdb3e7-d903-5780-816e-ac782ab18a8e</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/senate</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/immigration</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Senate parliamentarian deals blow to Dems' immigration push</title>
+      <description>Democrats can't use their $3.5 trillion package bolstering social and climate programs for their plan to give millions of immigrants a chance to become citizens, the Senate's parliamentarian said late Sunday, a crushing blow to what was the party's clearest pathway in years to attaining that long-sought goal.</description>
+                   <pubDate>Mon, 20 Sep 2021 03:55:42 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/ravens-lamar-jackson-victory-chiefs-patrick-mahomes</guid>
       <link>https://www.foxnews.com/sports/ravens-lamar-jackson-victory-chiefs-patrick-mahomes</link>
                   <media:group>
@@ -217,29 +237,5 @@
                         <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/2021-emmys-political-jokes-gavin-newsom-recall-mike-pence-fly</guid>
-      <link>https://www.foxnews.com/entertainment/2021-emmys-political-jokes-gavin-newsom-recall-mike-pence-fly</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/GettyImages-1235372670-e1632105238605.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/GettyImages-1235372670-e1632105238605.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/GettyImages-1235372670-e1632105238605.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">bdcbc660-83e2-5911-abb7-fef8eb8b6067</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/emmys</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/stephen-colbert</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
-            <category domain="foxnews.com/taxonomy">fox-news/newsedge/politics</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>2021 Emmys get political with Newsom recall joke, Mike Pence fly skit</title>
-      <description>Politics found its way into the 2021 Emmy Awards.</description>
-                  <dc:creator>Jessica Napoli</dc:creator>
-                         <pubDate>Mon, 20 Sep 2021 02:37:10 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Jessica Napoli</category>
-                            </item>
       </channel>
 </rss>
