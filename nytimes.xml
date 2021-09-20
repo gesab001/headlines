@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2021 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Sep 2021 05:53:42 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Sep 2021 04:27:52 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Sep 2021 07:24:46 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Sep 2021 07:19:19 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -104,6 +104,53 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/18/us/18electionworkers-1/merlin_194765076_901db1f5-064b-4923-b713-f1a9627fd794-moth.jpg" width="151"></media:content>
       <media:credit>John Francis Peters for The New York Times</media:credit>
       <media:description>A polling site in El Centro, Calif., during this month’s recall vote for governor. </media:description>
+    </item>
+    <item>
+      <title>U.S. Troops Still Deploying to Iraq, Even as Afghan War Ends</title>
+      <link>https://www.nytimes.com/2021/09/20/us/troops-deploy-iraq.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/20/us/troops-deploy-iraq.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/20/us/troops-deploy-iraq.html" rel="standout"></atom:link>
+      <description>In the other country the United States invaded after 9/11, American troops continue to serve combat tours in harm’s way. Meet the soldiers headed for duty in Iraq.</description>
+      <dc:creator>Dave Philipps</dc:creator>
+      <pubDate>Mon, 20 Sep 2021 07:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">First Stryker Brigade Combat Team, Fourth Infantry Division</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fort Carson (Colo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steadman, Andrew</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mason, Joseph</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Albright, Olivia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blomer, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tran, Caroiline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pabon, Carlos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chaplains</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/20/us/20brigade-print1/xxbrigade-top-moth.jpg" width="151"></media:content>
+      <media:credit>Michael Ciaglo for The New York Times</media:credit>
+      <media:description>The First Stryker Brigade Combat Team, Fourth Infantry Division, is deploying to Iraq for a nine-month tour of duty. A bus carried soldiers of the brigade, based at Fort Carson, Colo., to board a military flight on Sept. 12.</media:description>
+    </item>
+    <item>
+      <title>Residents of Del Rio Feel the Impact of the Migrant Crisis</title>
+      <link>https://www.nytimes.com/2021/09/20/us/delrio-texas-migrants-crisis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/20/us/delrio-texas-migrants-crisis.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/20/us/delrio-texas-migrants-crisis.html" rel="standout"></atom:link>
+      <description>The influx of thousands of migrants has led to squalor under a bridge, and a dispirited town beyond it.</description>
+      <dc:creator>Edgar Sandoval and James Dobbins</dc:creator>
+      <pubDate>Mon, 20 Sep 2021 07:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mexican-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Laughlin Air Force Base (Del Rio, Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio Grande River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/multimedia/00DELRIO-MIGRANTS-3/00DELRIO-MIGRANTS-3-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Verónica G. Cárdenas for The New York Times</media:credit>
+      <media:description>Migrants walk across the Rio Grande River carrying food and other supplies back to the encampment.</media:description>
     </item>
     <item>
       <title>What We Know About Brian Laundrie, the Fiancé of Gabby Petito</title>
@@ -356,42 +403,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/18/us/18xp-texas/merlin_122103770_a9cfb1b2-3f40-4d82-a163-01896f9b1e82-moth.jpg" width="151"></media:content>
       <media:credit>Ilana Panich-Linsman for The New York Times</media:credit>
       <media:description>An ultrasound machine and exam table inside a clinic in Texas. A new state law prohibits most abortions after about six weeks of pregnancy, before many women are even aware they are pregnant.</media:description>
-    </item>
-    <item>
-      <title>California&#39;s Governor Says Two of His Children Tested Positive for the Coronavirus </title>
-      <link>https://www.nytimes.com/2021/09/18/us/california-governor-covid-children.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/18/us/california-governor-covid-children.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/18/us/california-governor-covid-children.html" rel="standout"></atom:link>
-      <description>Gavin Newsom’s office said the state’s first family was “following all Covid protocols.”</description>
-      <dc:creator>Shawn Hubler</dc:creator>
-      <pubDate>Mon, 20 Sep 2021 04:27:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, California Gubernatorial Recall (2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/18/lens/18virus-briefing-newsom-covid-01/merlin_194562912_fdeaa8f7-818e-4bed-bcd7-8218d1e0428b-moth.jpg" width="151"></media:content>
-      <media:credit>Jim Wilson/The New York Times</media:credit>
-      <media:description>Gov. Gavin Newsom shared that two of his children tested positive for the coronavirus. The rest of the family has tested negative.</media:description>
-    </item>
-    <item>
-      <title>In Orange County, the Recall’s Defeat Echoes Years of G.O.P. Erosion</title>
-      <link>https://www.nytimes.com/2021/09/18/us/california-recall-orange-county.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/18/us/california-recall-orange-county.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/18/us/california-recall-orange-county.html" rel="standout"></atom:link>
-      <description>Voters struck down the effort to recall Gov. Gavin Newsom, continuing the political seesawing that has defined the former Republican stronghold.</description>
-      <dc:creator>Jill Cowan and Shane Goldmacher</dc:creator>
-      <pubDate>Sun, 19 Sep 2021 01:17:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orange County (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, California Gubernatorial Recall (2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elder, Larry (1952- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/18/us/politics/18california-oc-4/merlin_194894598_62733a06-e6f3-4c7f-bbf9-32ffdcb69578-moth.jpg" width="151"></media:content>
-      <media:credit>Allison Zaucha for The New York Times</media:credit>
-      <media:description>Fifty-two percent of voters in Orange County in Southern California, including Gail Grigaux, opposed the recall of Gov. Gavin Newsom.</media:description>
     </item>
   </channel>
 </rss>
