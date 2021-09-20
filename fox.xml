@@ -10,6 +10,30 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/biden-blinken-failing-weak-leadership-disasters-liz-peek</guid>
+      <link>https://www.foxnews.com/opinion/biden-blinken-failing-weak-leadership-disasters-liz-peek</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Biden-AP-2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Biden-AP-2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Biden-AP-2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c4a38a94-fc47-51aa-8ddb-7a73ae021082</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/afghanistan</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy/state-department</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Liz Peek: Biden, Blinken failing – weak, feckless leadership creating series of disasters, hurting US</title>
+      <description>The Biden White House is in free fall. The president’s approval ratings continue to slide and will likely worsen as Americans digest recent disasters and put the blame where it belongs – on Joe Biden.</description>
+                  <dc:creator>Liz Peek</dc:creator>
+                         <pubDate>Mon, 20 Sep 2021 09:00:07 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Liz Peek</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/us/fbi-body-found-wyoming-likely-gabby-petito</guid>
       <link>https://www.foxnews.com/us/fbi-body-found-wyoming-likely-gabby-petito</link>
                   <media:group>
@@ -197,28 +221,6 @@
                          <pubDate>Mon, 20 Sep 2021 04:06:54 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/ravens-lamar-jackson-4th-down-conversion</guid>
-      <link>https://www.foxnews.com/sports/ravens-lamar-jackson-4th-down-conversion</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Lamar-Jackson2.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Lamar-Jackson2.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Lamar-Jackson2.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">594594e1-552c-5a90-9be6-a6fa7e4d7d95</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/baltimore-ravens</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/lamar-jackson</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Ravens' Lamar Jackson reveals lead up to crucial 4th down conversion: 'Do you want to go for this?'</title>
-      <description>Baltimore Ravens coach John Harbaugh put the decision to go for it on 4th down against the Kansas City Chiefs in a crucial moment on Sunday night up to Lamar Jackson.</description>
-                  <dc:creator>Ryan Gaydos</dc:creator>
-                         <pubDate>Mon, 20 Sep 2021 04:04:14 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
                             </item>
       </channel>
 </rss>
