@@ -10,6 +10,27 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/mayorkas-warns-haitian-migrants-not-to-attempt-journey-to-us-mass-expulsion-begins</guid>
+      <link>https://www.foxnews.com/politics/mayorkas-warns-haitian-migrants-not-to-attempt-journey-to-us-mass-expulsion-begins</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/05/mayorkas-xxxx-newsletter.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/mayorkas-xxxx-newsletter.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/mayorkas-xxxx-newsletter.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">281c50cf-577f-5745-a196-7f34bf5797ab</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/immigration</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/homeland-security</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Mayorkas warns Haitian migrants not to attempt journey to US, mass expulsion begins</title>
+      <description>Alejandro Mayorkas, the head of the Department of Homeland Security, warned Haitian migrants against attempting a voyage to the US as more 12,000 migrants were camped around a bridge in Del Rio, Texas.</description>
+                  <dc:creator>Edmund DeMarche</dc:creator>
+                         <pubDate>Mon, 20 Sep 2021 07:52:30 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/us/new-jersey-police-officer-catches-1-month-old-baby-dropped-off-balcony</guid>
       <link>https://www.foxnews.com/us/new-jersey-police-officer-catches-1-month-old-baby-dropped-off-balcony</link>
                   <media:group>
@@ -207,30 +228,6 @@
                          <pubDate>Mon, 20 Sep 2021 03:43:45 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/emmys-2021-seth-rogen-covid-19-safety-protocols</guid>
-      <link>https://www.foxnews.com/entertainment/emmys-2021-seth-rogen-covid-19-safety-protocols</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Seth-Rogen-emmys-2021.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Seth-Rogen-emmys-2021.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Seth-Rogen-emmys-2021.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">befc2b6a-e834-5a72-801e-1f30d40df2d3</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/emmys</category>
-            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Emmys 2021 presenter Seth Rogen comments on lack of COVID-19 safety protocols at award show, Twitter piles on</title>
-      <description>Emmys 2021 presenter Seth Rogen made jokes about the lack of coronavirus safety precautions at the award show.</description>
-                  <dc:creator>Nate Day</dc:creator>
-                         <pubDate>Mon, 20 Sep 2021 03:32:07 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
                             </item>
       </channel>
 </rss>
