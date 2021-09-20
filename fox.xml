@@ -10,6 +10,30 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/emmys-2021-seth-rogen-covid-19-safety-protocols</guid>
+      <link>https://www.foxnews.com/entertainment/emmys-2021-seth-rogen-covid-19-safety-protocols</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Seth-Rogen-emmys-2021.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Seth-Rogen-emmys-2021.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Seth-Rogen-emmys-2021.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">befc2b6a-e834-5a72-801e-1f30d40df2d3</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/emmys</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Emmys 2021 presenter Seth Rogen comments on lack of COVID-19 safety protocols at award show, Twitter piles on</title>
+      <description>Emmys 2021 presenter Seth Rogen made jokes about the lack of coronavirus safety precautions at the award show.</description>
+                  <dc:creator>Nate Day</dc:creator>
+                         <pubDate>Mon, 20 Sep 2021 03:32:07 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/titans-aj-brown-message-week-2-performance</guid>
       <link>https://www.foxnews.com/sports/titans-aj-brown-message-week-2-performance</link>
                   <media:group>
@@ -208,32 +232,6 @@
       <title>Rosario hits for cycle, leads Fried, Braves over Giants 3-0</title>
       <description>Eddie Rosario became the second Atlanta player in a month to hit for the cycle, Max Fried pitched seven strong innings and the Braves beat the San Francisco Giants 3-0 Sunday in a matchup of division leaders.</description>
                    <pubDate>Mon, 20 Sep 2021 02:36:02 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/tatis-botches-popup-cards-beat-padres-8-7-win-8th-straight</guid>
-      <link>https://www.foxnews.com/sports/tatis-botches-popup-cards-beat-padres-8-7-win-8th-straight</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Fernando-Tatis-Jr3.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Fernando-Tatis-Jr3.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Fernando-Tatis-Jr3.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">0c0bd78f-ef41-54e0-8775-d4f56ce784ab</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/san-diego-padres</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/st-louis-cardinals</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/nolan-arenado</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/eric-hosmer</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/paul-goldschmidt</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/fernando-tatis-jr</category>
-            <category domain="foxnews.com/taxonomy">fox-news/person/manny-machado</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Tatis botches popup, Cards beat Padres 8-7, win 8th straight</title>
-      <description>San Diego center fielder Fernando Tatis Jr. dropped Nolan Arenado’s bases-loaded popup and heaved the ball home, leading to a five-run first inning, and the St. Louis Cardinals beat the Padres 8-7 Sunday for an eight-game winning streak.</description>
-                   <pubDate>Mon, 20 Sep 2021 02:32:32 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
