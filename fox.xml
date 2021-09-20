@@ -10,6 +10,29 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/sotos-454-foot-homer-helps-nationals-beat-rockies-3-0</guid>
+      <link>https://www.foxnews.com/sports/sotos-454-foot-homer-helps-nationals-beat-rockies-3-0</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/5b4fb2f1-Juan-Soto.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/5b4fb2f1-Juan-Soto.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/5b4fb2f1-Juan-Soto.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2cc4c3e5-4afc-50d2-a04b-c881b37d3ce8</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/washington-nationals</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/colorado-rockies</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/juan-soto</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/jon-gray</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Soto's 454-foot homer helps Nationals beat Rockies 3-0</title>
+      <description>Juan Soto homered to back Paolo Espino, and the Washington Nationals beat Colorado 3-0 Sunday to end the Rockies' rare five-game road winning streak.</description>
+                   <pubDate>Mon, 20 Sep 2021 01:33:12 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/man-u-wins-after-penalty-call-backfires-chelsea-beats-spurs</guid>
       <link>https://www.foxnews.com/sports/man-u-wins-after-penalty-call-backfires-chelsea-beats-spurs</link>
                   <media:group>
@@ -209,29 +232,6 @@
                          <pubDate>Mon, 20 Sep 2021 01:01:08 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Bradford Betz</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/auto/2022-toyota-tundra-unveiled-hybrid</guid>
-      <link>https://www.foxnews.com/auto/2022-toyota-tundra-unveiled-hybrid</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/gif-tundra.gif" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/gif-tundra.gif" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/gif-tundra.gif" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">87fd80b7-e789-515e-9d19-4edcb48ab3c7</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/auto/style/pickups</category>
-            <category domain="foxnews.com/taxonomy">fox-news/auto/style/trucks</category>
-            <category domain="foxnews.com/taxonomy">fox-news/auto/make/toyota</category>
-            <category domain="foxnews.com/taxonomy">fox-news/auto/attributes/off-road</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/auto</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>2022 Toyota Tundra unveiled with huge hybrid power and in-your-face styling</title>
-      <description>The Toyota Tundra has been fully redesigned for 2022 with a new look and the model's first hybrid powertrain. The full-size pickup goes on sale later this year.</description>
-                  <dc:creator>Gary Gastelu</dc:creator>
-                         <pubDate>Mon, 20 Sep 2021 01:00:46 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Gary Gastelu</category>
                             </item>
       </channel>
 </rss>
