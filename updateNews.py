@@ -12,8 +12,9 @@ def updateDate():
  now = datetime.now()
  date_string = now.strftime("%A, %B %d %Y %r")
  command = str(date_string) + " NZ"
- with open("lastNewsUpdate.txt", "w") as f:
-  f.write(command)
+ with open("lastNewsUpdate.txt", "wb") as f:
+  f.write(command.encode('utf-8'))
+  f.close()
   upload("lastNewsUpdate.txt")
 
 def getAllCurrentNews():
