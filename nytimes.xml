@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2021 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Sep 2021 02:20:46 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Sep 2021 02:20:44 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Sep 2021 02:29:41 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Sep 2021 02:24:06 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -65,7 +65,7 @@
       <atom:link href="https://www.nytimes.com/2021/09/19/us/murdaugh-murders-alex-paul.html" rel="standout"></atom:link>
       <description>The unsolved killings of a lawyer’s wife and son have brought new scrutiny to three other deaths in recent years.</description>
       <dc:creator>Nicholas Bogel-Burroughs</dc:creator>
-      <pubDate>Sun, 19 Sep 2021 09:00:09 +0000</pubDate>
+      <pubDate>Sun, 19 Sep 2021 09:00:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Falls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hit-and-Run Drivers</category>
@@ -104,6 +104,31 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/18/us/18electionworkers-1/merlin_194765076_901db1f5-064b-4923-b713-f1a9627fd794-moth.jpg" width="151"></media:content>
       <media:credit>John Francis Peters for The New York Times</media:credit>
       <media:description>A polling site in El Centro, Calif., during this month’s recall vote for governor. </media:description>
+    </item>
+    <item>
+      <title>What We Know About Brian Laundrie, the Fiancé of Gabby Petito</title>
+      <link>https://www.nytimes.com/2021/09/19/us/brian-laundrie-gabrielle-petito-fiance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/19/us/brian-laundrie-gabrielle-petito-fiance.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/19/us/brian-laundrie-gabrielle-petito-fiance.html" rel="standout"></atom:link>
+      <description>Mr. Laundrie, who is missing, was the last known person to have been with Ms. Petito before she went missing, according to the authorities.</description>
+      <dc:creator>Eduardo Medina</dc:creator>
+      <pubDate>Mon, 20 Sep 2021 02:22:14 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/us/19vanlife-briefing-brian-laundrie/19vanlife-briefing-brian-laundrie-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse, via Moab City Police Department/Afp Via Getty Images</media:credit>
+      <media:description>A still image from police body camera footage recorded on Aug. 12, released by the Moab City Police Department in Utah, shows Brian Laundrie speaking with police when they responded to an altercation between Mr. Laundrie and his fiancée, Gabrielle Petito.</media:description>
+    </item>
+    <item>
+      <title>Who is Gabby Petito?</title>
+      <link>https://www.nytimes.com/2021/09/19/us/who-is-gabrielle-petito.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/19/us/who-is-gabrielle-petito.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/19/us/who-is-gabrielle-petito.html" rel="standout"></atom:link>
+      <description>Gabrielle Petito had worked as a pharmacy technician to save money for a crosscountry trip with her boyfriend.</description>
+      <dc:creator>Ethan Hauser, Maria Cramer and Michael Levenson</dc:creator>
+      <pubDate>Mon, 20 Sep 2021 00:56:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petito, Gabrielle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Laundrie, Brian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grand Teton National Park (Wyo)</category>
     </item>
     <item>
       <title>Democrats Dealt a Blow on Immigration Plans</title>
@@ -295,7 +320,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/20/us/00dc-telehealth1/merlin_194884077_ce0ab526-2fa1-4bf0-bbed-5a2f5a12763c-moth.jpg" width="151"></media:content>
       <media:credit>Imani Khayyam for The New York Times</media:credit>
-      <media:description>Joanne Haynes, a nurse practitioner at the University of Mississippi Medical Center, meeting virtually with a patient. The center will receive more than $3.5 million to improve health care in rural areas of the state.</media:description>
+      <media:description>Joanne Haynes, a nurse practitioner at the University of Mississippi Medical Center, meeting virtually with a patient. The center will receive more than $3.5 million to improve health care in rural areas of the state.</media:description>
     </item>
     <item>
       <title>Texas Doctor Says He Performed an Abortion in Defiance of New State Law</title>
@@ -374,47 +399,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/18/opinion/18dc-immig-image/18dc-immig-image-moth-v5.jpg" width="151"></media:content>
       <media:credit>Verónica G. Cárdenas for The New York Times</media:credit>
       <media:description>Officials estimated that more than 14,000 migrants have converged on Del Rio, Texas.</media:description>
-    </item>
-    <item>
-      <title>3 Weeks After Hurricane Ida, Parts of Louisiana Remain Dark</title>
-      <link>https://www.nytimes.com/2021/09/18/us/ida-louisiana-power-outages.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/18/us/ida-louisiana-power-outages.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/18/us/ida-louisiana-power-outages.html" rel="standout"></atom:link>
-      <description>As businesses and schools have reopened in New Orleans, ongoing power outages in communities just beyond the city put recovery out of reach.</description>
-      <dc:creator>Sophie Kasakove</dc:creator>
-      <pubDate>Sat, 18 Sep 2021 17:04:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ida (2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Entergy Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/us/00Louisiana-NoPower-1/merlin_194697258_0c001a91-646d-44b6-bad8-6fb1546264b9-moth.jpg" width="151"></media:content>
-      <media:credit>Emily Kask for The New York Times</media:credit>
-      <media:description>Downed power lines in Luling, La.</media:description>
-    </item>
-    <item>
-      <title>Texas Lawmakers Plan to Continue Their Rightward Shift</title>
-      <link>https://www.nytimes.com/2021/09/18/us/texas-republicans-democrats.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/18/us/texas-republicans-democrats.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/18/us/texas-republicans-democrats.html" rel="standout"></atom:link>
-      <description>The state recently completed one of its most conservative legislative sessions, widening a divide among many residents.</description>
-      <dc:creator>J. David Goodman</dc:creator>
-      <pubDate>Sat, 18 Sep 2021 16:00:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Patrick, Dan (1950- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Waller County (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/17/us/17texas-conservatives/17texas-conservatives-moth.jpg" width="151"></media:content>
-      <media:credit>Sergio Flores/Getty Images</media:credit>
-      <media:description>In the span of a few months, the Legislature in Austin has swung especially hard to the right, a pronounced political shift that has caught even many conservative residents off guard.</media:description>
     </item>
   </channel>
 </rss>
