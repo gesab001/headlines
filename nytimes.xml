@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2021 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Sep 2021 08:42:25 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Sep 2021 08:38:37 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Sep 2021 08:52:19 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Sep 2021 08:44:59 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -159,7 +159,10 @@
       <atom:link href="https://www.nytimes.com/2021/09/19/us/brian-laundrie-gabrielle-petito-fiance.html" rel="standout"></atom:link>
       <description>Mr. Laundrie, who is missing, was the last known person to have been with Ms. Petito before she went missing, according to the authorities.</description>
       <dc:creator>Eduardo Medina</dc:creator>
-      <pubDate>Mon, 20 Sep 2021 02:22:14 +0000</pubDate>
+      <pubDate>Mon, 20 Sep 2021 08:44:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Laundrie, Brian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petito, Gabrielle</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/19/us/19vanlife-briefing-brian-laundrie/19vanlife-briefing-brian-laundrie-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse, via Moab City Police Department/Afp Via Getty Images</media:credit>
       <media:description>A still image from police body camera footage recorded on Aug. 12, released by the Moab City Police Department in Utah, shows Brian Laundrie speaking with police when they responded to an altercation between Mr. Laundrie and his fiancée, Gabrielle Petito.</media:description>
@@ -171,7 +174,7 @@
       <atom:link href="https://www.nytimes.com/2021/09/19/us/who-is-gabrielle-petito.html" rel="standout"></atom:link>
       <description>Gabrielle Petito had worked as a pharmacy technician to save money for a crosscountry trip with her boyfriend.</description>
       <dc:creator>Ethan Hauser, Maria Cramer and Michael Levenson</dc:creator>
-      <pubDate>Mon, 20 Sep 2021 00:56:21 +0000</pubDate>
+      <pubDate>Mon, 20 Sep 2021 08:44:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petito, Gabrielle</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Laundrie, Brian</category>
@@ -204,7 +207,7 @@
       <atom:link href="https://www.nytimes.com/2021/09/19/us/gabby-petito-remains-found-wyoming.html" rel="standout"></atom:link>
       <description>Ms. Petito was last known to be driving toward the area with her fiancé as they embarked on a cross-country trip, according to her family.</description>
       <dc:creator>Eduardo Medina</dc:creator>
-      <pubDate>Mon, 20 Sep 2021 00:27:08 +0000</pubDate>
+      <pubDate>Mon, 20 Sep 2021 08:43:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grand Teton National Park (Wyo)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wyoming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petito, Gabrielle</category>
