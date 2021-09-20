@@ -10,6 +10,28 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/emmy-winners-kate-winslet-jason-sudeikis-celebrations</guid>
+      <link>https://www.foxnews.com/entertainment/emmy-winners-kate-winslet-jason-sudeikis-celebrations</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Kate-Winslet_Jason-Sudeikis_EmmysGetty.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Kate-Winslet_Jason-Sudeikis_EmmysGetty.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Kate-Winslet_Jason-Sudeikis_EmmysGetty.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1309b12a-b1d6-50cd-9ac0-c33c08db2963</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/emmys</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Emmy winners Kate Winslet, Jason Sudeikis’ celebrations will include getting 'drunk' and cast Zoom calls</title>
+      <description>The Emmys ended with a big bang after an evening in which television’s biggest shows and stars were highlighted in show-stopping fashion thanks to host Cedric the Entertainer.</description>
+                  <dc:creator>Julius Young</dc:creator>
+                         <pubDate>Mon, 20 Sep 2021 05:11:48 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Julius Young</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/us/cleveland-mayors-grandson-fatally-shot-report-says</guid>
       <link>https://www.foxnews.com/us/cleveland-mayors-grandson-fatally-shot-report-says</link>
                   <media:group>
@@ -88,12 +110,13 @@
                         <category domain="foxnews.com/metadata/prism.channel">fnc</category>
                         <category domain="foxnews.com/section-path">fnc/politics</category>
                   <category domain="foxnews.com/content-type">article</category>
-      <title>Senate parliamentarian deals blow to Dems' immigration push</title>
+      <title>White House shakes off immigration blow dealt by Senate parliamentarian</title>
       <description>Democrats can't use their $3.5 trillion package bolstering social and climate programs for their plan to give millions of immigrants a chance to become citizens, the Senate's parliamentarian said late Sunday, a crushing blow to what was the party's clearest pathway in years to attaining that long-sought goal.</description>
-                   <pubDate>Mon, 20 Sep 2021 03:55:42 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
+                  <dc:creator>Edmund DeMarche</dc:creator>
+                         <pubDate>Mon, 20 Sep 2021 03:55:42 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
+                            </item>
         <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/ravens-lamar-jackson-victory-chiefs-patrick-mahomes</guid>
       <link>https://www.foxnews.com/sports/ravens-lamar-jackson-victory-chiefs-patrick-mahomes</link>
@@ -212,27 +235,6 @@
                          <pubDate>Mon, 20 Sep 2021 03:09:35 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Nikolas Lanum</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/sports/alejandro-villanueva-comparing-tackle-army-experience-resurfaces</guid>
-      <link>https://www.foxnews.com/sports/alejandro-villanueva-comparing-tackle-army-experience-resurfaces</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Alejandro-Villanueva.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Alejandro-Villanueva.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Alejandro-Villanueva.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">03fc1cc1-2765-5659-a6cf-e029af3f55fc</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/baltimore-ravens</category>
-            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/sports</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Alejandro Villanueva's quote on comparing playing tackle to Army experience resurfaces during Ravens game</title>
-      <description>Baltimore Ravens offensive lineman Alejandro Villanueva has been through a lot on and off the field.</description>
-                  <dc:creator>Ryan Gaydos</dc:creator>
-                         <pubDate>Mon, 20 Sep 2021 03:05:49 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
                             </item>
       </channel>
 </rss>
