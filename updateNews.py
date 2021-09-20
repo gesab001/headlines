@@ -23,6 +23,11 @@ def updateAuto(interval):
         print("updating news")
         getAllCurrentNews()
         print("update successful")
+        now = datetime.now()
+        added_seconds = datetime.timedelta(0,interval)
+        new_datetime = now + added_seconds
+        nextUpdate = new_datetime.strftime("%A, %B %d %Y %r")
+        print("next update is " + nextUpdate)
         time.sleep(interval)
         
         
