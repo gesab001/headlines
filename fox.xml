@@ -10,6 +10,31 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/berrios-tops-old-team-blue-jays-increase-lead-beat-twins</guid>
+      <link>https://www.foxnews.com/sports/berrios-tops-old-team-blue-jays-increase-lead-beat-twins</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Jose-Berrios.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Jose-Berrios.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Jose-Berrios.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">90a8f654-0738-5d3f-b71e-9d729798d5ed</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/toronto-blue-jays</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/minnesota-twins</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/jose-berrios</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/george-springer</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/vladimir-guerrerojr</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/marcus-semien</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Berríos tops old team, Blue Jays increase lead, beat Twins</title>
+      <description>José Berríos pitched into the seventh inning to beat his former team, Bo Bichette homered in a five-run first inning and the Toronto Blue Jays increased their lead in the playoff race by beating the Minnesota Twins 5-3 Sunday.</description>
+                   <pubDate>Mon, 20 Sep 2021 01:38:49 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/sotos-454-foot-homer-helps-nationals-beat-rockies-3-0</guid>
       <link>https://www.foxnews.com/sports/sotos-454-foot-homer-helps-nationals-beat-rockies-3-0</link>
                   <media:group>
@@ -211,27 +236,6 @@
                          <pubDate>Mon, 20 Sep 2021 01:03:24 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Fox News</category>
                                     <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
-                            </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/us/pennsylvania-bus-crash-injures-dozens-of-passengers</guid>
-      <link>https://www.foxnews.com/us/pennsylvania-bus-crash-injures-dozens-of-passengers</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Pennsylvania-State-Trooper-2.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Pennsylvania-State-Trooper-2.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Pennsylvania-State-Trooper-2.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">5fd1f5a0-749d-5c57-b8e2-554a1e5e118d</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/pennsylvania</category>
-            <category domain="foxnews.com/taxonomy">fox-news/us/disasters</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/us</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Pennsylvania bus crash injures dozens of passengers</title>
-      <description>A bus crashed coming off an exit ramp on Interstate 81 in Pennsylvania Sunday afternoon, injuring dozens of passengers on board.</description>
-                  <dc:creator>Bradford Betz</dc:creator>
-                         <pubDate>Mon, 20 Sep 2021 01:01:08 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
-                                    <category domain="foxnews.com/metadata/dc.creator">Bradford Betz</category>
                             </item>
       </channel>
 </rss>
