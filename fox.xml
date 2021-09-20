@@ -10,6 +10,30 @@
     	<link>http://www.foxnews.com/</link>
     </image>
             <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/rita-wilson-rapped-emmys</guid>
+      <link>https://www.foxnews.com/entertainment/rita-wilson-rapped-emmys</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Rita-Wilson-Emmys-2021.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Rita-Wilson-Emmys-2021.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Rita-Wilson-Emmys-2021.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ad332471-3898-5ed9-bb1a-ca9dd8101dac</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/emmys</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/viral</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Rita Wilson rapped at the Emmys – and sends social media into a frenzy</title>
+      <description>The actress sent the internet into a frenzy when she joined host Cedric the Entertainer, LL Cool J, Tracee Ellis Ross and "Ted Lasso" star Brendan Hunt in a Biz Markie tribute. The stars did a twist on the late rapper’s "Just a Friend."</description>
+                  <dc:creator>Julius Young</dc:creator>
+                         <pubDate>Mon, 20 Sep 2021 01:59:16 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Julius Young</category>
+                            </item>
+        <item>
                   <guid isPermaLink="true">https://www.foxnews.com/sports/messi-looks-angry-at-being-replaced-icardi-gets-late-winner</guid>
       <link>https://www.foxnews.com/sports/messi-looks-angry-at-being-replaced-icardi-gets-late-winner</link>
                   <media:group>
@@ -202,31 +226,6 @@
       <description>Seeing West Ham win a penalty deep into stoppage time, and presented with an unexpected chance to equalize against Manchester United, David Moyes made a bold call.</description>
                    <pubDate>Mon, 20 Sep 2021 01:28:40 GMT</pubDate>
                         <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
-                              <category domain="foxnews.com/dateline" />
-                                  </item>
-        <item>
-                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/emmys-2021-elizabeth-olsen-dress-designed-mary-kate-ashley-olsen</guid>
-      <link>https://www.foxnews.com/entertainment/emmys-2021-elizabeth-olsen-dress-designed-mary-kate-ashley-olsen</link>
-                  <media:group>
-        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Elizabeth-Olsen.jpg" medium="image" isDefault="true" />
-        <media:content url="http://a57.foxnews.com60/60/Elizabeth-Olsen.jpg" medium="image" width="60" height="60" />
-      </media:group>
-      <media:thumbnail url="http://a57.foxnews.com60/60/Elizabeth-Olsen.jpg" width="60" height="60" />
-            <category domain="foxnews.com/metadata/dc.identifier">d9a7500f-c6d7-52d8-949c-938f09df5c22</category>
-                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/emmys</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/style</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/drama</category>
-            <category domain="foxnews.com/taxonomy">fox-news/topic/marvel</category>
-            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
-                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
-                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
-                  <category domain="foxnews.com/content-type">article</category>
-      <title>Elizabeth Olsen hits Emmys red carpet in dress designed by sisters Mary-Kate and Ashley Olsen</title>
-      <description>"WandaVision" star Elizabeth Olsen wore a gown designed by her sisters Mary-Kate and Ashley Olsen to the Emmys 2021.</description>
-                   <pubDate>Mon, 20 Sep 2021 01:16:10 GMT</pubDate>
-                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
                               <category domain="foxnews.com/dateline" />
                                   </item>
       </channel>
