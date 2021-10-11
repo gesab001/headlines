@@ -2,9 +2,6 @@ var CACHE_NAME = 'myapp-cache-v1';
 var urlsToCache = [
  'index.html',
  '*.png',
- '*.json',
- '*.xml',
- '*.txt'
  './style/*'
 ];
 

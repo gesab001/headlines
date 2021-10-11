@@ -49,6 +49,7 @@ def getAllCurrentNews():
        print(xmlString)
        with open(file_path, "wb") as f:
         f.write(xmlString.encode('utf-8'))
+       upload(file_path) 
       except:
         print("error on " + url)
     updateDate()
@@ -63,3 +64,5 @@ if len(sys.argv)>1:
  if option=="--auto":
    interval = int(sys.argv[2]) * 60
    updateAuto(interval)
+else:
+  getAllCurrentNews()

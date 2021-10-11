@@ -23,11 +23,13 @@ def upload(filename):
   print ('Uploading %s to %s' % (file_path, dest_path))
   with open(file_path, 'rb') as f:
      values = f.read() 
-     print(values)
-      
-     dbx.files_upload(values, dest_path, mode=dropbox.files.WriteMode(u'overwrite', None), autorename=False, client_modified=None, mute=True, strict_conflict=False)
+     #print(values)
+     try: 
+       dbx.files_upload(values, dest_path, mode=dropbox.files.WriteMode(u'overwrite', None), autorename=False, client_modified=None, mute=True, strict_conflict=False)
+       print("success")
      #response=requests.post("https://content.dropboxapi.com/2/files/upload", headers=parameters, data=values)
-     #print(response)
+     except Exception as err:
+       print(err)
 
 
 
