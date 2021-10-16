@@ -65,4 +65,5 @@ if len(sys.argv)>1:
    interval = int(sys.argv[2]) * 60
    updateAuto(interval)
 else:
-  getAllCurrentNews()
+   interval =  10 * 60 # minute * 60 seconds
+   updateAuto(interval)
