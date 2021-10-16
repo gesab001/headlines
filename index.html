@@ -190,8 +190,8 @@ function loadYoutubeLinks(xml){
 	  var youtubeid = getYoutubeID(link);
 	  var mp4filename = youtubeid + ".mp4";
 	  var embedurl = getEmbedURL(youtubeid);
-	  var urladdress = "./pl-youtube.html?filename="+mp4filename+"&embedurl="+embedurl;
-	  
+	  //var urladdress = "./pl-youtube.html?filename="+mp4filename+"&embedurl="+embedurl;
+	  var urladdress = "https://gesab001.github.io/holytube/watch/"+youtubeid+"/"+title;
       var downloadurl = "downloadyoutube.py?filename="+mp4filename+"&url="+embedurl; 	  
       if (windowlocation.includes("192")){	  
 	  
