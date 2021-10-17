@@ -1,7 +1,8 @@
 var CACHE_NAME = 'myapp-cache-v1';
 var urlsToCache = [
  '*.png',
- './style/*'
+ './style/*',
+ 'index.html'
 ];
 
 window.addEventListener('beforeinstallprompt', (event) => {
