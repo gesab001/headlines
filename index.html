@@ -145,6 +145,8 @@ function loadNewsFromDropbox(news){
   var dropboxtoken = "EeQL9hTvFSQAAAAAAAAAAaExBKMAKSKme_P--gT83PswjOO3azGirXzWPk14tYD_"
 
    var path = news+".xml";
+   console.log("path");
+   console.log(path);
   // test alert("path: " + path);
   // alert(dropboxtoken);
    var xhttp = new XMLHttpRequest();
@@ -153,7 +155,7 @@ function loadNewsFromDropbox(news){
        //syncwithLocalStorage(JSON.parse(this.responseText));
 
            //var doc = this.response;
-           console.log(this.response);
+           //console.log(this.response);
            displayFeeds(this);
 
      }
@@ -223,22 +225,35 @@ function displayFeeds(xml) {
  console.log("displayFeeds");
  //console.log(xml);
  var xmlDoc = xml.responseXML;
-
+ console.log(xmlDoc);
  //document.getElementById("test").innerHTML = xmlDoc;
 
     var items = xmlDoc.getElementsByTagName("item");
+    console.log('items');
+    console.log(items);
 	if (items.length<1){
-       loadYoutubeLinks(xml);
+	    loadYoutubeLinks(xml);
 	}else{
 		var text = "";
-		var xmlDoc = xml.responseXML;
-		var items = xmlDoc.getElementsByTagName('item');
 		for(var x=0; x<items.length;x++){
 		  try{
 			var item = items[x];
-			var title = item.getElementsByTagName('title')[0].childNodes[0];
-			var description = item.getElementsByTagName('description')[0].childNodes[0];
+			var title = item.getElementsByTagName('title')[0].childNodes[0].nodeValue;
+                        console.log("title");
+                        console.log(title);
+                        console.log("item");
+		        console.log(item);
+                        var description = "";
+                        try {
+			      description = item.getElementsByTagName('description')[0].childNodes[0].nodeValue;
+                              console.log("description");
+                              console.log(description);
+                        }catch{}
+                        
 			var url = item.getElementsByTagName('link')[0].childNodes[0].nodeValue;
+   console.log("url");
+   console.log(url);
+
 			var link = url;
 			if (navigator.userAgent.includes('Edg')) {
 			  // the user is running Safari
@@ -251,7 +266,8 @@ function displayFeeds(xml) {
 				link =  "read:\/\/"+protocol.replace(":", "") + "_" + hostname + "\/?url="+domain ;
 			}
 
-			text += "<h3><a target='_blank' href='"+link+"'>"+title.nodeValue +"</a></h3>"+ description.nodeValue;
+			text += "<h3><a target='_blank' href='"+link+"'>"+title +"</a></h3>"+ description;
+                        
 
 		  }catch{}
 		}

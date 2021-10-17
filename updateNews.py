@@ -44,11 +44,13 @@ def getAllCurrentNews():
       try:
        url= rss[news]
        file_path = news + ".xml"
-       res = requests.get(url)
-       xmlString = res.text
-       print(xmlString)
-       with open(file_path, "wb") as f:
-        f.write(xmlString.encode('utf-8'))
+       command = "curl " + url + " -o " + file_path 
+       subprocess.call(command, shell=True) 
+       #res = requests.get(url)
+       #xmlString = res.text
+       #print(xmlString)
+       #with open(file_path, "wb") as f:
+       # f.write(xmlString.encode('utf-8'))
        upload(file_path) 
       except:
         print("error on " + url)
