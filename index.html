@@ -151,17 +151,18 @@ function loadNewsFromDropbox(news){
    xhttp.onreadystatechange = function() {
      if (this.readyState == 4 && this.status == 200){
        //syncwithLocalStorage(JSON.parse(this.responseText));
+
+           //var doc = this.response;
+           console.log(this.response);
            displayFeeds(this);
-       
 
-     }else{
-	    //alert(this.responseText);
-		if (this.responseText.includes("Invalid authorization value") || this.responseText.includes("access token is malformed")){
-		  alert("wrong token");
-
-		}
-	 }
+     }
     };
+	// If specified, responseType must be empty string or "document"
+	xhttp.responseType = 'document';
+
+	// Force the response to be parsed as XML
+	xhttp.overrideMimeType('text/xml');
    xhttp.open("POST", "https://content.dropboxapi.com/2/files/download", true);
    xhttp.setRequestHeader("Authorization", "Bearer " +dropboxtoken);
    xhttp.setRequestHeader("Dropbox-API-Arg", "{\"path\": \"/"+path+"\"}");
@@ -219,7 +220,10 @@ function downloadvideo(url){
 }
 
 function displayFeeds(xml) {
+ console.log("displayFeeds");
+ //console.log(xml);
  var xmlDoc = xml.responseXML;
+
  //document.getElementById("test").innerHTML = xmlDoc;
 
     var items = xmlDoc.getElementsByTagName("item");
