@@ -1,8 +1,15 @@
 
 <!DOCTYPE html>
 <html>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--
+  <meta name="viewport" content="width=device-width, initial-scale=1.0,  maximum-scale=1.0, user-scalable=no">
+
+  <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/gesab001/assets/master/images/app-icons/headlines/icon-192x192.png">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel="apple-touch-startup-image" href="https://raw.githubusercontent.com/gesab001/assets/master/images/app-icons/headlines/icon-192x192.png">
+<meta name="apple-mobile-web-app-title" content="Headlines">
+
 <meta http-equiv='cache-control' content='no-cache'> 
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'> 
@@ -41,7 +48,7 @@
     });
     }
 </script>
--->
+
 <body>
 
 <div id="admin"> 
@@ -145,23 +152,26 @@ function loadNewsFromDropbox(news){
   var dropboxtoken = "EeQL9hTvFSQAAAAAAAAAAaExBKMAKSKme_P--gT83PswjOO3azGirXzWPk14tYD_"
 
    var path = news+".xml";
-  // alert("path: " + path);
+   console.log("path");
+   console.log(path);
+  // test alert("path: " + path);
   // alert(dropboxtoken);
    var xhttp = new XMLHttpRequest();
    xhttp.onreadystatechange = function() {
      if (this.readyState == 4 && this.status == 200){
        //syncwithLocalStorage(JSON.parse(this.responseText));
+
+           //var doc = this.response;
+           //console.log(this.response);
            displayFeeds(this);
-       
 
-     }else{
-	    //alert(this.responseText);
-		if (this.responseText.includes("Invalid authorization value") || this.responseText.includes("access token is malformed")){
-		  alert("wrong token");
-
-		}
-	 }
+     }
     };
+	// If specified, responseType must be empty string or "document"
+	xhttp.responseType = 'document';
+
+	// Force the response to be parsed as XML
+	xhttp.overrideMimeType('text/xml');
    xhttp.open("POST", "https://content.dropboxapi.com/2/files/download", true);
    xhttp.setRequestHeader("Authorization", "Bearer " +dropboxtoken);
    xhttp.setRequestHeader("Dropbox-API-Arg", "{\"path\": \"/"+path+"\"}");
@@ -219,22 +229,38 @@ function downloadvideo(url){
 }
 
 function displayFeeds(xml) {
+ console.log("displayFeeds");
+ //console.log(xml);
  var xmlDoc = xml.responseXML;
+ console.log(xmlDoc);
  //document.getElementById("test").innerHTML = xmlDoc;
 
     var items = xmlDoc.getElementsByTagName("item");
+    console.log('items');
+    console.log(items);
 	if (items.length<1){
-       loadYoutubeLinks(xml);
+	    loadYoutubeLinks(xml);
 	}else{
 		var text = "";
-		var xmlDoc = xml.responseXML;
-		var items = xmlDoc.getElementsByTagName('item');
 		for(var x=0; x<items.length;x++){
 		  try{
 			var item = items[x];
-			var title = item.getElementsByTagName('title')[0].childNodes[0];
-			var description = item.getElementsByTagName('description')[0].childNodes[0];
+			var title = item.getElementsByTagName('title')[0].childNodes[0].nodeValue;
+                        console.log("title");
+                        console.log(title);
+                        console.log("item");
+		        console.log(item);
+                        var description = "";
+                        try {
+			      description = item.getElementsByTagName('description')[0].childNodes[0].nodeValue;
+                              console.log("description");
+                              console.log(description);
+                        }catch{}
+                        
 			var url = item.getElementsByTagName('link')[0].childNodes[0].nodeValue;
+   console.log("url");
+   console.log(url);
+
 			var link = url;
 			if (navigator.userAgent.includes('Edg')) {
 			  // the user is running Safari
@@ -247,7 +273,8 @@ function displayFeeds(xml) {
 				link =  "read:\/\/"+protocol.replace(":", "") + "_" + hostname + "\/?url="+domain ;
 			}
 
-			text += "<h3><a target='_blank' href='"+link+"'>"+title.nodeValue +"</a></h3>"+ description.nodeValue;
+			text += "<h3><a target='_blank' href='"+link+"'>"+title +"</a></h3>"+ description;
+                        
 
 		  }catch{}
 		}
